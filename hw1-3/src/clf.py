@@ -112,7 +112,7 @@ def get_negtive(train_adj, val_adj, length):
 
 # 	return train_x
 
-def idx2vec(train_x_idx, texts_tfidf, graph, doc_embs, timesNone):
+def idx2vec(train_x_idx, texts_tfidf, graph, doc_embs, times = None):
 	train_x = []
 
 	for s, t in train_x_idx:
