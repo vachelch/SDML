@@ -1,0 +1,24 @@
+<date>
+Fri, 03 Mar 95 20:14:28 BCN
+</date>
+
+<title>
+Heat-kernel coefficients of the Laplace operator on the D-dimensional
+  ball
+</title>
+
+<abstract>
+We present a very quick and powerful method for the calculation of heat-kernel
+coefficients. It makes use of rather common ideas, as integral representations
+of the spectral sum, Mellin transforms, non-trivial commutation of series and
+integrals and skilful analytic continuation of zeta functions on the complex
+plane. We apply our method to the case of the heat-kernel expansion of the
+Laplace operator on a $D$-dimensional ball with either Dirichlet, Neumann or,
+in general, Robin boundary conditions. The final formulas are quite simple.
+Using this case as an example, we illustrate in detail our scheme ---which
+serves for the calculation of an (in principle) arbitrary number of heat-kernel
+coefficients in any situation when the basis functions are known. We provide a
+complete list of new results for the coefficients $B_3,...,B_{10}$,
+corresponding to the $D$-dimensional ball with all the mentioned boundary
+conditions and $D=3,4,5$.
+</abstract>

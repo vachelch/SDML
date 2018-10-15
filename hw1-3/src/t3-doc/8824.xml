@@ -1,0 +1,33 @@
+<date>
+Tue, 21 Mar 2000 22:49:13 GMT
+</date>
+
+<title>
+Magnetic Photon Splitting: the S-Matrix Formulation in the Landau
+  Representation
+</title>
+
+<abstract>
+  Calculations of reaction rates for the third-order QED process of photon
+splitting in strong magnetic fields traditionally have employed either the
+effective Lagrangian method or variants of Schwinger's proper-time technique.
+Recently, Mentzel, Berg and Wunner (1994) presented an alternative derivation
+via an S-matrix formulation in the Landau representation. Advantages of such a
+formulation include the ability to compute rates near pair resonances above
+pair threshold. This paper presents new developments of the Landau
+representation formalism as applied to photon splitting, providing significant
+advances beyond the work of Mentzel et al. by summing over the spin quantum
+numbers of the electron propagators, and analytically integrating over the
+component of momentum of the intermediate states that is parallel to field. The
+ensuing tractable expressions for the scattering amplitudes are satisfyingly
+compact, and of an appearance familiar to S-matrix theory applications. Such
+developments can facilitate numerical computations of splitting considerably
+both below and above pair threshold. Specializations to two regimes of interest
+are obtained, namely the limit of highly supercritical fields and the domain
+where photon energies are far inferior to that for the threshold of
+single-photon pair creation. In particular, for the first time the
+low-frequency amplitudes are simply expressed in terms of the Gamma function,
+its integral and its derivatives. In addition, the equivalence of the
+asymptotic forms in these two domains to extant results from effective
+Lagrangian/proper-time formulations is demonstrated.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Logarithmic Correlation Functions in Two Dimensional Turbulence
+</title>
+
+<abstract>
+  We consider the correlation functions of two-dimensional turbulence in the
+presence and absence of a three-dimensional perturbation, by means of conformal
+field theory. In the persence of three dimensional perturbation, we show that
+in the strong coupling limit of a small scale random force, there is some
+logarithmic factor in the correlation functions of velocity stream functions.
+We show that the logarithmic conformal field theory $c_{8,1}$ describes the 2D-
+turbulence both in the absence and the presence of the perturbation. We obtain
+the following energy spectrum $E(k) \sim k^{-5.125 } \ln(k )$ for perturbed 2D
+- turbulence and $E(k) \sim k^{-5 } \ln(k )$ for unperturbed turbulence. Recent
+numerical simulation and experimental results confirm our prediction.
+</abstract>

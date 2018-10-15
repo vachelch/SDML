@@ -1,0 +1,19 @@
+<title>
+Partial non-renormalisation of the stress-tensor four-point function in
+  N=4 SYM and AdS/CFT
+</title>
+
+<abstract>
+  We show that, although the correlator of four stress-tensor multiplets in N=4
+SYM is known to have radiative corrections, certain linear combinations of its
+components are protected from perturbative renormalisation and remain at their
+free-field values. This result is valid for weak as well as for strong coupling
+and for any gauge group. Our argument uses Intriligator's insertion formula,
+and includes a proof that the possible contact term contributions cannot change
+the form of the amplitudes. Combining this new non-renormalisation theorem with
+Maldacena's conjecture allows us to make a prediction for the structure of the
+corresponding correlator in AdS supergravity. This is verified by first
+considerably simplifying the strong coupling expression obtained by recent
+supergravity calculations, and then showing that it does indeed exhibit the
+expected structure.
+</abstract>

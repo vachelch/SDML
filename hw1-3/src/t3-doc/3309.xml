@@ -1,0 +1,26 @@
+<date>
+Tue, 17 Apr 2001 18:01:37 GMT
+</date>
+
+<title>
+On free energy of 2-d black hole in bosonic string theory
+</title>
+
+<abstract>
+  Trying to interpret recent matrix model results (hep-th/0101011) we discuss
+computation of classical free energy of exact dilatonic 2-d black hole from the
+effective action of string theory. The euclidean space-time action evaluated on
+the black hole background is divergent due to linear dilaton vacuum
+contribution, and its finite part depends on a subtraction procedure. The
+thermodynamic approach based on subtracting the vacuum contribution for fixed
+values of temperature and dilaton charge at the "wall" gives (as in the
+leading-order black hole case) S= M/T for the entropy and zero value for the
+free energy F. We suggest that in order to establish a correspondence with a
+non-vanishing matrix model result for F one may need an alternative
+reparametrization-invariant subtraction procedure using analogy with
+non-critical string theory (i.e. replacing the spatial coordinate by the
+dilaton field). The subtraction of the dilaton divergence then produces a
+finite value for the free energy. We also propose a microscopic estimate for
+the entropy and energy of the black hole based on the contribution of
+non-singlet states of the matrix model.
+</abstract>

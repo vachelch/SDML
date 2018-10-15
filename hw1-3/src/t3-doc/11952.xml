@@ -1,0 +1,28 @@
+<date>
+Tue, 11 May 1999 16:47:01 GMT
+</date>
+
+<title>
+Consistent nonlinear KK reduction of 11d supergravity on $AdS_7\times
+  S_4$ and self-duality in odd dimensions
+</title>
+
+<abstract>
+  We show that there exists a consistent truncation of 11 dimensional
+supergravity to the 'massless' fields of maximal (N=4) 7 dimensional gauged
+supergravity. We find the complete expressions for the nonlinear embedding of
+the 7 dimensional fields into the 11 dimensional fields, and check them by
+reproducing the d=7 susy transformation laws from the d=11 laws in various
+sectors. In particular we determine explicitly the matrix U which connects the
+Killing spinors to the gravitinos in the KK ansatz, and the dependence of the
+4-index field strength on the scalars. This is the first time a complete
+nonlinear KK reduction of the original d=11 supergravity on a nontrivial
+compact space has been explicitly given. We need a first order formulation for
+the 3 index tensor field $A_{\Lambda\Pi\Sigma}$ in d=11 to reproduce the 7
+dimensional result. The concept of 'self-duality in odd dimensions' is thus
+shown to originate from first order formalism in higher dimensions. For the
+AdS-CFT correspondence, our results imply that one can use 7d gauged
+supergravity (without further massive modes) to compute certain correlators in
+the d=6 (0,2) CFT at leading order in N. This eliminates an ambiguity in the
+formulation of the correspondence.
+</abstract>

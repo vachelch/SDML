@@ -1,0 +1,28 @@
+<date>
+Fri, 27 Sep 2002 03:04:29 GMT
+</date>
+
+<title>
+Lorentz-Invariant Non-Commutative QED
+</title>
+
+<abstract>
+  Lorentz-invariant non-commutative QED (NCQED) is constructed such that it
+should be a part of Lorentz-invariant non-commutative standard model (NCSM), a
+subject to be treated in later publications. Our NCSM is based on Connes'
+observation that the total fermion field in the standard model may be regarded
+as a bi-module over a flavor-color algebra. In this paper, it is shown that
+there exist two massless gauge fields in NCQED which are interchanged by $C'$
+transformation. Since $C'$ is reduced to the conventional charge conjugation
+$C$ in the commutative limit, the two gauge fields become identical to the
+photon field in the same limit, which couples to only four spinors with charges
+$\pm 2,\pm 1.$ Following Carlson-Carone-Zobin, our NCQED respects Lorentz
+invariance employing Doplicher-Fredenhagen-Roberts' algebra instead of the
+usual algebra with constant $\theta^{\mu\nu}$. In the new version
+$\theta^{\mu\nu}$ becomes an integration variable. We show using a simple NC
+scalar model that the $\theta$ integration gives an {\it invariant} damping
+factor instead of the oscillating one to the nonplanar self-energy diagram in
+the one-loop approximation. Seiberg-Witten map shows that the $\theta$
+expansion of NCQED generates exotic but well-motivated derivative interactions
+beyond QED with allowed charges being only $0, \pm 1, \pm 2$.
+</abstract>

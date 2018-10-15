@@ -1,0 +1,24 @@
+<date>
+Tue, 12 Sep 1995 15:45:02 +0200 (MEST)
+</date>
+
+<title>
+Massive spinning particle on anti-de Sitter space
+</title>
+
+<abstract>
+  To describe a massive particle with fixed, but arbitrary, spin on $d=4$
+anti-de Sitter space $M^4$, we propose the point-particle model with
+configuration space ${\cal M}^6 = M^{4}\times S^{2}$, where the sphere $S^2$
+corresponds to the spin degrees of freedom. The model possesses two gauge
+symmetries expressing strong conservation of the phase-space counterparts of
+the second- and fourth-order Casimir operators for $so(3,2)$. We prove that the
+requirement of energy to have a global positive minimum $E_o$ over the
+configuration space is equivalent to the relation $E_o > s$, $s$ being the
+particle's spin, what presents the classical counterpart of the quantum massive
+condition. States with the minimal energy are studied in detail. The model is
+shown to be exactly solvable. It can be straightforwardly generalized to
+describe a spinning particle on $d$-dimensional anti-de Sitter space $M^d$,
+with ${\cal M}^{2(d-1)} = M^d \times S^{(d-2)}$ the corresponding configuration
+space.
+</abstract>

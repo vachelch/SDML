@@ -1,0 +1,24 @@
+<date>
+Fri, 15 Jan 1999 14:00:09 GMT
+</date>
+
+<title>
+Computation of Lickorish's Three Manifold Invariants using Chern-Simons
+  Theory
+</title>
+
+<abstract>
+  It is well known that any three-manifold can be obtained by surgery on a
+framed link in $S^3$. Lickorish gave an elementary proof for the existence of
+the three-manifold invariants of Witten using a framed link description of the
+manifold and the formalisation of the bracket polynomial as the Temperley-Lieb
+Algebra. Kaul determined three-manifold invariants from link polynomials in
+SU(2) Chern-Simons theory. Lickorish's formula for the invariant involves
+computation of bracket polynomials of several cables of the link. We describe
+an easier way of obtaining the bracket polynomial of a cable using
+representation theory of composite braiding in SU(2) Chern-Simons theory. We
+prove that the cabling corresponds to taking tensor products of fundamental
+representations of SU(2). This enables us to verify that the two apparently
+distinct three-manifold invariants are equivalent for a specific relation of
+the polynomial variables.
+</abstract>

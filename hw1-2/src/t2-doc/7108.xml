@@ -1,0 +1,17 @@
+<title>
+Probing AdS/CFT correspondence via world-sheet methods and 2d gravity
+  like scaling arguments
+</title>
+
+<abstract>
+  We show how some features of the AdS/CFT correspondence for AdS_3 can easily
+be understood via standard world-sheet methods and 2d gravity like scaling
+arguments. To do this, we propose a stringy way for perturbing two-dimensional
+CFT's around their critical points. Our strategy is to start from a stringy
+(world-sheet) representation of 2d CFT in space-time. Next we perturb a
+world-sheet action by some marginal operators such that the space-time symmetry
+becomes finite dimensional. As a result, we get a massive FT in space-time with
+a scale provided by two-dimensional coupling constant. It turns out that there
+exists a perturbation that leads to string theory on AdS_3. In this case the
+scale is equivalently provided by the radial anti-de-Sitter coordinate.
+</abstract>

@@ -1,0 +1,13 @@
+<title>
+Gauge Fixing and BFV Quantization
+</title>
+
+<abstract>
+  Nonsingularity conditions are established for the BFV gauge-fixing fermion
+which are sufficient for it to lead to the correct path integral for a theory
+with constraints canonically quantized in the BFV approach. The conditions
+ensure that anticommutator of this fermion with the BRST charge regularises the
+path integral by regularising the trace over non-physical states in each ghost
+sector. The results are applied to the quantization of a system which has a
+Gribov problem, using a non-standard form of the gauge-fixing fermion.
+</abstract>

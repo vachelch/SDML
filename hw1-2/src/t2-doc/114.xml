@@ -1,0 +1,25 @@
+<title>
+Comparison of relativity theories with observer-independent scales of
+  both velocity and length/mass
+</title>
+
+<abstract>
+  There are now in the literature two proposals of relativity theories with
+observer-independent scales of both velocity and length/mass: one, which we
+here call "DSR1", proposed by Amelino-Camelia in gr-qc/0012051,hep-th/0012238
+and one, which we here call "DSR2", proposed by Magueijo and Smolin in
+hep-th/0112090. We argue that a key aspect of such theories are the kinematical
+conditions for particle production in collision processes. We derive these
+kinematical conditions for DSR2, which was originally formulated only in the
+one-particle sector. This result is then used to characterize the differences
+between the two proposals; in particular, we find that, while experiments such
+as AMS and GLAST can test some of the predictions of DSR1, the effects
+predicted by DSR2 are much weaker and none of them should be testable in the
+foreseeable future. We also show that if one interprets, as done in
+hep-th/0112090, the DSR2-boost parameter $v$ as the relative velocity between
+the observers connected by the boost one is then forced to give up the
+"Hamiltonian" relation $v_{particle} =dE/dp$ between the speed of a particle
+and its momentum. We argue that, adopting an accordingly modified
+interpretation of the DSR2-boost parameter $v$, one can maintain the relation
+$v_{particle} =dE/dp$ in DSR2.
+</abstract>

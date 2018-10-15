@@ -1,0 +1,17 @@
+<title>
+Quantization in the Presence of Gribov Ambiguities
+</title>
+
+<abstract>
+  The non-perturbative validity of covariant BRST-quantization of gauge
+theories on compact Euclidean space-time manifolds is reviewed.
+BRST-quantization is related to the construction of a Topological Quantum Field
+Theory (TQFT) of Witten type on the gauge group. The criterion for the
+non-perturbative validity of the quantization is that the partition function of
+the corresponding TQFT does not vanish and that its (equivariant) BRST-algebra
+is free of anomalies. I sketch the construction of a TQFT whose partition
+function is proportional to the generalized Euler-characteristic of the coset
+space $SU(n)_{gauge}/SU(n)_{global}$ with an associated equivariant
+BRST-algebra that manifestly preserves translational symmetry. Some
+non-perturbative consequences of this approach are discussed.
+</abstract>

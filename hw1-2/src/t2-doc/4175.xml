@@ -1,0 +1,15 @@
+<title>
+Jack superpolynomials, superpartition ordering and determinantal
+  formulas
+</title>
+
+<abstract>
+  We call superpartitions the indices of the eigenfunctions of the
+supersymmetric extension of the trigonometric Calogero-Moser-Sutherland model.
+We obtain an ordering on superpartitions from the explicit action of the
+model's Hamiltonian on monomial superfunctions. This allows to define Jack
+superpolynomials as the unique eigenfunctions of the model that decompose
+triangularly, with respect to this ordering, on the basis of monomial
+superfunctions. This further leads to a simple and explicit determinantal
+expression for the Jack superpolynomials.
+</abstract>

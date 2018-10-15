@@ -1,0 +1,19 @@
+<title>
+A Note on the Chiral Anomaly in the AdS/CFT Correspondence and 1/N^2
+  Correction
+</title>
+
+<abstract>
+  According to the AdS/CFT correspondence,the d=4, N=4 SU(N) SYM is dual to the
+Type IIB string theory compactified on AdS_5xS^5. A mechanism was proposed
+previously that the chiral anomaly of the gauge theory is accounted for to the
+leading order in N by the Chern-Simons action in the AdS_5 SUGRA. In this
+paper, we consider the SUGRA\string action at one loop and determine the
+quantum corrections to the Chern-Simons action. While gluon loops do not modify
+the coefficient of the Chern-Simons action, spinor loops shift the coefficient
+by an integer. We find that for finite N, the quantum corrections from the
+complete tower of Kaluza-Klein states reproduce exactly the desired shift N^2
+---> N^2- 1 of the Chern-Simons coefficient, suggesting that this coefficient
+does not receive corrections from the other states of the string theory. We
+discuss why this is plausible.
+</abstract>

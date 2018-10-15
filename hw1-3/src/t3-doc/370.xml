@@ -1,0 +1,23 @@
+<date>
+Fri, 18 Dec 1998 20:17:36 GMT
+</date>
+
+<title>
+Maximal Non-Abelian Gauges and Topology of Gauge Orbit Space
+</title>
+
+<abstract>
+  We introduce two maximal non-abelian gauge fixing conditions on the space of
+gauge orbits M for gauge theories over spaces with dimensions d < 3. The gauge
+fixings are complete in the sense that describe an open dense set M_0 of the
+space of gauge orbits M and select one and only one gauge field per gauge orbit
+in M_0. There are not Gribov copies or ambiguities in these gauges. M_0 is a
+contractible manifold with trivial topology. The set of gauge orbits which are
+not described by the gauge conditions M \ M_0 is the boundary of M_0 and
+encodes all non-trivial topological properties of the space of gauge orbits.
+The gauge fields configurations of this boundary M \ M_0 can be explicitly
+identified with non-abelian monopoles and they are shown to play a very
+relevant role in the non-perturbative behaviour of gauge theories in one, two
+and three space dimensions. It is conjectured that their role is also crucial
+for quark confinement in 3+1 dimensional gauge theories.
+</abstract>

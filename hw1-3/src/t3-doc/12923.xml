@@ -1,0 +1,25 @@
+<date>
+Fri, 15 Nov 1996 17:54:24 +0100
+</date>
+
+<title>
+Exact quantum S-matrices for solitons in simply-laced affine Toda field
+  theories
+</title>
+
+<abstract>
+  Exact solutions to the quantum S-matrices for solitons in simply-laced affine
+Toda field theories are obtained, except for certain factors of simple type
+which remain undetermined in some cases. These are found by postulating
+solutions which are consistent with the semi-classical limit, $\hbar\rightarrow
+0$, and the known time delays for a classical two soliton interaction. This is
+done by a `$q$-deformation' procedure, to move from the classical time delay to
+the exact S-matrix, by inserting a special function called the `regularised'
+quantum dilogarithm, which only holds when $|q|=1$. It is then checked that the
+solutions satisfy the crossing, unitarity and bootstrap constraints of S-matrix
+theory. These properties essentially follow from analogous properties satisfied
+by the classical time delay. Furthermore, the lowest mass breather S-matrices
+are computed by the bootstrap, and it is shown that these agree with the
+particle S-matrices known already in the affine Toda field theories, in all
+simply-laced cases.
+</abstract>

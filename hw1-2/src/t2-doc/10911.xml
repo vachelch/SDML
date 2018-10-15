@@ -1,0 +1,15 @@
+<title>
+Character Expansions for the Orthogonal and Symplectic Groups
+</title>
+
+<abstract>
+  Formulas for the expansion of arbitrary invariant group functions in terms of
+the characters for the Sp(2N), SO(2N+1), and SO(2N) groups are derived using a
+combinatorial method. The method is similar to one used by Balantekin to expand
+group functions over the characters of the U(N) group. All three expansions
+have been checked for all N by using them to calculate the known expansions of
+the generating function of the homogeneous symmetric functions. An expansion of
+the exponential of the traces of group elements, appearing in the finite-volume
+gauge field partition functions, is worked out for the orthogonal and
+symplectic groups.
+</abstract>

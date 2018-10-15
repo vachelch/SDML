@@ -1,0 +1,22 @@
+<date>
+Wed, 14 Dec 1994 14:38:18 -0500
+</date>
+
+<title>
+Bispectral KP Solutions and Linearization of Calogero-Moser Particle
+  Systems
+</title>
+
+<abstract>
+  A new construction using finite dimensional dual grassmannians is developed
+to study rational and soliton solutions of the KP hierarchy. In the rational
+case, properties of the tau function which are equivalent to bispectrality of
+the associated wave function are identified. In particular, it is shown that
+there exists a bound on the degree of all time variables in tau if and only if
+the wave function is rank one and bispectral. The action of the bispectral
+involution, beta, in the generic rational case is determined explicitly in
+terms of dual grassmannian parameters. Using the correspondence between
+rational solutions and particle systems, it is demonstrated that beta is a
+linearizing map of the Calogero-Moser particle system and is essentially the
+map sigma introduced by Airault, McKean and Moser in 1977.
+</abstract>

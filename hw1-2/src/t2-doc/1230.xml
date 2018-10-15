@@ -1,0 +1,17 @@
+<title>
+Physically inspired analysis of prime number constellations
+</title>
+
+<abstract>
+  We adopt a physically motivated empirical approach to the characterisation of
+the distributions of twin and triplet primes within the set of primes, rather
+than in the set of all natural numbers. Remarkably, the occurrences of twins or
+triplets in any finite sequence of primes are like fixed-probability random
+events. The respective probabilities are not constant, but instead depend on
+the length of the sequence in ways that we have been able to parameterise. For
+twins the ``decay constant'' decreases as the reciprocal of the logarithm of
+the length of the sequence, whereas for triplets the falloff is faster:
+decreasing as the square of the reciprocal of the logarithm of the number of
+primes. The manner of the decrease is consistent with the Hardy--Littlewood
+Conjectures, developed using purely number theoretic tools of analysis.
+</abstract>

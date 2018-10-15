@@ -1,0 +1,25 @@
+<title>
+Constructing Classical and Quantum Superconformal Algebras on the
+  Boundary of AdS_3
+</title>
+
+<abstract>
+  Motivated by recent progress on the correspondence between string theory on
+anti-de Sitter space and conformal field theory, we address the question of
+constructing space-time N extended superconformal algebras on the boundary of
+AdS_3. Based on a free field realization of an affine SL(2|N/2) current
+superalgebra residing on the world sheet, we construct explicitly the Virasoro
+generators and the N supercurrents. N is even. The resulting superconformal
+algebra has an affine SL(N/2) \otimes U(1) current algebra as an internal
+subalgebra. Though we do not complete the general superalgebra, we outline the
+underlying construction and present supporting evidence for its validity.
+Particular attention is paid to its BRST invariance. In the classical limit
+where the free field realization may be substituted by a differential operator
+realization, we discuss further classes of generators needed in the closure of
+the algebra. We find sets of half-integer spin fields, and for N>4 these
+include generators of negative weights. An interesting property of the
+construction is that for N>2 it treats the supercurrents in an asymmetric way.
+Thus, we are witnessing a new class of superconformal algebras not obtainable
+by conventional Hamiltonian reduction. The complete classical algebra is
+provided in the case N=4 and is of a new and asymmetric form.
+</abstract>

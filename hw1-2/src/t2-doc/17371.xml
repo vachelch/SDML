@@ -1,0 +1,21 @@
+<title>
+Spin Foam Models of Matter Coupled to Gravity
+</title>
+
+<abstract>
+  We construct a class of spin foam models describing matter coupled to
+gravity, such that the gravitational sector is described by the unitary
+irreducible representations of the appropriate symmetry group, while the matter
+sector is described by the finite-dimensional irreducible representations of
+that group. The corresponding spin foam amplitudes in the four-dimensional
+gravity case are expressed in terms of the spin network amplitudes for
+pentagrams with additional external and internal matter edges. We also give a
+quantum field theory formulation of the model, where the matter degrees of
+freedom are described by spin network fields carrying the indices from the
+appropriate group representation. In the non-topological Lorentzian gravity
+case, we argue that the matter representations should be appropriate SO(3) or
+SO(2) representations contained in a given Lorentz matter representation,
+depending on whether one wants to describe a massive or a massless matter
+field. The corresponding spin network amplitudes are given as multiple
+integrals of propagators which are matrix spherical functions.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Remarks on the Calculations of Charged Open String Amplitudes: the
+  1-loop Tadpole
+</title>
+
+<abstract>
+  In string theory, there are various physical situations where the world-sheet
+fields have a shifted moding. For instance, this is the case for the twisted
+closed string in Z_N orbifold or for the charged open string in a constant
+electro-magnetic field. Because of this feature, it is quite challenging to
+give explicit formulae describing the string interaction, even for the bosonic
+case. In this note, we focus on the case of the charged open bosonic string and
+construct the 1-loop tadpole which is an object generating all 1-point
+functions from the annulus in the presence of an external field. In the
+operator formalism, this represents one of the basic building blocks for the
+construction of a general loop amplitude.
+</abstract>

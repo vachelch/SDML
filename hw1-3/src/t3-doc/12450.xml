@@ -1,0 +1,23 @@
+<date>
+Thu, 7 Feb 2002 05:54:52 GMT
+</date>
+
+<title>
+Lattice Approach to Excited TBA Boundary Flows: Tricritical Ising Model
+</title>
+
+<abstract>
+  We show how a lattice approach can be used to derive Thermodynamic Bethe
+Ansatz (TBA) equations describing all excitations for boundary flows. The
+method is illustrated for a prototypical flow of the tricritical Ising model by
+considering the continuum scaling limit of the A4 lattice model with integrable
+boundaries. Fixing the bulk weights to their critical values, the integrable
+boundary weights admit two boundary fields $\xi$ and $\eta$ which play the role
+of the perturbing boundary fields $\phi_{1,3}$ and $\phi_{1,2}$ inducing the
+renormalization group flow between boundary fixed points. The excitations are
+completely classified in terms of (m,n) systems and quantum numbers but the
+string content changes by certain mechanisms along the flow. For our
+prototypical example, we identify these mechanisms and the induced map between
+the relevant finitized Virasoro characters. We also solve the boundary TBA
+equations numerically to determine the flows for the leading excitations.
+</abstract>

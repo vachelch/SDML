@@ -1,0 +1,27 @@
+<title>
+Stationary Strings and Principal Killing Triads in 2+1 Gravity
+</title>
+
+<abstract>
+  A new tool for the investigation of $2+1$ dimensional gravity is proposed. It
+is shown that in a stationary $2+1$ dimensional spacetime, the eigenvectors of
+the covariant derivative of the timelike Killing vector form a rigid structure,
+the {\it principal Killing triad}. Two of the triad vectors are null, and in
+many respects they play the role similar to the principal null directions in
+the algebraically special 4-D spacetimes. It is demonstrated that the principal
+Killing triad can be efficiently used for classification and study of
+stationary $2+1$ spacetimes.
+   One of the most interesting applications is a study of minimal surfaces in a
+stationary spacetime. A {\it principal Killing surface} is defined as a surface
+formed by Killing trajectories passing through a null ray, which is tangent to
+one of the null vectors of the principal Killing triad. We prove that a
+principal Killing surface is minimal if and only if the corresponding null
+vector is geodesic. Furthermore, we prove that if the $2+1$ dimensional
+spacetime contains a static limit, then the only regular stationary timelike
+minimal 2-surfaces that cross the static limit, are the minimal principal
+Killing surfaces.
+   A timelike minimal surface is a solution to the Nambu-Goto equations of
+motion and hence it describes a cosmic string configuration. A stationary
+string interacting with a $2+1$ dimensional rotating black hole is discussed in
+detail.
+</abstract>

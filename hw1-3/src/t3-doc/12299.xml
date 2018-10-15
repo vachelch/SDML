@@ -1,0 +1,29 @@
+<date>
+Thu, 20 Jun 96 13:55:13+050
+</date>
+
+<title>
+A Class of Quantum Integrable Models Associated with the Infra-red Limit
+  of Massive Chern-Simons Theory
+</title>
+
+<abstract>
+  We study the infra-red limit of non-abelian Chern-Simons gauge theory
+perturbed by a non-topological, albeit gauge invariant, mass term. It is shown
+that, in this limit, we may construct an infinite class of integrable quantum
+mechanical models which, for the case of SU(2) group, are labelled by the
+angular momentum eigenvalue. The first non-trivial example in this class is
+obtained for the triplet representation and it physically describes the gauge
+invariant coupling of a non-abelian Chern-Simons particle with a particle
+moving on $S^3$ - the SU(2) group manifold. In addition to this, the model has
+a fascinating resemblance to the Landau problem and may be regarded as a
+non-abelian and a non-linear generalisation of the same defined on the
+three-sphere with the uniform magnetic field replaced by an angular momentum
+field. We explicitly solve for some eigenstates of this model in a closed form
+in terms of some generalised orthogonal polynomials. In the process, we unravel
+some startling connections with Anderson's chain models which are important in
+the study of disordered systems in condensed matter physics. We also sketch a
+method which allows us, in principle, to find the energy eigenvalues
+corresponding to the above eigenstates of the theory if the Lyapunov exponents
+of the transfer matrix of the infinite chain model involved are known.
+</abstract>

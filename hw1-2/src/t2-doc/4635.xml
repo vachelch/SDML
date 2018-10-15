@@ -1,0 +1,21 @@
+<title>
+Temporal discretisation of the Skyrme Model
+</title>
+
+<abstract>
+  Soliton models are used in elementary particle physics and nuclear physics to
+model extended objects such as nucleons, using effective field theories derived
+from more fundamental theories such as QCD. Computer simulation requires some
+sort of discretisation procedure, a notable example being lattice gauge theory
+applied in the imaginary time formulation.
+  In this lecture we focus on simulation in real time and the problems which
+arise when invariants of the motion are monitored in a simulation.
+  Ad hoc discretisations invariably introduce drift in numerically computed
+invariants, due not only to numerical accuracy (which can be negligible), but
+with the fact that the discretisation may not necessarily imply conservation.
+We discuss an approach developed which gives principles for the discretisation
+of such systems and for the construction of exact discrete invariants of the
+motion. This approach is applied to the Skyrme model.
+  Talk at the International Workshop on Nuclear Theory, Rila, June 2001, to be
+published in the Proceedings.
+</abstract>

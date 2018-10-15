@@ -1,0 +1,20 @@
+<title>
+Finite Size Effects in the Anisotropic \lambda/4!(\phi^4_1 + \phi^4_2)_d
+  Model
+</title>
+
+<abstract>
+  We consider the $\frac{\lambda}{4!}(\phi^{4}_{1}+\phi^{4}_{2})$ model on a
+d-dimensional Euclidean space, where all but one of the coordinates are
+unbounded. Translation invariance along the bounded coordinate, z, which lies
+in the interval [0,L], is broken because of the boundary conditions (BC's)
+chosen for the hyperplanes z=0 and z=L. Two different possibilities for these
+BC's boundary conditions are considered: DD and NN, where D denotes Dirichlet
+and N Newmann, respectively. The renormalization procedure up to one-loop order
+is applied, obtaining two main results. The first is the fact that the
+renormalization program requires the introduction of counterterms which are
+surface interactions. The second one is that the tadpole graphs for DD and NN
+have the same z dependent part in modulus but with opposite signs. We
+investigate the relevance of this fact to the elimination of surface
+divergences.
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Thu, 1 Aug 1996 14:13:21 +0200 (NFT)
+</date>
+
+<title>
+Nonequilibrium dynamics: a renormalized computation scheme
+</title>
+
+<abstract>
+  We present a regularized and renormalized version of the one-loop nonlinear
+relaxation equations that determine the non-equilibrium time evolution of a
+classical (constant) field coupled to its quantum fluctuations. We obtain a
+computational method in which the evaluation of divergent fluctuation integrals
+and the evaluation of the exact finite parts are cleanly separated so as to
+allow for a wide freedom in the choice of regularization and renormalization
+schemes. We use dimensional regularization here. Within the same formalism we
+analyze also the regularization and renormalization of the energy-momentum
+tensor. The energy density serves to monitor the reliability of our numerical
+computation. The method is applied to the simple case of a scalar phi^4 theory;
+the results are similar to the ones found previously by other groups.
+</abstract>

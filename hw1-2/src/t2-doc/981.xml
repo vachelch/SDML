@@ -1,0 +1,18 @@
+<title>
+The generalized Lichnerowicz formula and analysis of Dirac operators
+</title>
+
+<abstract>
+  We study Dirac operators acting on sections of a Clifford module ${\cal E}$\
+over a Riemannian manifold $M$. We prove the intrinsic decomposition formula
+for their square, which is the generalisation of the well-known formula due to
+Lichnerowicz [L]. This formula enables us to distinguish Dirac operators of
+simple type. For each Dirac operator of this natural class the local
+Atiyah-Singer index theorem holds. Furthermore, if $M$\ is compact and
+${{\petit \rm dim}\;M=2n\ge 4}$, we derive an expression for the Wodzicki
+function $W_{\cal E}$, which is defined via the non-commutative residue on the
+space of all Dirac operators ${\cal D}({\cal E})$. We calculate this function
+for certain Dirac operators explicitly. From a physical point of view this
+provides a method to derive gravity, resp. combined gravity/Yang-Mills actions
+from the Dirac operators in question.
+</abstract>

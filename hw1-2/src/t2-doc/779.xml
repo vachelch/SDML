@@ -1,0 +1,17 @@
+<title>
+Transverse Ward-Takahashi Identity, Anomaly and Schwinger-Dyson Equation
+</title>
+
+<abstract>
+  Based on the path integral formalism, we rederive and extend the transverse
+Ward-Takahashi identities (which were first derived by Yasushi Takahashi) for
+the vector and the axial vector currents and simultaneously discuss the
+possible anomaly for them. Subsequently, we propose a new scheme for writing
+down and solving the Schwinger-Dyson equation in which the the transverse
+Ward-Takahashi identity together with the usual (longitudinal) Ward-Takahashi
+identity are applied to specify the fermion-boson vertex function. Especially,
+in two dimensional Abelian gauge theory, we show that this scheme leads to the
+exact and closed Schwinger-Dyson equation for the fermion propagator in the
+chiral limit (when the bare fermion mass is zero) and that the Schwinger-Dyson
+equation can be exactly solved.
+</abstract>

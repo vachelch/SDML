@@ -1,0 +1,17 @@
+<title>
+The ground state energy of a spinor field in the background of a finite
+  radius flux tube
+</title>
+
+<abstract>
+  We develop a formalism for the calculation of the ground state energy of a
+spinor field in the background of a cylindrically symmetric magnetic field. The
+energy is expressed in terms of the Jost function of the associated scattering
+problem. Uniform asymptotic expansions needed are obtained from the
+Lippmann-Schwinger equation. The general results derived are applied to the
+background of a finite radius flux tube with a homogeneous magnetic field
+inside and the ground state energy is calculated numerically as a function of
+the radius and the flux. It turns out to be negative, remaining smaller by a
+factor of $\alpha$ than the classical energy of the background except for very
+small values of the radius which are outside the range of applicability of QED.
+</abstract>

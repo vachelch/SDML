@@ -1,0 +1,21 @@
+<title>
+On the Chiral WZNW Phase Space, Exchange r-Matrices and Poisson-Lie
+  Groupoids
+</title>
+
+<abstract>
+  This is a review of recent work on the chiral extensions of the WZNW phase
+space describing both the extensions based on fields with generic monodromy as
+well as those using Bloch waves with diagonal monodromy. The symplectic form on
+the extended phase space is inverted in both cases and the chiral WZNW fields
+are found to satisfy quadratic Poisson bracket relations characterized by
+monodromy dependent exchange r-matrices. Explicit expressions for the exchange
+r-matrices in terms of the arbitrary monodromy dependent 2-form appearing in
+the chiral WZNW symplectic form are given. The exchange r-matrices in the
+general case are shown to satisfy a new dynamical generalization of the
+classical modified Yang-Baxter (YB) equation and Poisson-Lie (PL) groupoids are
+constructed that encode this equation analogously as PL groups encode the
+classical YB equation. For an arbitrary simple Lie group $G$, exchange
+r-matrices are exhibited that are in one-to-one correspondence with the
+possible PL structures on $G$ and admit them as PL symmetries.
+</abstract>

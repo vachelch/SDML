@@ -1,0 +1,28 @@
+<title>
+Relativistic wave functions and energies for nonzero angular momentum
+  states in light-front dynamics
+</title>
+
+<abstract>
+  Light-front dynamics (LFD) is a powerful approach to the theory of
+relativistic composite systems (hadrons in the quark models and relativistic
+nucleons in nuclei). Its explicitly covariant version has been recently applied
+with success to describe the new CEBAF/TJNAF data on the deuteron
+electromagnetic form factors. The solutions used in were however not obtained
+from solving exactly the LFD equations but by means of a perturbative
+calculation with respect to the non relativistic wave function. Since, a
+consequent effort has been made to obtain exact solutions of LFD equations. The
+first results concerning J=0 states in a scalar model have been published in
+nucl-th/9912050. The construction of $J \ne 0$ states in LFD is complicated by
+the two following facts. First, the generators of the spatial rotations contain
+interaction and are thus difficult to handle. Second, one is always forced to
+work in a truncated Fock space, and consequently, the Poincar\'e group
+commutation relations between the generators -- ensuring the correct properties
+of the state vector under rotation -- are in practice destroyed. In the
+standard approach, with the light-front plane defined as $t+z=0$, this
+violation of rotational invariance manifests by the fact that the energy
+depends on the angular momentum projection on $z$-axis.
+  We present here a method to construct $J\ne0$ states in the explicitly
+covariant formulation of LFD and show how it leads to a restoration of
+rotational invariance.
+</abstract>

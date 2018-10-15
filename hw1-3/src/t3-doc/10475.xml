@@ -1,0 +1,25 @@
+<date>
+Wed, 14 Apr 1999 12:58:55 GMT
+</date>
+
+<title>
+Symmetric boundary conditions in boundary critical phenomena
+</title>
+
+<abstract>
+  Conformally invariant boundary conditions for minimal models on a cylinder
+are classified by pairs of Lie algebras $(A,G)$ of ADE type. For each model, we
+consider the action of its (discrete) symmetry group on the boundary
+conditions. We find that the invariant ones correspond to the nodes in the
+product graph $A \otimes G$ that are fixed by some automorphism. We proceed to
+determine the charges of the fields in the various Hilbert spaces, but, in a
+general minimal model, many consistent solutions occur. In the unitary models
+$(A,A)$, we show that there is a unique solution with the property that the
+ground state in each sector of boundary conditions is invariant under the
+symmetry group. In contrast, a solution with this property does not exist in
+the unitary models of the series $(A,D)$ and $(A,E_6)$. A possible
+interpretation of this fact is that a certain (large) number of invariant
+boundary conditions have unphysical (negative) classical boundary Boltzmann
+weights. We give a tentative characterization of the problematic boundary
+conditions.
+</abstract>

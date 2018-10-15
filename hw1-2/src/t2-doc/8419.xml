@@ -1,0 +1,19 @@
+<title>
+Beta Functions of Orbifold Theories and the Hierarchy Problem
+</title>
+
+<abstract>
+  We examine a class of gauge theories obtained by projecting out certain
+fields from an N=4 supersymmetric SU(N) gauge theory. These theories are
+non-supersymmetric and in the large N limit are known to be conformal. Recently
+it was proposed that the hierarchy problem could be solved by embedding the
+standard model in a theory of this kind with finite N. In order to check this
+claim one must find the conformal points of the theory. To do this we calculate
+the one-loop beta functions for the Yukawa and quartic scalar couplings. We
+find that with the beta functions set to zero the one-loop quadratic
+divergences are not canceled at sub-leading order in N; thus the hierarchy
+between the weak scale and the Planck scale is not stabilized unless N is of
+the order 10^28 or larger. We also find that at sub-leading orders in N
+renormalization induces new interactions, which were not present in the
+original Lagrangian.
+</abstract>

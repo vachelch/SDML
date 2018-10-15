@@ -1,0 +1,24 @@
+<title>
+7D Bosonic Higher Spin Theory: Symmetry Algebra and Linearized
+  Constraints
+</title>
+
+<abstract>
+  We construct the minimal bosonic higher spin extension of the 7D AdS algebra
+SO(6,2), which we call hs(8*). The generators, which have spin s=1,3,5,..., are
+realized as monomials in Grassmann even spinor oscillators. Irreducibility, in
+the form of tracelessness, is achieved by modding out an infinite dimensional
+ideal containing the traces. In this a key role is played by the tree bilinear
+traces which form an SU(2)_K algebra. We show that gauging of hs(8*) yields a
+spectrum of physical fields with spin s=0,2,4,...which make up a UIR of hs(8*)
+isomorphic to the symmetric tensor product of two 6D scalar doubletons. The
+scalar doubleton is the unique SU(2)_K invariant 6D doubleton. The spin s\geq 2
+sector comes from an hs(8*)-valued one-form which also contains the auxiliary
+gauge fields required for writing the curvature constraints in covariant form.
+The physical spin s=0 field arises in a separate zero-form in a `quasi-adjoint'
+representation of hs(8*). This zero-form also contains the spin s\geq 2 Weyl
+tensors, i.e. the curvatures which are non-vanishing on-shell. We suggest that
+the hs(8*) gauge theory describes the minimal bosonic, massless truncation of M
+theory on AdS_7\times S^4 in an unbroken phase where the holographic dual is
+given by N free (2,0) tensor multiplets for large N.
+</abstract>

@@ -1,0 +1,23 @@
+<title>
+(Borel) convergence of the variationally improved mass expansion and the
+  O(N) Gross-Neveu model mass gap
+</title>
+
+<abstract>
+  We reconsider in some detail a construction allowing (Borel) convergence of
+an alternative perturbative expansion, for specific physical quantities of
+asymptotically free models. The usual perturbative expansions (with an explicit
+mass dependence) are transmuted into expansions in 1/F, where $F \sim 1/g(m)$
+for $m \gg \Lambda$ while $F \sim (m/\Lambda)^\alpha$ for $m \lsim \Lambda$,
+$\Lambda$ being the basic scale and $\alpha$ given by renormalization group
+coefficients. (Borel) convergence holds in a range of $F$ which corresponds to
+reach unambiguously the strong coupling infrared regime near $m\to 0$, which
+can define certain "non-perturbative" quantities, such as the mass gap, from a
+resummation of this alternative expansion. Convergence properties can be
+further improved, when combined with $\delta$ expansion (variationally improved
+perturbation) methods. We illustrate these results by re-evaluating, from
+purely perturbative informations, the O(N) Gross-Neveu model mass gap, known
+for arbitrary $N$ from exact S matrix results. Comparing different levels of
+approximations that can be defined within our framework, we find reasonable
+agreement with the exact result.
+</abstract>

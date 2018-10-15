@@ -1,0 +1,20 @@
+<title>
+Integrable and Conformal Boundary Conditions for sl(2) A-D-E Lattice
+  Models and Unitary Minimal Conformal Field Theories
+</title>
+
+<abstract>
+  Integrable boundary conditions are studied for critical A-D-E and general
+graph-based lattice models of statistical mechanics. In particular, using
+techniques associated with the Temperley-Lieb algebra and fusion, a set of
+boundary Boltzmann weights which satisfies the boundary Yang-Baxter equation is
+obtained for each boundary condition. When appropriately specialized, these
+boundary weights, each of which depends on three spins, decompose into more
+natural two-spin edge weights. The specialized boundary conditions for the
+A-D-E cases are naturally in one-to-one correspondence with the conformal
+boundary conditions of sl(2) unitary minimal conformal field theories.
+Supported by this and further evidence, we conclude that, in the continuum
+scaling limit, the integrable boundary conditions provide realizations of the
+complete set of conformal boundary conditions in the corresponding field
+theories.
+</abstract>

@@ -1,0 +1,13 @@
+<title>
+Errata for: Differential Equations for Sine-Gordon Correlation Functions
+  at the Free Fermion Point
+</title>
+
+<abstract>
+  We present some important corrections to our work which appeared in Nucl.
+Phys. B426 (1994) 534 (hep-th/9402144). Our previous results for the
+correlation functions $\langle e^{i\alpha \Phi(x)} e^{i\alpha' \Phi (0) }
+\rangle$ were only valid for $\alpha = \alpha'$, due to the fact that we didn't
+find the most general solution to the differential equations we derived. Here
+we present the solution corresponding to $\alpha \neq \alpha'$.
+</abstract>

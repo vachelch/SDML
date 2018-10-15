@@ -1,0 +1,26 @@
+<date>
+Wed, 5 Mar 1997 11:48:43 -0400 (AST)
+</date>
+
+<title>
+Yang-Mills Flow and Uniformization Theorems
+</title>
+
+<abstract>
+  We consider a parabolic-like systems of differential equations involving
+geometrical quantities to examine uniformization theorems for two- and
+three-dimensional closed orientable manifolds. We find that in the
+two-dimensional case there is a simple gauge theoretic flow for a connection
+built from a Riemannian structure, and that the convergence of the flow to the
+fixed points is consistent with the Poincare Uniformization Theorem. We
+construct a similar system for the three-dimensional case. Here the connection
+is built from a Riemannian geometry, an SO(3) connection and two other 1-form
+fields which take their values in the SO(3) algebra. The flat connections
+include the eight homogeneous geometries relevant to the three-dimensional
+uniformization theorem conjectured by W. Thurston. The fixed points of the flow
+include, besides the flat connections (and their local deformations), non-flat
+solutions of the Yang-Mills equations. These latter "instanton" configurations
+may be relevant to the fact that generic 3-manifolds do not admit one of the
+homogeneous geometries, but may be decomposed into "simple 3-manifolds" which
+do.
+</abstract>

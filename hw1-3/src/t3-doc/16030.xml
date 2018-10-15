@@ -1,0 +1,21 @@
+<date>
+Fri, 30 Aug 96 18:25:09 +0200
+</date>
+
+<title>
+Phase Structure of the O(n) Model on a Random Lattice for n>2
+</title>
+
+<abstract>
+  We show that coarse graining arguments invented for the analysis of
+multi-spin systems on a randomly triangulated surface apply also to the O(n)
+model on a random lattice. These arguments imply that if the model has a
+critical point with diverging string susceptibility, then either \g=+1/2 or
+there exists a dual critical point with negative string susceptibility
+exponent, \g', related to \g by \g=\g'/(\g'-1). Exploiting the exact solution
+of the O(n) model on a random lattice we show that both situations are realized
+for n>2 and that the possible dual pairs of string susceptibility exponents are
+given by (\g',\g)=(-1/m,1/(m+1)), m=2,3,.... We also show that at the critical
+points with positive string susceptibility exponent the average number of loops
+on the surface diverges while the average length of a single loop stays finite.
+</abstract>

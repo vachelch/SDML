@@ -1,0 +1,26 @@
+<title>
+Noncommutative perturbative quantum field theory: Wilson loop in
+  two-dimensional Yang-Mills, and unitarity from string theory
+</title>
+
+<abstract>
+  The results of our research on noncommutative perturbative quantum field
+theory and its relation to string theory are exposed with details. 1) We give
+an introduction to noncommutative quantum field theory and its derivation from
+open string theory in an antisymmetric background. 2) We perform a perturbative
+Wilson loop calculation for 2D NCYM. We compare the LCG results for the WML and
+the PV prescription. With WML the loop is well-defined and regular in the
+commutative limit. With PV the result is singular. This is intriguing: in the
+commutative theory their difference is related to topological excitations,
+moreover PV provides a point-like potential. 3) Commutative 2D YM exhibits an
+interplay between geometrical and U(N) gauge properties: in the exact
+expression of a Wilson loop with n windings a scaling intertwines n and N. In
+the NC case the interplay becomes tighter due to the merging of space-time and
+``internal'' symmetries. Surprisingly, in our up to O(g^6) (and beyond) crossed
+graphs calculations the scaling we mentioned occurs for large n, N and theta.
+4) We discuss the breakdown of perturbative unitarity of noncommutative
+electric-type QFT in the light of strings. We consider the analytic structure
+of string loop two-point functions suitably continuing them off-shell, and then
+study the Seiberg-Witten limit. In this way we pick up how the unphysical
+tachyonic branch cut appears in the NC field theory.
+</abstract>

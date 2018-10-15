@@ -1,0 +1,23 @@
+<date>
+Thu, 6 Feb 1997 18:39:42 +0100 (MET)
+</date>
+
+<title>
+Central functions and their physical implications
+</title>
+
+<abstract>
+  I define central functions c(g) and c'(g) in quantum field theory, useful to
+study the flow of the numbers of vector, spinor and scalar degrees of freedom
+from the UV limit to the IR limit and basic ingredients for a description of
+quantum field theory as an interpolating theory between pairs of 4D conformal
+field theories. The key importance of the correlator of four stress-energy
+tensors is outlined in this respect. Then I focus the analysis on the
+behaviours of the central functions in QCD, computing their slopes in the UV
+critical point. To two-loops, c(g) and c'(g) point towards the expected IR
+directions. As a possible physical application, I argue that a closer study of
+the central functions might allow us to lower the upper bound on the number of
+generations to the observed value. Candidate all-order expressions for the
+central functions are compared with the predictions of electric-magnetic
+duality.
+</abstract>

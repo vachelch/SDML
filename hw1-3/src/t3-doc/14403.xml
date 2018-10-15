@@ -1,0 +1,27 @@
+<date>
+Wed, 21 May 1997 15:45:34 +0200
+</date>
+
+<title>
+Variational Mass Perturbation Theory for Light-Front Bound-State
+  Equations
+</title>
+
+<abstract>
+  We investigate the mesonic light-front bound-state equations of the 't Hooft
+and Schwinger model in the two-particle, i.e. valence sector, for small fermion
+mass. We perform a high precision determination of the mass and light-cone wave
+function of the lowest lying meson by combining fermion mass perturbation
+theory with a variational approach. All calculations are done entirely in the
+fermionic representation without using any bosonization scheme. In a
+step-by-step procedure we enlarge the space of variational parameters. For the
+first two steps, the results are obtained analytically. Beyond that we use
+computer algebraic and numerical methods. We achieve good convergence so that
+the calculation of the meson mass squared can be extended to third order in the
+fermion mass. Within the numerical treatment we include higher Fock states up
+to six particles. Our results are consistent with all previous numerical
+investigations, in particular lattice calculations. For the massive Schwinger
+model, we find a small discrepancy (less than 2 percent) in comparison with
+known bosonization results. Possible resolutions of this discrepancy are
+discussed.
+</abstract>

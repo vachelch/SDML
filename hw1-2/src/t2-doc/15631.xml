@@ -1,0 +1,26 @@
+<title>
+Cohomogeneity One Manifolds of Spin(7) and G(2) Holonomy
+</title>
+
+<abstract>
+  In this paper, we look for metrics of cohomogeneity one in D=8 and D=7
+dimensions with Spin(7) and G_2 holonomy respectively. In D=8, we first
+consider the case of principal orbits that are S^7, viewed as an S^3 bundle
+over S^4 with triaxial squashing of the S^3 fibres. This gives a more general
+system of first-order equations for Spin(7) holonomy than has been solved
+previously. Using numerical methods, we establish the existence of new
+non-singular asymptotically locally conical (ALC) Spin(7) metrics on line
+bundles over \CP^3, with a non-trivial parameter that characterises the
+homogeneous squashing of CP^3. We then consider the case where the principal
+orbits are the Aloff-Wallach spaces N(k,\ell)=SU(3)/U(1), where the integers k
+and \ell characterise the embedding of U(1). We find new ALC and AC metrics of
+Spin(7) holonomy, as solutions of the first-order equations that we obtained
+previously in hep-th/0102185. These include certain explicit ALC metrics for
+all N(k,\ell), and numerical and perturbative results for ALC families with AC
+limits. We then study D=7 metrics of $G_2$ holonomy, and find new explicit
+examples, which, however, are singular, where the principal orbits are the flag
+manifold SU(3)/(U(1)\times U(1)). We also obtain numerical results for new
+non-singular metrics with principal orbits that are S^3\times S^3. Additional
+topics include a detailed and explicit discussion of the Einstein metrics on
+N(k,\ell), and an explicit parameterisation of SU(3).
+</abstract>

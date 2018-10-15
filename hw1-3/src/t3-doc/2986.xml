@@ -1,0 +1,19 @@
+<date>
+Wed, 22 Nov 1995 21:25:33 +0930
+</date>
+
+<title>
+Index Theory, Gerbes, and Hamiltonian Quantization
+</title>
+
+<abstract>
+  We give an Atiyah-Patodi-Singer index theory construction of the bundle of
+fermionic Fock spaces parametrized by vector potentials in odd space dimensions
+and prove that this leads in a simple manner to the known Schwinger terms
+(Faddeev-Mickelsson cocycle) for the gauge group action. We relate the APS
+construction to the bundle gerbe approach discussed recently by Carey and
+Murray, including an explicit computation of the Dixmier-Douady class. An
+advantage of our method is that it can be applied whenever one has a form of
+the APS theorem at hand, as in the case of fermions in an external
+gravitational field.
+</abstract>

@@ -1,0 +1,24 @@
+<date>
+Thu, 30 Dec 1999 17:36:34 GMT
+</date>
+
+<title>
+On G/H geometry and its use in M-theory compactifications
+</title>
+
+<abstract>
+  The Riemannian geometry of coset spaces is reviewed, with emphasis on its
+applications to supergravity and M-theory compactifications. Formulae for the
+connection and curvature of rescaled coset manifolds are generalized to the
+case of nondiagonal Killing metrics.
+  The example of the N^{010} spaces is discussed in detail. These are a
+subclass of the coset manifolds N^{pqr}=G/H = SU(3) x U(1)/U(1) x U(1), the
+integers p,q,r characterizing the embedding of H in G. We study the realization
+of N^{010} as G/H=SU(3) x SU(2)/U(1) x SU(2) (with diagonal embedding of the
+SU(2) \in H into G). For a particular G-symmetric rescaling there exist three
+Killing spinors, implying N=3 supersymmetry in the AdS_4 \times N^{010}
+compactification of D=11 supergravity. This rescaled N^{010} space is of
+particular interest for the AdS_4/CFT_3 correspondence, and its SU(3) x SU(2)
+isometric realization is essential for the OSp(4|3) classification of the
+Kaluza-Klein modes.
+</abstract>

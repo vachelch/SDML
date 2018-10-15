@@ -1,0 +1,16 @@
+<title>
+A Theorem on the Power of Supersymmetry in Matrix Theory
+</title>
+
+<abstract>
+  For the so-called source-probe configuration in Matrix theory, we prove the
+following theorem concerning the power of supersymmetry (SUSY): Let $\delta$ be
+a quantum-corrected effective SUSY transformation operator expandable in powers
+of the coupling constant $g$ as $\delta = \sum_{n\ge 0} g^{2n} \delta^{(n)}$,
+where $\delta^{(0)}$ is of the tree-level form. Then, apart from an overall
+constant, the SUSY Ward identity $\delta \Gamma=0$ determines the off-shell
+effective action $\Gamma$ uniquely to arbitrary order of perturbation theory,
+provided that the $ SO(9)$ symmetry is preserved. Our proof depends only on the
+properties of the tree-level SUSY transformation laws and does not require the
+detailed knowledge of quantum corrections.
+</abstract>

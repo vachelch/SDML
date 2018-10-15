@@ -1,0 +1,24 @@
+<date>
+Fri, 15 Mar 1996 12:17:23 +0100
+</date>
+
+<title>
+Quasi-Exactly Solvable Potentials on the Line and Orthogonal Polynomials
+</title>
+
+<abstract>
+  In this paper we show that a quasi-exactly solvable (normalizable or
+periodic) one-dimensional Hamiltonian satisfying very mild conditions defines a
+family of weakly orthogonal polynomials which obey a three-term recursion
+relation. In particular, we prove that (normalizable) exactly-solvable
+one-dimensional systems are characterized by the fact that their associated
+polynomials satisfy a two-term recursion relation. We study the properties of
+the family of weakly orthogonal polynomials defined by an arbitrary
+one-dimensional quasi-exactly solvable Hamiltonian, showing in particular that
+its associated Stieltjes measure is supported on a finite set. From this we
+deduce that the corresponding moment problem is determined, and that the $k$-th
+moment grows like the $k$-th power of a constant as $k$ tends to infinity. We
+also show that the moments satisfy a constant coefficient linear difference
+equation, and that this property actually characterizes weakly orthogonal
+polynomial systems.
+</abstract>

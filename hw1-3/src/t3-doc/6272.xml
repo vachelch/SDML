@@ -1,0 +1,24 @@
+<date>
+Thu, 26 Apr 2001 23:42:28 GMT
+</date>
+
+<title>
+Fusion multiplicities as polytope volumes: N-point and higher-genus
+  su(2) fusion
+</title>
+
+<abstract>
+  We present the first polytope volume formulas for the multiplicities of
+affine fusion, the fusion in Wess-Zumino-Witten conformal field theories, for
+example. Thus, we characterise fusion multiplicities as discretised volumes of
+certain convex polytopes, and write them explicitly as multiple sums measuring
+those volumes. We focus on su(2), but discuss higher-point (N>3) and
+higher-genus fusion in a general way. The method follows that of our previous
+work on tensor product multiplicities, and so is based on the concepts of
+generalised Berenstein-Zelevinsky diagrams, and virtual couplings. As a
+by-product, we also determine necessary and sufficient conditions for
+non-vanishing higher-point fusion multiplicities. In the limit of large level,
+these inequalities reduce to very simple non-vanishing conditions for the
+corresponding tensor product multiplicities. Finally, we find the minimum level
+at which the higher-point fusion and tensor product multiplicities coincide.
+</abstract>

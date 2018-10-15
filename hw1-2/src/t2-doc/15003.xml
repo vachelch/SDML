@@ -1,0 +1,15 @@
+<title>
+Shear viscosity of strongly coupled N=4 supersymmetric Yang-Mills plasma
+</title>
+
+<abstract>
+  Using the anti-de Sitter/conformal field theory correspondence, we relate the
+shear viscosity \eta of the finite-temperature N=4 supersymmetric Yang-Mills
+theory in the large N, strong-coupling regime with the absorption cross section
+of low-energy gravitons by a near-extremal black three-brane. We show that in
+the limit of zero frequency this cross section coincides with the area of the
+horizon. From this result we find \eta=\pi/8 N^2T^3. We conjecture that for
+finite 't Hooft coupling (g_YM)^2N the shear viscosity is \eta=f((g_YM)^2N)
+N^2T^3, where f(x) is a monotonic function that decreases from
+O(x^{-2}\ln^{-1}(1/x)) at small x to \pi/8 when x\to\infty.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+How `Complex' is the Dirac Equation?
+</title>
+
+<abstract>
+  A representation of the Lorentz group is given in terms of 4 X 4 matrices
+defined over a simple non-division algebra. The transformation properties of
+the corresponding four component spinor are studied, and shown to be equivalent
+to the transformation properties of the usual complex Dirac spinor. As an
+application, we show that there exists an algebra of automorphisms of the
+complex Dirac spinor that leave the transformation properties of its eight real
+components invariant under any given Lorentz transformation. Interestingly, the
+representation of the Lorentz group presented here has a natural embedding in
+SO(3,3) instead of the conformal symmetry SO(2,4).
+</abstract>

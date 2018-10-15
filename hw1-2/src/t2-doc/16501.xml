@@ -1,0 +1,15 @@
+<title>
+Representations of The Coordinate Ring of $GL_{q}(3)$
+</title>
+
+<abstract>
+  It is shown that the finite dimensional ireducible representations of the
+quantum matrix algebra $ M_q(3) $ ( the coordinate ring of $ GL_q(3) $ ) exist
+only when q is a root of unity ( $ q^p = 1 $ ). The dimensions of these
+representations can only be one of the following values: $ p^3 , { p^3 \over 2
+} , { p^3 \over 4 } $ or $ { p^3 \over 8 } $ . The topology of the space of
+states ranges between two extremes , from a 3-dimensional torus $ S^1 \times
+S^1 \times S^1 $ ( which may be thought of as a generalization of the cyclic
+representation ) to a 3-dimensional cube $ [ 0 , 1 ]\times [ 0 , 1 ]\times
+[ 0 , 1 ] $ .
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+String hamiltonian from generalized YM gauge theory in two dimensions
+</title>
+
+<abstract>
+  Two dimensional SU(N) Yang-Mills theory is known to be equivalent to a string
+theory, as found by Gross in the large N limit, using the 1/N expansion. Later
+it was found that even a generalized YM theory leads to a string theory of the
+Gross type. In the standard YM theory case, Douglas and others found the string
+hamiltonian describing the propagation and the interactions of states made of
+strings winding on a cylindrical space-time. We address the problem of finding
+a similar hamiltonian for the generalized YM theory. As in the standard case we
+start by writing the theory as a theory of free fermions. Performing a
+bosonization, we express the hamiltonian in terms of the modes of a bosonic
+field, that are interpreted as in the standard case as creation and destruction
+operators for states of strings winding around the cylindrical space-time. The
+result is similar to the standard hamiltonian, but with new kinds of
+interaction vertices.
+</abstract>

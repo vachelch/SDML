@@ -1,0 +1,15 @@
+<title>
+Casimir Energies in the Light of Renormalizable Quantum Field Theories
+</title>
+
+<abstract>
+  Effective hadron models commonly require the computation of functional
+determinants. In the static case these are one--loop vacuum polarization
+energies, known as Casimir energies. In this talk I will present general
+methods to efficiently compute renormalized one--loop vacuum polarization
+energies and energy densities and apply these methods to construct soliton
+solutions within a variational approach. This calculational method is
+particularly useful to study singular limits that emerge in the discussion of
+the {\it classical} Casimir problem which is usually posed as the response of a
+fluctuating quantum field to externally imposed boundary conditions.
+</abstract>

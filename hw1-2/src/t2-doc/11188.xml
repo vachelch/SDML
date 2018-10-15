@@ -1,0 +1,16 @@
+<title>
+Partition Functions for the Rigid String and Membrane at Any Temperature
+</title>
+
+<abstract>
+  Exact expressions for the partition functions of the rigid string and
+membrane at any temperature are obtained in terms of hypergeometric functions.
+By using zeta function regularization methods, the results are analytically
+continued and written as asymptotic sums of Riemann-Hurwitz zeta functions,
+which provide very good numerical approximations with just a few first terms.
+This allows to obtain systematic corrections to the results of Polchinski et
+al., corresponding to the limits $T\rightarrow 0$ and $T\rightarrow \infty$ of
+the rigid string, and to analyze the intermediate range of temperatures. In
+particular, a way to obtain the Hagedorn temperature for the rigid membrane is
+thus found.
+</abstract>

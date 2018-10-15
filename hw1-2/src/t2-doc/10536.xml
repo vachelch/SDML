@@ -1,0 +1,23 @@
+<title>
+The Maldacena Conjecture and Rehren Duality
+</title>
+
+<abstract>
+  We analyse the implications of the fact that there are two claims for a dual
+to \N=4 superconformal SU(N) Yang-Mills theory (SCYM), the Maldacena conjecture
+and the theorem of Rehren. While the Maldacena dual is conjectured to be a
+non-perturbative string theory for large string coupling $g_s$ and small $N$,
+the Rehren dual is an ordinary quantum field theory on $AdS_5$ for all values
+of the parameters. We argue that as a result, if we accept the Maldacena
+conjecture, one of the following statements must be true: 1) SCYM does not
+satisfy the axioms of algebraic quantum field theory for finite $N$ because its
+observables do not obey the causal structure of conformal Minkowski space;. 2)
+String theory on $AdS_5 \times S^5$ is not a quantum theory of gravity in 10
+dimensions because it is dual to an ordinary quantum field theory on $AdS_5$
+whose causal structure remains fixed for all values of its couplings; or 3)
+there is no consistent quantisation of string theory on $AdS_5 \times S^5$ for
+finite string scale $l_s$ and $g_s$.
+  In evaluating the evidence for each of these conclusions we point out that
+many of the tests of the Maldacena conjecture can be explained by a weaker form
+of an $AdS/CFT$ correspondence.
+</abstract>

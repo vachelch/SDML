@@ -1,0 +1,14 @@
+<title>
+Gauged Nambu-Jona-Lasinio Model at O(1/N) with and without a
+  Chern-Simons Term
+</title>
+
+<abstract>
+  We solve the gauged Nambu--Jona-Lasinio model at leading order in the large
+$N$ expansion by computing the anomalous dimensions of all the fields of the
+model and other gauge independent critical exponents by examining the scaling
+behaviour of the Schwinger Dyson equation. We then restrict to the three
+dimensional model and include a Chern Simons term to discover the
+$\theta$-dependence of the same exponents where $\theta$ is the Chern Simons
+coupling.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+On the Entropy of a Quantum Field in the Rotating Black Holes
+</title>
+
+<abstract>
+  By using the brick wall method we calculate the free energy and the entropy
+of the scalar field in the rotating black holes. As one approaches the
+stationary limit surface rather than the event horizon in comoving frame, those
+become divergent. Only when the field is comoving with the black hole (i.e.
+$\Omega_0 = \Omega_H$) those become divergent at the event horizon. In the
+Hartle-Hawking state the leading terms of the entropy are $ A \frac{1}{h} + B
+\ln(h) + finite$, where $h$ is the cut-off in the radial coordnate near the
+horizon. In term of the proper distance cut-off $\epsilon$ it is written as $ S
+= N A_H/\epsilon^2$. The origin of the divergence is that the density of state
+on the stationary surface and beyond it diverges.
+</abstract>

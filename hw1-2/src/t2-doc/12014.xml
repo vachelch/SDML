@@ -1,0 +1,27 @@
+<title>
+Lattice effective potential of $(\lambda\Phi^4)_4$: nature of the phase
+  transition and bounds on the Higgs mass
+</title>
+
+<abstract>
+  We present a detailed discussion of Spontaneous Symmetry Breaking (SSB) in
+$(\lambda\Phi^4)_4$. In the usual approach, inspired by perturbation theory,
+one predicts a second-order phase transition, the Higgs mass $m_h$, related to
+the value of the renormalized 4-point coupling, gets smaller when increasing
+the ultraviolet cutoff and this leads to the generally quoted upper bounds
+$m_h<$700-900 GeV. On the other hand, by exploring the structure of the
+effective potential in those approximation consistent with `triviality', where
+the Higgs mass does not represent a measure of any observable interaction, SSB
+does not require an ultraviolet cutoff, the phase transition is first-order,
+such that the massless `Coleman-Weinberg' regime lies in the broken phase, and
+one gets only $m_h<$3 TeV from vacuum stability. To separate out the two
+alternatives, we present a precise lattice computation of the slope of the
+effective potential in the region of bare parameters indicated by the
+Luscher~\&~Weisz and Brahm's analysis of the critical line. Our lattice data
+strongly support the latter description of SSB. Indeed, our data cannot be
+reproduced in perturbation theory, and then they confirm the existence on the
+lattice of a remarkable phase of $(\lambda\Phi^4)_4$ where SSB is generated
+through ``dimensional transmutation'', and show no evidence for residual
+self-interaction effects of the shifted ``Higgs'' field
+$h(x)=\Phi(x)-\langle\Phi\rangle$, in agreement with ``triviality''.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+The Painleve Property, W Algebras and Toda Field Theories associated
+  with Hyperbolic Kac-Moody Algebras
+</title>
+
+<abstract>
+  We show that the Painlev\'{e} test is useful not only for probing
+(non-)integrability but also for finding the values of spins of conserved
+currents (W currents) in Toda field theories (TFTs). In the case of the TFTs
+based on simple Lie algebras the locations of resonances are shown to give
+precisely the spins of conserved W currents. We apply this test to TFTs based
+on strictly hyperbolic Kac-Moody algebras and show that there exist no
+resonances other than that at n=2, which corresponds to the energy-momentum
+tensor, indicating their non-integrability. We also check by direct calculation
+that there are no spin-3 nor -4 conserved currents for all the hyperbolic TFTs
+in agreement with the result of our Painlev\'{e} analysis.
+</abstract>

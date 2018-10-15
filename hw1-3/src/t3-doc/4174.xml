@@ -1,0 +1,19 @@
+<date>
+Fri, 16 Mar 2001 21:32:55 GMT
+</date>
+
+<title>
+A Simple Method to Make Asymptotic Series of Feynman Diagrams Converge
+</title>
+
+<abstract>
+  We show that for two non-trivial lambda phi ^4 problems (the anharmonic
+oscillator and the Landau-Ginzburg hierarchical model), improved perturbative
+series can be obtained by cutting off the large field contributions. The
+modified series converge to values exponentially close to the exact ones. For
+lambda larger than some critical value, the method outperforms Pade's
+approximants and Borel summations. The method can also be used for series which
+are not Borel summable such as the double-well potential series. We show that
+semi-classical methods can be used to calculate the modified Feynman rules,
+estimate the error and optimize the field cutoff.
+</abstract>

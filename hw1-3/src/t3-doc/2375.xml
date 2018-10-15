@@ -1,0 +1,22 @@
+<date>
+Fri, 27 Nov 1998 10:00:13 GMT
+</date>
+
+<title>
+A continuum limit of the chiral Jacobian in lattice gauge theory
+</title>
+
+<abstract>
+  We study the implications of the index theorem and chiral Jacobian in lattice
+gauge theory, which have been formulated by Hasenfratz, Laliena and Niedermayer
+and by L\"{u}scher, on the continuum formulation of the chiral Jacobian and
+anomaly. We take a continuum limit of the lattice Jacobian factor without
+referring to perturbative expansion and recover the result of continuum theory
+by using only the general properties of the lattice Dirac operator. This
+procedure is based on a set of well-defined rules and thus provides an
+alternative approach to the conventional analysis of the chiral Jacobian and
+related anomaly in continuum theory. By using an explicit form of the lattice
+Dirac operator introduced by Neuberger, which satisfies the Ginsparg-Wilson
+relation, we illustrate our calculation in some detail. We also briefly comment
+on the index theorem with a finite cut-off from the present viewpoint.
+</abstract>

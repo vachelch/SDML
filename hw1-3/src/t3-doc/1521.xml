@@ -1,0 +1,25 @@
+<date>
+Wed, 26 Nov 1997 11:57:35 GMT
+</date>
+
+<title>
+Differential Equations for Feynman Graph Amplitudes
+</title>
+
+<abstract>
+  It is by now well established that, by means of the integration by part
+identities, all the integrals occurring in the evaluation of a Feynman graph of
+given topology can be expressed in terms of a few independent master integrals.
+It is shown in this paper that the integration by part identities can be
+further used for obtaining a linear system of first order differential
+equations for the master integrals themselves. The equations can then be used
+for the numerical evaluation of the amplitudes as well as for investigating
+their analytic properties, such as the asymptotic and threshold behaviours and
+the corresponding expansions (and for analytic integration purposes, when
+possible). The new method is illustrated through its somewhat detailed
+application to the case of the one loop self-mass amplitude, by explicitly
+working out expansions and quadrature formulas, both in arbitrary continuous
+dimension n and in the n \to 4 limit. It is then shortly discussed which
+features of the new method are expected to work in the more general case of
+multi-point, multi-loop amplitudes.
+</abstract>

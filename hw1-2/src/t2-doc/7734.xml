@@ -1,0 +1,17 @@
+<title>
+Monopole Condensation and Antisymmetric Tensor Fields: Compact QED and
+  the Wilsonian RG Flow in Yang-Mills Theories
+</title>
+
+<abstract>
+  A field theoretic description of monopole condensation in strongly coupled
+gauge theories is given by actions involving antisymmetric tensors B_{\mu\nu}
+of rank 2. We rederive the corresponding action for 4d compact QED, summing
+explicitly over all possible monopole configurations. Its gauge symmetries and
+Ward identities are discussed. Then we consider the Wilsonian RGs for
+Yang-Mills theories in the presence of collective fields (again tensors
+B_{\mu\nu}) for the field strengths F_{\mu \nu} associated to the U(1)
+subgroups. We show that a ``vector-like'' Ward identity for the Wilsonian
+action involving B_{\mu\nu}, whose validity corresponds to monopole
+condensation, constitutes a fixed point of the Wilsonian RG flow.
+</abstract>

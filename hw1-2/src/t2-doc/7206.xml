@@ -1,0 +1,15 @@
+<title>
+New Approximations to the Fradkin representation for Green's functions
+</title>
+
+<abstract>
+  A new variant of the exact Fradkin representation of the Green's function
+$G_c(x,y|gU)$, defined for arbitrary external potential $U$, is presented.
+Although this new approach is very similar in spirit to that previously derived
+by Fried and Gabellini, for certain calculations this specific variant, with
+its prescribed approximations, is more readily utilizable. Application of the
+simplest of these forms is made to the $\lambda\Phi^4$ theory in four
+dimensions.
+  As an independent check of these approximate forms, an improved version of
+the Schwinger-DeWitt asymptotic expansion of parametrix function is derived.
+</abstract>

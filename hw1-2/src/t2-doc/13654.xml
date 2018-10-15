@@ -1,0 +1,18 @@
+<title>
+Backreaction on Moving Mirrors and Black Hole Radiation
+</title>
+
+<abstract>
+  We compute the effect of quantum mechanical backreaction on the spectrum of
+radiation in a dynamical moving mirror model, mimicking the effect of a
+gravitational collapse geometry. Our method is based on the use of a combined
+WKB and saddle-point approximation to implement energy conservation in the
+calculation of the Bogolyubov coefficients, in which we assume that the mirror
+particle has finite mass m. We compute the temperature of the produced
+radiation as a function of time and find that after a relatively short time,
+the temperature is reduced by a factor 1/2 relative to the standard result. We
+comment on the application of this method to two-dimensional dilaton gravity
+with a reflecting boundary, and conclude that the WKB approximation quickly
+breaks down due to the appearance of naked singularities and/or white hole
+space-times for the relevant WKB-trajectories.
+</abstract>

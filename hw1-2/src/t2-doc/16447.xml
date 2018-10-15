@@ -1,0 +1,25 @@
+<title>
+Quantum Corrections and Effective Action in Field Theory
+</title>
+
+<abstract>
+  In this Thesis we study quantum corrections to the classical dynamics for
+mean values in field theory. To that end we make use of the formalism of the
+closed time path effective action to get real and causal equations of motion.
+  We introduce a coarse grained effective action, which is useful in the study
+of phase transitions in field theory. We derive an exact renormalization group
+equation that describes how this action varies with the coarse graining scale.
+We develop different approximation methods to solve that equation, and we
+obtain non perturbative improvements to the effective potential for a self
+interacting scalar field theory. We also discuss the stochastic aspects
+contained in this action.
+  On the other hand, using the effective action, we find low energy and large
+distance quantum corrections for the gravitational potential, treating
+relativity as an effective low energy theory. We include the effect of scalar
+fields, fermions and gravitons. The inclusion of metric fluctuations causes
+Einstein semiclassical equations to depend on the gauge fixing parameters, and
+they are therefore non physical. We solve this problem identifying as a
+physical observable the trayectory of a test particle. We explicitly show that
+the geodesic equation for such particle is independent of the arbitrary
+parameters of the gauge fixing.
+</abstract>

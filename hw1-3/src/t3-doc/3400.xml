@@ -1,0 +1,16 @@
+<date>
+Fri, 18 Mar 94 19:30:14 +0900
+</date>
+
+<title>
+Completeness of Bethe's states for generalized $XXZ$ model
+</title>
+
+<abstract>
+  We study the Bethe ansatz equations for a generalized $XXZ$ model on a
+one-dimensional lattice. Assuming the string conjecture we propose an integer
+version for vacancy numbers and prove a combinatorial completeness of Bethe's
+states for a generalized $XXZ$ model. We find an exact form for inverse matrix
+related with vacancy numbers and compute its determinant. This inverse matrix
+has a tridiagonal form, generalizing the Cartan matrix of type $A$.
+</abstract>

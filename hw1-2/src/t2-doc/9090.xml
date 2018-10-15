@@ -1,0 +1,15 @@
+<title>
+Color-Coulomb Force Calculated from Lattice Coulomb Hamiltonian
+</title>
+
+<abstract>
+  The static color-Coulomb potential is calculated as the solution of a
+non-linear integral equation. This equation has been derived recently as a
+self-consistency condition which arises in the Coulomb Hamiltonian formulation
+of lattice gauge theory when the restriction to the interior of the Gribov
+horizon is implemented. The potential obtained is in qualitative agreement with
+expectations, being Coulombic with logarithmic corrections at short range and
+confining at long range. The values obtained for the string tension and
+$\Lambda_{\overline{MS}}$ are in semi-quantitative agreement with lattice Monte
+Carlo and phenomenological determinations.
+</abstract>

@@ -1,0 +1,19 @@
+<date>
+Tue, 20 Aug 1996 15:13:06 +0900
+</date>
+
+<title>
+Causality in Covariant String Field Theory
+</title>
+
+<abstract>
+  Causality is studied in the covariant formulation of free string field theory
+(SFT). We find that, though the string field in the covariant formulation is a
+functional of the ghost coordinates as well as the space-time coordinate and
+the latter contains the time-like oscillators with negative norm, the condition
+for the commutator of two open string fields to vanish is simply given by
+$\int_0^\pi d\sigma\left(\Delta X^\mu(\sigma)\right)^2 >0$, which is the same
+condition as in the light-cone gauge SFT. For closed SFT, the corresponding
+condition is given in a form which is manifestly invariant under the rigid
+shifts of the $\sigma$ parameters of the two string fields.
+</abstract>

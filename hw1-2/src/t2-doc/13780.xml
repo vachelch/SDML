@@ -1,0 +1,18 @@
+<title>
+A numerical study of the RG equation for the deformed $O(3)$ nonlinear
+  sigma model
+</title>
+
+<abstract>
+The Renormalization Group equation describing the evolution of the metric of
+the nonlinear sigma model poses some nice mathematical problems involving
+functional analysis, differential geometry and numerical analysis. In this
+article we briefly report some results obtained from the numerical study of the
+solutions in the case of a two dimensional target space (deformation of the
+$O(3)$ sigma model). In particular, our analysis shows that the so-called
+sausages define an attracting manifold in the $U(1)$-symmetric case, at
+one-loop level. Moreover, data from two-loop evolution are used to test the
+association put forward in Nucl. Phys., B406 (1993) 521 between the so-called
+$SSM_{\nu}$ field theory and a certain $U(1)$-symmetric, factorized scattering
+theory (FST).
+</abstract>

@@ -1,0 +1,23 @@
+<date>
+Wed, 21 Jul 1999 18:30:23 GMT
+</date>
+
+<title>
+Affine sl(2|1) and D(2|1;alpha) as Vertex Operator Extensions of Dual
+  Affine sl(2) Algebras
+</title>
+
+<abstract>
+  We discover a realisation of the affine Lie superalgebra sl(2|1) and of the
+exceptional affine superalgebra D(2|1;alpha) as vertex operator extensions of
+two affine sl(2) algebras with dual levels (and an auxiliary level 1 sl(2)
+algebra). The duality relation between the levels is (k+1)(k'+1)=1. We
+construct the representation of sl(2|1) at level k' on a sum of tensor products
+of sl(2) at level k, sl(2) at level k' and sl(2) at level 1 modules and
+decompose it into a direct sum over the sl(2|1) spectral flow orbit. This
+decomposition gives rise to character identities, which we also derive. The
+extension of the construction to the affine D(2|1;k') at level k is traced to
+properties of sl(2)+sl(2)+sl(2) embeddings into D(2|1;alpha) and their relation
+with the dual sl(2) pairs. Conversely, we show how the level k' sl(2)
+representations are constructed from level k sl(2|1) representations.
+</abstract>

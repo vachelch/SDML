@@ -1,0 +1,16 @@
+<title>
+Split Dimensional Regularization for the Coulomb Gauge
+</title>
+
+<abstract>
+  A new procedure for regularizing Feynman integrals in the noncovariant
+Coulomb gauge is proposed for Yang-Mills theory. The procedure is based on a
+variant of dimensional regularization, called split dimensional regularization,
+which leads to internally consistent, ambiguity-free integrals. It is
+demonstrated that split dimensional regularization yields a one-loop Yang-Mills
+self-energy that is nontransverse, but local. Despite the noncovariant nature
+of the Coulomb gauge, ghosts are necessary in order to satisfy the appropriate
+Ward/BRS identity. The computed Coulomb-gauge Feynman integrals are applicable
+to both Abelian and non-Abelian gauge models.
+  PACS: 11.15, 12.38.C
+</abstract>

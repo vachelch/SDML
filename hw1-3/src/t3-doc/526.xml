@@ -1,0 +1,19 @@
+<date>
+Wed, 13 Sep 2000 21:32:57 GMT
+</date>
+
+<title>
+On Exact Tachyon Potential in Open String Field Theory
+</title>
+
+<abstract>
+  In these notes we revisit the tachyon lagrangian in the open string field
+theory using background independent approach of Witten from 1992. We claim that
+the tree level lagrangian (up to second order in derivatives and modulo some
+class of field redefinitions) is given by $L = e^{-T} (\partial T)^2 +
+(1+T)e^{-T}$. Upon obvious change of variables this leads to the potential
+energy $-\phi^2 \log {\phi^2 \over e}$ with canonical kinetic term. This
+lagrangian may be also obtained from the effective tachyon lagrangian of the
+p-adic strings in the limit $p\to 1$. Applications to the problem of tachyon
+condensation are discussed.
+</abstract>

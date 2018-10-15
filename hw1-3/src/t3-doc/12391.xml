@@ -1,0 +1,29 @@
+<date>
+Mon, 8 Apr 1996 17:55:15 -0400
+</date>
+
+<title>
+Integrable Structure of Conformal Field Theory II. Q-operator and DDV
+  equation
+</title>
+
+<abstract>
+  This paper is a direct continuation of\ \BLZ\ where we begun the study of the
+integrable structures in Conformal Field Theory. We show here how to construct
+the operators ${\bf Q}_{\pm}(\lambda)$ which act in highest weight Virasoro
+module and commute for different values of the parameter $\lambda$. These
+operators appear to be the CFT analogs of the $Q$ - matrix of Baxter\ \Baxn, in
+particular they satisfy famous Baxter's ${\bf T}-{\bf Q}$ equation. We also
+show that under natural assumptions about analytic properties of the operators
+${\bf Q}(\lambda)$ as the functions of $\lambda$ the Baxter's relation allows
+one to derive the nonlinear integral equations of Destri-de Vega (DDV)\ \dVega\
+for the eigenvalues of the ${\bf Q}$-operators. We then use the DDV equation to
+obtain the asymptotic expansions of the ${\bf Q}$ - operators at large
+$\lambda$; it is remarkable that unlike the expansions of the ${\bf T}$
+operators of \ \BLZ, the asymptotic series for ${\bf Q}(\lambda)$ contains the
+``dual'' nonlocal Integrals of Motion along with the local ones. We also
+discuss an intriguing relation between the vacuum eigenvalues of the ${\bf Q}$
+- operators and the stationary transport properties in boundary sine-Gordon
+model. On this basis we propose a number of new exact results about finite
+voltage charge transport through the point contact in quantum Hall system.
+</abstract>

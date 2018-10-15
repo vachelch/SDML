@@ -1,0 +1,29 @@
+<date>
+Mon, 24 Jul 2000 23:31:20 GMT
+</date>
+
+<title>
+Quantum mechanics with non-unitary symmetries
+</title>
+
+<abstract>
+  This article shows that one can consistently incorporate nonunitary
+representations of at least one group into the ``ordinary'' nonrelativistic
+quantum mechanics. This group turns out to be Lorentz group thus giving us an
+alternative approach to QFT for combining the quantum mechanics and special
+theory of relativity which keeps the concept of wave function (belonging to
+some representation of Lorentz group) through the whole theory. Scalar product
+has been redefined to take into the account the nonunitarity of representations
+of Lorentz group. Understanding parity symmetry turns out to be the key
+ingredient throughout the process. Instead of trying to guess an equation or a
+set of equations for some wave functions or fields (or equivalently trying to
+guess a Lagrangian for the same), one derives them based only on the
+superposition principle and properties of wave functions under Lorentz
+transformations and parity. The resulting model has striking similarities with
+the standard quantum field theory and yet has no negative energy states, no
+zitterbewegung effects, symmetric energy momentum tensor and angular momentum
+density tensor for \emph{all} representations of Lorentz group (unifying the
+theoretical description of all particles), as well as clear physical
+interpretation. It also offers a possible interpretation why particles and
+antiparticles have opposite quantum numbers.
+</abstract>

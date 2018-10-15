@@ -1,0 +1,29 @@
+<title>
+Correlation functions of boundary field theory from bulk Green's
+  functions and phases in the boundary theory
+</title>
+
+<abstract>
+  In the context of the bulk-boundary correspondence we study the correlation
+functions arising on a boundary for different types of boundary conditions. The
+most general condition is the mixed one interpolating between the Neumann and
+Dirichlet conditions. We obtain the general expressions for the correlators on
+a boundary in terms of Green's function in the bulk for the Dirichlet, Neumann
+and mixed boundary conditions and establish the relations between the
+correlation functions. As an instructive example we explicitly obtain the
+boundary correlators corresponding to the mixed condition on a plane boundary
+$R^d$ of a domain in flat space $R^{d+1}$. The phases of the boundary theory
+with correlators of the Neumann and Dirichlet types are determined. The
+boundary correlation functions on sphere $S^d$ are calculated for the Dirichlet
+and Neumann conditions in two important cases: when sphere is a boundary of a
+domain in flat space $R^{d+1}$ and when it is a boundary at infinity of Anti-De
+Sitter space $AdS_{d+1}$. For massless in the bulk theory the Neumann
+correlator on the boundary of AdS space is shown to have universal logarithmic
+behavior in all AdS spaces. In the massive case it is found to be finite at the
+coinciding points. We argue that the Neumann correlator may have a dual
+two-dimensional description. The structure of the correlators obtained, their
+conformal nature and some recurrent relations are analyzed. We identify the
+Dirichlet and Neumann phases living on the boundary of AdS space and discuss
+their evolution when the location of the boundary changes from infinity to the
+center of the AdS space.
+</abstract>

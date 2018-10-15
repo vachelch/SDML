@@ -1,0 +1,20 @@
+<date>
+Fri, 19 Apr 1996 10:15:37 +0500
+</date>
+
+<title>
+Stationary Solitons of the Fifth Order KdV-type Equations and their
+  Stabilization
+</title>
+
+<abstract>
+  Exact stationary soliton solutions of the fifth order KdV type equation $$
+u_t +\alpha u^p u_x +\beta u_{3x}+\gamma u_{5x} = 0$$ are obtained for any p
+($>0$) in case $\alpha\beta>0$, $D\beta>0$, $\beta\gamma<0$ (where D is the
+soliton velocity), and it is shown that these solutions are unstable with
+respect to small perturbations in case $p\geq 5$. Various properties of these
+solutions are discussed. In particular, it is shown that for any p, these
+solitons are lower and narrower than the corresponding $\gamma = 0$ solitons.
+Finally, for p = 2 we obtain an exact stationary soliton solution even when
+$D,\alpha,\beta,\gamma$ are all $>0$ and discuss its various properties.
+</abstract>

@@ -1,0 +1,21 @@
+<title>
+Invariance of interaction terms in new representation of self-dual
+  electrodynamics
+</title>
+
+<abstract>
+  A new representation of Lagrangians of 4D nonlinear electrodynamics is
+considered. In this new formulation, in parallel with the standard Maxwell
+field strength F, an auxiliary bispinor (tensor) field V is introduced. The
+gauge field strength appears only in bilinear terms of the full Lagrangian,
+while the interaction Lagrangian E depends on the auxiliary fields, E = E(V).
+Two types of self-duality inherent in the nonlinear electrodynamics models
+admit a simple characterization in terms of the function E. The continuous
+SO(2) duality symmetry between nonlinear equations of motion and Bianchi
+identities amounts to requiring E to be a function of the SO(2) invariant
+quartic combination |V|^4. The discrete self-duality (or self-duality under
+Legendre transformation) amounts to a weaker condition E(V)= E(iV). This
+approach can be generalized to a system of n Abelian gauge fields exhibiting
+U(n) duality. The corresponding interaction Lagrangian should be U(n) invariant
+function of n bispinor auxiliary fields.
+</abstract>

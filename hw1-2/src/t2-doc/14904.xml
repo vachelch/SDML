@@ -1,0 +1,24 @@
+<title>
+Closed String Tachyons, AdS/CFT, and Large N QCD
+</title>
+
+<abstract>
+  We find that tachyonic orbifold examples of AdS/CFT have corresponding
+instabilities at small radius, and can decay to more generic gauge theories. We
+do this by computing a destabilizing Coleman-Weinberg effective potential for
+twisted operators of the corresponding quiver gauge theories, generalizing
+calculations of Tseytlin and Zarembo and interpreting them in terms of the
+large-N behavior of twisted-sector modes. The dynamically generated potential
+involves double-trace operators, which affect large-N correlators involving
+twisted fields but not those involving only untwisted fields, in line with
+large-N inheritance arguments. We point out a simple reason that no such small
+radius instability exists in gauge theories arising from freely acting
+orbifolds, which are tachyon-free at large radius. When an instability is
+present, twisted gauge theory operators with the quantum numbers of the
+large-radius tachyons aquire VEVs, leaving a gauge theory with fewer degrees of
+freedom in the infrared, analogous to but less extreme than ``decays to
+nothing'' studied in other systems with broken supersymmetry. In some cases one
+is left with pure glue QCD plus decoupled matter and U(1) factors in the IR,
+which we thus conjecture is described by the corresponding (possibly strongly
+coupled) endpoint of tachyon condensation in the M/String-theory dual.
+</abstract>

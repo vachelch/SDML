@@ -1,0 +1,18 @@
+<title>
+The resolution of field identification fixed points in diagonal coset
+  theories
+</title>
+
+<abstract>
+  The fixed point resolution problem is solved for diagonal coset theories. The
+primary fields into which the fixed points are resolved are described by
+submodules of the branching spaces, obtained as eigenspaces of the
+automorphisms that implement field identification. To compute the characters
+and the modular S-matrix we use `orbit Lie algebras' and `twining characters',
+which were introduced in a previous paper (hep-th/9506135). The characters of
+the primary fields are expressed in terms of branching functions of twining
+characters. This allows us to express the modular S-matrix through the
+S-matrices of the orbit Lie algebras associated to the identification group.
+Our results can be extended to the larger class of `generalized diagonal
+cosets'.
+</abstract>

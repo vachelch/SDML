@@ -1,0 +1,30 @@
+<date>
+Wed, 29 Nov 1995 15:17:16 -0700 (MST)
+</date>
+
+<title>
+Modular Covariance and the Algebraic PCT/Spin-Statistics Theorem
+</title>
+
+<abstract>
+  In the theory of nets of observable algebras, the modular operators
+associated with wedge regions are expected to have a natural geometric action,
+a generalization of the Bisognano-Wichmann condition for nets associated with
+Poincare-covariant fields. Here many possible such modular covariance
+conditions are discussed (in spacetime of at least three dimensions), including
+several conditions previously proposed and known to imply versions of the PCT
+and spin-statistics theorems. The logical relations between these conditions
+are explored: for example, it is shown that most of them are equivalent, and
+that all of them follow from appropriate commutation relations for the modular
+automorphisms alone. These results allow us to reduce the study of modular
+covariance to the case of systems describing non-interacting particles. Given
+finitely many Poincare-covariant non-interacting particles of any given mass,
+it is shown that modular covariance and wedge duality must hold, and the
+modular operators for wedge regions must have the Bisognano-Wichmann form, so
+that the usual free fields are the only possibility. For models describing
+interacting particles, it is shown that if they have a complete scattering
+interpretation in terms of such non-interacting particles, then again modular
+covariance and wedge duality must hold, and the modular operators for wedge
+regions must have the Bisognano-Wichmann form, so that wedge duality and the
+PCT and spin-statistics theorems must hold.
+</abstract>

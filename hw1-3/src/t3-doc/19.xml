@@ -1,0 +1,21 @@
+<date>
+Thu, 26 Dec 2002 17:31:18 GMT
+</date>
+
+<title>
+Matrix Supermultiplet of N=2, D=4 Supersymmetry and Supersymmetric
+  3-brane
+</title>
+
+<abstract>
+  It is shown that the Lagrangian density of the supersymmetric 3-brane can be
+regarded as a component of an infinite-dimensional supermultiplet of N=2, D=4
+supersymmetry spontaneously broken down to N=1. The latter is described by N=1
+Hermitian bosonic matrix superfield V_{mn} = V^\dagger_{nm}, [V_{mn}] = m+n,
+m,n=0,1,... in which the component V_{01} is identified with a chiral Goldstone
+N=1 multiplet associated with central charge of the N=2, D=4 superalgebra, and
+V_{11} obeys a specific nonlinear recursive equation providing the possibility
+to express V_{11} (as well as the other components V_{mn}) covariantly in terms
+of V_{01}. We demonstrate that the solution of V_{11} gives the right
+\emph{PBGS} action for the super-3-brane.
+</abstract>

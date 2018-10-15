@@ -1,0 +1,23 @@
+<date>
+Wed, 13 Jun 2001 15:49:44 GMT
+</date>
+
+<title>
+Boundary Conformal Field Theory and Fusion Ring Representations
+</title>
+
+<abstract>
+  To an RCFT corresponds two combinatorial structures: the amplitude of a torus
+(the 1-loop partition function of a closed string, sometimes called a modular
+invariant), and a representation of the fusion ring (called a NIM-rep or
+equivalently a fusion graph, and closely related to the 1-loop partition
+function of an open string). In this paper we develop some basic theory of
+NIM-reps, obtain several new NIM-rep classifications, and compare them with the
+corresponding modular invariant classifications. Among other things, we make
+the following fairly disturbing observation: there are infinitely many (WZW)
+modular invariants which do not correspond to any NIM-rep. The resolution could
+be that those modular invariants are physically sick. Is classifying modular
+invariants really the right thing to do? For current algebras, the answer seems
+to be: Usually but not always. For finite groups a la
+Dijkgraaf-Vafa-Verlinde-Verlinde, the answer seems to be: Rarely.
+</abstract>

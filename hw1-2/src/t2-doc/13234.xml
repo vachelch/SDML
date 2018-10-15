@@ -1,0 +1,16 @@
+<title>
+Combinatorial Solution of the Two-Matrix Model
+</title>
+
+<abstract>
+  We write down and solve a closed set of Schwinger-Dyson equations for the
+two-matrix model in the large $N$ limit. Our elementary method yields exact
+solutions for correlation functions involving angular degrees of freedom whose
+calculation was impossible with previously known techniques. The result
+sustains the hope that more complicated matrix models important for lattice
+string theory and QCD may also be solvable despite the problem of the angular
+integrations. As an application of our method we briefly discuss the
+calculation of wavefunctions with general matter boundary conditions for the
+Ising model coupled to $2D$ quantum gravity. Some novel insights into the
+relationship between lattice and continuum boundary conditions are obtained.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Symmetry Breaking in the Double-Well Hermitian Matrix Models
+</title>
+
+<abstract>
+  We study symmetry breaking in $Z_2$ symmetric large $N$ matrix models. In the
+planar approximation for both the symmetric double-well $\phi^4$ model and the
+symmetric Penner model, we find there is an infinite family of broken symmetry
+solutions characterized by different sets of recursion coefficients $R_n$ and
+$S_n$ that all lead to identical free energies and eigenvalue densities. These
+solutions can be parameterized by an arbitrary angle $\theta(x)$, for each
+value of $x = n/N < 1$. In the double scaling limit, this class reduces to a
+smaller family of solutions with distinct free energies already at the torus
+level. For the double-well $\phi^4$ theory the double scaling string equations
+are parameterized by a conserved angular momentum parameter in the range $0 \le
+l < \infty$ and a single arbitrary $U(1)$ phase angle.
+</abstract>

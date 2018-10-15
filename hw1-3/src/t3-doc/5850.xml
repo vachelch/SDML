@@ -1,0 +1,20 @@
+<date>
+Tue, 21 May 2002 15:02:30 GMT
+</date>
+
+<title>
+On correlation functions of characteristic polynomials for chiral
+  Gaussian Unitary Ensemble
+</title>
+
+<abstract>
+  We calculate a general spectral correlation function of products and ratios
+of characteristic polynomials for a $N\times N$ random matrix taken from the
+chiral Gaussian Unitary Ensemble (chGUE). Our derivation is based upon finding
+an Itzykson-Zuber type integral for matrices from the non-compact manifold
+${\sf{Gl(n,{\mathcal{C}})/U(1)\times ...\times U(1)}}$ (matrix Macdonald
+function). The correlation function is shown to be always represented in a
+determinant form generalising the known expressions for only positive moments.
+Finally, we present the asymptotic formula for the correlation function in the
+large matrix size limit.
+</abstract>

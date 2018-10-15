@@ -1,0 +1,17 @@
+<title>
+Duality without supersymmetry
+</title>
+
+<abstract>
+  I show that physical quantities in several two-dimensional condensed-matter
+models are related to the Seiberg-Witten calculation of exact quantities in
+supersymmetric gauge theory. In particular, the magnetization in the Kondo
+problem and the current in the boundary sine-Gordon model can each be expressed
+in the form $\int dx/y$, where for example in the latter $y^2 = x + x^g - u^2$
+with u related to the boundary mass scale (the analog of \Lambda_{QCD}) and g
+proportional to the radius of the boson squared. Thus for irrational g, the
+curve y(x) is of infinite genus, while for rational g it is of finite genus.
+The models are integrable and possess a quantum-group symmetry for any g, but
+are supersymmetric only at g=2/3. Both models also possess unique forms of g to
+1/g duality.
+</abstract>

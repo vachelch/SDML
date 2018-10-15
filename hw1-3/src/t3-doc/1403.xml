@@ -1,0 +1,24 @@
+<date>
+Thu, 9 Jul 1998 23:51:35 GMT
+</date>
+
+<title>
+Renormalization of the Semiclassical Hamiltonian Field Theory
+</title>
+
+<abstract>
+  The Hamiltonian approach to the quantum field theory is considered. Since
+there are additional difficulties such as the Haag theorem and Stueckelberg
+divergences, renormalization of the time-dependent dynamical quantum field
+theory is much more complicated than renormalization of the S-matrix. It is
+necessary to consider the regularized theory with ultraviolet and infrared
+cutoffs and impose the conditions not only on the dependence of the Hamiltonian
+on the cutoffs (as usual) but also on the dependence of the initial states. It
+happens that one should consider the initial states to be singulary dependent
+on the cutoffs in order to avoid the Stueckelberg divergences. Different types
+of semiclassical approximations to quantum theory are discussed. It happens
+that the method of quantizing classical solutions to field equations
+corresponds not to the WKB-approach but to the complex-WKB theory. The problem
+of imposing conditions on the semiclassical initial states is discussed.
+Different prescriptions for choice of initial conditions are analysed.
+</abstract>

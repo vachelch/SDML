@@ -1,0 +1,18 @@
+<title>
+Classical Solutions in String Field Theory Around the Tachyon Vacuum
+</title>
+
+<abstract>
+  In a previous paper [hep-th/0012251] we proposed a simple class of actions
+for string field theory around the tachyon vacuum. In this paper we search for
+classical solutions describing D-branes of different dimensions using the
+ansatz that the solutions factorize into the direct product of a matter state
+and a universal ghost state. We find closed form expressions for the matter
+state describing D-branes of all dimensions. For the space filling D25-brane
+the state is the matter part of the zero angle wedge state, the ``sliver'',
+built in [hep-th/0006240]. For the other D-brane solutions the matter states
+are constructed using a solution generating technique outlined in
+[hep-th/0008252]. The ratios of tensions of various D-branes, requiring
+evaluation of determinants of infinite dimensional matrices, are calculated
+numerically and are in very good agreement with the known results.
+</abstract>

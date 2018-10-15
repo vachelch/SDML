@@ -1,0 +1,30 @@
+<date>
+Mon, 22 Apr 1996 04:09:35 +0100
+</date>
+
+<title>
+On the enumeration of irreducible k-fold Euler sums and their roles in
+  knot theory and field theory
+</title>
+
+<abstract>
+  A generating function is given for the number, $E(l,k)$, of irreducible
+$k$-fold Euler sums, with all possible alternations of sign, and exponents
+summing to $l$. Its form is remarkably simple: $\sum_n E(k+2n,k) x^n =
+\sum_{d|k}\mu(d) (1-x^d)^{-k/d}/k$, where $\mu$ is the M\"obius function.
+Equivalently, the size of the search space in which $k$-fold Euler sums of
+level $l$ are reducible to rational linear combinations of irreducible basis
+terms is $S(l,k) = \sum_{n<k}{\lfloor(l+n-1)/2\rfloor\choose n}$. Analytical
+methods, using Tony Hearn's REDUCE, achieve this reduction for the 3698
+convergent double Euler sums with $l\leq44$; numerical methods, using David
+Bailey's MPPSLQ, achieve it for the 1457 convergent $k$-fold sums with
+$l\leq7$; combined methods yield bases for all remaining search spaces with
+$S(l,k)\leq34$. These findings confirm expectations based on Dirk Kreimer's
+connection of knot theory with quantum field theory. The occurrence in
+perturbative quantum electrodynamics of all 12 irreducible Euler sums with
+$l\leq 7$ is demonstrated. It is suggested that no further transcendental
+occurs in the four-loop contributions to the electron's magnetic moment.
+Irreducible Euler sums are found to occur in explicit analytical results, for
+counterterms with up to 13 loops, yielding transcendental knot-numbers, up to
+23 crossings.
+</abstract>

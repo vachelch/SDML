@@ -1,0 +1,20 @@
+<date>
+Fri, 04 Nov 1994 18:53:18 -0500 (CDT)
+</date>
+
+<title>
+Eigenvalue Integro-Differential Equations for Orthogonal Polynomials on
+  the Real Line
+</title>
+
+<abstract>
+  The one-dimensional harmonic oscillator wave functions are solutions to a
+Sturm-Liouville problem posed on the whole real line. This problem generates
+the Hermite polynomials. However, no other set of orthogonal polynomials can be
+obtained from a Sturm-Liouville problem on the whole real line. In this paper
+we show how to characterize an arbitrary set of polynomials orthogonal on
+$(-\infty,\infty)$ in terms of a system of integro-differential equations of
+Hartree-Fock type. This system replaces and generalizes the linear differential
+equation associated with a Sturm-Liouville problem. We demonstrate our results
+for the special case of Hahn-Meixner polynomials.
+</abstract>

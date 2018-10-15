@@ -1,0 +1,20 @@
+<title>
+Conservation Laws and Geometry of Perturbed Coset Models
+</title>
+
+<abstract>
+  We present a Lagrangian description of the $SU(2)/U(1)$ coset model perturbed
+by its first thermal operator. This is the simplest perturbation that changes
+sign under Krammers--Wannier duality. The resulting theory, which is a
+2--component generalization of the sine--Gordon model, is then taken in
+Minkowski space. For negative values of the coupling constant $g$, it is
+classically equivalent to the $O(4)$ non--linear $\s$--model reduced in a
+certain frame. For $g > 0$, it describes the relativistic motion of vortices in
+a constant external field. Viewing the classical equations of motion as a zero
+curvature condition, we obtain recursive relations for the infinitely many
+conservation laws by the abelianization method of gauge connections. The higher
+spin currents are constructed entirely using an off--critical generalization of
+the $W_{\infty}$ generators. We give a geometric interpretation to the
+corresponding charges in terms of embeddings. Applications to the chirally
+invariant $U(2)$ Gross--Neveu model are also discussed.
+</abstract>

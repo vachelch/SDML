@@ -1,0 +1,20 @@
+<title>
+Renormalization of the Periodic Scalar Field Theory by Polchinski's
+  Renormalization Group Method
+</title>
+
+<abstract>
+  The renormalization group (RG) flow for the two-dimensional sine-Gordon model
+is determined by means of Polchinski's RG equation at next-to-leading order in
+the derivative expansion. In this work we have two different goals, (i) to
+consider the renormalization scheme-dependence of Polchinski's method by
+matching Polchinski's equation with the Wegner-Houghton equation and with the
+real space RG equations for the two-dimensional dilute Coulomb-gas, (ii) to go
+beyond the local potential approximation in the gradient expansion in order to
+clarify the supposed role of the field-dependent wave-function renormalization.
+The well-known Coleman fixed point of the sine-Gordon model is recovered after
+linearization, whereas the flow exhibits strong dependence on the choice of the
+renormalization scheme when non-linear terms are kept. The RG flow is compared
+to those obtained in the Wegner-Houghton approach and in the dilute gas
+approximation for the two-dimensional Coulomb-gas.
+</abstract>

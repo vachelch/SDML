@@ -1,0 +1,24 @@
+<date>
+Sat, 3 Sep 1994 15:15:43 WST
+</date>
+
+<title>
+W-Algebras from Soliton Equations and Heisenberg Subalgebras
+</title>
+
+<abstract>
+  We derive sufficient conditions under which the ``second''
+Hamiltonian structure of a class of generalized KdV-hierarchies defines one of
+the classical $\cal W$-algebras obtained through Drinfel'd-Sokolov Hamiltonian
+reduction. These integrable hierarchies are associated to the Heisenberg
+subalgebras of an untwisted affine Kac-Moody algebra. When the principal
+Heisenberg subalgebra is chosen, the well known connection between the
+Hamiltonian structure of the generalized Drinfel'd-Sokolov hierarchies - the
+Gel'fand-Dickey algebras - and the $\cal W$-algebras associated to the Casimir
+invariants of a Lie algebra is recovered. After carefully discussing the
+relations between the embeddings of $A_1=sl(2,{\Bbb C})$ into a simple Lie
+algebra $g$ and the elements of the Heisenberg subalgebras of $g^{(1)}$, we
+identify the class of $\cal W$-algebras that can be defined in this way. For
+$A_n$, this class only includes those associated to the embeddings labelled by
+partitions of the form $n+1= k(m) + q(1)$ and $n+1= k(m+1) + k(m) + q(1)$.
+</abstract>

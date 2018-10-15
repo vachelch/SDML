@@ -1,0 +1,12 @@
+<title>
+On State Counting and Characters
+</title>
+
+<abstract>
+  We outline the relationship between the thermodynamic densities and
+quasi-particle descriptions of spectra of RSOS models with an underlying Bethe
+equation. We use this to prove completeness of states in some cases and then
+give an algorithm for the construction of branching functions of their emergent
+conformal field theories. Starting from the Bethe equations of $D_n$ type, we
+discuss some aspects of the $Z_n$ lattice models.
+</abstract>

@@ -1,0 +1,27 @@
+<date>
+Fri, 18 Jul 1997 14:33:37 +0200 (METDST)
+</date>
+
+<title>
+No saturation of the quantum Bogomolnyi bound by two-dimensional
+  supersymmetric solitons
+</title>
+
+<abstract>
+  We reanalyse the question whether the quantum Bogomolnyi bound is saturated
+in the two-dimensional supersymmetric kink and sine-Gordon models. Our starting
+point is the usual expression for the one-loop correction to the mass of a
+soliton in terms of sums over zero-point energies. To regulate these sums, most
+authors put the system in a box with suitable boundary conditions, and impose
+an ultraviolet cut-off. We distinguish between an energy cut-off and a mode
+number cut-off, and show that they lead to different results. We claim that
+only the mode cut-off yields correct results, and only if one considers exactly
+the same number of bosonic and fermionic modes in the total sum over
+bound-state and zero-point energies. To substantiate this claim, we show that
+in the sine-Gordon model only the mode cut-off yields a result for the quantum
+soliton mass that is consistent with the exact result for the spectrum as
+obtained by Dashen et al. from quantising the so-called breather solution. In
+the supersymmetric case, our conclusion is that contrary to previous claims the
+quantum Bogomolnyi bound is not saturated in any of the two-dimensional models
+considered.
+</abstract>

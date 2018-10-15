@@ -1,0 +1,28 @@
+<date>
+Tue, 22 May 2001 20:41:10 GMT
+</date>
+
+<title>
+Resolution of Stringy Singularities by Non-commutative Algebras
+</title>
+
+<abstract>
+  In this paper we propose a unified approach to (topological) string theory on
+certain singular spaces in their large volume limit. The approach exploits the
+non-commutative structure of D-branes, so the space is described by an
+algebraic geometry of non-commutative rings. The paper is devoted to the study
+of examples of these algebras. In our study there is an auxiliary commutative
+algebraic geometry of the center of the (local) algebras which plays an
+important role as the target space geometry where closed strings propagate. The
+singularities that are resolved will be the singularities of this auxiliary
+geometry. The singularities are resolved by the non-commutative algebra if the
+local non-commutative rings are regular. This definition guarantees that
+D-branes have a well defined K-theory class. Homological functors also play an
+important role. They describe the intersection theory of D-branes and lead to a
+formal definition of local quivers at singularities, which can be computed
+explicitly for many types of singularities. These results can be interpreted in
+terms of the derived category of coherent sheaves over the non-commutative
+rings, giving a non-commutative version of recent work by M. Douglas. We also
+describe global features like the Betti numbers of compact singular Calabi-Yau
+threefolds via global holomorphic sections of cyclic homology classes.
+</abstract>

@@ -1,0 +1,23 @@
+<date>
+Wed, 7 Feb 2001 00:15:35 GMT
+</date>
+
+<title>
+OSp(N|4) group and their contractions to P(3,1)xGauge
+</title>
+
+<abstract>
+  Starting from SO(n,m) groups, we are in search of groups that: (1.) in a
+simple way, include N supersymmetric generators(see \cite{Nahm}) (2.) contain
+as subgroup: the de Sitter group SO(4,1) or the Anti-de Sitter group SO(3,2)
+(3.) permit nontrivial gauge symmetry groups. The smallest groups satisfyng
+above conditions are the OSp(N|4) groups, which contain Sp(4)xSO(N) ($Sp(4)\sim
+SO(3,2)$) or OSp(1|4)xSO(N-1). Because of this, it is possible to generate
+P(3,1)xG using groups contraction mechanism, which may be: $SO(3,2)\to P(3,1)$
+o $OSp(N|4)\to ^SP(3,1|N)$ where P(3,1) is the Poincar\'e group and G is a
+gauge group, say SO(N) or SO(N-1). This group contraction mechanism and its
+consequences upon different groups representations including SO(3,2) or
+SO(4,1), is clarified and extended to OSp(N|4) representations (see
+\cite{Nicolai}), contracted to its N-extensi\'on SuperPoincar\'e group $\
+^SP(3,1|N)$.
+</abstract>

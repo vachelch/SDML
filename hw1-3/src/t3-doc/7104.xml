@@ -1,0 +1,20 @@
+<date>
+Fri, 12 May 95 11:48:20 METDST
+</date>
+
+<title>
+Discretized Light-Cone Quantization: Solving a 1+1 dimensional field
+  theory (QED)
+</title>
+
+<abstract>
+  We describe the programming method for generating the spectrum of bound
+states for relativistic quantum field theories using the nonperturbative
+Hamiltonian approach of Discretized Light-Cone Quantization. The method is
+intended for eventual application to quantum chromodynamics in 3+1 dimensions.
+Here the fundamental principles are illustrated concretely by treatment of QED
+in two dimensions. The code is intended as a basis for extensions to include
+more complicated gauge symmetry groups, such as SU(3) color, and other quantum
+numbers. The code was written in Fortran 77 and implemented on a DEC 5000-260
+workstation with a typical runtime of 0.2s at total momentum 10.
+</abstract>

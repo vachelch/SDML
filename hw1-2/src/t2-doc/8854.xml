@@ -1,0 +1,18 @@
+<title>
+Invariant Differential Equations and the Adler-Gel'fand-Dikii Bracket
+</title>
+
+<abstract>
+  In this paper we find an explicit formula for the most general vector
+evolution of curves on $RP^{n-1}$ invariant under the projective action of
+$SL(n,R)$. When this formula is applied to the projectivization of solution
+curves of scalar Lax operators with periodic coefficients, one obtains a
+corresponding evolution in the space of such operators. We conjecture that this
+evolution is identical to the second KdV Hamiltonian evolution under
+appropriate conditions. These conditions give a Hamiltonian interpretation of
+general vector differential invariants for the projective action of $SL(n,R)$,
+namely, the $SL(n,R)$ invariant evolution can be written so that a general
+vector differential invariant corresponds to the Hamiltonian
+pseudo-differential operator. We find common coordinates and simplify both
+evolutions so that one can attempt to prove the equivalence for arbitrary $n$.
+</abstract>

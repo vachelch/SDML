@@ -1,0 +1,26 @@
+<date>
+Wed, 4 Jun 1997 17:21:35 +0300 (IDT)
+</date>
+
+<title>
+Interacting Charged Particles in an Electric Field and the Unruh Effect
+</title>
+
+<abstract>
+  We compute the transition amplitudes between charged particles of mass $M$
+and $m$ accelerated by a constant electric field and interacting by the
+exchange of quanta of a third field. We work in second quantization in order to
+take into account both recoil effects induced by transitions and the vacuum
+instability of the charged fields. In spite of both effects, when the exchanged
+particle is neutral, the equilibrium ratio of the populations is simply
+$\exp(\pi (M^2 - m^2)/eE)$. Thus, in the limit $(M-m)/M \to 0$, one recovers
+Unruh's result characterized by the temperature $a/2\pi$ where $a$ is the
+acceleration. When the exchanged particle is charged, its vacuum instability
+prevents a simple description of the equilibrium state. However, in the limit
+wherein the charge of the exchanged particle tends to zero, the equilibrium
+distribution is once more Boltzmanian, but characterized not only by a
+temperature but also by the electric potential felt by the exchanged particle.
+This work therefore confirms that thermodynamics in the presence of horizons
+does not rely on a semi-classical treatment. The relationship with
+thermodymanics of charged black holes is stressed.
+</abstract>

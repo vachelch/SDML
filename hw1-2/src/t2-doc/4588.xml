@@ -1,0 +1,29 @@
+<title>
+Graded Lagrangians, exotic topological D-branes and enhanced
+  triangulated categories
+</title>
+
+<abstract>
+  I point out that (BPS saturated) A-type D-branes in superstring
+compactifications on Calabi-Yau threefolds correspond to {\em graded} special
+Lagrangian submanifolds, a particular case of the graded Lagrangian
+submanifolds considered by M. Kontsevich and P. Seidel. Combining this with the
+categorical formulation of cubic string field theory in the presence of
+D-branes, I consider a collection of {\em topological} D-branes wrapped over
+the same Lagrangian cycle and {\em derive} its string field action from first
+principles. The result is a {\em $\Z$-graded} version of super-Chern-Simons
+field theory living on the Lagrangian cycle, whose relevant string field is a
+degree one superconnection in a $\Z$-graded superbundle, in the sense
+previously considered in mathematical work of J. M. Bismutt and J. Lott. This
+gives a refined (and modified) version of a proposal previously made by C.
+Vafa. I analyze the vacuum deformations of this theory and relate them to
+topological D-brane composite formation, by using the general formalism
+developed in a previous paper. This allows me to identify a large class of
+topological D-brane composites (generalized, or `exotic' topological D-branes)
+which do not admit a traditional description. Among these are objects which
+correspond to the `covariantly constant sequences of flat bundles' considered
+by Bismut and Lott, as well as more general structures, which are related to
+the enhanced triangulated categories of Bondal and Kapranov. I also give a
+rough sketch of the relation between this construction and the large radius
+limit of a certain version of the `derived category of Fukaya's category'.
+</abstract>

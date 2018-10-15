@@ -1,0 +1,21 @@
+<title>
+Wilson Loops, Bianchi Constraints and Duality in Abelian Lattice Models
+</title>
+
+<abstract>
+  We introduce new modified Abelian lattice models, with inhomogeneous local
+interactions, in which a sum over topological sectors are included in the
+defining partition function. The dual models, on lattices with arbitrary
+topology, are constructed and they are found to contain sums over topological
+sectors, with modified groups, as in the original model. The role of the sum
+over sectors is illuminated by deriving the field-strength formulation of the
+models in an explicitly gauge-invariant manner. The field-strengths are found
+to satisfy, in addition to the usual local Bianchi constraints, global
+constraints. We demonstrate that the sum over sectors removes these global
+constraints and consequently softens the quantization condition on the global
+charges in the system. Duality is also used to construct mappings between the
+order and disorder variables in the theory and its dual. A consequence of the
+duality transformation is that correlators which wrap around non-trivial cycles
+of the lattice vanish identically. For particular dimensions this mapping
+allows an explicit expression for arbitrary correlators to be obtained.
+</abstract>

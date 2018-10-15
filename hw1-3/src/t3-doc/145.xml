@@ -1,0 +1,19 @@
+<date>
+Thu, 21 Sep 1995 22:12:31 -0700 (PDT)
+</date>
+
+<title>
+The W_3 algebra: modules, semi-infinite cohomology and BV-algebras
+</title>
+
+<abstract>
+  The noncritical $D=4$ $W_3$ string is a model of $W_3$ gravity coupled to two
+free scalar fields. In this paper we discuss its BRST quantization in direct
+analogy with that of the $D=2$ (Virasoro) string. In particular, we calculate
+the physical spectrum as a problem in BRST cohomology. The corresponding
+operator cohomology forms a BV-algebra. We model this BV-algebra on that of the
+polyderivations of a commutative ring on six variables with a quadratic
+constraint, or, equivalently, on the BV-algebra of (polynomial) polyvector
+fields on the base affine space of $SL(3,C)$. In this paper we attempt to
+present a complete summary of the progress made in these studies. [...]
+</abstract>

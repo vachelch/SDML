@@ -1,0 +1,35 @@
+<date>
+Sun, 03 Dec 95 17:53:04 IST
+</date>
+
+<title>
+A Chiral Spin Theory in the Framework of an Invariant Evolution
+  Parameter Formalism
+</title>
+
+<abstract>
+  We present a formulation for the construction of first order equations which
+describe particles with spin, in the context of a manifestly covariant
+relativistic theory governed by an invariant evolution parameter; one obtains a
+consistent quantized formalism dealing with off-shell particles with spin. Our
+basic requirement is that the second order equation in the theory is of the
+Schr\"{o}dinger-Stueckelberg type, which exhibits features of both the
+Klein-Gordon and Schr\"{o}dinger equations. This requirement restricts the
+structure of the first order equation, in particular, to a chiral form. One
+thus obtains, in a natural way, a theory of chiral form for massive particles,
+which may contain both left and right chiralities, or just one of them. We
+observe that by iterating the first order system, we are able to obtain second
+order forms containing the transverse and longitudinal momentum relative to a
+time-like vector $t_{\mu}t^{\mu}=-1$ used to maintain covariance of the theory.
+This time-like vector coincides with the one used by Horwitz, Piron, and Reuse
+to obtain an invariant positive definite space-time scalar product, which
+permits the construction of an induced representation for states of a particle
+with spin. We discuss the currents and continuity equations, and show that
+these equations of motion and their currents are closely related to the spin
+and convection parts of the Gordon decomposition of the Dirac current. The
+transverse and longitudinal aspects of the particle are complementary, and can
+be treated in a unified manner using a tensor product Hilbert space.
+Introducing the electromagnetic field we find an equation which gives rise to
+the correct gyromagnetic ratio, and is fully Hermitian under the proposed
+scalar product. Finally, we show that the original structure of Dirac's
+</abstract>

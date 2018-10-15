@@ -1,0 +1,14 @@
+<title>
+Sine-Gordon Equation and Representations of Affine Kac-Moody Algebra
+  \hat{sl_2}
+</title>
+
+<abstract>
+  The goal of this paper is to give a representation-theoretic interpretation
+of the sine-Gordon equation. We consider a vertex operator representation of
+affine Kac-Moody algebra \hat{sl_2} on the space of differential operators. In
+this formulation, the tau-function becomes a function of non-commuting
+variables. Using the skew Casimir operators, we obtain a hierarchy of equations
+in Hirota form that contains sine-Gordon, KdV and mKdV equations and construct
+their soliton solutions.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Tue, 5 Dec 1995 21:54:41 GMT
+</date>
+
+<title>
+A Mathematica Package for Computing N=2 Superfield Operator Product
+  Expansions
+</title>
+
+<abstract>
+  We describe a general purpose Mathematica package for computing Superfield
+Operator Product Expansions in meromorphic $N=2$ superconformal field theory.
+Given the SOPEs for a set of ``basic" superfields, SOPEs of arbitrarily
+complicated composites can be computed automatically. Normal ordered products
+are always reduced to a standard form. It is possible to check the Jacobi
+identities, and to compute Poisson brackets (``classical SOPEs''). We present
+two explicit examples: a construction of the ``small'' $N=4$ superconformal
+algebra in terms of $N=2$ superfields, and a realisation of the $N=2$
+superconformal algebra in terms of chiral and antichiral fermionic superfields.
+</abstract>

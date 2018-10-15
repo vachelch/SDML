@@ -1,0 +1,20 @@
+<title>
+Multi-Instantons, Three-Dimensional Gauge Theory, and the
+  Gauss-Bonnet-Chern Theorem
+</title>
+
+<abstract>
+  We calculate multi-instanton effects in a three-dimensional gauge theory with
+N=8 supersymmetry and gauge group SU(2). The k-instanton contribution to an
+eight-fermion correlator is found to be proportional to the Gauss-Bonnet-Chern
+integral of the Gaussian curvature over the centered moduli-space of charge-k
+BPS monopoles, \tilde{M}_{k}. For k=2 the integral can be evaluated using the
+explicit metric on \tilde{M}_{2} found by Atiyah and Hitchin. In this case the
+integral is equal to the Euler character of the manifold. More generally the
+integral is the volume contribution to the index of the Euler operator on
+\tilde{M}_{k}, which may differ from the Euler character by a boundary term. We
+conjecture that the boundary terms vanish and evaluate the multi-instanton
+contributions using recent results for the cohomology of \tilde{M}_{k}. We
+comment briefly on the implications of our result for a recently proposed test
+of M(atrix) theory.
+</abstract>

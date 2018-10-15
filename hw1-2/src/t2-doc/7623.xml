@@ -1,0 +1,17 @@
+<title>
+Disentangling Intertwined Embedded States and Spin Effects in
+  Light-Front Quantization
+</title>
+
+<abstract>
+  Naive light-front quantization, carried out by a light-front energy
+integration of covariant amplitudes, is not guaranteed to generate the
+corresponding Feynman amplitudes. In an explicit example we show that the
+nonvalence contribution to the minus-component of the EM current of a meson
+with fermion constituents has a persistent end-point singularity. Only after
+this term is subtracted, the result is covariant and satisfies current
+conservation. If the spin-1/2 constituents are replaced by spin zero ones, the
+singularity does not occur and the result is, without any adjustment, identical
+to the Feynman amplitude. Numerical estimates of valence and nonvalence
+contributions are presented for the cases of fermion and boson constituents.
+</abstract>

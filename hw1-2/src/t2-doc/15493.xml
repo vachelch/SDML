@@ -1,0 +1,15 @@
+<title>
+Multi-Instantons and Maldacena's Conjecture
+</title>
+
+<abstract>
+  We examine certain n-point functions G_n in {\cal N}=4 supersymmetric SU(N)
+gauge theory at the conformal point. In the large-N limit, we are able to sum
+all leading-order multi-instanton contributions exactly. We find compelling
+evidence for Maldacena's conjecture: (1) The large-N k-instanton collective
+coordinate space has the geometry of AdS_5 x S^5. (2) In exact agreement with
+type IIB superstring calculations, at the k-instanton level, $G_n = \sqrt{N}
+g^8 k^{n-7/2} e^{-8\pi^2 k/g^2}\sum_{d|k} d^{-2} \times F_n(x_1,...,x_n)$,
+where F_n is identical to a convolution of n bulk-to-boundary SUGRA
+propagators.
+</abstract>

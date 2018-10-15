@@ -1,0 +1,21 @@
+<date>
+Sun, 29 Apr 2001 09:46:17 GMT
+</date>
+
+<title>
+Topology and perturbation theory
+</title>
+
+<abstract>
+  Paper contains description of the fields nonlinear modes successive
+quantization scheme. It is shown that the path integrals for absorption part of
+amplitudes are defined on the Dirac ($\d$-like) functional measure. This
+permits arbitrary transformation of the functional integral variables. New form
+of the perturbation theory achieved by mapping the quantum dynamics in the
+space $W_G$ of the ({\it action, angle})-type collective variables. It is shown
+that the transformed perturbation theory contributions are accumulated exactly
+on the boundary $\pa W_G$. Abilities of the developed formalism are illustrated
+by the Coulomb problem. This model is solved in the $W_C$=({\it angle, angular
+momentum, Runge-Lentz vector}) space and the reason of its exact integrability
+is `emptiness' of $\pa W_C$.
+</abstract>

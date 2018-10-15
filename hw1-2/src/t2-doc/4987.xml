@@ -1,0 +1,12 @@
+<title>
+A New Regularization Method in 3-Dimensional Momentum Space
+</title>
+
+<abstract>
+  We propose a new method to calculate the 4-dimensional divergent integrals.
+By calculating the one loop integral as an example, the regularization of the
+integrals in 3-dimension momentum space are given in details. We find that the
+new method gives the same results as the traditional dimensional regularization
+method gives, but the new method has the advantage that it gives the real and
+the imaginary part separately.
+</abstract>

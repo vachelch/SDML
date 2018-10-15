@@ -1,0 +1,17 @@
+<date>
+Fri, 4 Jul 1997 17:02:36 +0200 (MET DST)
+</date>
+
+<title>
+4th order similarity renormalization of a model hamiltonian
+</title>
+
+<abstract>
+  We study the similarity renormalization scheme for hamiltonians to the fourth
+order in perturbation theory using a model hamiltonian for fermions coupled to
+bosons. We demonstrate that the free finite parts of counterterms can be chosen
+in such a way that the T-matrix is covariant up to the fourth order and the
+eigenvalue equation for the physical fermion reduces to the Dirac equation.
+Through this choice, the systematic renormalization scheme reproduces the model
+solution originally proposed by G{\l}azek and Perry.
+</abstract>

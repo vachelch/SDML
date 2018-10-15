@@ -1,0 +1,29 @@
+<title>
+Determination of critical exponents and equation of state by field
+  theory method
+</title>
+
+<abstract>
+  Path integrals have played a fundamental role in emphasizing the profound
+analogies between Quantum Field Theory (QFT), and Classical as well as Quantum
+Statistical Physics. Ideas coming from Statistical Physics have then led to a
+deeper understanding of Quantum Field Theory and open the way for a wealth of
+non-perturbative methods. Conversely QFT methods are become essential for the
+description of the phase transitions and critical phenomena beyond mean field
+theory. This is the point we want to illustrate here. We therefore review the
+methods, based on renormalized phi^4_3 quantum field theory and renormalization
+group, which have led to an accurate determination of critical exponents of the
+N-vector model, and more recently of the equation of state of the 3D Ising
+model. The starting point is the perturbative expansion for RG functions or the
+effective potential to the order presently available. Perturbation theory is
+known to be divergent and its divergence has been related to instanton
+contributions. This has allowed to characterize the large order behaviour of
+perturbation series, an information that can be used to efficiently "sum" them.
+Practical summation methods based on Borel transformation and conformal mapping
+have been developed, leading to the most accurate results available probing
+field theory in a non perturbative regime. We illustrate the methods with a
+short discussion of the scaling equation of state of the 3D Ising model.
+Compared to exponents its determination involves a few additional (non-trivial)
+technical steps, like the use of the parametric representation, and the
+order-dependent mapping.
+</abstract>

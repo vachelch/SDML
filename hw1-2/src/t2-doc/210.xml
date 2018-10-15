@@ -1,0 +1,14 @@
+<title>
+Three-manifold invariants and their relation with the fundamental group
+</title>
+
+<abstract>
+  We consider the 3-manifold invariant I(M) which is defined by means of the
+Chern-Simons quantum field theory and which coincides with the
+Reshetikhin-Turaev invariant. We present some arguments and numerical results
+supporting the conjecture that, for nonvanishing I(M), the absolute value 
+| I(M) | only depends on the fundamental group \pi_1 (M) of the manifold M.
+For lens spaces, the conjecture is proved when the gauge group is SU(2). In
+the case in which the gauge group is SU(3), we present numerical computations
+confirming the conjecture.
+</abstract>

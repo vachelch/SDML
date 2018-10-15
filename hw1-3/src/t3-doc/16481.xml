@@ -1,0 +1,25 @@
+<date>
+Wed, 13 Mar 1996 20:13:14 GMT
+</date>
+
+<title>
+Probing integrable perturbations of conformal theories using singular
+  vectors
+</title>
+
+<abstract>
+  It has been known for some time that the (1,3) perturbations of the (2k+1,2)
+Virasoro minimal models have conserved currents which are also singular vectors
+of the Virasoro algebra. This also turns out to hold for the (1,2) perturbation
+of the (3k+-1,3) models. In this paper we investigate the requirement that a
+perturbation of an extended conformal field theory has conserved currents which
+are also singular vectors. We consider conformal field theories with W3 and
+(bosonic) WBC2 = W(2,4) extended symmetries. Our analysis relies heavily on the
+general conjecture of de Vos and van Driel relating the multiplicities of
+W-algebra irreducible modules to the Kazhdan-Lusztig polynomials of a certain
+double coset. Granting this conjecture, the singular-vector argument provides a
+direct way of recovering all known integrable perturbations. However, W models
+bring a slight complication in that the conserved densities of some (1,2)-type
+perturbations are actually subsingular vectors, that is, they become singular
+vectors only in a quotient module.
+</abstract>

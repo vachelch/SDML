@@ -1,0 +1,15 @@
+<title>
+Polynomial Identities, Indices, and Duality for the N=1 Superconformal
+  Model SM(2,4\nu)
+</title>
+
+<abstract>
+  We prove polynomial identities for the N=1 superconformal model SM(2,4\nu)
+which generalize and extend the known Fermi/Bose character identities. Our
+proof uses the q-trinomial coefficients of Andrews and Baxter on the bosonic
+side and a recently introduced very general method of producing recursion
+relations for q-series on the fermionic side. We use these polynomials to
+demonstrate a dual relation under q \rightarrow q^{-1} between SM(2,4\nu) and
+M(2\nu-1,4\nu). We also introduce a generalization of the Witten index which is
+expressible in terms of the Rogers false theta functions.
+</abstract>

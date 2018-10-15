@@ -1,0 +1,22 @@
+<date>
+Fri, 25 Aug 1995 19:22:16 EET
+</date>
+
+<title>
+GRAMA. A Mathematica program for analytical calculations in
+  10-dimensional supergravity. Version 1.0
+</title>
+
+<abstract>
+  "GRAMA" is a Mathematica package for doing symbolic tensor computations and
+complicated algebraic manipulations in 10-dimensional (D=10) simple (N=1)
+supergravity. The main new ingredients of this package inside the general
+Mathematica environment are the computation of complicated products of Dirac
+matrices and the treatment of covariant derivatives: spinorial and vectorial.
+In principle, with small modifications, GRAMA can also be used for calculations
+in 4-dimensional supergravity. With the help of this package we were able to
+obtain the equations of motion and the Lagrangian for the 10-D supergravity
+including superstring corrections (see hep-th/9507033) - a calculation that
+would be otherwise impossible to perform. "GRAMA" is designed as a community-
+and user-friendly program.
+</abstract>

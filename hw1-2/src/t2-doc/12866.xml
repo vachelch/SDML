@@ -1,0 +1,17 @@
+<title>
+Bootstrap equations and correlation functions for the Heisenberg XYZ
+  antiferromagnet
+</title>
+
+<abstract>
+  Presented are two kinds of integral solutions to the quantum
+Knizhnik-Zamolodchikov equations for the 2n-point correlation functions of the
+Heisenberg XYZ antiferromagnet. Our first integral solution can be obtained
+from those for the cyclic SOS model by using the vertex-face correspondence. By
+the construction, the sum with respect to the local height variables k_0, k_1,
+>..., k_{2n} of the cyclic SOS model remains other than n-fold integral in the
+first solution. In order to perform those summations, we improve that to find
+the second integral solution of (r+1)n-fold integral for r in Z_{>1}, where r
+is a parameter of the XYZ model. Furthermore, we discuss the relations among
+our formula, Lashkevich-Pugai's formula and Shiraishi's one.
+</abstract>

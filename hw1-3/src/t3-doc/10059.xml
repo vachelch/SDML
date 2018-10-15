@@ -1,0 +1,25 @@
+<date>
+Fri, 24 Jan 2003 18:03:30 GMT
+</date>
+
+<title>
+Cosmological perturbations and the transition from contraction to
+  expansion
+</title>
+
+<abstract>
+  We investigate both analytically and numerically the evolution of scalar
+perturbations generated in models which exhibit a smooth transition from a
+contracting to an expanding Friedmann universe. We find that the resulting
+spectral index in the late radiation dominated universe depends on which of the
+$\Psi$ or \$zeta$ variables passes regularly through the transition. The
+results can be parameterized through the exponent $q$ defining the rate of
+contraction of the universe. For $q \geq -1/2$ we find that there are no stable
+cases where both variables are regular during the transition. In particular,
+for $0<q\ll 1$, we find that the resulting spectral index is close to scale
+invariant if $\Psi$ is regular, whereas it has a steep blue behavior if $\zeta$
+is regular. We also show that as long as $q\leqslant 1$, perturbations arising
+from the Bardeen potential remain small during contraction in the sense that
+there exists a gauge in which all the metric and matter perturbation variables
+are small.
+</abstract>

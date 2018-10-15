@@ -1,0 +1,13 @@
+<title>
+Introduction to spherical field theory
+</title>
+
+<abstract>
+  Spherical field theory is a new non-perturbative method for studying quantum
+field theories. It uses the spherical partial wave expansion to reduce a
+general d-dimensional Euclidean field theory into a set of coupled
+one-dimensional systems. The coupled one-dimensional systems are then converted
+to partial differential equations and solved numerically. We demonstrate the
+methods of spherical field theory by analyzing Euclidean phi^4 theory in two
+dimensions.
+</abstract>

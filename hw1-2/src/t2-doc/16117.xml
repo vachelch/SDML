@@ -1,0 +1,15 @@
+<title>
+Quantum Corrections to the Reissner-Nordstr\"{o}m and Kerr-Newman
+  Metrics
+</title>
+
+<abstract>
+  We use effective field theory techniques to examine the quantum corrections
+to the gravitational metrics of charged particles, with and without spin. In
+momentum space the masslessness of the photon implies the presence of
+nonanalytic pieces $\sim \sqrt{-q^2},q^2\log -q^2$ etc. in the form factors of
+the energy-momentum tensor. We show how the former reproduces the classical
+non-linear terms of the Reissner-Nordstr\"{o}m and Kerr-Newman metrics while
+the latter can be interpreted as quantum corrections to these metrics, of order
+$G\alpha\hbar/mr^3$
+</abstract>

@@ -1,0 +1,22 @@
+<title>
+Large-momentum convergence of Hamiltonian bound-state dynamics of
+  effective fermions in quantum field theory
+</title>
+
+<abstract>
+  Contributions to the bound-state dynamics of fermions in local quantum field
+theory from the region of large relative momenta of the constituent particles,
+are studied and compared in two different approaches. The first approach is
+conventionally developed in terms of bare fermions, a Tamm-Dancoff truncation
+on the particle number, and a momentum-space cutoff that requires counterterms
+in the Fock-space Hamiltonian. The second approach to the same theory deals
+with bound states of effective fermions, the latter being derived from a
+suitable renormalization group procedure. An example of two-fermion bound
+states in Yukawa theory, quantized in the light-front form of dynamics, is
+discussed in detail. The large-momentum region leads to a buildup of
+overlapping divergences in the bare Tamm-Dancoff approach, while the effective
+two-fermion dynamics is little influenced by the large-momentum region. This is
+illustrated by numerical estimates of the large-momentum contributions for
+coupling constants on the order of between 0.01 and 1, which is relevant for
+quarks.
+</abstract>

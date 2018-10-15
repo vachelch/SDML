@@ -1,0 +1,21 @@
+<title>
+Binding Energy of Scalar Bound State by Topologically Massive
+  Interaction: Fermion and Anti-fermion System with Heavy Mass
+</title>
+
+<abstract>
+  A bound state problem in a topologically massive quantum electrodynamics is
+investigated by using a non-perturbative method. We formulate the Bethe-
+Salpeter equation for scalar bound states composed of massive fermion and
+anti-fermion pair under the lowest ladder approximation. In a large mass
+expansion for the (anti-) fermion, we derive the Schr{\"o}dinger equation and
+solve it by a numerical method. The energy eigenvalues of bound states are
+evaluated for various values of a topological mass and also a fermion mass.
+Then we find a novel logarithmic scaling behaviour of the binding energy in
+varying the topological mass, fermion mass and also a quantum number. There
+exists a critical value of the topological mass, beyond which the bound states
+disappear. As the topological mass decreases, the energy eigenvalues of the
+bound states, which are negative, also decrease with a logarithmic dependence
+on the topological mass. A Chern-Simons term gives the bound system a repulsive
+effect.
+</abstract>

@@ -1,0 +1,29 @@
+<title>
+From Gauging Nonrelativistic Translations to N-Body Dynamics
+</title>
+
+<abstract>
+  We consider the gauging of space translations with time-dependent gauge
+functions. Using fixed time gauge of relativistic theory, we consider the
+gauge-invariant model describing the motion of nonrelativistic particles. When
+we use gauge-invariant nonrelativistic velocities as independent variables the
+translation gauge fields enter the equations through a d\times (d+1) matrix of
+vielbein fields and their Abelian field strengths, which can be identified with
+the torsion tensors of teleparallel formulation of relativity theory. We
+consider the planar case (d=2) in some detail, with the assumption that the
+action for the dreibein fields is given by the translational Chern-Simons term.
+We fix the asymptotic transformations in such a way that the space part of the
+metric becomes asymptotically Euclidean. The residual symmetries are (local in
+time) translations and rigid rotations. We describe the effective interaction
+of the d=2 N-particle problem and discuss its classical solution for N=2. The
+phase space Hamiltonian H describing two-body interactions satisfies a
+nonlinear equation H={\cal H}(\vec x,\vec p;H) which implies, after
+quantization, a nonstandard form of the Schr\"odinger equation with energy
+dependent fractional angular momentum eigenvalues. Quantum solutions of the
+two-body problem are discussed. The bound states with discrete energy levels
+correspond to a confined classical motion (for the planar distance between two
+particles r\le r_0) and the scattering states with continuum energy correspond
+to the classical motion for r>r_0. We extend our considerations by introducing
+an external constant magnetic field and, for N=2, provide the classical and
+quantum solutions in the confined and unconfined regimes.
+</abstract>

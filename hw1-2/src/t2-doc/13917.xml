@@ -1,0 +1,18 @@
+<title>
+Gauss's law, gauge invariance, and long-range forces in QCD
+</title>
+
+<abstract>
+  We use a unitary operator constructed in earlier work to transform the
+Hamiltonian for QCD in the temporal ($A_0=0$) gauge into a representation in
+which the quark field is gauge-invariant, and its elementary excitations --
+quark and antiquark creation and annihilation operators -- implement Gauss's
+law. In that representation, the interactions between gauge-dependent parts of
+the gauge field and the spinor (quark) field have been transformed away and
+replaced by long-range non-local interactions of quark color charge densities.
+These long-range interactions connect SU(3) color charge densities through an
+infinite chain of gauge-invariant gauge fields either to other SU(3) color
+charge densities, or to a gluon "anchor". We discuss possible implications of
+this formalism for low-energy processes, including confinement of quarks that
+are not in color singlet configurations.
+</abstract>

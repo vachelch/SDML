@@ -1,0 +1,17 @@
+<title>
+Sigma Model Lagrangian for the Heisenberg Group
+</title>
+
+<abstract>
+  We study the Lagrangian for a sigma model based on the non-compact Heisenberg
+group. A unique feature of this model -- unlike the case for compact Lie groups
+-- is that the definition of the Lagrangian has to be regulated since the trace
+over the Heisenberg group is otherwise divergent. The resulting theory is a
+real Lagrangian with a quartic interaction term. After a few non-trivial
+transformations, the Lagrangian is shown to be equivalent -- at the classical
+level -- to a complex cubic Lagrangian. A one loop computation shows that the
+quartic and cubic Lagrangians are equivalent at the quantum level as well. The
+complex Lagrangian is known to classically equivalent to the SU(2) sigma model,
+with the equivalence breaking down at the quantum level. An explanation of this
+well known results emerges from the properties of the Heisenberg sigma model.
+</abstract>

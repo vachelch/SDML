@@ -1,0 +1,18 @@
+<title>
+Almost Flat Planar Diagrams
+</title>
+
+<abstract>
+  We continue our study of matrix models of dually weighted graphs. Among the
+attractive features of these models is the possibility to interpolate between
+ensembles of regular and random two-dimensional lattices, relevant for the
+study of the crossover from two-dimensional flat space to two-dimensional
+quantum gravity. We further develop the formalism of large $N$ character
+expansions. In particular, a general method for determining the large $N$ limit
+of a character is derived. This method, aside from being potentially useful for
+a far greater class of problems, allows us to exactly solve the matrix models
+of dually weighted graphs, reducing them to a well-posed Cauchy-Riemann
+problem. The power of the method is illustrated by explicitly solving a new
+model in which only positive curvature defects are permitted on the surface, an
+arbitrary amount of negative curvature being introduced at a single insertion.
+</abstract>

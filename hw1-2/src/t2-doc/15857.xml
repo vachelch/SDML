@@ -1,0 +1,25 @@
+<title>
+Orientifolds and Slumps in G_2 and Spin(7) Metrics
+</title>
+
+<abstract>
+  We discuss some new metrics of special holonomy, and their roles in string
+theory and M-theory. First we consider Spin(7) metrics denoted by C_8, which
+are complete on a complex line bundle over CP^3. The principal orbits are S^7,
+described as a triaxially squashed S^3 bundle over S^4. The behaviour in the
+S^3 directions is similar to that in the Atiyah-Hitchin metric, and we show how
+this leads to an M-theory interpretation with orientifold D6-branes wrapped
+over S^4. We then consider new G_2 metrics which we denote by C_7, which are
+complete on an R^2 bundle over T^{1,1}, with principal orbits that are
+S^3\times S^3. We study the C_7 metrics using numerical methods, and we find
+that they have the remarkable property of admitting a U(1) Killing vector whose
+length is nowhere zero or infinite. This allows one to make an everywhere
+non-singular reduction of an M-theory solution to give a solution of the type
+IIA theory. The solution has two non-trivial S^2 cycles, and both carry
+magnetic charge with respect to the R-R vector field. We also discuss some
+four-dimensional hyper-Kahler metrics described recently by Cherkis and
+Kapustin, following earlier work by Kronheimer. We show that in certain cases
+these metrics, whose explicit form is known only asymptotically, can be related
+to metrics characterised by solutions of the su(\infty) Toda equation, which
+can provide a way of studying their interior structure.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Spin(7)-manifolds and symmetric Yang--Mills instantons
+</title>
+
+<abstract>
+  In this Letter we establish a relationship between symmetric SU(2)
+Yang--Mills instantons and metrics with Spin(7)-holonomy. Our method is based
+on a slight extension of that of Bryant and Salamon developed to construct
+explicit manifolds with special holonomies in 1989.
+   More precisely, we prove that making use of symmetric SU(2) Yang--Mills
+instantons on Riemannian spin-manifolds, we can construct metrics on the chiral
+spinor bundle whose holonomies are within Spin(7). Moreover if the resulting
+space is connected, simply connected and complete, the holonomy coincides with
+Spin(7).
+   The basic example is the metric constructed on the chiral spinor bundle of
+the round four-sphere by using a generic SU(2)-instanton of unit action; hence
+it is a five-parameter deformation of the Bryant--Salamon example, also found
+by Gibbons, Page and Pope.
+</abstract>

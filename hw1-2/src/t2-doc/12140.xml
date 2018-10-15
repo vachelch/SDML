@@ -1,0 +1,18 @@
+<title>
+Classical R-Matrices and the Feigin-Odesskii Algebra via Hamiltonian and
+  Poisson Reductions
+</title>
+
+<abstract>
+  We present a formula for a classical $r$-matrix of an integrable system
+obtained by Hamiltonian reduction of some free field theories using pure gauge
+symmetries. The framework of the reduction is restricted only by the assumption
+that the respective gauge transformations are Lie group ones. Our formula is in
+terms of Dirac brackets, and some new observations on these brackets are made.
+We apply our method to derive a classical $r$-matrix for the elliptic
+Calogero-Moser system with spin starting from the Higgs bundle over an elliptic
+curve with marked points. In the paper we also derive a classical
+Feigin-Odesskii algebra by a Poisson reduction of some modification of the
+Higgs bundle over an elliptic curve. This allows us to include integrable
+lattice models in a Hitchin type construction.
+</abstract>

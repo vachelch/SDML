@@ -1,0 +1,19 @@
+<title>
+Fractons and Fractal Statistics
+</title>
+
+<abstract>
+  Fractons are anyons classified into equivalence classes and they obey a
+specific fractal statistics. The equivalence classes are labeled by a fractal
+parameter or Hausdorff dimension $h$. We consider this approach in the context
+of the Fractional Quantum Hall Effect (FQHE) and the concept of duality between
+such classes, defined by $\tilde{h}=3-h$ shows us that the filling factors for
+which the FQHE were observed just appear into these classes. A connection
+between equivalence classes $h$ and the modular group for the quantum phase
+transitions of the FQHE is also obtained. A $\beta-$function is defined for a
+complex conductivity which embodies the classes $h$. The thermodynamics is also
+considered for a gas of fractons $(h,\nu)$ with a constant density of states
+and an exact equation of state is obtained at low-temperature and low-density
+limits. We also prove that the Farey sequences for rational numbers can be
+expressed in terms of the equivalence classes $h$.
+</abstract>

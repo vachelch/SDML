@@ -1,0 +1,29 @@
+<date>
+Sat, 30 May 1998 19:03:38 GMT
+</date>
+
+<title>
+A Lie Algebra for Closed Strings, Spin Chains and Gauge Theories
+</title>
+
+<abstract>
+  We consider quantum dynamical systems whose degrees of freedom are described
+by $N \times N$ matrices, in the planar limit $N \to \infty$. Examples are
+gauge theoires and the M(atrix)-theory of strings. States invariant under U(N)
+are `closed strings', modelled by traces of products of matrices. We have
+discovered that the U(N)-invariant opertors acting on both open and closed
+string states form a remarkable new Lie algebra which we will call the heterix
+algebra. (The simplest special case, with one degree of freedom, is an
+extension of the Virasoro algebra by the infinite-dimensional general linear
+algebra.) Furthermore, these operators acting on closed string states only form
+a quotient algebra of the heterix algebra. We will call this quotient algebra
+the cyclix algebra. We express the Hamiltonian of some gauge field theories
+(like those with adjoint matter fields and dimensionally reduced pure QCD
+models) as elements of this Lie algebra. Finally, we apply this cyclix algebra
+to establish an isomorphism between certain planar matrix models and quantum
+spin chain systems. Thus we obtain some matrix models solvable in the planar
+limit; e.g., matrix models associated with the Ising model, the XYZ model,
+models satisfying the Dolan-Grady condition and the chiral Potts model. Thus
+our cyclix Lie algebra described the dynamical symmetries of quantum spin chain
+systems, large-N gauge field theories, and the M(atrix)-theory of strings.
+</abstract>

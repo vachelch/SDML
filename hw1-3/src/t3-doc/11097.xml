@@ -1,0 +1,23 @@
+<date>
+Thu, 29 May 1997 14:22:35 +0300 (EET)
+</date>
+
+<title>
+Variational Wave Functionals in Quantum Field Theory
+</title>
+
+<abstract>
+  Variational (Rayleigh-Ritz) methods are applied to local quantum field
+theory. For scalar theories the wave functional is parametrized in the form of
+a superposition of Gaussians and the expectation value of the Hamiltonian is
+expressed in a form that can be minimized numerically. A scheme of successive
+refinements of the superposition is proposed that may converge to the exact
+functional. As an illustration, a simple numerical approximation for the
+effective potential is worked out based on minimization with respect to five
+variational parameters. A variational principle is formulated for the fermion
+vacuum energy as a functional of the scalar fields to which the fermions are
+coupled. The discussion in this paper is given for scalar and fermion
+interactions in 1+1 dimensions. The extension to higher dimensions encounters a
+more involved structure of ultraviolet divergences and is deferred to future
+work.
+</abstract>

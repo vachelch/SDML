@@ -1,0 +1,23 @@
+<title>
+Gauge Supergravities for all Odd Dimensions
+</title>
+
+<abstract>
+  Recently proposed supergravity theories in odd dimensions whose fields are
+connection one-forms for the minimal supersymmetric extensions of anti-de
+Sitter gravity are discussed. Two essential ingredients are required for this
+construction: (1) The superalgebras, which extend the adS algebra for different
+dimensions, and (2) the lagrangians, which are Chern-Simons $(2n-1)$-forms. The
+first item completes the analysis of van Holten and Van Proeyen, which was
+valid for N=1 only. The second ensures that the actions are invariant by
+construction under the gauge supergroup and, in particular, under local
+supersymmetry. Thus, unlike standard supergravity, the local supersymmetry
+algebra closes off-shell and without requiring auxiliary fields. \\
+  The superalgebras are constructed for all dimensions and they fall into three
+families: $osp(m|N)$ for $D=2,3,4$, mod 8, $osp(N|m)$ for $D=6,7,8$, mod 8, and
+$su(m-2,2|N)$ for D=5 mod 4, with $m=2^{[D/2]}$. The lagrangian is constructed
+for $D=5, 7$ and 11. In all cases the field content includes the vielbein
+($e_{\mu}^{a}$), the spin connection ($\omega_{\mu}^{ab}$), $N$ gravitini
+($\psi_{\mu}^{i}$), and some extra bosonic "matter" fields which vary from one
+dimension to another.
+</abstract>

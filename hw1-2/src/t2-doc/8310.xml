@@ -1,0 +1,16 @@
+<title>
+Photon splitting in strong magnetic fields: asymptotic approximation
+  formulae vs. accurate numerical results
+</title>
+
+<abstract>
+  We present the results of a numerical calculation of the photon splitting
+rate below the electron-pair creation threshold ($\omega \le 2m$) in magnetic
+fields $B ~{> \atop \sim}~ B_{\rm cr} = m^2 /e = 4.414 \times 10^{9}$ T. Our
+results confirm asymptotic approximations derived in the low-field ($B < B_{\rm
+cr}$) and high-field ($B \gg B_{\rm cr}$) limit, and allow interpolating
+between the two asymptotic regions. Our expression for the photon splitting
+rate is a simplified version of a formula given by Mentzel et al. We also point
+out that, although the analytical formula is correct, the splitting rates
+calculated there are wrong due to an error in the numerical calculations.
+</abstract>

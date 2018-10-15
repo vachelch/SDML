@@ -1,0 +1,12 @@
+<title>
+Maslov indices for periodic orbits
+</title>
+
+<abstract>
+  It is shown that there is a generalization of the Conley-Zehnder index for
+periodic trajectories of a classical Hamiltonian system $(Q, \omega, H)$ from
+the case $Q = T^*R^n$ to arbitrary symplectic manifolds. As it turns out, it is
+precisely this index which appears as a Maslov phase in the trace formulas by
+Gutzwiller and Duistermaat-Guillemin. Contribution presented at the XIX ICGTMP
+Salamanca June 92.
+</abstract>

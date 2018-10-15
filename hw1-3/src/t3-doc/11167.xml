@@ -1,0 +1,28 @@
+<date>
+Mon, 26 Aug 2002 14:11:15 GMT
+</date>
+
+<title>
+Lagrangian structures, integrability and chaos for 3D dynamical
+  equations
+</title>
+
+<abstract>
+  In this paper we consider the general setting for constructing Action
+Principles for three-dimensional first order autonomous equations. We present
+the results for some integrable and non-integrable cases of the Lotka-Volterra
+equation, and we show Lagrangian descriptions which are valid for systems
+satisfying Shil'nikov criteria on the existence of strange attractors, though
+chaotic behavior or homoclinic orbits have not been verified up to now. The
+Euler-Lagrange equations we get for these systems usually present "time
+reparameterization" symmetry, though other kinds of invariance may be found
+according to the kernel of the associated symplectic 2-form. The formulation of
+a Hamiltonian structure (Poisson brackets and Hamiltonians) for these systems
+from the Lagrangian viewpoint leads to a method of finding new constants of the
+motion starting from known ones, which is applied to some systems found in the
+literature known to possess a constant of the motion, to find the other and
+thus showing their integrability. In particular, we show that the so-called ABC
+system is completely integrable if it possesses one constant of the motion.
+  Pacs numbers: 45.20.Jj, 02.30.Ik, 05.45.Ac
+  Keywords: Lagrangian, integrable system, chaos, Lotka Volterra
+</abstract>

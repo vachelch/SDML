@@ -1,0 +1,18 @@
+<title>
+Experiments with the WDVV equations for the gluino-condensate
+  prepotential: the cubic (two-cut) case
+</title>
+
+<abstract>
+  We demonstrate by explicit calculation that the first two terms in the CIV-DV
+prepotential for the two-cut case satisfy the generalized WDVV equations, just
+as in all other known examples of hyperelliptic Seiberg-Witten models. The WDVV
+equations are non-trivial in this situation, provided the set of moduli is
+extended as compared to the Dijkgraaf-Vafa suggestion and includes also moduli,
+associated with the positions of the cuts (not only with their lengths).
+Expression for the extra modulus dictated by WDVV equation, however, appears
+different from a naive expectation implied by the Whitham theory. Moreover, for
+every value of the "quantum-deformation parameter" 1/g_3, we actually find an
+entire one-parameter family of solutions to the WDVV equations, of which the
+conventional prepotential is just a single point.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Integrable Boundaries, Conformal Boundary Conditions and A-D-E Fusion
+  Rules
+</title>
+
+<abstract>
+  The $sl(2)$ minimal theories are labelled by a Lie algebra pair $(A,G)$ where
+$G$ is of $A$-$D$-$E$ type. For these theories on a cylinder we conjecture a
+complete set of conformal boundary conditions labelled by the nodes of the
+tensor product graph $A\otimes G$. The cylinder partition functions are given
+by fusion rules arising from the graph fusion algebra of $A\otimes G$. We
+further conjecture that, for each conformal boundary condition, an integrable
+boundary condition exists as a solution of the boundary Yang-Baxter equation
+for the associated lattice model. The theory is illustrated using the
+$(A_4,D_4)$ or 3-state Potts model.
+</abstract>

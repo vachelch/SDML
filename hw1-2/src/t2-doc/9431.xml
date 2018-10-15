@@ -1,0 +1,16 @@
+<title>
+Path-integral formulation of backward and umklapp scattering for 1d
+  spinless fermions
+</title>
+
+<abstract>
+  We present a (1+1)-dimensional fermionic QFT with non-local couplings between
+currents. This model describes an ensemble of spinless fermions interacting
+through forward, backward and umklapp scattering processes. We express the
+vacuum to vacuum functional in terms of a non trivial fermionic determinant.
+Using path-integral methods we find a bosonic representation for this
+determinant. Thus we obtain an effective action depending on three scalar
+fields, two of which correspond to the physical collective excitations whereas
+the third one is an auxiliary field that is left to be integrated by means of
+an approximate technique.
+</abstract>

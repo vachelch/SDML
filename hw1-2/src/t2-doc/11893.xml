@@ -1,0 +1,19 @@
+<title>
+Frenet-Serret dynamics
+</title>
+
+<abstract>
+  We consider the motion of a particle described by an action that is a
+functional of the Frenet-Serret [FS] curvatures associated with the embedding
+of its worldline in Minkowski space. We develop a theory of deformations
+tailored to the FS frame. Both the Euler-Lagrange equations and the physical
+invariants of the motion associated with the Poincar\'e symmetry of Minkowski
+space, the mass and the spin of the particle, are expressed in a simple way in
+terms of these curvatures. The simplest non-trivial model of this form, with
+the lagrangian depending on the first FS (or geodesic) curvature, is
+integrable. We show how this integrability can be deduced from the Poincar\'e
+invariants of the motion. We go on to explore the structure of these invariants
+in higher-order models. In particular, the integrability of the model described
+by a lagrangian that is a function of the second FS curvature (or torsion) is
+established in a three dimensional ambient spacetime.
+</abstract>

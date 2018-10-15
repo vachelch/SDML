@@ -1,0 +1,15 @@
+<title>
+Reconstructing the Vacuum Functional of Yang-Mills from its Large
+  Distance Behaviour
+</title>
+
+<abstract>
+  For fields that vary slowly on the scale of the lightest mass the logarithm
+of the vacuum functional can be expanded as a sum of local functionals. For
+Yang-Mills theory the leading term in the expansion dominates large distance
+effects and leads to an area law for the Wilson loop. However, this expansion
+cannot be expected to converge for fields that vary more rapidly. By studying
+the analyticity of the vacuum functional under scale transformations we show
+how to re-sum this series so as to reconstruct the vacuum functional for
+arbitrary fields.
+</abstract>

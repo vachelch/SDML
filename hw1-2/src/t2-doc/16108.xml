@@ -1,0 +1,18 @@
+<title>
+WDVV-like equations in N=2 SUSY Yang-Mills Theory
+</title>
+
+<abstract>
+  The prepotential $F(a_i)$, defining the low-energy effective action of the
+$SU(N)$ ${\cal N}=2$ SUSY Yang-Mills theories, satisfies an enlarged set of the
+WDVV-like equations $F_iF_k^{-1}F_j = F_jF_k^{-1}F_i$ for any triple $i,j,k =
+1,\ldots,N-1$, where matrix $F_i$ is equal to $(F_i)_{mn} = \partial^3
+F/\partial a_i\partial a_m\partial a_n$. The same equations are actually true
+for generic topological theories. In contrast to the conventional formulation,
+when $k$ is restricted to $k=0$, in the proposed system there is no
+distinguished ``first'' time-variable, and indices can be raised with the help
+of any ``metric'' $\eta_{mn}^{(k)} = (F_k)_{mn}$, not obligatory flat. All the
+equations (for all $i,j,k$) are true simultaneously. This result provides a new
+parallel between the Seiberg-Witten theory of low-energy gauge models in $4d$
+and topological theories.
+</abstract>

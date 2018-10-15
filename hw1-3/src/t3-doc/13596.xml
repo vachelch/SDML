@@ -1,0 +1,19 @@
+<date>
+Thu, 11 May 1995 17:44:42 +0200
+</date>
+
+<title>
+Exact first-passage exponents of 1D domain growth: relation to a
+  reaction diffusion model
+</title>
+
+<abstract>
+  In the zero temperature Glauber dynamics of the ferromagnetic Ising or
+$q$-state Potts model, the size of domains is known to grow like $t^{1/2}$.
+Recent simulations have shown that the fraction $r(q,t)$ of spins which have
+never flipped up to time $t$ decays like a power law $r(q,t) \sim
+t^{-\theta(q)}$ with a non-trivial dependence of the exponent $\theta(q)$ on
+$q$ and on space dimension. By mapping the problem on an exactly soluble
+one-species coagulation model ($A+A\rightarrow A$), we obtain the exact
+expression of $\theta(q)$ in dimension one.
+</abstract>

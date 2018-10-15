@@ -1,0 +1,14 @@
+<title>
+Quantum Mechanical Anomalies and the De Witt Effective Action
+</title>
+
+<abstract>
+  We study the partition function of N=1 supersymmetric De Rham quantum
+mechanics on a Riemannian manifold, with a nontrivial chemical potential $\mu$
+for the fermions. General arguments suggest that when $\mu \to \infty$ we
+should get the partition function of a free point particle. We investigate this
+limit by exact evaluation of the fermionic path integral. In even dimensions we
+find the De Witt term with a definite numerical factor. However, in odd
+dimensions our result is pestered by a quantum mechanical anomaly and the
+numerical factor in the De Witt term remains ambiquous.
+</abstract>

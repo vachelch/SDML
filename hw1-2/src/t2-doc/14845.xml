@@ -1,0 +1,27 @@
+<title>
+Dirac Charge Quantization and Generalized Differential Cohomology
+</title>
+
+<abstract>
+  The main new result here is the cancellation of global anomalies in the Type
+I superstring, with and without D-branes. Our argument here depends on a
+precise interpretation of the 2-form abelian gauge field using KO-theory; then
+the anomaly cancellation follows from a geometric form of the full
+Atiyah-Singer index theorem for families of Dirac operators. This is a refined
+version of the Green-Schwarz mechanism. It seems that a geometric
+interpretation of this mechanism-the cancellation of local and global fermion
+anomalies against local and global anomalies in the electric coupling of an
+abelian gauge field-always proceeds in a similar manner. For example, a
+previous paper with M. Hopkins (hep-th/0002027) explains the cancellation of
+anomalies in Type II with D-branes in these terms. The focal point of this
+paper is a general discussion about abelian gauge fields and Dirac charge
+quantization. Namely, we argue that quantization of charge is implemented in
+the functional integral by interpreting abelian gauge fields as cochains in a
+generalized differential cohomology theory. Our exposition includes elementary
+examples as well as examples from superstring theory. The mathematical
+underpinnings of differential cohomology are currently under development; we
+only give a sketch here. The anomaly cancellation in Type I depends on
+properties of a certain quadratic form in KO-theory, which we analyze in an
+appendix written jointly with M. Hopkins. In particular, the usual equation
+``Tr R^2 = Tr F^2'' is refined to an equation in the KO-theory of spacetime.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Two-dimensional QCD, instanton contributions and the perturbative
+  Wu-Mandelstam-Leibbrandt prescription
+</title>
+
+<abstract>
+  The exact Wilson loop expression for the pure Yang-Mills U(N) theory on a
+sphere $S^2$ of radius $R$ exhibits, in the decompactification limit $R\to
+\infty$, the expected pure area exponentiation. This behaviour can be
+understood as due to the sum over all instanton sectors. If only the zero
+instanton sector is considered, in the decompactification limit one exactly
+recovers the sum of the perturbative series in which the light-cone gauge
+Yang-Mills propagator is prescribed according to Wu-Mandelstam-Leibbrandt. When
+instantons are disregarded, no pure area exponentiation occurs, the string
+tension is different and, in the large-N limit, confinement is lost.
+</abstract>

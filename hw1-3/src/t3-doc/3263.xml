@@ -1,0 +1,29 @@
+<date>
+Tue, 1 Jun 1999 16:11:26 GMT
+</date>
+
+<title>
+Hawking Radiation in String Theory and the String Phase of Black Holes
+</title>
+
+<abstract>
+  The quantum string emission by Black Holes is computed in the framework of
+the `string analogue model' (or thermodynamical approach), which is well suited
+to combine QFT and string theory in curved backgrounds (particulary here, as
+black holes and strings posses intrinsic thermal features and temperatures).
+The QFT-Hawking temperature T_H is upper bounded by the string temperature T_S
+in the black hole background. The black hole emission spectrum is an incomplete
+gamma function of (T_H - T_S). For T_H << T_S, it yields the QFT-Hawking
+emission. For T_H \to T_S, it shows highly massive string states dominate the
+emission and undergo a typical string phase transition to a microscopic
+`minimal' black hole of mass M_{\min} or radius r_{\min} (inversely
+proportional to T_S) and string temperature T_S. The semiclassical QFT black
+hole (of mass M and temperature T_H) and the string black hole (of mass M_{min}
+and temperature T_S) are mapped one into another by a `Dual' transform which
+links classical/QFT and quantum string regimes. The string back reaction effect
+(selfconsistent black hole solution of the semiclassical Einstein equations
+with mass M_+ (radius r_+) and temperature T_+) is computed. Both, the QFT and
+string black hole regimes are well defined and bounded: r_{min} leq r_+ \leq
+r_S, M_{min} \leq M_+ \leq M, T_H \leq T_+ \leq T_S. The string `minimal' black
+hole has a life time tau_{min} \simeq \frac{k_B c}{G \hbar} T^{-3}_S.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+Nonabelian 2-Forms
+</title>
+
+<abstract>
+  We study gauge theories based on nonabelian 2-forms. Certain connections on
+loop space give rise to generalized covariant derivatives that include a
+nonabelian 2-form. This can be used to find rather straightforward expressions
+for the field strength and gauge transformations. As a special case we recover
+formulas for connections on nonabelian gerbe, as recently constructed in
+mathematics. The general construction gives rise to connections on algebra
+bundles, which might be relevant for D-branes in the presence of torsion. We
+construct BV sigma model actions for these connections and discuss their gauge
+fixing. We find both Yang-Mills type and topological BF type actions.
+</abstract>

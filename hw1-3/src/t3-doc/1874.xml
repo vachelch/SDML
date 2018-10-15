@@ -1,0 +1,16 @@
+<date>
+Mon, 2 Apr 2001 15:41:15 GMT
+</date>
+
+<title>
+Basis Optimization Renormalization Group for Quantum Hamiltonian
+</title>
+
+<abstract>
+  We propose a renormalization group algorithm for quantum Hamiltonian to
+calculate energy and wavefunctions of a small arbitrary number of low-lying
+states in finite dimensional Hilbert space with high accuracy. This algorithm
+is free from limitations associated with dimensionality and interaction types
+of models. We also find analytic forms of renormalization group equations for
+the ground state that provide convergence to the exact solution.
+</abstract>

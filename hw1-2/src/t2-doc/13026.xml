@@ -1,0 +1,20 @@
+<title>
+Feynman diagrams as a weight system: four-loop test of a four-term
+  relation
+</title>
+
+<abstract>
+  At four loops there first occurs a test of the four-term relation derived by
+the second author in the course of investigating whether counterterms from
+subdivergence-free diagrams form a weight system. This test relates
+counterterms in a four-dimensional field theory with Yukawa and $\phi^4$
+interactions, where no such relation was previously suspected. Using
+integration by parts, we reduce each counterterm to massless two-loop two-point
+integrals. The four-term relation is verified, with $<G_1-G_2+G_3-G_4> = 0 -
+3\zeta_3 + 6\zeta_3 - 3\zeta_3 = 0$, demonstrating non-trivial cancellation of
+the trefoil knot and thus supporting the emerging connection between knots and
+counterterms, via transcendental numbers assigned by four-dimensional field
+theories to chord diagrams. Restrictions to scalar couplings and renormalizable
+interactions are found to be necessary for the existence of a pure four-term
+relation. Strong indications of richer structure are given at five loops.
+</abstract>

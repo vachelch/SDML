@@ -1,0 +1,17 @@
+<title>
+Three-body Generalizations of the Sutherland Problem
+</title>
+
+<abstract>
+  The three-particle Hamiltonian obtained by replacing the two-body
+trigonometric potential of the Sutherland problem by a three-body one of a
+similar form is shown to be exactly solvable. When written in appropriate
+variables, its eigenfunctions can be expressed in terms of Jack symmetric
+polynomials. The exact solvability of the problem is explained by a hidden
+$sl(3,R)$ symmetry. A generalized Sutherland three-particle problem including
+both two- and three-body trigonometric potentials and internal degrees of
+freedom is then considered. It is analyzed in terms of three first-order
+noncommuting differential-difference operators, which are constructed by
+combining SUSYQM supercharges with the elements of the dihedral group~$D_6$.
+Three alternative commuting operators are also introduced.
+</abstract>

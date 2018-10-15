@@ -1,0 +1,16 @@
+<title>
+On the Divergence of Perturbation Theory. Steps Towards a Convergent
+  Series
+</title>
+
+<abstract>
+  The mechanism underlying the divergence of perturbation theory is exposed.
+This is done through a detailed study of the violation of the hypothesis of the
+Dominated Convergence Theorem of Lebesgue using familiar techniques of Quantum
+Field Theory. That theorem governs the validity (or lack of it) of the formal
+manipulations done to generate the perturbative series in the functional
+integral formalism. The aspects of the perturbative series that need to be
+modified to obtain a convergent series are presented. Useful tools for a
+practical implementation of these modifications are developed. Some resummation
+methods are analyzed in the light of the above mentioned mechanism.
+</abstract>

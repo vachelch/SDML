@@ -1,0 +1,24 @@
+<date>
+Thu, 9 May 2002 22:03:12 GMT
+</date>
+
+<title>
+2D Conformal Field Theories and Holography
+</title>
+
+<abstract>
+  It is known that the chiral part of any 2d conformal field theory defines a
+3d topological quantum field theory: quantum states of this TQFT are the CFT
+conformal blocks. The main aim of this paper is to show that a similar CFT/TQFT
+relation exists also for the full CFT. The 3d topological theory that arises is
+a certain ``square'' of the chiral TQFT. Such topological theories were studied
+by Turaev and Viro; they are related to 3d gravity. We establish an
+operator/state correspondence in which operators in the chiral TQFT correspond
+to states in the Turaev-Viro theory. We use this correspondence to interpret
+CFT correlation functions as particular quantum states of the Turaev-Viro
+theory. We compute the components of these states in the basis in the
+Turaev-Viro Hilbert space given by colored 3-valent graphs. The formula we
+obtain is a generalization of the Verlinde formula. The later is obtained from
+our expression for a zero colored graph. Our results give an interesting
+``holographic'' perspective on conformal field theories in 2 dimensions.
+</abstract>

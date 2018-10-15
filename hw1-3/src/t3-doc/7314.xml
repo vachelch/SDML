@@ -1,0 +1,28 @@
+<date>
+Sat, 10 Apr 1999 15:20:38 GMT
+</date>
+
+<title>
+Symmetry Breaking using Fluids II: Velocity Potential Method
+</title>
+
+<abstract>
+  A generalization of scalar electrodynamics called fluid electrodynamics is
+presented. In this theory a fluid replaces the Higgs scalar field. Fluid
+electrodynamics might have application to the theory of low temperature Helium
+superfluids, but here it is argued that it provides an alternative method of
+approaching symmetry breaking in particle physics. The method of constructing
+fluid electrodynamics is to start with the velocity decomposition of a perfect
+fluid as in general relativity. A unit vector tangent to the flow lines of an
+isentropic fluid can be written in terms of scalar potentials:
+$V_a=h^{-1}(\ph_a+\al\bt_a-\th S)$. A novel interacting charged fluid can be
+obtained by applying the covariant derivative: $D_a=\p_a+ieA_a$ to these scalar
+potentials. This fluid is no longer isentropic and there are choices for which
+it either obeys the second law of thermodynamics or not. A mass term of the
+correct sign occurs for the $A$ term in the stress, and this mass term depends
+on the potentials in the above vector. The charged fluid can be reduced to
+scalar electrodynamics and the standard approach to symmetry breaking applied;
+alternatively a mass can be induced by the fluid by using just the
+thermodynamic potentials and then fixing at a critical point, if this is taken
+to be the Bose condensation point then the induced mass is negligible.
+</abstract>

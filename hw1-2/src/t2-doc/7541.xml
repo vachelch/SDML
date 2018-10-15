@@ -1,0 +1,16 @@
+<title>
+Is it possible to construct exactly solvable models?
+</title>
+
+<abstract>
+  We develop a constructive method to derive exactly solvable quantum
+mechanical models of rational (Calogero) and trigonometric (Sutherland) type.
+This method starts from a linear algebra problem: finding eigenvectors of
+triangular finite matrices. These eigenvectors are transcribed into
+eigenfunctions of a selfadjoint Schr\"odinger operator. We prove the
+feasibility of our method by constructing a new "$AG_3$ model" of trigonometric
+type (the rational case was known before from Wolfes 1975). Applying a Coxeter
+group analysis we prove its equivalence with the $B_3$ model. In order to
+better understand features of our construction we exhibit the $F_4$ rational
+model with our method.
+</abstract>

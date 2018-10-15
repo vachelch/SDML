@@ -1,0 +1,24 @@
+<date>
+Tue, 9 Mar 1999 13:43:34 GMT
+</date>
+
+<title>
+Feynman integrals with tensorial structure in the negative dimensional
+  integration scheme
+</title>
+
+<abstract>
+  Negative dimensional integration method (NDIM) is revealing itself as a very
+useful technique for computing Feynman integrals, massless and/or massive,
+covariant and non-covariant alike. Up to now, however, the illustrative
+calculations done using such method are mostly covariant scalar integrals,
+without numerator factors. Here we show how those integrals with tensorial
+structures can also be handled with easiness and in a straightforward manner.
+However, contrary to the absence of significant features in the usual approach,
+here the NDIM also allows us to come across surprising unsuspected bonuses. In
+this line, we present two alternative ways of working out the integrals and
+illustrate them by taking the easiest Feynman integrals in this category that
+emerges in the computation of a standard one-loop self-energy diagram. One of
+the novel and as yet unsuspected bonus is that there are degeneracies in the
+way one can express the final result for the referred Feynman integral.
+</abstract>

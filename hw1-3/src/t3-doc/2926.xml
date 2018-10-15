@@ -1,0 +1,16 @@
+<date>
+Thu, 27 May 1993 11:34:52 -0600
+</date>
+
+<title>
+The Relation between the Mandelstam and the Cayley-Hamilton Identities
+</title>
+
+<abstract>
+  Starting from the characteristic polynomial for ordinary matrices we give a
+combinatorial deduction of the Mandelstam identities and viceversa, thus
+showing that the two sets of relations are equivalent. We are able to extend
+this construction to supermatrices in such a way that we obtain the Mandelstam
+identities in this case, once the corresponding characteristic equation is
+known.
+</abstract>

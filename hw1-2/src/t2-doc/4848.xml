@@ -1,0 +1,25 @@
+<title>
+Abelian Magnetic Monopole Dominance in Quark Confinement
+</title>
+
+<abstract>
+  We prove Abelian magnetic monopole dominance in the string tension of QCD.
+Abelian and monopole dominance in low energy physics of QCD has been confirmed
+for various quantities by recent Monte Carlo simulations of lattice gauge
+theory. In order to prove this dominance, we use the reformulation of continuum
+Yang-Mills theory in the maximal Abelian gauge as a deformation of a
+topological field theory of magnetic monopoles, which was proposed in the
+previous article by the author. This reformulation provides an efficient way
+for incorporating the magnetic monopole configuration as a topological
+non-trivial configuration in the functional integral. We derive a version of
+the non-Abelian Stokes theorem and use it to estimate the expectation value of
+the Wilson loop. This clearly exhibits the role played by the magnetic monopole
+as an origin of the Berry phase in the calculation of the Wilson loop in the
+manifestly gauge invariant manner. We show that the string tension derived from
+the diagonal (abelian) Wilson loop in the topological field theory (studied in
+the previous article) converges to that of the full non-Abelian Wilson loop in
+the limit of large Wilson loop. Therefore, within the above reformulation of
+QCD, this result (together with the previous result) completes the proof of
+quark confinement in QCD based on the criterion of the area law of the full
+non-Abelian Wilson loop.
+</abstract>

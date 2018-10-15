@@ -1,0 +1,23 @@
+<title>
+Generating functions for tensor products
+</title>
+
+<abstract>
+  This is the first of two articles devoted to a comprehensive exposition of
+the generating-function method for computing fusion rules in affine Lie
+algebras. The present paper is entirely devoted to the study of the
+tensor-product (infinite-level) limit of fusions rules. We consider thus in
+detail the problem of constructing tensor-product generating functions in
+finite Lie algebras. From the beginning, the problem is recast in terms of the
+concept of a model, which is an algebra whose Poincar\'e series is the
+generating function under study. We start by reviewing Sharp's character
+method. Simple examples are worked out in detail, illustrating thereby its
+intrinsic limitations. An alternative approach is then presented; it is based
+on the reformulation of the problem of calculating tensor products in terms of
+the solution of a set of linear and homogeneous Diophantine equations whose
+elementary solutions represent ``elementary couplings''. Grobner bases provide
+a tool for generating the complete set of relations between elementary
+couplings and, most importantly, as an algorithm for specifying a complete,
+compatible set of ``forbidden couplings''. This machinery is then applied to
+the construction of various tensor-product generating functions.
+</abstract>

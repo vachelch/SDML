@@ -1,0 +1,17 @@
+<title>
+An insider's guide to quantum causal histories
+</title>
+
+<abstract>
+  A review is given of recent work aimed at constructing a quantum theory of
+cosmology in which all observables refer to information measurable by observers
+inside the universe. At the classical level the algebra of observables should
+be modified to take into account the fact that observers can only give truth
+values to observables that have to do with their backwards light cone. The
+resulting algebra is a Heyting rather than a Boolean algebra. The complement is
+non-trivial and contains information about horizons and topology change.
+Representation of such observables quantum mechanically requires a many-Hilbert
+space formalism, in which different observers make measurements in different
+Hilbert spaces. I describe such a formalism, called "quantum causal histories";
+examples include causally evolving spin networks and quantum computers.
+</abstract>

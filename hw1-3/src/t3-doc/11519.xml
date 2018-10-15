@@ -1,0 +1,24 @@
+<date>
+Mon, 17 Jun 96 16:55:59 MET DST
+</date>
+
+<title>
+Non-Uniqueness of Quantized Yang-Mills Theories
+</title>
+
+<abstract>
+  We consider quantized Yang-Mills theories in the framework of causal
+perturbation theory which goes back to Epstein and Glaser. In this approach
+gauge invariance is expressed by a simple commutator relation for the S-matrix.
+The most general coupling which is gauge invariant in first order contains a
+two-parametric ambiguity in the ghost sector - a divergence- and a
+coboundary-coupling may be added. We prove (not completely) that the higher
+orders with these two additional couplings are gauge invariant, too. Moreover
+we show that the ambiguities of the n-point distributions restricted to the
+physical subspace are only a sum of divergences (in the sense of vector
+analysis). It turns out that the theory without divergence- and
+coboundary-coupling is the most simple one in a quite technical sense. The
+proofs for the n-point distributions containing coboundary-couplings are given
+up to third or fourth order only, whereas the statements about the
+divergence-coupling are proven in all orders.
+</abstract>

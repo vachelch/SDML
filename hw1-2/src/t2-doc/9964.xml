@@ -1,0 +1,19 @@
+<title>
+Monopoles, vortices and kinks in the framework of non-commutative
+  geometry
+</title>
+
+<abstract>
+  Non-commutative differential geometry allows a scalar field to be regarded as
+a gauge connection, albeit on a discrete space. We explain how the underlying
+gauge principle corresponds to the independence of physics on the choice of
+vacuum state, should it be non-unique. A consequence is that Yang-Mills-Higgs
+theory can be reformulated as a generalised Yang-Mills gauge theory on
+Euclidean space with a $Z_2$ internal structure. By extending the Hodge star
+operation to this non-commutative space, we are able to define the notion of
+self-duality of the gauge curvature form in arbitrary dimensions. It turns out
+that BPS monopoles, critically coupled vortices, and kinks are all self-dual
+solutions in their respective dimensions. We then prove, within this unified
+formalism, that static soliton solutions to the Yang-Mills-Higgs system exist
+only in one, two and three spatial dimensions.
+</abstract>

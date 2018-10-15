@@ -1,0 +1,24 @@
+<date>
+Mon, 27 Nov 1995 01:32:06 -0800 (PST)
+</date>
+
+<title>
+Solution of the SL(2,R) string in curved spacetime
+</title>
+
+<abstract>
+  The SL(2,R) WZW model, one of the simplest models for strings propagating in
+curved space time, was believed to be non-unitary in the algebraic treatment
+involving affine current algebra. It is shown that this was an error that
+resulted from neglecting a zero mode that must be included to describe the
+correct physics of non-compact WZW models. In the presence of the zero mode the
+mass-shell condition is altered and unitarity is restored. The correct
+currents, including the zero mode, have logarithmic cuts on the worldsheet.
+This has physical consequences for the spectrum because a combination of zero
+modes must be quantized in order to impose periodic boundary conditions on mass
+shell in the physical sector. To arrive at these results and to solve the model
+completely, the SL(2,R) WZW model is quantized in a free field formalism that
+differs from previous ones in that the fields and the currents are Hermitean,
+there are cuts, and there is a new term that could be present more generally,
+but is excluded in the WZW model.
+</abstract>

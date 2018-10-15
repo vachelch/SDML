@@ -1,0 +1,19 @@
+<title>
+Towards a Nonperturbative Path Integral in Gauge Theories
+</title>
+
+<abstract>
+  We propose a modification of the Faddeev-Popov procedure to construct a path
+integral representation for the transition amplitude and the partition function
+for gauge theories whose orbit space has a non-Euclidean geometry. Our approach
+is based on the Kato-Trotter product formula modified appropriately to
+incorporate the gauge invariance condition, and thereby equivalence to the
+Dirac operator formalism is guaranteed by construction. The modified path
+integral provides a solution to the Gribov obstruction as well as to the
+operator ordering problem when the orbit space has curvature. A few explicit
+examples are given to illustrate new features of the formalism developed. The
+method is applied to the Kogut-Susskind lattice gauge theory to develop a
+nonperturbative functional integral for a quantum Yang-Mills theory. Feynman's
+conjecture about a relation between the mass gap and the orbit space geometry
+in gluodynamics is discussed in the framework of the modified path integral.
+</abstract>

@@ -1,0 +1,26 @@
+<date>
+Tue, 10 Jul 2001 21:08:52 GMT
+</date>
+
+<title>
+Bulk Quantization of Gauge Theories: Confined and Higgs Phases
+</title>
+
+<abstract>
+  We deepen the understanding of the quantization of the Yang-Mills field by
+showing that the concept of gauge fixing in 4 dimensions is replaced in the
+5-dimensional formulation by a procedure that amounts to an $A$-dependent gauge
+transformation. The 5-dimensional formulation implements the restriction of the
+physical 4-dimensional gluon field to the Gribov region, while being a local
+description that is under control of BRST symmetries both of topological and
+gauge type. The ghosts decouple so the Euclidean probability density is
+everywhere positive, in contradistinction to the Faddeev-Popov method for
+which the determinant changes sign outside the Gribov region. We include in our
+discussion the coupling of the gauge theory to a Higgs field, including the
+case of spontaneously symmetry breaking. We introduce a minimizing functional
+on the gauge orbit that could be of interest for numerical gauge fixing in the
+simulations of spontaneously broken lattice gauge theories. Other new results
+are displayed, such as the identification of the Schwinger-Dyson equation of
+the five dimensional formulation in the (singular) Landau gauge with that of
+the ordinary Faddeev-Popov formulation, order by order in perturbation theory.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Free q-Schrodinger Equation from Homogeneous Spaces of the 2-dim
+  Euclidean Quantum Group
+</title>
+
+<abstract>
+  After a preliminary review of the definition and the general properties of
+the homogeneous spaces of quantum groups, the quantum hyperboloid qH and the
+quantum plane qP are determined as homogeneous spaces of Fq(E(2)). The
+canonical action of Eq(2) is used to define a natural q-analog of the free
+Schro"dinger equation, that is studied in the momentum and angular momentum
+bases. In the first case the eigenfunctions are factorized in terms of products
+of two q-exponentials. In the second case we determine the eigenstates of the
+unitary representation, which, in the qP case, are given in terms of Hahn-Exton
+functions. Introducing the universal T-matrix for Eq(2) we prove that the
+Hahn-Exton as well as Jackson q-Bessel functions are also obtained as matrix
+elements of T, thus giving the correct extension to quantum groups of well
+known methods in harmonic analysis.
+</abstract>

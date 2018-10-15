@@ -1,0 +1,17 @@
+<title>
+QCD Dirac Spectra With and Without Random Matrix Theory
+</title>
+
+<abstract>
+  Recent work on the spectrum of the Euclidean Dirac operator spectrum show
+that the exact microscopic spectral density can be computed in both random
+matrix theory, and directly from field theory. Exact relations to effective
+Lagrangians with additional quark species form the bridge between the two
+formulations. Taken together with explicit computations in the chGUE random
+matrix ensemble, a series of universality theorems are used to prove that the
+finite-volume QCD partition function coincides exactly with the universal
+double-microscopic limit of chUE random matrix partition functions. In the
+limit where N_f and N_c both go to infinity with the ratio N_f/N_c fixed, the
+relevant effective Lagrangian undergoes a third order phase transition of
+Gross-Witten type.
+</abstract>

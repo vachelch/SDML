@@ -1,0 +1,29 @@
+<date>
+Thu, 18 Oct 2001 22:20:52 GMT
+</date>
+
+<title>
+Two-loop N=4 Super Yang Mills effective action and interaction between
+  D3-branes
+</title>
+
+<abstract>
+  We compute the leading low-energy term in the planar part of the 2-loop
+contribution to the effective action of $\N=4$ SYM theory in 4 dimensions,
+assuming that the gauge group $SU(N+1)$ is broken to $SU(N) x U(1)$ by a
+constant scalar background $X$. While the leading 1-loop correction is the
+familiar $c_1 F^4/|X|^4$ term, the 2-loop expression starts with $c_2
+F^6/|X|^8$. The 1-loop constant $c_1$ is known to be equal to the coefficient
+of the $F^4$ term in the Born-Infeld action for a probe D3-brane separated by
+distance $|X|$ from a large number $N$ of coincident D3-branes. We show that
+the same is true also for the 2-loop constant $c_2$: it matches the coefficient
+of the $F^6$ term in the D3-brane probe action. In the context of the AdS/CFT
+correspondence, this agreement suggests a non-renormalization of the
+coefficient of the $F^6$ term beyond two loops. Thus the result of
+hep-th/9706072 about the agreement between the $v^6$ term in the D0-brane
+supergravity interaction potential and the corresponding 2-loop term in the 1+0
+dimensional reduction of $\N=4$ SYM theory has indeed a direct generalization
+to 1+3 dimensions, as conjectured earlier in hep-th/9709087. We also discuss
+the issue of gauge theory -- supergravity correspondence for higher order
+($F^8$, etc.) terms.
+</abstract>

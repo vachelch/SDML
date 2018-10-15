@@ -1,0 +1,16 @@
+<title>
+Thermal Green's Functions from Quantum Mechanical Path Integrals
+</title>
+
+<abstract>
+  In this paper it is shown how the generating functional for Green's functions
+in relativistic quantum field theory and in thermal field theory can be
+evaluated in terms of a standard quantum mechanical path integral. With this
+calculational approach one avoids the loop-momentum integrals usually
+encountered in Feynman perturbation theory, although with thermal Green's
+functions, a discrete sum (over the winding numbers of paths with respect to
+the circular imaginary time) must be computed. The high-temperature expansion
+of this sum can be performed for all Green's functions at the same time, and is
+particularly simple for the static case. The procedure is illustrated by
+evaluating the two-point function to one-loop order in a $\phi^3_6$ model.
+</abstract>

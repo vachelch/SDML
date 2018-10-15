@@ -1,0 +1,17 @@
+<title>
+Two loop results from one loop computations and non perturbative
+  solutions of exact evolution equations
+</title>
+
+<abstract>
+  A nonperturbative method is proposed for the approximative solution of the
+exact evolution equation which describes the scale dependence of the effective
+average action. It consists of a combination of exact evolution equations for
+independent couplings with renormalization group improved one loop expressions
+of secondary couplings. Our method is illustrated by an example: We compute the
+beta-function of the quartic coupling lambda of an O(N) symmetric scalar field
+theory to order lambda^3 as well as the anomalous dimension to order lambda^2
+using only one loop expressions and find agreement with the two loop
+perturbation theory. We also treat the case of very strong coupling and confirm
+the existence of a "triviality bound".
+</abstract>

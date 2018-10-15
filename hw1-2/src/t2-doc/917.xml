@@ -1,0 +1,27 @@
+<title>
+Symmetry Principle Preserving and Infinity Free Regularization and
+  renormalization of quantum field theories and the mass gap
+</title>
+
+<abstract>
+  Through defining irreducible loop integrals (ILIs), a set of consistency
+conditions for the regularized (quadratically and logarithmically) divergent
+ILIs are obtained to maintain the generalized Ward identities of gauge
+invariance in non-Abelian gauge theories. Overlapping UV divergences are
+explicitly shown to be factorizable in the ILIs and be harmless via suitable
+subtractions. A new regularization and renormalization method is presented in
+the initial space-time dimension of the theory.
+  The procedure respects unitarity and causality. Of interest, the method leads
+to an infinity free renormalization and meanwhile maintains the symmetry
+principles of the original theory except the intrinsic mass scale caused
+conformal scaling symmetry breaking and the anomaly induced symmetry breaking.
+Quantum field theories (QFTs) regularized through the new method are well
+defined and governed by a physically meaningful characteristic energy scale
+(CES) $M_c$ and a physically interesting sliding energy scale (SES) $\mu_s$
+which can run from $\mu_s \sim M_c$ to a dynamically generated mass gap
+$\mu_s=\mu_c$ or to $\mu_s =0$ in the absence of mass gap and infrared (IR)
+problem.
+  It is strongly indicated that the conformal scaling symmetry and its breaking
+mechanism play an important role for understanding the mass gap and quark
+confinement.
+</abstract>

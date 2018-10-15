@@ -1,0 +1,26 @@
+<date>
+Wed, 15 Dec 1999 15:45:38 GMT
+</date>
+
+<title>
+Vector Fields, Flows and Lie Groups of Diffeomorphisms
+</title>
+
+<abstract>
+  The freedom in choosing finite renormalizations in quantum field theories
+(QFT) is characterized by a set of parameters $\{c_i \}, i = 1 ..., n >...$,
+which specify the renormalization prescriptions used for the calculation of
+physical quantities. For the sake of simplicity, the case of a single $c$ is
+selected and chosen mass-independent if masslessness is not realized, this with
+the aim of expressing the effect of an infinitesimal change in $c$ on the
+computed observables. This change is found to be expressible in terms of an
+equation involving a vector field $V$ on the action's space $M$ (coordinates
+x). This equation is often referred to as ``evolution equation'' in physics.
+This vector field generates a one-parameter (here $c$) group of diffeomorphisms
+on $M$. Its flow $\sigma_c (x)$ can indeed be shown to satisfy the functional
+equation $$ \sigma_{c+t} (x) = \sigma_c (\sigma_t (x)) \equiv \sigma_c \circ
+\sigma_t $$ $$\sigma_0 (x) = x,$$ so that the very appearance of $V$ in the
+evolution equation implies at once the Gell-Mann-Low functional equation. The
+latter appears therefore as a trivial consequence of the existence of a vector
+field on the action's space of renormalized QFT.
+</abstract>

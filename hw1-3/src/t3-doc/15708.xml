@@ -1,0 +1,22 @@
+<date>
+Mon, 3 Apr 2000 18:22:35 GMT
+</date>
+
+<title>
+The Berry Phase and Monopoles in Non-Abelian Gauge Theories
+</title>
+
+<abstract>
+  We consider the quantum mechanical notion of the geometrical (Berry) phase in
+SU(2) gauge theory, both in the continuum and on the lattice. It is shown that
+in the coherent state basis eigenvalues of the Wilson loop operator naturally
+decompose into the geometrical and dynamical phase factors. Moreover, for each
+Wilson loop there is a unique choice of U(1) gauge rotations which do not
+change the value of the Berry phase. Determining this U(1) locally in terms of
+infinitesimal Wilson loops we define monopole-like defects and study their
+properties in numerical simulations on the lattice. The construction is gauge
+dependent, as is common for all known definitions of monopoles. We argue that
+for physical applications the use of the Lorenz gauge is most appropriate. And,
+indeed, the constructed monopoles have the correct continuum limit in this
+gauge. Physical consequences are briefly discussed.
+</abstract>

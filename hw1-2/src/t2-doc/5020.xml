@@ -1,0 +1,19 @@
+<title>
+Description of Unstable Systems in Relativistic Quantum Mechanics in the
+  Lax-Phillips Theory
+</title>
+
+<abstract>
+  We discuss some of the experimental motivation for the need for semigroup
+decay laws, and the quantum Lax-Phillips theory of scattering and unstable
+systems. In this framework, the decay of an unstable system is described by a
+semigroup.
+ The spectrum of the generator of the semigroup corresponds to the
+singularities of the Lax-Phillips $S$-matrix. In the case of discrete (complex)
+spectrum of the generator of the semigroup, associated with resonances, the
+decay law is exactly exponential. The states corresponding to these resonances
+(eigenfunctions of the generator of the semigroup) lie in the Lax-Phillips
+Hilbert space, and therefore all physical properties of the resonant states can
+be computed. We show that the parametrized relativistic quantum theory is a
+natural setting for the realization of the Lax-Phillips theory.
+</abstract>

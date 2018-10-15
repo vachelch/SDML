@@ -1,0 +1,24 @@
+<title>
+Non-perturbative Landau gauge and infrared critical exponents in QCD
+</title>
+
+<abstract>
+  We discuss Faddeev-Popov quantization at the non-perturbative level and show
+that Gribov's prescription of cutting off the functional integral at the Gribov
+horizon does not change the Schwinger-Dyson equations, but rather resolves an
+ambiguity in the solution of these equations. We note that Gribov's
+prescription is not exact, and we therefore turn to the method of stochastic
+quantization in its time-independent formulation, and recall the proof that it
+is correct at the non-perturbative level. The non-perturbative Landau gauge is
+derived as a limiting case, and it is found that it yields the Faddeev-Popov
+method in Landau gauge with a cut-off at the Gribov horizon, plus a novel term
+that corrects for over-counting of Gribov copies inside the Gribov horizon.
+Non-perturbative but truncated coupled Schwinger-Dyson equations for the gluon
+and ghost propagators $D(k)$ and $G(k)$ in Landau gauge are solved
+asymptotically in the infrared region. The infrared critical exponents or
+anomalous dimensions, defined by $D(k) \sim 1/(k^2)^{1 + a_D}$ and $G(k) \sim
+1/(k^2)^{1 + a_G}$ are obtained in space-time dimensions $d = 2, 3, 4$. Two
+possible solutions are obtained with the values, in $d = 4$ dimensions, $a_G =
+1, a_D = -2$, or $ a_G = [93 - (1201)^{1/2}]/98 \approx 0.595353, a_D = -
+2a_G$.
+</abstract>

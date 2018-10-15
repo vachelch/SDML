@@ -1,0 +1,20 @@
+<date>
+Wed, 21 Jun 1995 16:25:49 +0200
+</date>
+
+<title>
+The Large N Random Phase sine-Gordon Model
+</title>
+
+<abstract>
+  At large distances and in the low temperature phase, the quenched correlation
+functions in the 2d random phase sine-Gordon model have been argued to be of
+the form~: $ \bar {\vev{~[\varphi(x)-\varphi(0)]^2~}}_* = A (\log|x|) + B \ep^2
+(\log|x|)^2 $, with $\ep=(T-T_c)$. However, renormalization group computations
+predict $B\not=0$ while variational approaches (which are supposed to be exact
+for models with a large number of components) give $B=0$. We introduce a large
+$N$ version of the random phase sine-Gordon model. Using non-Abelian
+bosonization and renormalization group techniques, we show that the correlation
+functions of our models have the above form but with a coefficient $B$
+suppressed by a factor $1/N^3$ compared to $A$.
+</abstract>

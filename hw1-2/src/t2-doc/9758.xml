@@ -1,0 +1,16 @@
+<title>
+BPS D3-branes on smooth ALE manifolds
+</title>
+
+<abstract>
+  In this talk I review the recent construction of a new family of classical
+BPS solutions of type IIB supergravity describing 3-branes transverse to a
+6-dimensional space with topology $\mathbb{R}^{2}\times$ALE. They are
+characterized by a non-trivial flux of the supergravity 2-forms through the
+homology 2-cycles of a generic smooth ALE manifold. These solutions have two
+Killing spinors and thus preserve $\mathcal{N}=2$ supersymmetry. They are
+expressed in terms of a quasi harmonic function $H$ (the ``warp factor''),
+whose properties was studied in detail in the case of the simplest ALE, namely
+the Eguchi-Hanson manifold. The equation for $H$ was identified as an instance
+of the confluent Heun equation.
+</abstract>

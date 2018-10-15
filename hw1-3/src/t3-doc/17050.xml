@@ -1,0 +1,22 @@
+<date>
+Sun, 2 Jul 1995 17:41:30 +0200
+</date>
+
+<title>
+Strings Next To and Inside Black Holes
+</title>
+
+<abstract>
+  The string equations of motion and constraints are solved near the horizon
+and near the singularity of a Schwarzschild black hole. In a conformal gauge
+such that $\tau = 0$ ($\tau$ = worldsheet time coordinate) corresponds to the
+horizon ($r=1$) or to the black hole singularity ($r=0$), the string
+coordinates express in power series in $\tau$ near the horizon and in power
+series in $\tau^{1/5}$ around $r=0$. We compute the string invariant size and
+the string energy-momentum tensor. Near the horizon both are finite and
+analytic. Near the black hole singularity, the string size, the string energy
+and the transverse pressures (in the angular directions) tend to infinity as
+$r^{-1}$. To leading order near $r=0$, the string behaves as two dimensional
+radiation. This two spatial dimensions are describing the $S^2$ sphere in the
+Schwarzschild manifold.
+</abstract>

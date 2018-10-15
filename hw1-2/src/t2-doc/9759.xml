@@ -1,0 +1,22 @@
+<title>
+Two-Loop Superstrings II, The Chiral Measure on Moduli Space
+</title>
+
+<abstract>
+  A detailed derivation from first principles is given for the unambiguous and
+slice-independent formula for the two-loop superstring chiral measure which was
+announced in the first paper of this series. Supergeometries are projected onto
+their super period matrices, and the integration over odd supermoduli is
+performed by integrating over the fibers of this projection. The subtleties
+associated with this procedure are identified. They require the inclusion of
+some new finite-dimensional Jacobian superdeterminants, a deformation of the
+worldsheet correlation functions using the stress tensor, and perhaps
+paradoxically, another additional gauge choice, ``slice \hat\mu choice'', whose
+independence also has to be established. This is done using an important
+correspondence between superholomorphic notions with respect to a supergeometry
+and holomorphic notions with respect to its super period matrix. Altogether,
+the subtleties produce precisely the corrective terms which restore the
+independence of the resulting gauge-fixed formula under infinitesimal changes
+of gauge-slice. This independence is a key criterion for any gauge-fixed
+formula and hence is verified in detail.
+</abstract>

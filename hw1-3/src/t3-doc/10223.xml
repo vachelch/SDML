@@ -1,0 +1,27 @@
+<date>
+Tue, 28 Mar 1995 16:01:24 +0200
+</date>
+
+<title>
+Operator Coproduct-Realization of Quantum Group Transformations in Two
+  Dimensional Gravity, I.
+</title>
+
+<abstract>
+  A simple connection between the universal $R$ matrix of $U_q(sl(2))$ (for
+spins $\demi$ and $J$) and the required form of the co-product action of the
+Hilbert space generators of the quantum group symmetry is put forward. This
+gives an explicit operator realization of the co-product action on the
+covariant operators. It allows us to derive the quantum group covariance of the
+fusion and braiding matrices, although it is of a new type: the generators
+depend upon worldsheet variables, and obey a new central extension of
+$U_q(sl(2))$ realized by (what we call) fixed point commutation relations. This
+is explained by showing that the link between the algebra of field
+transformations and that of the co-product generators is much weaker than
+previously thought. The central charges of our extended $U_q(sl(2))$ algebra,
+which includes the Liouville zero-mode momentum in a nontrivial way are related
+to Virasoro-descendants of unity. We also show how our approach can be used to
+derive the Hopf algebra structure of the extended quantum-group symmetry
+$U_q(sl(2))\odot U_{\qhat}(sl(2))$ related to the presence of both of the
+screening charges of 2D gravity.
+</abstract>

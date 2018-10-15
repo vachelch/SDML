@@ -1,0 +1,21 @@
+<date>
+Sat, 24 May 1997 00:41:54 +0100 (GMT+0100)
+</date>
+
+<title>
+Counting Closed String States in a Box
+</title>
+
+<abstract>
+  The computation of the microcanonical density of states for a string gas in a
+finite volume needs a one by one count because of the discrete nature of the
+spectrum. We present a way to do it using geometrical arguments in phase space.
+We take advantage of this result in order to obtain the thermodynamical
+magnitudes of the system. We show that the results for an open universe exactly
+coincide with the infinite volume limit of the expression obtained for the gas
+in a box. For any finite volume the Hagedorn temperature is a maximum one, and
+the specific heat is always positive. We also present a definition of pressure
+compatible with R-duality seen as an exact symmetry, which allows us to make a
+study on the physical phase space of the system. Besides a maximum temperature
+the gas presents an asymptotic pressure.
+</abstract>

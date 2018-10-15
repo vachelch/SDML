@@ -1,0 +1,21 @@
+<title>
+Gauss's Law, Gauge-Invariant States, and Spin and Statistics In Abelian
+  Chern-Simons Theories
+</title>
+
+<abstract>
+  We discuss topologically massive QED --- the Abelian gauge theory in which
+(2+1)-dimensional QED with a Chern-Simons term is minimally coupled to a spinor
+field. We quantize the theory in covariant gauges, and construct a class of
+unitary transformations that enable us to embed the theory in a Fock space of
+states that implement Gauss's law. We show that when electron (and positron)
+creation and annihilation operators represent gauge-invariant charged particles
+that are surrounded by the electric and magnetic fields required by Gauss's
+law, the unitarity of the theory is manifest, and charged particles interact
+with photons and with each other through nonlocal potentials. These potentials
+include a Hopf-like interaction, and a planar analog of the Coulomb
+interaction. The gauge-invariant charged particle excitations that implement
+Gauss's law obey the identical anticommutation rules as do the original
+gauge-dependent ones. Rotational phases, commonly identified as planar `spin',
+are arbitrary, however.
+</abstract>

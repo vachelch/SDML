@@ -1,0 +1,18 @@
+<title>
+F^5 contributions to the nonabelian Born Infeld action from a
+  supersymmetric Yang-Mills five-point function
+</title>
+
+<abstract>
+  We consider the N=4 supersymmetric Yang-Mills theory in four dimensions. We
+compute the one-loop contributions to the effective action with five external
+vector fields and compare them with corresponding results in open superstring
+theory. Our calculation determines the structure of the F^5 terms that appear
+in the nonabelian generalization of the Born Infeld action. The trace operation
+on the gauge group indices receives contributions from the symmetric as well as
+the antisymmetric part. We find that in order to study corrections to the
+symmetrized trace prescription one has to consistently take into account
+derivative contributions not only with antisymmetrized products
+\nabla_{[\mu}\nabla_{\nu]} but also with symmetrized ones
+\nabla_{(\mu}\nabla_{\nu)}.
+</abstract>

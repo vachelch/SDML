@@ -1,0 +1,27 @@
+<title>
+Fractional Quantum Hall Excitations as RdTS Highest Weight State
+  Representations
+</title>
+
+<abstract>
+  Using the Chern-Simons effective model of fractional quantum Hall (FQH)
+systems, we complete partial results obtained in the literature on FQHE
+concerning topological orders of FQH states. We show that there exists a class
+of effective FQH models having the same filling fraction $\nu$, interchanged
+under $ Gl(n,Z)$ transformations and extends results on Haldane hierarchy. We
+also show that Haldane states at any generic hierarhical level n may be
+realised in terms of n Laughlin states composites and rederive results for the
+n=2,3 levels respectively associated with $\nu= {{2}\over{5}}$ and $\nu=
+{{3}\over{7}}$ filling fractions. We study symmetries of the filling fractions
+series $\nu= {{p_2}\over{p_1 p_2 -1}}$ and $\nu= {{p_1 p_2 -1}\over{p_1 p_2 p_3
+-p_1 -p_2}}$, with $p_1$ odd and $p_2$ and $p_3$ even integers, and show that,
+upon imposing the Gl(n,Z) invariance, we get remarkable informations on their
+stability. Then, we reconsider the Rausch de Traubenberg and Slupinsky (RdTS)
+algebra recently obtained in [1,2] and analyse its limit on the boundary
+$\partial({AdS_3})$ of the (1+2) dimensional manifold $AdS_3$. We show that
+generally one may distinguish bulk highest weight states (BHWS) living in
+$AdS_3$ and edge highest weight states (EHWS)living on the border
+$\partial({AdS_3})$. We explore these two kinds of RdTS representations
+carrying fractional values of the spin and propose them as condidates to
+describe the FQH states.
+</abstract>

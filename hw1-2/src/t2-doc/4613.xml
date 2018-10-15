@@ -1,0 +1,19 @@
+<title>
+On Admissible Gauges for Constrained Systems
+</title>
+
+<abstract>
+  The {\it {gauge - fixing} } and {\it gaugeless } methods for reducing the
+phase space in the generalized Hamiltonian dynamics are compared with the aim
+to define the class of admissible gauges . In the gaugeless approach, the
+reduced phase space of a Hamiltonian system with the first class constraints is
+constructed locally, without any gauge fixing, using the following procedure:
+abelianization of constraints with the subsequent canonical transformation so
+that some of the new momenta are equal to the new abelian constraints. As a
+result the corresponding conjugate coordinates are ignorable ( nonphysical )
+one while the remaining canonical pairs corresponds to the true dynamical
+variables. This representation for the phase space prompts us the definition of
+subclass of admissible gauges -- canonical gauges as functions depending only
+on the ignorable coordinates. A practical method to recognize the canonical
+gauge is proposed .
+</abstract>

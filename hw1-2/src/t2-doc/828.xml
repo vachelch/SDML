@@ -1,0 +1,16 @@
+<title>
+On Semi-Periods
+</title>
+
+<abstract>
+  The periods of the three-form on a Calabi-Yau manifold are found as solutions
+of the Picard-Fuchs equations; however, the toric varietal method leads to a
+generalized hypergeometric system of equations which has more solutions than
+just the periods. This same extended set of equations can be derived from
+symmetry considerations. Semi-periods are solutions of this extended system.
+They are obtained by integration of the three-form over chains; these chains
+can be used to construct cycles which, when integrated over, give periods. In
+simple examples we are able to obtain the complete set of solutions for the
+extended system. We also conjecture that a certain modification of the method
+will generate the full space of solutions in general.
+</abstract>

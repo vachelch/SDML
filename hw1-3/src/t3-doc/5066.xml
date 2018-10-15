@@ -1,0 +1,29 @@
+<date>
+Mon, 30 Mar 1998 14:53:10 GMT
+</date>
+
+<title>
+The Relation Between KMS-states for Different Temperatures
+</title>
+
+<abstract>
+  Given a thermal field theory for a certain temperature, we present a method
+to construct the theory at any finite positive temperature provided the number
+of local degrees of freedom is restricted in a physically sensible manner. Our
+work is based on a construction invented by Buchholz and Junglas [BJu 89].
+Starting from the vacuum representation, they established the existence of
+thermal equilibrium states (KMS-states) for a large class of quantum field
+theories. The KMS-states were constructed as limit points of nets of states
+which represented strictly localized excitations of the vacuum. We adjust their
+method to the general structure of thermal quantum field theories. In a first
+step we construct states which closely resemble KMS-states for the new
+temperature in a local region $\O_\circ \subset \r^4$, but coincide with the
+given KMS-state in the space-like complement of a slightly larger region
+$\hat{\O}$. By a weak^*-compactness argument there always exists a convergent
+subsequence of states as the size of $\O_\circ$ and $\hat{\O}$ tends towards
+$\r^4$. Whether or not the limit state of such a subsequence is a global
+KMS-states for the new temperature, depends on the surface energy contained in
+the layer in between the boundaries of $\O_\circ^{(i)}$ and $\hat{\O}^{(i)}$ as
+$i \to \infty$. This surface energy is controlled by a generalized cluster
+theorem.
+</abstract>

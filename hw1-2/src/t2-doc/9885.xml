@@ -1,0 +1,24 @@
+<title>
+Extensions of the matrix Gelfand-Dickey hierarchy from generalized
+  Drinfeld-Sokolov reduction
+</title>
+
+<abstract>
+  The $p\times p$ matrix version of the $r$-KdV hierarchy has been recently
+treated as the reduced system arising in a Drinfeld-Sokolov type Hamiltonian
+symmetry reduction applied to a Poisson submanifold in the dual of the Lie
+algebra $\widehat{gl}_{pr}\otimes {\Complex}[\lambda, \lambda^{-1}]$. Here a
+series of extensions of this matrix Gelfand-Dickey system is derived by means
+of a generalized Drinfeld-Sokolov reduction defined for the Lie algebra
+$\widehat{gl}_{pr+s}\otimes {\Complex}[\lambda,\lambda^{-1}]$ using the natural
+embedding $gl_{pr}\subset gl_{pr+s}$ for $s$ any positive integer. The
+hierarchies obtained admit a description in terms of a $p\times p$ matrix
+pseudo-differential operator comprising an $r$-KdV type positive part and a
+non-trivial negative part. This system has been investigated previously in the
+$p=1$ case as a constrained KP system. In this paper the previous results are
+considerably extended and a systematic study is presented on the basis of the
+Drinfeld-Sokolov approach that has the advantage that it leads to local Poisson
+brackets and makes clear the conformal ($\cal W$-algebra) structures related to
+the KdV type hierarchies. Discrete reductions and modified versions of the
+extended $r$-KdV hierarchies are also discussed.
+</abstract>

@@ -1,0 +1,31 @@
+<date>
+Thu, 28 Jun 2001 08:28:56 GMT
+</date>
+
+<title>
+Interpolating gauges and the importance of a careful treatment of
+  epsilon term
+</title>
+
+<abstract>
+  We consider the use of interpolating gauges (with a gauge function (F[A;alpha
+]) in gauge theories to connect the results in a set of different gauges in the
+path-integral formulation. We point out that the results for physical
+observables are very sensitive to the epsilon term that we have to add to deal
+with singularities and thus cannot be left out of a discussion of
+gauge-independence generally. We further point out, with reasons, that the fact
+that we can ignore this term in the discussion of gauge independence while
+varying of the gauge parameter in Lorentz-type covariant gauges is an exception
+rather than a rule . We show that generally gauge-independence requires that
+the epsilon-term has to be varied with alpha. We further show that if we make a
+naive use of the epsilon term -i\int d^{4}x[{1/2}A^{2}-\bar{c}c]) (that is
+appropriate for the Feynman gauge) for general interpolating gauges with
+arbitrary parameter values [i.e.alpha], we cannot preserve gauge independence
+[except when we happen to be in the infinitesimal neighborhood of the
+Lorentz-type gauges]. We show with an explicit example that for such a naive
+use of an epsilon-term, we develop serious pathology in the path-integral as
+alpha is/are varied. We point out that correct way to fix the epsilon-term in a
+path-integral in a non-Lorentz gauge is by connecting the path-integral to the
+Lorentz-gauge path-integral with correct epsilon-term as has been done using
+the finite field-dependent BRS transformations in recent years.
+</abstract>

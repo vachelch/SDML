@@ -1,0 +1,16 @@
+<title>
+Non-Compact Pure Gauge QED in 3D is Free
+</title>
+
+<abstract>
+  For all Poincar\'e invariant Lagrangians of the form ${\cal L}\equiv
+f(F_{\mu\nu})$, in three Euclidean dimensions, where $f$ is any invariant
+function of a non-compact $U(1)$ field strength $F_{\mu\nu}$, we find that the
+only continuum limit (described by just such a gauge field) is that of free
+field theory: First we approximate a gauge invariant version of Wilson's
+renormalization group by neglecting all higher derivative terms $\sim
+\partial^nF$ in ${\cal L}$, but allowing for a general non-vanishing anomalous
+dimension. Then we prove analytically that the resulting flow equation has only
+one acceptable fixed point: the Gaussian fixed point. The possible relevance to
+high-$T_c$ superconductivity is briefly discussed.
+</abstract>

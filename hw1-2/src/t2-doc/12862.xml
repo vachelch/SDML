@@ -1,0 +1,11 @@
+<title>
+Non-Integrability of Two-Dimensional QCD
+</title>
+
+<abstract>
+  In this paper we numerically demonstrate that massless two-dimensional QCD is
+not integrable. To this aim, we explicitly solve the 't Hooft integral equation
+for bound states by an adaptive spline procedure, and compute the decay
+amplitudes. These amplitudes significantly differ from zero except in all cases
+in which the decay also produces a pion.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Liouville bootstrap via harmonic analysis on a noncompact quantum group
+</title>
+
+<abstract>
+  The purpose of this short note is to announce results that amount to a
+verification of the bootstrap for Liouville theory in the generic case under
+certain assumptions concerning existence and properties of fusion
+transformations. Under these assumptions one may characterize the fusion and
+braiding coefficients as solutions of a system of functional equations that
+follows from the combination of consistency requirements and known results.
+This system of equations has a unique solution for irrational central charge
+c>25. The solution is constructed by solving the Clebsch-Gordan problem for a
+certain continuous series of quantum group representations and constructing the
+associated Racah-coefficients. This gives an explicit expression for the fusion
+coefficients. Moreover, the expressions can be continued into the strong
+coupling region 1<c<25, providing a solution of the bootstrap also for this
+region.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Higher Level Open String States from Vacuum String Field Theory
+</title>
+
+<abstract>
+  We construct massive open string states around a classical solution in the
+oscillator formulation of Vacuum String Field Theory. In order for the correct
+mass spectrum to be reproduced, the projection operators onto the modes of the
+left- and right-half of the string must have an anomalous eigenvalue 1/2, and
+the massive states are constructed using the corresponding eigenvector. We
+analyze numerically the projection operators by regularizing them to finite
+size matrices and confirm that they indeed have eigenvalue 1/2. Beside the
+desired massive states, we have spurious massive as well as massless states,
+which are infinitely degenerate. We show that these unwanted states can be
+gauged away.
+</abstract>

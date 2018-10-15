@@ -1,0 +1,20 @@
+<date>
+Tue, 19 May 1998 11:25:54 GMT
+</date>
+
+<title>
+On the Generalized Gluing and Resmoothing Theorem
+</title>
+
+<abstract>
+  The generalized gluing and resmoothing theorem originally proved by LeClair,
+Peskin and Preitschopf, gives a powerful formula for the fused vertex obtained
+by contracting any two vertices in string field theories. Although the theorem
+is naturally expected to hold for the vertices at any loop level, the original
+proof was restricted to the vertices at tree level. Here we present a
+simplified proof for the tree level theorem and then prove explicitly the
+extended version at one-loop level. We also find that a non-trivial sign
+factor, which depends on the string states to be contracted, appears in the
+theorem. This sign factor turns out to be essential for reproducing correctly
+the conformal field theory correlation function on the torus.
+</abstract>

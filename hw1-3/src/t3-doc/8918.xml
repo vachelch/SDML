@@ -1,0 +1,33 @@
+<date>
+Thu, 19 Mar 1998 16:31:41 GMT
+</date>
+
+<title>
+Soap Bubbles in Outer Space: Interaction of a Domain Wall with a Black
+  Hole
+</title>
+
+<abstract>
+  We discuss the generalized Plateau problem in the 3+1 dimensional
+Schwarzschild background. This represents the physical situation, which could
+for instance have appeared in the early universe, where a cosmic membrane (thin
+domain wall) is located near a black hole. Considering stationary axially
+symmetric membranes, three different membrane-topologies are possible depending
+on the boundary conditions at infinity: 2+1 Minkowski topology, 2+1 wormhole
+topology and 2+1 black hole topology.
+   Interestingly, we find that the different membrane-topologies are connected
+via phase transitions of the form first discussed by Choptuik in investigations
+of scalar field collapse. More precisely, we find a first order phase
+transition (finite mass gap) between wormhole topology and black hole topology;
+the intermediate membrane being an unstable wormhole collapsing to a black
+hole. Moreover, we find a second order phase transition (no mass gap) between
+Minkowski topology and black hole topology; the intermediate membrane being a
+naked singularity.
+   For the membranes of black hole topology, we find a mass scaling relation
+analogous to that originally found by Choptuik. However, in our case the
+parameter $p$ is replaced by a 2-vector $\vec{p}$ parametrizing the solutions.
+We find that $Mass\propto|\vec{p}-\vec{p}_*|^\gamma$ where $\gamma\approx
+0.66$. We also find a periodic wiggle in the scaling relation.
+   Our results show that black hole formation as a critical phenomenon is far
+more general than expected.
+</abstract>

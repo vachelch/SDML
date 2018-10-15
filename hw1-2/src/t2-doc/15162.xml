@@ -1,0 +1,21 @@
+<title>
+Wilson Loops in Two-Dimensional Yang-Mills Theories
+</title>
+
+<abstract>
+  This Ph.D. thesis reaches two main results. The first one is represented by a
+detailed study, in Feynman gauge, of the perturbative ${\cal O}(g^4)$
+contribution to a space-time Wilson loop, with respect to its (expected)
+Abelian-like time exponentiation when the temporal side goes to infinity. As
+soon as we are in dimensions greater than two, the expected behavior is found.
+But if we proceed first to the dimensional limit $D \to 2$, the exponentiation
+is not recovered. The limits $T \to \infty$ and $D \to 2$ do not commute. The
+other result is the computation in dimensions $D=2+\epsilon$ and in light-cone
+gauge with Mandelstam-Leibbrandt prescription of the perturbative ${\cal
+O}(g^4)$ contribution to the same Wilson loop, coming from diagrams with a
+self-energy correction in the vector propagator. In the limit $\epsilon \to 0$
+the result is finite, in spite of the vanishing of the triple vector vertex in
+light-cone gauge, and provides the expected agreement with the analogous
+calculation in Feynman gauge. Consequences of these results concerning two and
+higher-dimensional gauge theories are pointed out.
+</abstract>

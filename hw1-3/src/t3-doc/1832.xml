@@ -1,0 +1,24 @@
+<date>
+Tue, 25 Aug 1998 13:48:37 GMT
+</date>
+
+<title>
+Extended Iterative Scheme for QCD: the Four-Gluon Vertex
+</title>
+
+<abstract>
+  We study the self-consistency problem of the generalized Feynman rule
+(nonperturbatively modified vertex of zeroth perturbative order) for the
+4-gluon vertex function in the framework of an extended perturbation scheme
+accounting for non-analytic coupling dependence through the Lambda scale.
+Tensorial structure is restricted to a minimal dynamically closed basis set.
+The self-consistency conditions are obtained at one loop, in Landau gauge, and
+at the lowest approximation level (r=1) of interest for QCD. At this level,
+they are found to be linear in the nonperturbative 4-gluon coefficients, but
+strongly overdetermined due to the lack of manifest Bose symmetry in the
+relevant Dyson-Schwinger equation. The observed near decoupling from the
+2-and-3-point conditions permits least-squares quasisolutions for given
+2-and-3-point input within an effective one-parameter freedom. We present such
+solutions for N_F=2 massless quarks and for the pure gluon theory, adapted to
+the 2-and-3-point coefficients determined previously.
+</abstract>

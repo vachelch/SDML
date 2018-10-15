@@ -1,0 +1,30 @@
+<date>
+Wed, 19 Jun 1996 15:47:56 +0900
+</date>
+
+<title>
+Non-Commutative Differential Geometry on Discrete Space $M_4\times
+  Z\ma{N}$ and Gauge Theory
+</title>
+
+<abstract>
+  The algebra of non-commutative differential geometry (NCG) on the discrete
+space $M_4\times Z\ma{N}$ previously proposed by the present author is improved
+to give the consistent explanation of the generalized gauge field as the
+generalized connection on $M_4\times Z\ma{N}$. The nilpotency of the
+generalized exterior derivative ${\mbf d}$ is easily proved. The matrix
+formulation where the generalized gauge field is denoted in matrix form is
+shown to have the same content with the ordinary formulation using {\mbf d},
+which helps us understand the implications of the algebraic rules of NCG on
+$M_4\times Z\ma{N}$. The Lagrangian of spontaneously broken gauge theory which
+has the extra restriction on the coupling constant of the Higgs potential is
+obtained by taking the inner product of the generalized field strength. The
+covariant derivative operating on the fermion field determines the parallel
+transformation on $M_4\times Z\ma{N}$, which confirms that the Higgs field is
+the connection on the discrete space. This implies that the Higgs particle is a
+gauge particle on the same footing as the weak bosons. Thus, it is expected
+that the mass relation $m\ma{H}=\frac{4}{\sqrt{3}}m\ma{W}\sin\theta\ma{W}$
+proposed by the present author holds without any correction in the same way as
+the mass relation $m\ma{W}=m\ma{Z}\cos\theta\ma{W}$. The Higgs kinetic and
+potential terms are regarded as the curvatures on $M_4\times Z\ma{N}$.
+</abstract>

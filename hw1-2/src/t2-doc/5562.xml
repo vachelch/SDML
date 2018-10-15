@@ -1,0 +1,18 @@
+<title>
+First results for the Coulomb gauge integrals using NDIM
+</title>
+
+<abstract>
+  The Coulomb gauge has at least two advantadges over other gauge choices in
+that bound states between quarks and studies of confinement are easier to
+understand in this gauge. However, perturbative calculations, namely Feynman
+loop integrations are not well-defined (there are the so-called energy
+integrals) even within the context of dimensional regularization. Leibbrandt
+and Williams proposed a possible cure to such a problem by splitting the
+space-time dimension into $D=\omega+\rho$, i.e., introducing a specific one
+parameter $\rho$ to regulate the energy integrals. The aim of our work is to
+apply negative dimensional integration method (NDIM) to the Coulomb gauge
+integrals using the recipe of split-dimension parameters and present complete
+results -- finite and divergent parts -- to the one and two-loop level for
+arbitrary exponents of propagators and dimension.
+</abstract>

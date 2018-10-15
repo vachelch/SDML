@@ -1,0 +1,23 @@
+<title>
+Topological boundary conditions, the BPS bound, and elimination of
+  ambiguities in the quantum mass of solitons
+</title>
+
+<abstract>
+  We fix the long-standing ambiguity in the 1-loop contribution to the mass of
+a 1+1-dimensional supersymmetric soliton by adopting a set of boundary
+conditions which follow from the symmetries of the action and which depend only
+on the topology of the sector considered, and by invoking a physical principle
+that ought to hold generally in quantum field theories with a topological
+sector: for vanishing mass and other dimensionful constants, the vacuum
+energies in the trivial and topological sectors have to become equal. In the
+two-dimensional N=1 supersymmetric case we find a result which for the
+supersymmetric sine-Gordon model agrees with the known exact solution of the
+S-matrix but seems to violate the BPS bound. We analyze the nontrivial relation
+between the quantum soliton mass and the quantum BPS bound and find a
+resolution. For N=2 supersymmetric theories, there are no one-loop corrections
+to the soliton mass and to the central charge (and also no ambiguities) so that
+the BPS bound is always saturated. Beyond 1-loop there are no ambiguities in
+any theory, which we explicitly check by a 2-loop calculation in the
+sine-Gordon model.
+</abstract>

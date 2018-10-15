@@ -1,0 +1,17 @@
+<title>
+Casimir Energy for Spherical boundaries
+</title>
+
+<abstract>
+  Calculations of the Casimir energy for spherical geometries which are based
+on integrations of the stress tensor are critically examined. It is shown that
+despite their apparent agreement with numerical results obtained from mode
+summation methods, they contain a number of serious errors. Specifically, these
+include (1) an improper application of the stress tensor to spherical
+boundaries, (2) the neglect of pole terms in contour integrations, and (3) the
+imposition of inappropriate boundary conditions upon the relevant propagators.
+A calculation which is based on the stress tensor and which avoids such
+problems is shown to be possible. It is, however, equivalent to the mode
+summation method and does not therefore constitute an independent calculation
+of the Casimir energy.
+</abstract>

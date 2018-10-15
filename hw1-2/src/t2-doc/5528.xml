@@ -1,0 +1,13 @@
+<title>
+Soliton tunneling
+</title>
+
+<abstract>
+  We present a numerical simulation of the scattering of a topological soliton
+off finite size attractive impurities, repulsive impurities and a combination
+of both. The attractive and attractive-repulsive cases show similar features to
+those found for $\delta$ function type of impurities. For the repulsive case,
+corresponding to a finite width barrier, the soliton behaves completely
+classically. No tunneling occurs for sub-barrier kinetic energies despite the
+extended nature of the soliton.
+</abstract>

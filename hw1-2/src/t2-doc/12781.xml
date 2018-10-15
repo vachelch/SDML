@@ -1,0 +1,13 @@
+<title>
+Abelianization of First Class Constraints
+</title>
+
+<abstract>
+  We show that a given set of first class constraints becomes abelian if one
+maps each constraint to the surface of other constraints. There is no
+assumption that first class constraints satisfy a closed algebra. The explicit
+form of the projection map is obtained at least for irreducible first class
+constraints. Using this map we give a method to obtain gauge fixing conditions
+such that the set of abelian first class constraints and gauge fixing
+conditions satisfy the symplectic algebra.
+</abstract>

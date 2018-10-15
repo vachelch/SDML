@@ -1,0 +1,24 @@
+<date>
+Tue, 15 Jan 2002 08:42:58 GMT
+</date>
+
+<title>
+Use of Nilpotent weights in Logarithmic Conformal Field Theories
+</title>
+
+<abstract>
+  We show that logarithmic conformal field theories may be derived using
+nilpotent scale transformation. Using such nilpotent weights we derive
+properties of LCFT's, such as two and three point correlation functions solely
+from symmetry arguments. Singular vectors and the Kac determinant may also be
+obtained using these nilpotent variables, hence the structure of the four point
+functions can also be derived. This leads to non homogeneous hypergeometric
+functions. Also we consider LCFT's near a boundary. Constructing "superfields"
+using a nilpotent variable, we show that the superfield of conformal weight
+zero, composed of the identity and the pseudo identity is related to a
+superfield of conformal dimension two, which comprises of energy momentum
+tensor and its logarithmic partner. This device also allows us to derive the
+operator product expansion for logarithmic operators. Finally we discuss the
+AdS/LCFT correspondence and derive some correlation functions and a BRST
+symmetry.
+</abstract>

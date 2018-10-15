@@ -1,0 +1,23 @@
+<date>
+Mon, 28 Jun 1999 19:57:11 GMT
+</date>
+
+<title>
+Tachyon Stabilization in the AdS/CFT Correspondence
+</title>
+
+<abstract>
+  We consider duality between type 0B string theory on $AdS_5\times S^5$ and
+the planar CFT on $N$ electric D3-branes coincident with $N$ magnetic
+D3-branes. It has been argued that this theory is stable up to a critical value
+of the `t Hooft coupling but is unstable beyond that point. We suggest that
+from the gauge theory point of view the development of instability is
+associated with singularity in the dimension of the operator corresponding to
+the tachyon field via the AdS/CFT map. Such singularities are common in large
+$N$ theories because summation over planar graphs typically has a finite radius
+of convergence. Hence we expect transitions between stability and instability
+for string theories in AdS backgrounds that are dual to certain large $N$ gauge
+theories: if there are tachyons for large AdS radius then they may be
+stabilized by reducing the radius below a critical value of order the string
+scale.
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+Who changes the string coupling ?
+</title>
+
+<abstract>
+  In general bosonic closed string backgrounds the ghost-dilaton is not the
+only state in the semi-relative BRST cohomology that can change the
+dimensionless string coupling. This fact is used to establish complete dilaton
+theorems in closed string field theory. The ghost-dilaton, however, is the
+crucial state: for backgrounds where it becomes BRST trivial we prove that the
+string coupling becomes an unobservable parameter of the string action. For
+backgrounds where the matter CFT includes free uncompactified bosons we
+introduce a refined BRST problem by including the zero-modes "x" of the bosons
+as legal operators on the complex. We argue that string field theory can be
+defined on this enlarged complex and that its BRST cohomology captures
+accurately the notion of a string background. In this complex the ghost-dilaton
+appears to be the only BRST-physical state changing the string coupling.
+</abstract>

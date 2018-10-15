@@ -1,0 +1,21 @@
+<date>
+Sat, 4 Nov 95 18:37:12 JST
+</date>
+
+<title>
+How to construct a coordinate representation of a Hamiltonian operator
+  on a torus
+</title>
+
+<abstract>
+  The dynamical system of a point particle constrained on a torus is quantized
+\`a la Dirac with two kinds of coordinate systems respectively; the Cartesian
+and toric coordinate systems. In the Cartesian coordinate system, it is
+difficult to express momentum operators in coordinate representation owing to
+the complication in structure of the commutation relations between canonical
+variables. In the toric coordinate system, the commutation relations have a
+simple form and their solutions in coordinate representation are easily
+obtained with, furthermore, two quantum Hamiltonians turning up. A problem
+comes out when the coordinate system is transformed, after quantization, from
+the Cartesian to the toric coordinate system.
+</abstract>

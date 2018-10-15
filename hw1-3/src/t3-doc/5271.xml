@@ -1,0 +1,22 @@
+<date>
+Wed, 7 Oct 1998 17:55:09 GMT
+</date>
+
+<title>
+Scheming in Dimensional Regularization
+</title>
+
+<abstract>
+  We consider the most general loop integral that appears in non-relativistic
+effective field theories with no light particles. The divergences of this
+integral are in correspondence with simple poles in the space of complex
+space-time dimensions. Integrals related to the original integral by
+subtraction of one or more poles in dimensions other than D=4 lead to
+nonminimal subtraction schemes. Subtraction of all poles in correspondence with
+ultraviolet divergences of the loop integral leads naturally to a
+regularization scheme which is precisely equivalent to cutoff regularization.
+We therefore recover cutoff regularization from dimensional regularization with
+a nonminimal subtraction scheme. We then discuss the power-counting for
+non-relativistic effective field theories which arises in these alternative
+schemes.
+</abstract>

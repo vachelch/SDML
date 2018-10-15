@@ -1,0 +1,17 @@
+<title>
+Poisson Bracket on the Space of Histories
+</title>
+
+<abstract>
+  We extend the Poisson bracket from a Lie bracket of phase space functions to
+a Lie bracket of functions on the space of canonical histories and investigate
+the resulting algebras. Typically, such extensions define corresponding Lie
+algebras on the space of Lagrangian histories via pull back to a space of
+partial solutions. These are the same spaces of histories studied with regard
+to path integration and decoherence. Such spaces of histories are familiar from
+path integration and some studies of decoherence. For gauge systems, we extend
+both the canonical and reduced Poisson brackets to the full space of histories.
+We then comment on the use of such algebras in time reparameterization
+invariant systems and systems with a Gribov ambiguity, though our main goal is
+to introduce concepts and techniques for use in a companion paper.
+</abstract>

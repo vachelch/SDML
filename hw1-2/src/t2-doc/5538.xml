@@ -1,0 +1,18 @@
+<title>
+On S-Duality in Abelian Gauge Theory
+</title>
+
+<abstract>
+  U(1) gauge theory on ${\bf R}^4$ is known to possess an electric-magnetic
+duality symmetry that inverts the coupling constant and extends to an action of
+$SL(2,{\bf Z})$. In this paper, the duality is studied on a general
+four-manifold and it is shown that the partition function is not a
+modular-invariant function but transforms as a modular form. This result plays
+an essential role in determining a new low-energy interaction that arises when
+N=2 supersymmetric Yang-Mills theory is formulated on a four-manifold; the
+determination of this interaction gives a new test of the solution of the model
+and would enter in computations of the Donaldson invariants of four-manifolds
+with $b_2^+\leq 1$. Certain other aspects of abelian duality, relevant to
+matters such as the dependence of Donaldson invariants on the second
+Stieffel-Whitney class, are also analyzed.
+</abstract>

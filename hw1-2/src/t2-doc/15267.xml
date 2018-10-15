@@ -1,0 +1,18 @@
+<title>
+Thermal Bosonic and Fermionic Quantum Fields in Static Background Gauge
+  Potentials
+</title>
+
+<abstract>
+  We study at finite temperature the energy-momentum tensor $T_{\mu\nu}(x)$ of
+(i) a scalar field in arbitrary dimension, and (ii) a spinor field in 1+1
+dimensions, interacting with a static background electromagnetic field.
+$T_{\mu\nu}$ separates into an UV divergent part $T_{\mu\nu}^{sea}$
+representing the virtual sea, and an UV finite part $T_{\mu\nu}^{plasma}$
+describing the thermal plasma of the matter field. $T_{\mu\nu}^{sea}$ remains
+uniform in the presence of a \underbar{uniform} electric field $\vec E$, while
+$T_{\mu\nu}^{plasma}$ becomes a periodic function with period $\Delta x=2\pi
+T/E$ in the direction parallel to $\vec E$. A related periodicity is found for
+a uniform static magnetic field if one spatial direction perpendicular to the
+magnetic field is compactified to a circle.
+</abstract>

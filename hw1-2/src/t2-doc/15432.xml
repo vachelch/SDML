@@ -1,0 +1,14 @@
+<title>
+Strings with Negative Stiffness and Hyperfine Structure
+</title>
+
+<abstract>
+  We propose a new string model by adding a higher-order gradient term to the
+rigid string, so that the stiffness can be positive or negative without loosing
+stability. In the large-D approximation, the model has three phases, one of
+which with a new type of generalized "antiferromagnetic" orientational
+correlations. We find an infrared-stable fixed point describing world-sheets
+with vanishing tension and Hausdorff dimension D_H=2. Crumpling is prevented by
+the new term which suppresses configurations with rapidly changing extrinsic
+curvature.
+</abstract>

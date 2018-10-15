@@ -1,0 +1,19 @@
+<title>
+On the integrable geometry of soliton equations and N=2 supersymmetric
+  gauge theories
+</title>
+
+<abstract>
+  We provide a unified construction of the symplectic forms which arise in the
+solution of both N=2 supersymmetric Yang-Mills theories and soliton equations.
+Their phase spaces are Jacobian-type bundles over the leaves of a foliation in
+a universal configuration space. On one hand, imbedded into finite-gap
+solutions of soliton equations, these symplectic forms assume explicit
+expressions in terms of the auxiliary Lax pair, expressions which generalize
+the well-known Gardner-Faddeev-Zakharov bracket for KdV to a vast class of 2D
+integrable models; on the other hand, they determine completely the effective
+Lagrangian and BPS spectrum when the leaves are identified with the moduli
+space of vacua of an N=2 supersymmetric gauge theory. For SU($N_c$) with
+$N_f\leq N_c+1$ flavors, the spectral curves we obtain this way agree with the
+ones derived by Hanany and Oz and others from physical considerations.
+</abstract>

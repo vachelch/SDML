@@ -1,0 +1,13 @@
+<title>
+Triplectic Gauge Fixing for N=1 Super Yang-Mills Theory
+</title>
+
+<abstract>
+  The Sp(2)-gauge fixing of N = 1 super-Yang-Mills theory is considered here.
+We thereby apply the triplectic scheme, where two classes of gauge-fixing
+bosons are introduced. The first one depends only on the gauge field, whereas
+the second boson depends on this gauge field and also on a pair of Majorana
+fermions. In this sense, we build up the BRST extended (BRST plus antiBRST)
+algebras for the model, for which the nilpotency relations,
+s^2_1=s^2_2=s_1s_2+s_2s_1=0, hold.
+</abstract>

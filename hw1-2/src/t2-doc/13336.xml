@@ -1,0 +1,24 @@
+<title>
+Octonionic M-theory and D=11 Generalized Conformal and Superconformal
+  Algebras
+</title>
+
+<abstract>
+  Following [1] we further apply the octonionic structure to supersymmetric
+D=11 $M$-theory. We consider the octonionic $2^{n+1} \times 2^{n+1}$ Dirac
+matrices describing the sequence of Clifford algebras with signatures ($9+n,n$)
+($n=0,1,2, ...$) and derive the identities following from the octonionic
+multiplication table. The case $n=1$ ($4\times 4$ octonion-valued matrices) is
+used for the description of the D=11 octonionic $M$-superalgebra with 52 real
+bosonic charges; the $n=2$ case ($8 \times 8$ octonion-valued matrices) for the
+D=11 conformal $M$-algebra with 232 real bosonic charges. The octonionic
+structure is described explicitly for $n=1$ by the relations between the 512
+Abelian O(10,1) tensorial charges $Z_\mu$, $Z_{\mu\nu}$, $Z_{\mu >... \mu_5}$
+of the $M$-superalgebra. For $n=2$ we obtain 2048 real non-Abelian bosonic
+tensorial charges $Z_{\mu\nu}, Z_{\mu_1 \mu_2 \mu_3}, Z_{\mu_1 ... \mu_6}$
+which, suitably constrained describe the generalized D=11 octonionic conformal
+algebra. Further, we consider the supersymmetric extension of this octonionic
+conformal algebra which can be described as D=11 octonionic superconformal
+algebra with a total number of 64 real fermionic and 239 real bosonic
+generators.
+</abstract>

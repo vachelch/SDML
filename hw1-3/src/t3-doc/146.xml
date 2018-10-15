@@ -1,0 +1,25 @@
+<date>
+Thu, 2 Jul 1998 15:49:31 GMT
+</date>
+
+<title>
+Scattering from Singular Potentials in Quantum Mechanics
+</title>
+
+<abstract>
+  In non-relativistic quantum mechanics, singular potentials in problems with
+spherical symmetry lead to a Schrodinger equation for stationary states with
+non-Fuchsian singularities both as r tends to zero and as r tends to infinity.
+In the sixties, an analytic approach was developed for the investigation of
+scattering from such potentials, with emphasis on the polydromy of the wave
+function in the r variable. The present paper extends those early results to an
+arbitrary number of spatial dimensions. The Hill-type equation which leads, in
+principle, to the evaluation of the polydromy parameter, is obtained from the
+Hill equation for a two-dimensional problem by means of a simple change of
+variables. The asymptotic forms of the wave function as r tends to zero and as
+r tends to infinity are also derived. The Darboux technique of intertwining
+operators is then applied to obtain an algorithm that makes it possible to
+solve the Schrodinger equation with a singular potential containing many
+negative powers of r, if the exact solution with even just one term is already
+known.
+</abstract>

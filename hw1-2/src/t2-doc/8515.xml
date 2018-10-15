@@ -1,0 +1,22 @@
+<title>
+Matrix strings in a B-field
+</title>
+
+<abstract>
+  We study the discrete light-cone quantization (DLCQ) of closed strings in the
+background of Minkowski space-time and a constant Neveu-Schwarz $B$-field. For
+the Bosonic string, we identify the $B$-dependent part of the thermodynamic
+free energy to all orders in string perturbation theory. For every genus, $B$
+appears in a constraint in the path integral which restricts the world-sheet
+geometries to those which are branched covers of a certain torus. This is the
+extension of a previous result where the $B$-field was absent
+\cite{Grignani:2000zm}. We then discuss the coupling of a $B$-field to the
+Matrix model of M-theory. We show that, when we consider this theory at finite
+temperature and in a finite $B$-field, the Matrix variables are functions which
+live on a torus with the same Teichm\"uller parameter as the one that we
+identified in string theory. We show explicitly that the thermodynamic
+partition function of the Matrix string model in the limit of free strings
+reproduces the genus 1 thermodynamic partition function of type IIA string.
+This is strong evidence that the Matrix model can reproduce perturbative string
+theory. We also find an interesting behavior of the Hagedorn temperature.
+</abstract>

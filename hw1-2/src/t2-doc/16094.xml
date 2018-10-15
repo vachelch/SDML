@@ -1,0 +1,14 @@
+<title>
+Variational Solution of the Gross-Neveu model I. the Large-$N$ Limit
+</title>
+
+<abstract>
+  In this first paper we begin the application of variational methods to
+renormalisable asymptotically free field theories, using the Gross-Neveu model
+as a laboratory. This variational method has been shown to lead to a
+numerically convergent sequence of approximations for the anharmonic
+oscillator. Here we perform a sample calculation in lowest orders, which shows
+the superficially disastrous situation of variational calculations in quantum
+field theory, and how in the large-$N$ limit all difficulties go away, as a
+warm up exercise for the finite-$N$ case and for QCD.
+</abstract>

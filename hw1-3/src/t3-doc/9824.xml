@@ -1,0 +1,20 @@
+<date>
+Wed, 25 Dec 2002 21:05:14 GMT
+</date>
+
+<title>
+Bootstrapping Perturbative Perfect Actions
+</title>
+
+<abstract>
+  We study the exact renormalization group of the four dimensional phi4 theory
+perturbatively. We reformulate the differential renormalization group equations
+as integral equations that define the continuum limit of the theory directly
+with no need for a bare theory. We show how the self-consistency of the
+integral equations leads to the determination of the interaction vertices in
+the continuum limit. The inductive proof of the existence of a solution to the
+integral equations amounts to a proof of perturbative renormalizability, and it
+consists of nothing more than counting the scale dimensions of the interaction
+vertices. Universality is discussed within a context of the exact
+renormalization group.
+</abstract>

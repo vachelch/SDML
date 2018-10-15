@@ -1,0 +1,17 @@
+<date>
+Mon, 17 Jan 2000 07:55:28 GMT
+</date>
+
+<title>
+The Intrinsic Coupling in Integrable Quantum Field Theories
+</title>
+
+<abstract>
+  The intrinsic 4-point coupling, defined in terms of a truncated 4-point
+function at zero momentum, provides a well-established measure for the
+interaction strength of a QFT. We show that this coupling can be computed
+non-perturbatively and to high accuracy from the form factors of an
+(integrable) QFT. The technique is illustrated and tested with the Ising model,
+the XY-model and the O(3) nonlinear sigma-model. The results are compared to
+those from high precision lattice simulations.
+</abstract>

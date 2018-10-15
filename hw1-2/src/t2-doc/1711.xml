@@ -1,0 +1,27 @@
+<title>
+Higher Spin Field Equation in a Virtual Black Hole Metric
+</title>
+
+<abstract>
+  In a quantum theory of gravity, fluctuations about the vacuum may be
+considered as Planck scale virtual black holes appearing and annihilating in
+pairs. Incident fields scattering from such fluctuations would lose quantum
+coherence.
+  In a recent paper (hep-th/9705147), Hawking and Ross obtained an estimate for
+the magnitude of this loss in the case of a scalar field. Their calculation
+exploited the separability of the conformally invariant scalar wave equation in
+the electrovac C metric background, which is justified as a sufficiently good
+description of a virtual black hole pair in the limit considered.
+  In anticipation of extending this result, the Teukolsky equations for
+incident fields of higher spin are separated on the vacuum C metric background
+and solved in the same limit. With the exception of spin 2 fields, these
+equations are shown in addition to be valid on the electrovac C metric
+background. The angular solutions are found to reduce to the spin- weighted
+spherical harmonics, and the radial solutions are found to approach
+hypergeometrics close to the horizons.
+  By defining appropriate scattering boundary conditions, these solutions are
+then used to estimate the transmission and reflection coefficients for an
+incident field of spin s. The transmission coefficient is required in order to
+estimate the loss of quantum coherence of an incident field through scattering
+off virtual black holes.
+</abstract>

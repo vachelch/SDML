@@ -1,0 +1,24 @@
+<date>
+Wed, 29 May 1996 15:33:35 +0200
+</date>
+
+<title>
+Quantum Fields in Hyperbolic Space-Times with Finite Spatial Volume
+</title>
+
+<abstract>
+  The one-loop effective action for a massive self-interacting scalar field is
+investigated in $4$-dimensional ultrastatic space-time $ R \times H^3/\Gamma$,
+$H^3/\Gamma$ being a non-compact hyperbolic manifold with finite volume. Making
+use of the Selberg trace formula, the $\zeta$-function related to the small
+disturbance operator is constructed. For an arbitrary gravitational coupling,
+it is found that $\zeta(s)$ has a simple pole at $s=0$. The one-loop effective
+action is analysed by means of proper-time regularisations and the one-loop
+divergences are explicitly found. It is pointed out that, in this special case,
+also $\zeta$-function regularisation requires a divergent counterterm, which
+however is not necessary in the free massless conformal invariant coupling
+case. Finite temperature effects are studied and the high-temperature expansion
+is presented. A possible application to the problem of the divergences of the
+entanglement entropy for a free massless scalar field in a Rindler-like
+space-time is briefly discussed.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Group-like Structures in Quantum Lie Algebras and the Process of
+  Quantization
+</title>
+
+<abstract>
+  For a certain class of Lie bialgebras $(A,A^*)$ the corresponding quantum
+universal enveloping algebras $U_q(A)$ are prooved to be equivalent to quantum
+groups Fun$_q(F^*)$, $F^*$ being the factor group for the dual group $G^*$.
+This property can be used to simplify the process of quantization. The
+described class appears to be wide enough to contain all the standard
+quantizations of infinite series. The properties of the groups $F^*$ are
+explicitly demonstrated for the standard deformations $U_q(SL(n))$. It is shown
+that for different $A^*$ (remaining in the described class of Lie bialgebras)
+the same algorithm leads to the nonstandard quantizations.
+</abstract>

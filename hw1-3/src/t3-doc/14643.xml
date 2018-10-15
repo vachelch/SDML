@@ -1,0 +1,20 @@
+<date>
+Thu, 21 Nov 2002 20:09:11 GMT
+</date>
+
+<title>
+Black Holes, Hawking Radiation and the Information Paradox
+</title>
+
+<abstract>
+  This talk is about results obtained by Kirill Melnikov and myself pertaining
+to the canonical quantization of a massless scalar field in the presence of a
+Schwarzschild black hole. After a brief summary of what we did and how we
+reproduce the familiar Hawking temperature and energy flux, I focus attention
+on how our discussion differs from other treatments. In particular I show that
+we can define a system which fakes an equilibrium thermodynamic object whose
+entropy is given by the $A/4$ (where $A$ is the area of the black hole
+horizon), but for which the assignment of a classical entropy to the system is
+incorrect. Finally I briefly discuss a discretized version of the theory which
+seems to indicate that things work in a surprising way near $r=0$.
+</abstract>

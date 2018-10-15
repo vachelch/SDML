@@ -1,0 +1,18 @@
+<date>
+Sat, 20 Feb 1999 21:24:50 GMT
+</date>
+
+<title>
+Renormalization group for the internal space
+</title>
+
+<abstract>
+  The renormalization group method is a successive integration over the
+fluctuations which are ordered according to their length scale, a parameter in
+the external space. A different procedure is described, where the fluctuations
+are treated in a successive manner, as well, but their order is given by an
+internal space parameter, their amplitude. The differential version of the
+renormalization group equation is given which is the functional generalization
+of the Callan-Symanzik equation in one special case and resums the loop
+expansion in another one.
+</abstract>

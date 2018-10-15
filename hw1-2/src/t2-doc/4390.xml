@@ -1,0 +1,20 @@
+<title>
+The Equation of State for Cool Relativistic Two-Constituent Superfluid
+  Dynamics
+</title>
+
+<abstract>
+  The natural relativistic generalisation of Landau's two constituent
+superfluid theory can be formulated in terms of a Lagrangian $L$ that is given
+as a function of the entropy current 4-vector $s^\rho$ and the gradient
+$\nabla\varphi$ of the superfluid phase scalar. It is shown that in the ``cool"
+regime, for which the entropy is attributable just to phonons (not rotons), the
+Lagrangian function $L(\vec s, \nabla\varphi)$ is given by an expression of the
+form $L=P-3\psi$ where $P$ represents the pressure as a function just of
+$\nabla\varphi$ in the (isotropic) cold limit. The entropy current dependent
+contribution $\psi$ represents the generalised pressure of the (non-isotropic)
+phonon gas, which is obtained as the negative of the corresponding grand
+potential energy per unit volume, whose explicit form has a simple algebraic
+dependence on the sound or ``phonon" speed $c_P$ that is determined by the cold
+pressure function $P$.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Lattice Wess-Zumino-Witten Model and Quantum Groups
+</title>
+
+<abstract>
+  Quantum groups play a role of symmetries of integrable theories in two
+dimensions. They may be detected on the classical level as Poisson-Lie
+symmetries of the corresponding phase spaces. We discuss specifically the
+Wess-Zumino-Witten conformally invariant quantum field model combining two
+chiral parts which describe the left- and right-moving degrees of freedom. On
+one hand side, the quantum group plays the role of the symmetry of the chiral
+components of the theory. On the other hand, the model admits a lattice
+regularization (in the Minkowski space) in which the current algebra symmetry
+of the theory also becomes quantum, providing the simplest example of a quantum
+group symmetry coupling space-time and internal degrees of freedom. We develop
+a free field approach to the representation theory of the lattice $sl(2)$-based
+current algebra and show how to use it to rigorously construct an exact
+solution of the quantum $SL(2)$ WZW model on lattice.
+</abstract>

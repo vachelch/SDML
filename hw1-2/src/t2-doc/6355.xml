@@ -1,0 +1,17 @@
+<title>
+Faddeev-Jackiw Analysis of Topological Mass Generating Action
+</title>
+
+<abstract>
+  We analyze the gauge symmetry of a topological mass generating action in four
+dimensions which contains both a vector and a second rank antisymmetric tensor
+fields. In the Abelian case, this system induces an effective mass for the
+vector gauge field via a topological coupling $B \wedge F$ in the presence of a
+kinetic term for the antisymmetric tensor field $B$, while maintaining a gauge
+symmetry. On the other hand, for the non-Abelian case the $B$ field does not
+have a gauge symmetry unless an auxiliary vector field is introduced to the
+system. We analyze this change of symmetry in the Faddeev-Jackiw formalism, and
+show how the auxiliary vector field enhances the symmetry. At the same time
+this enhanced gauge symmetry becomes reducible. We also show this phenomenon in
+this analysis.
+</abstract>

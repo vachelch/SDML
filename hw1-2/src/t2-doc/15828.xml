@@ -1,0 +1,14 @@
+<title>
+General solutions of the Monge-Amp\`{e}re equation in $n$-dimensional
+  space
+</title>
+
+<abstract>
+  It is shown that the general solution of a homogeneous Monge-Amp\`{e}re
+equation in $n$-dimensional space is closely connected with the exactly
+(but only implicitly) integrable system
+  \frac {\partial \xi_{j}}{\partial x_0}+\sum_{k=1}^{n-1}
+\xi_{k} \frac {\partial \xi_{j}}{\partial x_{k}}=0 \label{1}
+  Using the explicit form of solution of this system it is possible to
+construct the general solution of the Monge-Amp\`{e}re equation.
+</abstract>

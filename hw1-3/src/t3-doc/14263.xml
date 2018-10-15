@@ -1,0 +1,23 @@
+<date>
+Fri, 3 Jul 1998 15:42:54 GMT
+</date>
+
+<title>
+Time evolution for quantum systems at finite temperature
+</title>
+
+<abstract>
+  This paper investigates a new formalism to describe real time evolution of
+quantum systems at finite temperature. A time correlation function among
+subsystems will be derived which allows for a probabilistic interpretation. Our
+derivation is non-perturbative and fully quantized. Various numerical methods
+used to compute the needed path integrals in complex time were tested and their
+effectiveness was compared. For checking the formalism we used the harmonic
+oscillator where the numerical results could be compared with exact solutions.
+Interesting results were also obtained for a system that presents tunneling. A
+ring of coupled oscillators was treated in order to try to check
+selfconsistency in the thermodynamic limit. The short time distribution seems
+to propagate causally in the relativistic case. Our formalism can be extended
+easily to field theories where it remains to be seen if relevant models will be
+computable.
+</abstract>

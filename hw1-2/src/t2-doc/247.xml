@@ -1,0 +1,20 @@
+<title>
+The Renormalization-Group Method Applied to Asymptotic Analysis of
+  Vector Fields
+</title>
+
+<abstract>
+  The renormalization group method of Goldenfeld, Oono and their collaborators
+is applied to asymptotic analysis of vector fields. The method is formulated on
+the basis of the theory of envelopes, as was done for scalar fields. This
+formulation actually completes the discussion of the previous work for scalar
+equations. It is shown in a generic way that the method applied to equations
+with a bifurcation leads to the Landau-Stuart and the (time-dependent)
+Ginzburg-Landau equations. It is confirmed that this method is actually a
+powerful theory for the reduction of the dynamics as the reductive perturbation
+method is. Some examples for ordinary diferential equations, such as the forced
+Duffing, the Lotka-Volterra and the Lorenz equations, are worked out in this
+method: The time evolution of the solution of the Lotka-Volterra equation is
+explicitly given, while the center manifolds of the Lorenz equation are
+constructed in a simple way in the RG method.
+</abstract>

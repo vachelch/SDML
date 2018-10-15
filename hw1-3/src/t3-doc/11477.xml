@@ -1,0 +1,26 @@
+<date>
+Tue, 30 Jul 1996 11:45:22 -0300 (EST)
+</date>
+
+<title>
+Subluminal and Superluminal Electromagnetic Waves and the Lepton Mass
+  Spectrum
+</title>
+
+<abstract>
+  Maxwell equation $\dirac F = 0$ for $F \in \sec \bwe^2 M \subset \sec \clif
+(M)$, where $\clif (M)$ is the Clifford bundle of differential forms, have
+subluminal and superluminal solutions characterized by $F^2 \neq 0$. We can
+write $F = \psi \gamma_{21} \tilde \psi$ where $\psi \in \sec \clif^+(M)$. We
+can show that $\psi$ satisfies a non linear Dirac-Hestenes Equation (NLDHE).
+Under reasonable assumptions we can reduce the NLDHE to the linear
+Dirac-Hestenes Equation (DHE). This happens for constant values of the
+Takabayasi angle ($0$ or $\pi$). The massless Dirac equation $\dirac \psi =0$,
+$\psi \in \sec \clif^+ (M)$, is equivalent to a generalized Maxwell equation
+$\dirac F = J_{e} - \gamma_5 J_{m} = {\cal J}$. For $\psi = \psi^\uparrow$ a
+positive parity eigenstate, $j_e = 0$. Calling $\psi_e$ the solution
+corresponding to the electron, coming from $\dirac F_e =0$, we show that the
+NLDHE for $\psi$ such that $\psi \gamma_{21} \tilde{\psi} = F_e + F^{\uparrow}$
+gives a linear DHE for Takabayasi angles $\pi/2$ and $3\pi/2$ with the muon
+mass. The Tau mass can also be obtained with additional hypothesis.
+</abstract>

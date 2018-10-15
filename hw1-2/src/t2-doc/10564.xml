@@ -1,0 +1,16 @@
+<title>
+Thermal Green's Functions from Quantum Mechanical Path Integrals II:
+  Inclusion of Fermions
+</title>
+
+<abstract>
+  In a previous paper we have shown how, for bosonic fields, the generating
+functional in both relativistic quantum field theory and thermal field theory
+can be evaluated by use of a standard quantum mechanical path integral. In this
+paper we extend this method to include fermionic fields. A particular problem
+is posed by Green's functions with external fermionic lines, where the
+different boundary conditions of bosons and fermions in imaginary time have to
+be accommodated within one path integral expression. The general procedure is
+worked out in the example of scalar and spinor self-energies in a simple model
+with a Yukawa coupling of a scalar to a Majorana spinor.
+</abstract>

@@ -1,0 +1,11 @@
+<title>
+HeatK: A Mathematica Program for Computing Heat Kernel Coefficients
+</title>
+
+<abstract>
+  Heat kernel coefficients encode the short distance behavior of propagators in
+the presence of background fields, and are thus useful in quantum field theory.
+We present a Mathematica program for computing these coefficients and their
+derivatives, based on an algorithm by Avramidi\cite{Avramidi:npb91}. See
+http://fermi.pha.jhu.edu/~booth/HeatK/ for source and examples.
+</abstract>

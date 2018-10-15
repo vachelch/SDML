@@ -1,0 +1,15 @@
+<title>
+New Numerical Methods for Iterative or Perturbative Solution of Quantum
+  Field Theory
+</title>
+
+<abstract>
+  A new computational idea for continuum quantum field theories is outlined.
+This approach is based on the lattice source Galerkin methods developed by
+Garcia, Guralnik and Lawson. The method has many promising features including
+treating fermions on a relatively symmetric footing with bosons. As a spinoff
+of the technology developed for ``exact'' solutions, the numerical methods used
+have a special case application to perturbation theory. We are in the process
+of developing an entirely numerical approach to evaluating graphs to high
+perturbative order.
+</abstract>

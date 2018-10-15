@@ -1,0 +1,19 @@
+<title>
+Zero modes, beta functions and IR/UV interplay in higher-loop QED
+</title>
+
+<abstract>
+  We analyze the relation between the short-distance behavior of quantum field
+theory and the strong-field limit of the background field formalism, for QED
+effective Lagrangians in self-dual backgrounds, at both one and two loop. The
+self-duality of the background leads to zero modes in the case of spinor QED,
+and these zero modes must be taken into account before comparing the
+perturbative beta function coefficients and the coefficients of the
+strong-field limit of the effective Lagrangian. At one-loop this is familiar
+from instanton physics, but we find that at two-loop the role of the zero
+modes, and the interplay between IR and UV effects in the renormalization, is
+quite different. Our analysis is motivated in part by the remarkable simplicity
+of the two-loop QED effective Lagrangians for a self-dual constant background,
+and we also present here a new independent derivation of these two-loop
+results.
+</abstract>

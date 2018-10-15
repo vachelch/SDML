@@ -1,0 +1,19 @@
+<date>
+Mon, 2 Oct 2000 10:41:04 GMT
+</date>
+
+<title>
+Mass zeros in the one-loop effective actions of QED in 1+1 and 3+1
+  dimensions
+</title>
+
+<abstract>
+  It is known that the one-loop effective action of ${QED}_2$ is a quadratic in
+the field strength when the fermion mass is zero: all potential higher order
+contributions beyond second order vanish. For nonzero fermion mass it is shown
+that this behavior persists for a general class of fields for at least one
+value of the fermion mass when the external field's flux $\Phi$ satisfies
+$0<|e\Phi|<2\pi$. For ${QED}_4$ with (anti-) self-dual fields the mass-shell
+renormalized one-loop effective action vanishes for at least one value of the
+fermion mass provided a plausible zero-mass limit exists.
+</abstract>

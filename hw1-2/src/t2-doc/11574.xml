@@ -1,0 +1,21 @@
+<title>
+Non commutative gravity from the ADS/CFT correspondence
+</title>
+
+<abstract>
+  The exclusion principle of Maldacena and Strominger is seen to follow from
+deformed Heisenberg algebras associated with the chiral rings of S_N orbifold
+CFTs. These deformed algebras are related to quantum groups at roots of unity,
+and are interpreted as algebras of space-time field creation and annihilation
+operators. We also propose, as space-time origin of the stringy exclusion
+principle, that the $ADS_3 \times S^3$ space-time of the associated
+six-dimensional supergravity theory acquires, when quantum effects are taken
+into account, a non-commutative structure given by $SU_q(1,1) \times SU_q (2)$.
+Both remarks imply that finite N effects are captured by quantum groups
+$SL_q(2)$ with $q= e^{{i \pi \over {N + 1}}}$. This implies that a proper
+framework for the theories in question is given by gravity on a non-commutative
+spacetime with a q-deformation of field oscillators. An interesting consequence
+of this framework is a holographic interpretation for a product structure in
+the space of all unitary representations of the non-compact quantum group
+$SU_q(1,1)$ at roots of unity.
+</abstract>

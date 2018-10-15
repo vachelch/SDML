@@ -1,0 +1,18 @@
+<title>
+Examples of potentials with convergent Schwinger - DeWitt expansion
+</title>
+
+<abstract>
+  Convergence of the Schwinger --- DeWitt expansion for the evolution operator
+kernel for special class of potentials is studied. It is shown, that this
+expansion, which is in general case asymptotic, converges for the potentials
+considered (widely used, in particular, in one-dimensional many-body problems),
+and besides, convergence takes place only for definite discrete values of the
+coupling constant. For other values of the charge divergent expansion
+determines the kernels having essential singularity at origin (beyond usual
+$\delta$-function). If one consider only this class of potentials then one can
+avoid many problems, connected with asymptotic expansions, and one get the
+theory with discrete values of the coupling constant that is in correspondence
+with discreteness of the charge in the nature. This approach can be transmitted
+into the quantum field theory.
+</abstract>

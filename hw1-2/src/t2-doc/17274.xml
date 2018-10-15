@@ -1,0 +1,21 @@
+<title>
+CONNECTIONS of the LIOUVILLE MODEL and XXZ SPIN CHAIN
+</title>
+
+<abstract>
+  The quantum theory of the Liouville model with imaginary field is considered
+using the quantum inverse scattering method. An integrable structure with
+nontrivial spectral parameter dependence is developed for lattice Liouville
+theory by scaling the $L$-matrix of lattice sine-Gordon theory. This $L$-matrix
+yields Bethe Ansatz equations for Liouville theory, by the methods of the
+algebraic Bethe Ansatz. Using the string picture of exited Bethe states, the
+lattice Liouville Bethe equations are mapped to the corresponding equations for
+the spin 1/2 XXZ chain. The well developed theory of finite size corrections in
+spin chains is used to deduce the conformal properties of the lattice Liouville
+Bethe states. The unitary series of conformal field theories emerge for
+Liouville couplings of the form $\gam = \pi\frac{\nu}{\nu+1}$, corresponding to
+root of unity XXZ anisotropies. The Bethe states give the full spectrum of the
+corresponding unitary conformal field theory, with the primary states in the
+\Kac table parameterized by a string length $K$, and the remnant of the chain
+length mod $(\nu+1)$.
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Wed, 06 Mar 1996 12:55:48 +0800
+</date>
+
+<title>
+How to renormalize a quantum gauge field theory with chiral fermions
+</title>
+
+<abstract>
+  We propose using the method of subtraction to renormalize quantum gauge
+theories with chiral fermions and with spontaneous symmetry breaking. The
+Ward-Takahashi identities derived from the BRST invariance in these theories
+are complex and rich in content. We demonstrate how to use these identities to
+determine relationships among renormalization constants of the theory and
+obtain the subtraction constants needed for the renormalization procedure. We
+have found it particularly convenient to adopt the Landau gauge throughout the
+scheme. The method of renormalization by subtraction enables one to calculate
+physical quantities in the theory in the form of a renormalized perturbation
+series which is unique and definite. There is no ambiguity in handling the
+$\gamma_5$ matrix associated with chiral fermions.
+</abstract>

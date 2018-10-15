@@ -1,0 +1,15 @@
+<title>
+BMN Correlators by Loop Equations
+</title>
+
+<abstract>
+  In the BMN approach to N=4 SYM a large class of correlators of interest are
+expressible in terms of expectation values of traces of words in a
+zero-dimensional Gaussian complex matrix model. We develop a loop-equation
+based, analytic strategy for evaluating such expectation values to any order in
+the genus expansion. We reproduce the expectation values which were needed for
+the calculation of the one-loop, genus one correction to the anomalous
+dimension of BMN-operators and which were earlier obtained by combinatorial
+means. Furthermore, we present the expectation values needed for the
+calculation of the one-loop, genus two correction.
+</abstract>

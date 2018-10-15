@@ -1,0 +1,24 @@
+<title>
+Dirac-Hestenes spinor fields in Riemann-Cartan spacetime
+</title>
+
+<abstract>
+  In this paper we study Dirac-Hestenes spinor fields (DHSF) on a
+four-dimensional Riemann-Cartan spacetime (RCST). We prove that these
+fields must be defined as certain equivalence classes of even sections of the
+Clifford bundle (over the RCST), thereby being certain particular sections of a
+new bundle named Spin-Clifford bundle (SCB). The conditions for the existence
+of the SCB are studied and are shown to be equivalent to the famous Geroch's
+theorem concerning to the existence of spinor structures in a Lorentzian
+spacetime. We introduce also the covariant and algebraic Dirac spinor fields
+and compare these with DHSF, showing that all the three kinds of spinor fields
+contain the same mathematical and physical information. We clarify also the
+notion of (Crumeyrolle's) amorphous spinors (Dirac-K\"ahler spinor fields are
+of this type), showing that they cannot be used to describe fermionic fields.
+We develop a rigorous theory for the covariant derivatives of Clifford fields
+(sections of the Clifford bundle (CB)) and of Dirac-Hestenes spinor fields. We
+show how to generalize the original Dirac-Hestenes equation in Minkowski
+spacetime for the case of a RCST. Our results are obtained from a variational
+principle formulated through the multiform derivative approach to Lagrangian
+field theory in the Clifford bundle.
+</abstract>

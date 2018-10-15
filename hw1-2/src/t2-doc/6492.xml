@@ -1,0 +1,13 @@
+<title>
+String Theory and the CPT Theorem on the World-Sheet
+</title>
+
+<abstract>
+  We study the CPT theorem for a two-dimensional conformal field theory on an
+arbitrary Riemann surface. On the sphere the theorem follows from the
+assumption that the correlation functions have standard hermiticity properties
+and are invariant under the transformation $z \rightarrow 1/z$. The theorem can
+then be extended to higher genus surfaces by sewing. We show that, as a
+consequence of the CPT theorem on the world-sheet, the scattering $T$-matrix in
+string theory is {\sl formally\/} hermitean at any loop order.
+</abstract>

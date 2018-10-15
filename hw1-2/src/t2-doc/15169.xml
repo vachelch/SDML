@@ -1,0 +1,18 @@
+<title>
+Topology and Quantization
+</title>
+
+<abstract>
+  A simple algebraic model for charged particle moving in two dimensional space
+under influence of singular magnetic field is given. The fundamental assumption
+for the model is that every charged particle coupled to the magnetic field is
+transformed into a system of quasiparticles. It is also assumed for simplicity
+that there is in average N fluxes per particle. If the number N of fluxes is
+even, then the system can be identified as composite fermions. If N is odd,
+then we obtain composite bosons. Quantization is described as gradation by
+certain abelian group G. Statistics is determined by a commutation factor on
+the grading group G. It is schown that for N = 2 there is a state for which the
+magnetic field is completely compensatad by the system of quasiparticles and
+for N = 3 the Landau levells are fractionally filled like in the fractional
+quantum Hall effect.
+</abstract>

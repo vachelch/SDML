@@ -1,0 +1,17 @@
+<title>
+Chiral Determinant Formulae and Subsingular Vectors for the N=2
+  Superconformal Algebras
+</title>
+
+<abstract>
+  We derive conjectures for the N=2 "chiral" determinant formulae of the
+Topological algebra, the Antiperiodic NS algebra, and the Periodic R algebra,
+corresponding to incomplete Verma modules built on chiral topological
+primaries, chiral and antichiral NS primaries, and Ramond ground states,
+respectively. Our method is based on the analysis of the singular vectors in
+chiral Verma modules and their spectral flow symmetries, together with some
+computer exploration and some consistency checks. In addition, and as a
+consequence, we uncover the existence of subsingular vectors in these algebras,
+giving examples (subsingular vectors are non-highest-weight null vectors which
+are not descendants of any highest-weight singular vectors).
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+The Size of a Polymer of String-Bits: A Numerical Investigation
+</title>
+
+<abstract>
+  In string-bit models, string is described as a polymer of point-like
+constituents. We attempt to use string-bit ideas to investigate how the size of
+string is affected by string interactions in a non-perturbative context.
+Lacking adequate methods to deal with the full complications of bit
+rearrangement interactions, we study instead a simplified analog model with
+only ``direct'' potential interactions among the bits. We use the variational
+principle in an approximate calculation of the mean-square size of a polymer as
+a function of the number of constituents/bits for various interaction strengths
+g in three specific models.
+</abstract>

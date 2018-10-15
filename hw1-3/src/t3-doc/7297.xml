@@ -1,0 +1,22 @@
+<date>
+Wed, 21 Jul 1999 11:16:27 GMT
+</date>
+
+<title>
+Recursive Graphical Construction of Feynman Diagrams and Their
+  Multiplicities in phi^4- and in phi^2A-Theory
+</title>
+
+<abstract>
+  The free energy of a field theory can be considered as a functional of the
+free correlation function. As such it obeys a nonlinear functional differential
+equation which can be turned into a recursion relation. This is solved order by
+order in the coupling constant to find all connected vacuum diagrams with their
+proper multiplicities. The procedure is applied to a multicomponent scalar
+field theory with a phi^4-self-interaction and then to a theory of two scalar
+fields phi and A with an interaction phi^2 A. All Feynman diagrams with
+external lines are obtained from functional derivatives of the connected vacuum
+diagrams with respect to the free correlation function. Finally, the recursive
+graphical construction is automatized by computer algebra with the help of a
+unique matrix notation for the Feynman diagrams.
+</abstract>

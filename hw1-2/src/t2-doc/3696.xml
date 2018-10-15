@@ -1,0 +1,18 @@
+<title>
+Explicit Derivation of Yang-Mills Self-Dual Solutions on non-Commutative
+  Harmonic Space
+</title>
+
+<abstract>
+  We develop the noncommutative harmonic space (NHS) analysis to study the
+problem of solving the non-linear constraint eqs of noncommutative Yang-Mills
+self-duality in four-dimensions. We show that this space, denoted also as
+NHS($\eta,\theta$), has two SU(2) isovector deformations $\eta^{(ij)}$ and
+$\theta^{(ij)}$ parametrising respectively two noncommutative harmonic
+subspaces NHS($\eta,0$) and NHS($0,\theta$) used to study the self-dual and
+anti self-dual noncommutative Yang-Mills solutions. We formulate the Yang-Mills
+self-dual constraint eqs on NHS($\eta,0$) by extending the idea of harmonic
+analyticity to linearize them. Then we give a perturbative self-dual solution
+recovering the ordinary one. Finally we present the explicit computation of an
+exact self-dual solution.
+</abstract>

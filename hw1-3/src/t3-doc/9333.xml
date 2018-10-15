@@ -1,0 +1,23 @@
+<date>
+Thu, 21 Dec 1995 11:03:35 +0000
+</date>
+
+<title>
+A Generalized Duality Symmetry for Nonabelian Yang-Mills Fields
+</title>
+
+<abstract>
+  It is shown that classical nonsupersymmetric Yang-Mills theory in 4
+dimensions is symmetric under a generalized dual transform which reduces to the
+usual dual *-operation for electromagnetism. The parallel phase transport
+$\tilde{A}_\mu(x)$ constructed earlier for monopoles is seen to function also
+as a potential in giving full description of the gauge field, playing thus an
+entirely dual symmetric role to the usual potential $A_\mu(x)$. Sources of $A$
+are monopoles of $\tilde{A}$ and vice versa, and the Wu-Yang criterion for
+monopoles is found to yield as equations of motion the standard Wong and
+Yang-Mills equations for respectively the classical and Dirac point charge;
+this applies whether the charge is electric or magnetic, the two cases being
+related just by a dual transform. The dual transformation itself is explicit,
+though somewhat complicated, being given in terms of loop space variables of
+the Polyakov type.
+</abstract>

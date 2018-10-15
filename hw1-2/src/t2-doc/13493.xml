@@ -1,0 +1,14 @@
+<title>
+Quantum Transformations
+</title>
+
+<abstract>
+  We show that the stationary quantum Hamilton-Jacobi equation of
+non-relativistic 1D systems, underlying Bohmian mechanics, takes the classical
+form with $\partial_q$ replaced by $\partial_{\hat q}$ where $d\hat q={dq\over
+\sqrt{1-\beta^2}}$. The $\beta^2$ term essentially coincides with the quantum
+potential that, like $V-E$, turns out to be proportional to a curvature arising
+in projective geometry. In agreement with the recently formulated equivalence
+principle, these ``quantum transformations'' indicate that the classical and
+quantum potentials deform space geometry.
+</abstract>

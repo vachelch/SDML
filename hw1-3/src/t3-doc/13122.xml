@@ -1,0 +1,19 @@
+<date>
+Tue, 18 Mar 2003 22:00:32 GMT
+</date>
+
+<title>
+Massive Feynman diagrams and inverse binomial sums
+</title>
+
+<abstract>
+  When calculating higher terms of the epsilon-expansion of massive Feynman
+diagrams, one needs to evaluate particular cases of multiple inverse binomial
+sums. These sums are related to the derivatives of certain hypergeometric
+functions with respect to their parameters. We explore this connection and
+analytically calculate a number of such infinite sums, for an arbitrary value
+of the argument which corresponds to an arbitrary value of the off-shell
+external momentum. In such a way, we find a number of new results for
+physically important two-loop two- and three-point Feynman diagrams. The
+results are presented in terms of generalized polylogarithmic functions.
+</abstract>

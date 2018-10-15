@@ -1,0 +1,22 @@
+<date>
+Wed, 7 Jul 1999 13:09:34 GMT
+</date>
+
+<title>
+A Quantum Field Theory with Infinite Resonance States
+</title>
+
+<abstract>
+  We study an integrable quantum field theory of a single stable particle with
+an infinite number of resonance states. The exact $S$--matrix of the model is
+expressed in terms of Jacobian elliptic functions which encode the resonance
+poles inherently. In the limit $l \to 0$, with $l$ the modulus of the Jacobian
+elliptic function, it reduces to the Sinh--Gordon $S$--matrix. We address the
+problem of computing the Form Factors of the model by studying their monodromy
+and recursive equations. These equations turn out to possess infinitely many
+solutions for any given number of external particles. This infinite spectrum of
+solutions may be related to the irrational nature of the underlying Conformal
+Field Theory reached in the ultraviolet limit. We also discuss an elliptic
+version of the thermal massive Ising model which is obtained by a particular
+value of the coupling constant.
+</abstract>

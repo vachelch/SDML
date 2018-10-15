@@ -1,0 +1,22 @@
+<date>
+Wed, 9 May 2001 13:36:01 GMT
+</date>
+
+<title>
+Confinement and soliton solutions in the SL(3) Toda model coupled to
+  matter fields
+</title>
+
+<abstract>
+  We consider an integrable conformally invariant two dimensional model
+associated to the affine Kac-Moody algebra SL(3). It possesses four scalar
+fields and six Dirac spinors. The theory does not possesses a local Lagrangian
+since the spinor equations of motion present interaction terms which are
+bilinear in the spinors. There exists a submodel presenting an equivalence
+between a U(1) vector current and a topological current, which leads to a
+confinement of the spinors inside the solitons. We calculate the one-soliton
+and two-soliton solutions using a procedure which is a hybrid of the dressing
+and Hirota methods. The soliton masses and time delays due to the soliton
+interactions are also calculated. We give a computer program to calculate the
+soliton solutions.
+</abstract>

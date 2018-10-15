@@ -1,0 +1,14 @@
+<title>
+Baxterization, dynamical systems, and the symmetries of integrability
+</title>
+
+<abstract>
+  We resolve the `baxterization' problem with the help of the automorphism
+group of the Yang-Baxter (resp. star-triangle, tetrahedron, \dots) equations.
+This infinite group of symmetries is realized as a non-linear (birational)
+Coxeter group acting on matrices, and exists as such, {\em beyond the narrow
+context of strict integrability}. It yields among other things an unexpected
+elliptic parametrization of the non-integrable sixteen-vertex model. It
+provides us with a class of discrete dynamical systems, and we address some
+related problems, such as characterizing the complexity of iterations.
+</abstract>

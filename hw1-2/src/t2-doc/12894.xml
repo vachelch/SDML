@@ -1,0 +1,20 @@
+<title>
+Symmetry Algebras of Large-N Matrix Models for Open Strings
+</title>
+
+<abstract>
+  We have discovered that the gauge invariant observables of matrix models
+invariant under U($N$) form a Lie algebra, in the planar large-N limit. These
+models include Quantum Chromodynamics and the M(atrix)-Theory of strings. We
+study here the gauge invariant states corresponding to open strings (`mesons').
+We find that the algebra is an extension of a remarkable new Lie algebra ${\cal
+V}_{\Lambda}$ by a product of more well-known algebras such as $gl_{\infty}$
+and the Cuntz algebra. ${\cal V}_{\Lambda}$ appears to be a generalization of
+the Lie algebra of vector fields on the circle to non-commutative geometry. We
+also use a representation of our Lie algebra to establish an isomorphism
+between certain matrix models (those that preserve `gluon number') and open
+quantum spin chains. Using known results on quantum spin chains, we are able to
+identify some exactly solvable matrix models. Finally, the Hamiltonian of a
+dimensionally reduced QCD model is expressed explicitly as an element of our
+Lie algebra.
+</abstract>

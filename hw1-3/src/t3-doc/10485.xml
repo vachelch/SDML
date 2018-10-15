@@ -1,0 +1,22 @@
+<date>
+Tue, 12 Dec 1995 14:13:38 +0100
+</date>
+
+<title>
+Exact renormalization group study of fermionic theories
+</title>
+
+<abstract>
+  The exact renormalization group approach (ERG) is developed for the case of
+pure fermionic theories by deriving a Grassmann version of the ERG equation and
+applying it to the study of fixed point solutions and critical exponents of the
+two-dimensional chiral Gross-Neveu model. An approximation based on the
+derivative expansion and a further truncation in the number of fields is used.
+Two solutions are obtained analytically in the limit $N\to \infty $, with N
+being the number of fermionic species. For finite N some fixed point solutions,
+with their anomalous dimensions and critical exponents, are computed
+numerically. The issue of separation of physical results from the numerous
+spurious ones is discussed. We argue that one of the solutions we find can be
+identified with that of Dashen and Frishman, whereas the others seem to be new
+ones.
+</abstract>

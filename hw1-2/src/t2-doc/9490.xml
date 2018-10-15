@@ -1,0 +1,21 @@
+<title>
+A Compactification of the Real Configuration Space as an Operadic
+  Completion
+</title>
+
+<abstract>
+  S. Axelrod and I.M. Singer constructed a compactification of the
+configuration space of distinct points in a Riemannian manifold V. A similar
+compactification for the moduli space of configurations of distinct points in
+the plane (mod the affine group action) was considered by E. Getzler and J.D.S.
+Jones. They observed that this compactification carries a natural structure of
+an operad. In the present note we show that (non-compactified) configuration
+spaces form a partial operad (or a partial module over a partial operad) and
+that the compactification can be described as an operadic (or modular)
+completion. This approach immediately gives the operad (or module) structure on
+the compactification. We also discuss the spectral sequence of the
+stratification and identify the second term of this spectral sequence to the
+bar resolution of an operadic module. Our results generalize the work of
+Getzler, Kimura, Jones, Stasheff, Voronov and others to the case of
+configurations in a general Riemannian manifold.
+</abstract>

@@ -1,0 +1,24 @@
+<title>
+On the BRST Quantization of the Massless Bosonic Particle in
+  Twistor-Like Formulation
+</title>
+
+<abstract>
+  We study some features of bosonic particle path-integral quantization in a
+twistor-like approach by use of the BRST-BFV quantization prescription. In the
+course of the Hamiltonian analysis we observe links between various
+formulations of the twistor-like particle by performing a conversion of the
+Hamiltonian constraints of one formulation to another. A particular feature of
+the conversion procedure applied to turn the second-class constraints into the
+first-class constraints is that the simplest Lorentz-covariant way to do this
+is to convert a full mixed set of the initial first- and second-class
+constraints rather than explicitly extracting and converting only the
+second-class constraints. Another novel feature of the conversion procedure
+applied below is that in the case of the D=4 and D=6 twistor-like particle the
+number of new auxiliary Lorentz-covariant coordinates, which one introduces to
+get a system of first-class constraints in an extended phase space, exceeds the
+number of independent second-class constraints of the original dynamical
+system. We calculate the twistor-like particle propagator in D=3, 4 and 6
+space-time dimensions and show, that it coincides with that of a conventional
+massless bosonic particle.
+</abstract>

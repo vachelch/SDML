@@ -1,0 +1,16 @@
+<title>
+Collective Field Theory of the Fractional Quantum Hall Edge State and
+  the Calogero-Sutherland Model
+</title>
+
+<abstract>
+  \noindent Using hydrodynamic collective field theory approach we show that
+one-particle density matrix of the $\nu=1/m$ fractional quantum Hall edge state
+interpolates between chiral Luttinger liquid behavior $\langle
+\psi^{\dagger}(r) \psi(0) \rangle \sim r^{-m} $ and Calogero-Sutherland model
+behavior $\langle \psi^{\dagger}(r) \psi(0) \rangle \sim r^{-(m+1/m)/2} $ as
+the droplet width is varied continuously. Low-energy excitations are described
+by $c=1$ conformal field theory of a compact boson of radius $\sqrt m$. The
+result suggests complementary relation between the two-dimensional quantum Hall
+droplet and the one-dimensional Calogero-Sutherland model.
+</abstract>

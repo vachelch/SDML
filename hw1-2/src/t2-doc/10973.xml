@@ -1,0 +1,12 @@
+<title>
+On Localization and Regularization
+</title>
+
+<abstract>
+  Different regularizations are studied in localization of path integrals. We
+discuss the effect of the choice of regularization by evaluating the partition
+functions for the harmonic oscillator and the Weyl character for SU(2). In
+particular, we solve the Weyl shift problem that arises in path integral
+evaluation of the Weyl character by using the Atiyah-Patodi-Singer
+$\eta$-invariant and the Borel-Weil theory.
+</abstract>

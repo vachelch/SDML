@@ -1,0 +1,18 @@
+<title>
+Conformal partial wave analysis of AdS amplitudes for dilaton-axion
+  four-point functions
+</title>
+
+<abstract>
+  Operator product expansions are applied to dilaton-axion four-point
+functions. In the expansions of the bilocal fields $\tilde{\Phi}\tilde{\Phi}$,
+$\tilde{C}\tilde{C}$ and $\tilde{\Phi}\tilde{C}$, the conformal fields which
+are symmetric traceless tensors of rank $l$ and have dimensions $\delta=2+l$ or
+$8+l+\eta(l)$ and $\eta(l)=\mathcal{O}(N^{-2})$ are identified. The
+unidentified fields have dimension $\delta=\lambda+l+\eta(l)$ with $\lambda\geq
+10$. The anomalous dimensions $\eta(l)$ are calculated at order
+$\mathcal{O}(N^{-2})$ for both $2^{-{1/2}}(-\tilde{\Phi}\tilde{\Phi} +
+\tilde{C}\tilde{C})$ and $2^{-{1/2}}(\tilde{\Phi}\tilde{C} +
+\tilde{C}\tilde{\Phi})$ and are found to be the same, proving $U(1)_Y$
+symmetry. The relevant coupling constants are given at order $\mathcal{O}(1)$.
+</abstract>

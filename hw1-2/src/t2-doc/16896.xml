@@ -1,0 +1,21 @@
+<title>
+RCFT extensions of W_{1+infinity} in terms of bilocal fields
+</title>
+
+<abstract>
+  The rational conformal field theory (RCFT) extensions of W_{1+infinity} at
+c=1 are in one-to-one correspondence with 1-dimensional integral lattices L(m).
+Each extension is associated with a pair of oppositely charged ``vertex
+operators" of charge square m in N. Their product defines a bilocal field
+V_m(z_1,z_2) whose expansion in powers of z_{12}=z_1-z_2 gives rise to a series
+of (neutral) local quasiprimary fields V^l(z,m) (of dimension l+1). The
+associated bilocal exponential of a normalized current generates the
+W_{1+infinity} algebra spanned by the V^l(z,1) (and the unit operator). The
+extension of this construction to higher (integer) values of the central charge
+c is also considered.
+  Applications to a quantum Hall system require computing characters (i.e.,
+chiral partition functions) depending not just on the modular parameter tau,
+but also on a chemical potential zeta. We compute such a zeta dependence of
+orbifold characters, thus extending the range of applications of a recent study
+of affine orbifolds.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+Features of Time-independent Wigner Functions
+</title>
+
+<abstract>
+  The Wigner phase-space distribution function provides the basis for Moyal's
+deformation quantization alternative to the more conventional Hilbert space and
+path integral quantizations. General features of time-independent Wigner
+functions are explored here, including the functional ("star") eigenvalue
+equations they satisfy; their projective orthogonality spectral properties;
+their Darboux ("supersymmetric") isospectral potential recursions; and their
+canonical transformations. These features are illustrated explicitly through
+simple solvable potentials: the harmonic oscillator, the linear potential, the
+Poeschl-Teller potential, and the Liouville potential.
+</abstract>

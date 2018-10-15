@@ -1,0 +1,22 @@
+<date>
+Sat, 29 Apr 1995 12:19:04 +0800
+</date>
+
+<title>
+Gauging of Nonlinearly Realized Symmetries
+</title>
+
+<abstract>
+  A representation of a subgroup H of a finite-dimensional group G can be used
+to induce a nonlinear realization of G. If the nonlinearly realized symmetry is
+gauged, then the BRST charge can be related by a similarity transformation to
+the BRST charge for the gauged linear realization of H (plus a cohomologically
+trivial piece). It is shown that the relation between the two BRST charges is a
+reflection of the fact that they can be interpreted geometrically as
+expressions for the exterior derivative on G relative to two different bases,
+and an explicit expression for the generator of the similarity transformation
+is obtained. This result is applied in an infinite-dimensional setting, where
+it yields the similarity transformation used by Ishikawa and Kato to prove the
+equivalence of the Berkovits-Vafa superstring with the underlying bosonic
+string theory.
+</abstract>

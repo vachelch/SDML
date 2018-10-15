@@ -1,0 +1,17 @@
+<title>
+Glueball Mass Spectrum From Supergravity
+</title>
+
+<abstract>
+  We calculate the spectrum of glueball masses in non-supersymmetric Yang-Mills
+theory in three and four dimensions, based on a conjectured duality between
+supergravity and large N gauge theories. The glueball masses are obtained by
+solving supergravity wave equations in a black hole geometry. We find that the
+mass ratios are in good numerical agreement with the available lattice data. We
+also compute the leading (g_{YM}^2 N)^{-1} corrections to the glueball masses,
+by taking into account stringy corrections to the supergravity action and to
+the black hole metric. We find that the corrections to the masses are negative
+and of order (g_{YM}^2N)^{-3/2}. Thus for a fixed ultraviolet cutoff the masses
+decrease as we decrease the 't Hooft coupling, in accordance with our
+expectation about the continuum limit of the gauge theories.
+</abstract>

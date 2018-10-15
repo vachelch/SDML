@@ -1,0 +1,20 @@
+<date>
+Fri, 4 Aug 95 15:22:56 BST
+</date>
+
+<title>
+Momentum Scale Expansion of Sharp Cutoff Flow Equations
+</title>
+
+<abstract>
+  We show how the exact renormalization group for the effective action with a
+sharp momentum cutoff, may be organised by expanding one-particle irreducible
+parts in terms of homogeneous functions of momenta of integer degree (Taylor
+expansions not being possible). A systematic series of approximations -- the
+$O(p^M)$ approximations -- result from discarding from these parts, all terms
+of higher than the $M^{\rm th}$ degree. These approximations preserve a field
+reparametrization invariance, ensuring that the field's anomalous dimension is
+unambiguously determined. The lowest order approximation coincides with the
+local potential approximation to the Wegner-Houghton equations. We discuss the
+practical difficulties with extending the approximation beyond $O(p^0)$.
+</abstract>

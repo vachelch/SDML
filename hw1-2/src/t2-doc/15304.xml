@@ -1,0 +1,19 @@
+<title>
+Energy Momentum Tensor and Operator Product Expansion in Local Causal
+  Perturbation Theory
+</title>
+
+<abstract>
+  We derive new examples for algebraic relations of interacting fields in local
+perturbative quantum field theory. The fundamental building blocks in this
+approach are time ordered products of free (composed) fields. We give explicit
+formulas for the construction of Poincare covariant ones, which were already
+known to exist through cohomological arguments.
+  For a large class of theories the canonical energy momentum tensor is shown
+to be conserved. Classical theories without dimensionful couplings admit an
+improved tensor that is additionally traceless. On the example of phi^4-theory
+we discuss the improved tensor in the quantum theory. Its trace receives an
+anomalous contribution due to its conservation.
+  Moreover we define an interacting bilocal normal product for scalar theories.
+This leads to an operator product expansion of two time ordered fields.
+</abstract>

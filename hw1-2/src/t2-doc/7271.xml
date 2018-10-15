@@ -1,0 +1,19 @@
+<title>
+An axiomatic approach to quantum gauge field theory
+</title>
+
+<abstract>
+  In the present article we display a new constructive quantum field theory
+approach to quantum gauge field theory, utilizing the recent progress in the
+integration theory on the moduli space of generalized connections modulo gauge
+transformations. That is, we propose a new set of Osterwalder Schrader like
+axioms for the characteristic functional of a measure on the space of
+generalized connections modulo gauge transformations rather than for the
+associated Schwinger distributions. We show non-triviality of our axioms by
+demonstrating that they are satisfied for two-dimensional Yang-Mills theory on
+the plane and the cylinder. As a side result we derive a closed and analytical
+expression for the vacuum expectation value of an arbitrary product of Wilson
+loop functionals from which we derive the quantum theory along the Glimm and
+Jaffe algorithm which agrees exactly with the one as obtained by canonical
+methods.
+</abstract>

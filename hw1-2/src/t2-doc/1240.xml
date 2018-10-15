@@ -1,0 +1,19 @@
+<title>
+Pathspace Decompositions for the Virasoro Algebra and its Verma Modules
+</title>
+
+<abstract>
+  Starting from a detailed analysis of the structure of pathspaces of the
+${\cal A}$-fusion graphs and the corresponding irreducible Virasoro algebra
+quotients $V(c,h)$ for the ($2,q$ odd) models, we introduce the notion of an
+admissible pathspace representation. The pathspaces ${\cal P_A}$ over the
+${\cal A}$-Graphs are isomorphic to the pathspaces over Coxeter $A$-graphs that
+appear in FB models. We give explicit construction algorithms for admissible
+representations. From the finitedimensional results of these algorithms we
+derive a decomposition of $V(c,h)$ into its positive and negative definite
+subspaces w.r.t. the Shapovalov form and the corresponding signature
+characters. Finally, we treat the Virasoro operation on the lattice induced by
+admissible representations adopting a particle point of view. We use this
+analysis to decompose the Virasoro algebra generators themselves. This
+decomposition also takes the nonunitarity of the ($2,q$) models into account.
+</abstract>

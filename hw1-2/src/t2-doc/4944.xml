@@ -1,0 +1,14 @@
+<title>
+Boundary states for a free boson defined on finite geometries
+</title>
+
+<abstract>
+  Langlands recently constructed a map that factorizes the partition function
+of a free boson on a cylinder with boundary condition given by two arbitrary
+functions in the form of a scalar product of boundary states. We rewrite these
+boundary states in a compact form, getting rid of technical assumptions
+necessary in his construction. This simpler form allows us to show explicitly
+that the map between boundary conditions and states commutes with conformal
+transformations preserving the boundary and the reality condition on the scalar
+field.
+</abstract>

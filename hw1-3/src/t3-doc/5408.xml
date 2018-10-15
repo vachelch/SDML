@@ -1,0 +1,23 @@
+<date>
+Mon, 29 Aug 94 11:45:07 +0200
+</date>
+
+<title>
+On the Classification of Modular Fusion Algebras
+</title>
+
+<abstract>
+  We introduce the notion of (nondegenerate) strong-modular fusion algebras.
+Here strongly-modular means that the fusion algebra is induced via Verlinde's
+formula by a representation of the modular group SL(2,Z) whose kernel contains
+a congruence subgroup. Furthermore, nondegenerate means that the conformal
+dimensions of possibly underlying rational conformal field theories do not
+differ by integers. Our main result is the classification of all
+strongly-modular fusion algebras of dimension two, three and four and the
+classification of all nondegenerate strongly-modular fusion algebras of
+dimension less than 24. We use the classification of the irreducible
+representations of the finite groups SL(2,Z_{p^l}) where p is a prime and l a
+positive integer. Finally, we give polynomial realizations and fusion graphs
+for all simple nondegenerate strongly-modular fusion algebras of dimension less
+than 24.
+</abstract>

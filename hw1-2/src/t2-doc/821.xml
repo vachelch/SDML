@@ -1,0 +1,15 @@
+<title>
+Clockwork SUSY: Supersymmetric Ward and Slavnov-Taylor Identities At
+  Work in Green's Functions and Scattering Amplitudes
+</title>
+
+<abstract>
+  We study the cancellations among Feynman diagrams that implement the Ward and
+Slavnov-Taylor identities corresponding to the conserved supersymmetry current
+in supersymmetric quantum field theories. In particular, we show that the
+Faddeev-Popov ghosts of gauge- and supersymmetries never decouple from the
+physical fields, even for abelian gauge groups. The supersymmetric
+Slavnov-Taylor identities provide efficient consistency checks for automatized
+calculations and can verify the supersymmetry of Feynman rules and the
+numerical stability of phenomenological predictions simultaneously.
+</abstract>

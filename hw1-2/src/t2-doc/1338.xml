@@ -1,0 +1,16 @@
+<title>
+Non-perturbative approach to the effective potential of the
+  $\lambda\phi^{4} theory at finite temperature
+</title>
+
+<abstract>
+  We construct a non-perturbative method to investigate the phase structure of
+the scalar theory at finite temperature. The derivative of the effective
+potential with respect to the mass square is expressed in terms of the full
+propagator. Under a certain approximation this expression reduces to the
+partial differential equation for the effective potential. We numerically solve
+the partial differential equation and obtain the effective potential
+non-perturbatively. It is found that the phase transition is of the second
+order. The critical exponents calculated in this method are consistent with the
+results obtained in Landau approximation.
+</abstract>

@@ -1,0 +1,17 @@
+<date>
+Tue, 2 Sep 1997 10:23:24 +0900 (CDT)
+</date>
+
+<title>
+Free boson representation of DY_{\hbar}(gl_N)_k
+</title>
+
+<abstract>
+  We construct a realization of the Yangian double DY_\hbar(gl_N) and
+DY_\hbar(sl_N) of an arbitrary level k in terms of free boson fields with a
+continuous parameter. In the \hbar \to 0 limit this realization becomes the
+Wakimoto realization of kac-Moody algebra gl_N and sl_N, respectively. The
+vertex operators and the screening currents are also constructed with the same
+spirits; the screening currents commute with DY_\hbar(sl_N) modulo total
+difference.
+</abstract>

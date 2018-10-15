@@ -1,0 +1,19 @@
+<date>
+Fri, 8 Mar 96 11:05:18 +0100
+</date>
+
+<title>
+A method for solve integrable $A_2$ spin chains combining different
+  representations
+</title>
+
+<abstract>
+  A non homogeneous spin chain in the representations $ \{3 \}$ and $ \{3^*\}$
+of $A_2$ is analyzed. We find that the naive nested Bethe ansatz is not
+applicable to this case. A method inspired in the nested Bethe ansatz, that can
+be applied to more general cases, is developed for that chain. The solution for
+the eigenvalues of the trace of the monodromy matrix is given as two coupled
+Bethe equations different from that for a homogeneous chain. A conjecture about
+the form of the solutions for more general chains is presented.
+  PACS: 75.10.Jm, 05.50+q 02.20 Sv
+</abstract>

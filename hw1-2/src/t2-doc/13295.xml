@@ -1,0 +1,23 @@
+<title>
+On Matrix KP and Super-KP Hierarchies in the Homogeneous Grading
+</title>
+
+<abstract>
+  Constrained KP and super-KP hierarchies of integrable equations (generalized
+NLS hierarchies) are systematically produced through a Lie algebraic AKS-matrix
+framework associated to the homogeneous grading. The role played by different
+regular elements to define the corresponding hierarchies is analyzed as well as
+the symmetry properties under the Weyl group transformations. The coset
+structure of higher order hamiltonian densities is proven.\par For a generic
+Lie algebra the hierarchies here considered are integrable and essentially
+dependent on continuous free parameters. The bosonic hierarchies studied in
+\cite{{FK},{AGZ}} are obtained as special limit restrictions on hermitian
+symmetric-spaces.\par In the supersymmetric case the homogeneous grading is
+introduced consistently by using alternating sums of bosons and fermions in the
+spectral parameter power series.\par The bosonic hierarchies obtained from
+${\hat {sl(3)}}$ and the supersymmetric ones derived from the $N=1$
+affinization of $sl(2)$, $sl(3)$ and $osp(1|2)$ are explicitly constructed.
+\par An unexpected result is found: only a restricted subclass of the $sl(3)$
+bosonic hierarchies can be supersymmetrically extended while preserving
+integrability.
+</abstract>

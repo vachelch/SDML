@@ -1,0 +1,15 @@
+<title>
+Symmetry, Integrable Chain Models and Stochastic Processes
+</title>
+
+<abstract>
+  A general way to construct chain models with certain Lie algebraic or quantum
+Lie algebraic symmetries is presented. These symmetric models give rise to
+series of integrable systems. As an example the chain models with $A_n$
+symmetry and the related Temperley-Lieb algebraic structures and
+representations are discussed. It is shown that corresponding to these $A_n$
+symmetric integrable chain models there are exactly solvable stationary
+discrete-time (resp. continuous-time) Markov chains whose spectra of the
+transition matrices (resp. intensity matrices) are the same as the ones of the
+corresponding integrable models.
+</abstract>

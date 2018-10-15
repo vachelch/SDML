@@ -1,0 +1,24 @@
+<title>
+String Theory on AdS(3) Revisited
+</title>
+
+<abstract>
+  We discuss string theory on AdS(3)xS(3)xM(4) with particular emphasis on
+unitarity and state-operator correspondence. The AdS-CFT correspondence, in the
+Minkowski signature, is re-examined by taking into account the only allowed
+unitary representation: the principal series module of the affine current
+algebra SL(2,R) supplemented with zero modes. Zero modes play an important role
+in the description of on-shell states as well as of windings in space-time at
+the AdS(3) boundary. The theory is presented as part of the supersymmetric WZW
+model that includes the supergroup SU(2/1,1) or OSp(4/2) or D(2,1;\alpha) with
+central extension k. A free field representation is given and the vertex
+operators are constructed in terms of free fields in SL(2,R) principal series
+representation bases that are labeled by position space or momentum space at
+the boundary of AdS(3). The vertex operators have the correct operator products
+with the currents and stress tensor, all of which are constructed from free
+fields, including the subtle zero modes. It is shown that as k goes to
+infinity, AdS(3) tends to flat 3D-Minkowski space and the AdS(3) vertex
+operators in momentum space tend to the vertex operators of flat 3D-string
+theory (furthermore the theory readjusts smoothly in the rest of the dimensions
+in this limit).
+</abstract>

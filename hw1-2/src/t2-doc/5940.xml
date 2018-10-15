@@ -1,0 +1,26 @@
+<title>
+On alpha'-corrections to D-brane solutions
+</title>
+
+<abstract>
+  We discuss the computation of the leading corrections to D-brane solutions
+due to higher derivative terms in the corresponding low energy effective
+action. We develop several alternative methods for analyzing the problem. In
+particular, we derive an effective one-dimensional action from which the field
+equations for spherically symmetric two-block brane solutions can be derived,
+show how to obtain first order equations, and discuss a few other approaches.
+We integrate the equations for extremal branes and obtain the corrections in
+terms of integrals of the evaluation of the higher derivative terms on the
+lowest order solution. To obtain completely explicit results one would need to
+know all leading higher derivative corrections which at present are not
+available. One of the known higher derivative terms is the R^4 term, and we
+obtain the corrections to the D3 brane solution due to this term alone. We
+note, however, that (unknown at present) higher terms depending on F_5 are
+expected to modify our result. We analyze the thermodynamics of brane solutions
+when such quantum corrections are present. We find that the R^4 term induces a
+correction to the tension and the electric potential of the D3 brane but not to
+its charge, and the tension is still proportional to the electric potential
+times the charge. In the near-horizon limit the corrected solution becomes
+AdS_5 \times S^5 with the same cosmological constant as the lowest order
+solution but a different value of the (constant) dilaton.
+</abstract>

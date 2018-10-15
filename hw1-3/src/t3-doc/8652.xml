@@ -1,0 +1,32 @@
+<date>
+Mon, 31 Jul 2000 14:21:33 GMT
+</date>
+
+<title>
+Double-Scaling Limit of a Broken Symmetry Quantum Field Theory
+</title>
+
+<abstract>
+  The Ising limit of a conventional Hermitian parity-symmetric scalar quantum
+field theory is a correlated limit in which two bare Lagrangian parameters, the
+coupling constant $g$ and the {\it negative} mass squared $-m^2$, both approach
+infinity with the ratio $-m^2/g=\alpha>0$ held fixed. In this limit the
+renormalized mass of the asymptotic theory is finite. Moreover, the limiting
+theory exhibits universal properties. For a non-Hermitian $\cal PT$-symmetric
+Lagrangian lacking parity symmetry, whose interaction term has the form
+$-g(i\phi)^N/N$, the renormalized mass diverges in this correlated limit.
+Nevertheless, the asymptotic theory still has interesting properties. For
+example, the one-point Green's function approaches the value
+$-i\alpha^{1/(N-2)}$ independently of the space-time dimension $D$ for $D<2$.
+Moreover, while the Ising limit of a parity-symmetric quantum field theory is
+dominated by a dilute instanton gas, the corresponding correlated limit of a
+$\cal PT$-symmetric quantum field theory without parity symmetry is dominated
+by a constant-field configuration with corrections determined by a
+weak-coupling expansion in which the expansion parameter (the amplitude of the
+vertices of the graphs in this expansion) is proportional to an inverse power
+of $g$. We thus observe a weak-coupling/strong-coupling duality in that while
+the Ising limit is a strong-coupling limit of the quantum field theory, the
+expansion about this limit takes the form of a conventional weak-coupling
+expansion. A possible generalization of the Ising limit to dimensions $D<4$ is
+briefly discussed.
+</abstract>

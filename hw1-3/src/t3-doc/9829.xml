@@ -1,0 +1,20 @@
+<date>
+Fri, 15 Jun 2001 15:39:04 GMT
+</date>
+
+<title>
+Generalization of the U_q(gl(N)) algebra and staggered models
+</title>
+
+<abstract>
+  We develop a technique of construction of integrable models with a Z_2
+grading of both the auxiliary (chain) and quantum (time) spaces. These models
+have a staggered disposition of the anisotropy parameter. The corresponding
+Yang-Baxter Equations are written down and their solution for the gl(N) case
+are found. We analyze in details the N=2 case and find the corresponding
+quantum group behind this solution. It can be regarded as quantum
+U_{q,B}(gl(2)) group with a matrix deformation parameter qB with (qB)^2=q^2.
+The symmetry behind these models can also be interpreted as the tensor product
+of the (-1)-Weyl algebra by an extension of U_q(gl(N)) with a Cartan generator
+related to deformation parameter -1.
+</abstract>

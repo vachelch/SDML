@@ -1,0 +1,16 @@
+<title>
+Loop Variables in String Theory
+</title>
+
+<abstract>
+  The loop variable approach is a proposal for a gauge invariant generalization
+of the sigma-model renormalization group method of obtaining equations of
+motion in string theory. The basic guiding principle is space-time gauge
+invariance rather than world-sheet properties. In essence it is a version of
+Wilson's exact renormalization group equation for the world sheet theory. It
+involves all the massive modes and is defined with a finite world-sheet cutoff,
+which allows one to go off the mass-shell. On shell the tree amplitudes of
+string theory are reproduced. The equations are gauge invariant off shell also.
+This article is a self-contained discussion of the loop variable approach as
+well as its connection with the renormalization group.
+</abstract>

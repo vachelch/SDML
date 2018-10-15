@@ -1,0 +1,21 @@
+<title>
+Canonical Transformations in Quantum Mechanics
+</title>
+
+<abstract>
+  Quantum canonical transformations are defined algebraically outside of a
+Hilbert space context. This generalizes the quantum canonical transformations
+of Weyl and Dirac to include non-unitary transformations. The importance of
+non-unitary transformations for constructing solutions of the Schr\"odinger
+equation is discussed. Three elementary canonical transformations are shown
+both to have quantum implementations as finite transformations and to generate,
+classically and infinitesimally, the full canonical algebra. A general
+canonical transformation can be realized quantum mechanically as a product of
+these transformations. Each transformation corresponds to a familiar tool used
+in solving differential equations, and the procedure of solving a differential
+equation is systematized by the use of the canonical transformations. Several
+examples are done to illustrate the use of the canonical transformations. [This
+is an extensively revised version of hep-th-9205080: the first third of the
+paper is new material; the notation has been simplified, and further discussion
+has been added to the remainder.]
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+Casimir Effects in Renormalizable Quantum Field Theories
+</title>
+
+<abstract>
+  We review the framework we and our collaborators have developed for the study
+of one-loop quantum corrections to extended field configurations in
+renormalizable quantum field theories. We work in the continuum, transforming
+the standard Casimir sum over modes into a sum over bound states and an
+integral over scattering states weighted by the density of states. We express
+the density of states in terms of phase shifts, allowing us to extract
+divergences by identifying Born approximations to the phase shifts with low
+order Feynman diagrams. Once isolated in Feynman diagrams, the divergences are
+canceled against standard counterterms. Thus regulated, the Casimir sum is
+highly convergent and amenable to numerical computation. Our methods have
+numerous applications to the theory of solitons, membranes, and quantum field
+theories in strong external fields or subject to boundary conditions.
+</abstract>

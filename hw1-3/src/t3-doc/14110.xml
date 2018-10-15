@@ -1,0 +1,25 @@
+<date>
+Thu, 15 Mar 2001 09:33:53 GMT
+</date>
+
+<title>
+Fake R^4's, Einstein Spaces and Seiberg-Witten Monopole Equations
+</title>
+
+<abstract>
+  We discuss the possible relevance of some recent mathematical results and
+techniques on four-manifolds to physics. We first suggest that the existence of
+uncountably many R^4's with non-equivalent smooth structures, a mathematical
+phenomenon unique to four dimensions, may be responsible for the observed
+four-dimensionality of spacetime. We then point out the remarkable fact that
+self-dual gauge fields and Weyl spinors can live on a manifold of Euclidean
+signature without affecting the metric. As a specific example, we consider
+solutions of the Seiberg-Witten Monopole Equations in which the U(1) fields are
+covariantly constant, the monopole Weyl spinor has only a single constant
+component, and the 4-manifold M_4 is a product of two Riemann surfaces
+Sigma_{p_1} and Sigma_{p_2}. There are p_{1}-1(p_{2}-1) magnetic(electric)
+vortices on \Sigma_{p_1}(\Sigma_{p_2}), with p_1 + p_2 \geq 2 (p_1=p_2= 1 being
+excluded). When the two genuses are equal, the electromagnetic fields are
+self-dual and one obtains the Einstein space \Sigma_p x \Sigma_p, the monopole
+condensate serving as the cosmological constant.
+</abstract>

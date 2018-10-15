@@ -1,0 +1,19 @@
+<title>
+The instanton contributions to Yang-Mills theory on the torus:
+  localization, Wilson loops and the perturbative expansion
+</title>
+
+<abstract>
+  The instanton contributions to the partition function and to homologically
+trivial Wilson loops for a U(N) Yang-Mills theory on a torus $T^2$ are
+analyzed. An exact expression for the partition function is obtained as a sum
+of contributions localized around the classical solutions of Yang-Mills
+equations, that appear according to the general classification of Atiyah and
+Bott. Explicit expressions for the exact Wilson loop averages are obtained when
+N=2, N=3. For general $N$ the contribution of the zero-instanton sector has
+been carefully derived in the decompactification limit, reproducing the sum of
+the perturbative series on the plane, in which the light-cone gauge Yang-Mills
+propagator is prescribed according to Wu-Mandelstam-Leibbrandt (WML). Agreement
+with the results coming from $S^2$ is therefore obtained, confirming the truly
+perturbative nature of the WML computations.
+</abstract>

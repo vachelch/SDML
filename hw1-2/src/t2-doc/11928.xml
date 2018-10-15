@@ -1,0 +1,13 @@
+<title>
+Self-consistent renormalization group flow
+</title>
+
+<abstract>
+  A self-consistent renormalization group flow equation for the scalar lambda
+phi^4 theory is analyzed and compared with the local potential approximation.
+The two prescriptions coincide in the sharp cutoff limit but differ with a
+smooth cutoff. The dependence of the critical exponent nu on the smoothness
+parameter and the field of expansion is explored. An optimization scheme based
+on the minimum sensitivity principle is employed to ensure the most rapid
+convergence of nu with the level of polynomial truncation.
+</abstract>

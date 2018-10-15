@@ -1,0 +1,23 @@
+<title>
+On geodesic propagators and black hole holography
+</title>
+
+<abstract>
+  One of the most challenging technical aspects of the dualities between string
+theory on anti-de Sitter spaces and conformal field theories is understanding
+how location in the interior of spacetime is represented in the field theory.
+It has recently been argued that the interior of the spacetime can be directly
+probed by using intrinsically non-local quantities in the field theory. In
+addition, Balasubramanian and Ross [hep-th/9906226] argued that when the
+spacetime described the formation of an AdS_3 black hole, the propagator in the
+field theory probed the whole spacetime, including the region behind the
+horizon. We use the same approach to study the propagator for the BTZ black
+hole and a black hole solution with a single exterior region, and show that it
+reproduces the propagator associated with the natural vacuum states on these
+spacetimes. We compare our result with a toy model of the CFT for the
+single-exterior black hole, finding remarkable agreement. The spacetimes
+studied in this work are analytic, which makes them quite special. We also
+discuss the interpretation of this propagator in more general spacetimes,
+shedding light on certain issues involving causality, black hole horizons, and
+products of local operators on the boundary.
+</abstract>

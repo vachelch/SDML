@@ -1,0 +1,19 @@
+<date>
+Fri, 23 Jul 93 15:19:22 +0900
+</date>
+
+<title>
+On the Probability Distribution of Velocity Circulation in
+  Three-Dimensional Turbulence
+</title>
+
+<abstract>
+  The probability distribution functions of the circulation of velocity in
+three-dimensional decaying isotropic turbulence are examined by the database of
+the numerical simulation based on the pseudospectral method. It is shown that
+the standard deviation increases nearly as $A^{2/3}$ where $A$ is the area of
+the loop. The PDFs change from exponential to gaussian as the size becomes
+large. The former agrees well with the prediction by Migdal (1993), although
+the latter does not match. A modification is proposed to explain the gaussian
+distribution with the $A^{2/3}$ dependence.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Wed, 27 Sep 2000 17:14:27 GMT
+</date>
+
+<title>
+Superstrings in AdS in light cone gauge
+</title>
+
+<abstract>
+  We discuss light-cone gauge description of type IIB Green-Schwarz superstring
+in AdS_5 x S^5 with a hope to make progress towards understanding spectrum of
+this theory. As in flat space, fixing light cone gauge consists of two steps:
+(i) fixing kappa symmetry in such a way that the fermionic part of the action
+does not depend on x^-; (ii) fixing 2-d reparametrizations by x^+ = tau and a
+condition on 2-d metric. In curved AdS space the latter cannot be the standard
+conformal gauge and breaks manifest 2-d Lorentz invariance. It is natural,
+therefore, to work in phase-space framework, imposing the GGRT gauge conditions
+x^+= tau, P^+ =const. We obtain the resulting light cone superstring
+Hamiltonian. This is a review of hep-th/0007036 and hep-th/0009171.
+</abstract>

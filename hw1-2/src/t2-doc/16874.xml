@@ -1,0 +1,18 @@
+<title>
+AdS/CFT Correspondence and Quotient Space Geometry
+</title>
+
+<abstract>
+  We consider a version of the $AdS_{d+1}/CFT_{d}$ correspondence, in which the
+bulk space is taken to be the quotient manifold $AdS_{d+1} /\Gamma$ with a
+fairly generic discrete group $\Gamma$ acting isometrically on $AdS_{d+1}$. We
+address some geometrical issues concerning the holographic principle and the
+UV/IR relations. It is shown that certain singular structures on the quotient
+boundary ${\bf S}^{d}/\Gamma$ can affect the underlying physical spectrum. In
+particular, the conformal dimension of the most relevant operators in the
+boundary CFT can increase as $\Gamma$ becomes ``large''. This phenomenon also
+has a natural explanation in terms of the bulk supergravity theory. The scalar
+two-point function is computed using this quotient version of the AdS/CFT
+correspondence, which agrees with the expected result derived from conformal
+invariance of the boundary theory.
+</abstract>

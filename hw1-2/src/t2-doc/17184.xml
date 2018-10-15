@@ -1,0 +1,18 @@
+<title>
+On Stable Sector in Supermembrane Matrix Model
+</title>
+
+<abstract>
+  We study the spectrum of SU(2) x SO(2) matrix supersymmetric quantum
+mechanics. We use angular coordinates that allow us to find an explicit
+solution of the Gauss law constraints and single out the quantum number n (the
+Lorentz angular momentum). Energy levels are four-fold degenerate with respect
+to n and are labeled by n_q, the largest n in a quartet. The Schr\"odinger
+equation is reduced to two different systems of two-dimensional partial
+differential equations. The choice of a system is governed by n_q. We present
+the asymptotic solutions for the systems deriving thereby the asymptotic
+formula for the spectrum. Odd n_q are forbidden, for even n_q the spectrum has
+a continuous part as well as a discrete one, meanwhile for half-integer n_q the
+spectrum is purely discrete. Taking half-integer n_q one can cure the model
+from instability caused by the presence of continuous spectrum.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+N=1 Super Yang-Mills Theory in Ito Calculus
+</title>
+
+<abstract>
+  Stochastic quantization method is applied to N = 1 super Yang-Mills theory
+especially in 4 and 10 dimensions. In 4 dimensional case, based on the Ito
+calculus, the Langevin equation is derived in the superfield formalism. The
+stochastic process manifestly preserves both the local gauge symmetry and the
+global N = 1 supersymmetry in the sense of Ito. The corresponding Fokker-Planck
+equation reproduces the action of the superfield SYM_4 at the equilibrium
+limit. The component expression of the superfield Langevin equation is
+naturally extended to a Langevin equation for 10 dimensional case where the
+spinor field is Majorana-Weyl. By taking a naive zero volume limit of SYM_10,
+IIB matirx model is discussed in this context.
+</abstract>

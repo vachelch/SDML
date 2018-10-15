@@ -1,0 +1,13 @@
+<title>
+The Role of Solvable Groups in Quantization of Lie Algebras
+</title>
+
+<abstract>
+  The elements of the wide class of quantum universal enveloping algebras are
+prooved to be Hopf algebras $H$ with spectrum $Q(H)$ in the category of groups.
+Such quantum algebras are quantum groups for simply connected solvable Lie
+groups $P(H)$. This provides utilities for a new algorithm of constructing
+quantum algebras especially useful for nonsemisimple ones. The quantization
+procedure can be carried out over an arbitrary field. The properties of the
+algorithm are demonstrated on examples.
+</abstract>

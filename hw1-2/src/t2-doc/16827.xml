@@ -1,0 +1,13 @@
+<title>
+A gauge invariant regulator for the ERG
+</title>
+
+<abstract>
+  A gauge invariant regularisation for dealing with pure Yang-Mills theories
+within the exact renormalization group approach is proposed. It is based on the
+regularisation via covariant higher derivatives and includes auxiliary
+Pauli-Villars fields which amounts to a spontaneously broken SU(N|N)
+super-gauge theory. We demonstrate perturbatively that the extended theory is
+ultra-violet finite in four dimensions and argue that it has a sensible limit
+when the regularization cutoff is removed.
+</abstract>

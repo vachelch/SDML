@@ -1,0 +1,19 @@
+<title>
+The Osp(8|4) singleton action from the supermembrane
+</title>
+
+<abstract>
+  Our goal is to study the supermembrane on an $AdS_4 \times \cal M_7$
+background, where $\cal M_7$ is a 7--dimensional Einstein manifold with $N$
+Killing spinors. This is a direct way to derive the $Osp(N|4)$ singleton field
+theory with all the additional properties inherited from the geometry of the
+internal manifold. As a first example we consider the maximally supersymmetric
+$Osp(8|4)$ singleton corresponding to the choice $\cal M_7 = S^7$. We find the
+explicit form of the action of the membrane coupled to this background geometry
+and show its invariance under non--linearly realised superconformal
+transformations. To do this we introduce a supergroup generalisation of the
+solvable Lie algebra parametrisation of non--compact coset spaces. We also
+derive the action of quantum fluctuations around the classical configuration,
+showing that this is precisely the singleton action. We find that the singleton
+is simply realised as a free field theory living on flat Minkowski space.
+</abstract>

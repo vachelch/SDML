@@ -1,0 +1,25 @@
+<date>
+Fri, 22 Nov 1996 15:23:55 +0900
+</date>
+
+<title>
+A Note on Quantum Liouville Theory via Quantum Group; an Approach to
+  Strong Coupling Liouville Theory
+</title>
+
+<abstract>
+  Quantum Liouville theory is analyzed in terms of the infinite dimensional
+representations of $U_Qsl(2,C)$ with q a root of unity. Making full use of
+characteristic features of the representations, we show that vertex operators
+in this Liouville theory are factorized into `classical' vertex operators and
+those which are constructed from the finite dimensional representations of
+$U_qsl(2,C)$. We further show explicitly that fusion rules in this model also
+enjoys such a factorization. Upon the conjecture that the Liouville action
+effectively decouples into the classical Liouville action and that of a quantum
+theory, correlation functions and transition amplitudes are discussed,
+especially an intimate relation between our model and geometric quantization of
+the moduli space of Riemann surfaces is suggested. The most important result is
+that our Liouville theory is in the strong coupling region, i.e., the central
+charge c_L satisfies $1<c_L<25$. An interpretation of quantum space-time is
+also given within this formulation.
+</abstract>

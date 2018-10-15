@@ -1,0 +1,19 @@
+<date>
+Wed, 25 Apr 2001 15:42:46 GMT
+</date>
+
+<title>
+Mind The Gap
+</title>
+
+<abstract>
+  We discuss an optimisation criterion for the exact renormalisation group
+based on the inverse effective propagator, which displays a gap. We show that a
+simple extremisation of the gap stabilises the flow, leading to better
+convergence of approximate solutions towards the physical theory. This improves
+the reliability of truncations, most relevant for any high precision
+computation. These ideas are closely linked to the removal of a spurious scheme
+dependence and a minimum sensitivity condition. The issue of predictive power
+and a link to the Polchinski RG are discussed as well. We illustrate our
+findings by computing critical exponents for the Ising universality class.
+</abstract>

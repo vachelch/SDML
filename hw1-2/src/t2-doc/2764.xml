@@ -1,0 +1,18 @@
+<title>
+Rolling Tachyon
+</title>
+
+<abstract>
+  We discuss construction of classical time dependent solutions in open string
+(field) theory, describing the motion of the tachyon on unstable D-branes.
+Despite the fact that the string field theory action contains infinite number
+of time derivatives, and hence it is not a priori clear how to set up the
+initial value problem, the theory contains a family of time dependent solutions
+characterized by the initial position and velocity of the tachyon field. We
+write down the world-sheet action of the boundary conformal field theories
+associated with these solutions and study the corresponding boundary states.
+For D-branes in bosonic string theory, the energy momentum tensor of the system
+evolves asymptotically towards a finite limit if we push the tachyon in the
+direction in which the potential has a local minimum, but hits a singularity if
+we push it in the direction where the potential is unbounded from below.
+</abstract>

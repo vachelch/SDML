@@ -1,0 +1,18 @@
+<date>
+Fri, 15 Oct 93 16:34:22 JST
+</date>
+
+<title>
+The Stochastic Quantization Method in Phase Space and a New Gauge Fixing
+  Procedure
+</title>
+
+<abstract>
+  We study the stochastic quantization of the system with first class
+constraints in phase space. Though the Langevin equations of the canonical
+variables are defined without ordinary gauge fixing procedure, gauge fixing
+conditions are automatically selected and introduced by imposing stochastic
+consistency conditions upon the first class constraints. Then the equilibrium
+solution of the Fokker-Planck equation is identical with corresponding path
+integral distribution.
+</abstract>

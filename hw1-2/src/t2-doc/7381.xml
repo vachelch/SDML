@@ -1,0 +1,18 @@
+<title>
+The orthogonal ensemble of random matrices and QCD in three dimensions
+</title>
+
+<abstract>
+  We consider the parity-invariant Dirac operator with a mass term in
+three-dimensional QCD for $N_c=2$ and quarks in the fundamental representation.
+We show that there exists a basis in which the matrix elements of the Euclidean
+Dirac operator are real. Assuming there is spontaneous breaking of flavor
+and/or parity, we read off from the fermionic action the flavor
+symmetry-breaking pattern $Sp(4N_f) \to Sp(2N_f) \times Sp(2N_f)$ that might
+occur in such a theory. We then construct a random matrix theory with the same
+global symmetries as two-color QCD$_3$ with fundamental fermions and derive
+from here the finite-volume partition function for the latter in the static
+limit. The expected symmetry breaking pattern is confirmed by the explicit
+calculation in random matrix theory. We also derive the first
+Leutwyler-Smilga-like sum rule for the eigenvalues of the Dirac operator.
+</abstract>

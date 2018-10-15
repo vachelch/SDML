@@ -1,0 +1,30 @@
+<title>
+Center Vortices, Nexuses, and Fractional Topological Charge
+</title>
+
+<abstract>
+  It has been remarked in several previous works that the combination of center
+vortices and nexuses (a nexus is a monopole-like soliton whose world line
+mediates certain allowed changes of field strengths on vortex surfaces) carry
+topological charge quantized in units of 1/N for gauge group SU(N). These
+fractional charges arise from the interpretation of the standard topological
+charge integral as a sum of (integral) intersection numbers weighted by certain
+(fractional) traces. We show that without nexuses the sum of intersection
+numbers gives vanishing topological charge (since vortex surfaces are closed
+and compact). With nexuses living as world lines on vortices, the contributions
+to the total intersection number are weighted by different trace factors, and
+yield a picture of the total topological charge as a linking of a closed nexus
+world line with a vortex surface; this linking gives rise to a non-vanishing
+but integral topological charge. This reflects the standard 2\pi periodicity of
+the theta angle. We argue that the Witten-Veneziano relation, naively violating
+2\pi periodicity, scales properly with N at large N without requiring 2\pi N
+periodicity. This reflects the underlying composition of localized fractional
+topological charge, which are in general widely separated. Some simple models
+are given of this behavior. Nexuses lead to non-standard vortex surfaces for
+all SU(N) and to surfaces which are not manifolds for N>2. We generalize
+previously-introduced nexuses to all SU(N) in terms of a set of fundamental
+nexuses, which can be distorted into a configuration resembling the 't
+Hooft-Polyakov monopole with no strings. The existence of localized but
+widely-separated fractional topological charges, adding to integers only on
+long distance scales, has implications for chiral symmetry breakdown.
+</abstract>

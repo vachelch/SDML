@@ -1,0 +1,28 @@
+<date>
+Mon, 13 Jul 1998 21:54:01 GMT
+</date>
+
+<title>
+Spin Foam Models and the Classical Action Principle
+</title>
+
+<abstract>
+  We propose a new systematic approach that allows one to derive the spin foam
+(state sum) model of a theory starting from the corresponding classical action
+functional. It can be applied to any theory whose action can be written as that
+of the BF theory plus a functional of the B field. Examples of such theories
+include BF theories with or without cosmological term, Yang-Mills theories and
+gravity in various spacetime dimensions. Our main idea is two-fold. First, we
+propose to take into account in the path integral certain distributional
+configurations of the B field in which it is concentrated along lower
+dimensional hypersurfaces in spacetime. Second, using the notion of generating
+functional we develop perturbation expansion techniques, with the role of the
+free theory played by the BF theory. We test our approach on various theories
+for which the corresponding spin foam (state sum) models are known. We find
+that it exactly reproduces the known models for BF and 2D Yang-Mills theories.
+For the BF theory with cosmological term in 3 and 4 dimensions we calculate the
+terms of the transition amplitude that are of the first order in the
+cosmological constant, and find an agreement with the corresponding first order
+terms of the known state sum models. We discuss implications of our results for
+existing quantum gravity models.
+</abstract>

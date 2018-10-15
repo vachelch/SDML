@@ -1,0 +1,16 @@
+<title>
+Non-perturbative Fermion Propagator for the Massless Quenched QED3
+</title>
+
+<abstract>
+  For massless quenched QED in three dimensions, we evaluate a non-perturbative
+expression for the fermion propagator which agrees with its two loop
+perturbative expansion in the weak coupling regime. This calculation is carried
+out by making use of the Landau-Khalatnikov-Fradkin transformations. Any
+improved construction of the fermion-boson vertex must make sure that the
+solution of the Schwinger-Dyson equation for the fermion propagator reproduces
+this result. For two different gauges, we plot the fermion propagator against
+momentum. We then make a comparison with a similar plot, using the earlier
+expression for the fermion propagator, which takes into account only the one
+loop result.
+</abstract>

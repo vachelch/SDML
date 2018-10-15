@@ -1,0 +1,16 @@
+<title>
+No-go theorem for gravivector and graviscalar on the brane
+</title>
+
+<abstract>
+  We prove the no-go theorem that the gravivector $(h_{5\mu})$ and graviscalar
+$(h_{55})$ cannot have any on-shell propagation on the Randall-Sundrum (RS)
+brane. For this purpose, we analyze all of their linearized equations with the
+de Donder gauge (5D transverse-tracefree gauge).
+  But we do not introduce any matter source. We use the Z$_2$-symmetry argument
+and their ($h_{5\mu}, h_{55}$) compatibility conditions with the tensor
+$h_{\mn}$-equation. It turns out that $h_{55}$ does not have any bulk (massive)
+and brane (massless) propagations. Although $h_{5\mu}$ has a sort of massive
+propagations, they do not belong to the physical solution. Hence we confirm
+that the Randall-Sundrum gauge suffices the on-shell brane physics.
+</abstract>

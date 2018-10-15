@@ -1,0 +1,29 @@
+<title>
+Similarity Renormalization Group Approach to Boost Invariant Hamiltonian
+  Dynamics
+</title>
+
+<abstract>
+  We outline a method of deriving boost invariant hamiltonians for effective
+particles in quantum field theory. The hamiltonians are defined and calculated
+using creation and annihilation operators in light-front dynamics. The
+renormalization group equations are written for a sequence of unitary
+transformations which gradually transform the bare canonical creation and
+annihilation operators of a local theory to the creation and annihilation
+operators of effective particles in an effective theory with the same dynamical
+content but a finite range of energy transfers due to form factors in the
+interaction vertices. The boost invariant effective hamiltonians can be used to
+describe the constituent dynamics in relativistically moving systems including
+the rest and the infinite momentum frame. The general equations are illustrated
+in perturbation theory by second-order calculations of self-energy and
+two-particle interaction terms in Yukawa theory, QED and QCD. In Yukawa theory,
+one obtains the generalized Yukawa potential including its full
+off-energy-shell extension and form factors in the vertices. In QED, the
+effective hamiltonian eigenvalue problem converges for small coupling constants
+to the Schr\"odinger equation but the typical relativistic ultraviolet
+singularities at short distances between constituents are regularized by the
+similarity form factors. In the second-order QCD effective hamiltonian one
+obtains a boost invariant logarithmically confining quark-anti-quark
+interaction term which may remain uncanceled in the non-abelian dynamics of
+effective quarks and gluons.
+</abstract>

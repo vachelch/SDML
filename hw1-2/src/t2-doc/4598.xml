@@ -1,0 +1,17 @@
+<title>
+Summing the Instanton Series in N=2 Superconformal Large-N QCD
+</title>
+
+<abstract>
+  We consider the multi-instanton collective coordinate integration measure in
+N=2 supersymmetric SU(N) gauge theory with N_F fundamental hypermultiplets. In
+the large-N limit, at the superconformal point where N_F=2N and all VEVs are
+turned off, the k-instanton moduli space collapses to a single copy of
+AdS_5*S^1. The resulting k-instanton effective measure is proportional to
+N^{1/2} g^4 Z_k^(6), where Z_k^(6) is the partition function of N=(1,0) SYM
+theory in six dimensions reduced to zero dimensions. The multi-instanton can in
+fact be summed in closed form. As a hint of an AdS/CFT duality, with the usual
+relation between the gauge theory and string theory parameters, this precisely
+matches the normalization of the charge-k D-instanton measure in type IIB
+string theory compactified to six dimensions on K3 with a vanishing two-cycle.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+The KZB equations on Riemann surfaces
+</title>
+
+<abstract>
+  In this paper, based on the author's lectures at the 1995 les Houches Summer
+school, explicit expressions for the Friedan--Shenker connection on the vector
+bundle of WZW conformal blocks on the moduli space of curves with tangent
+vectors at $n$ marked points are given. The covariant derivatives are expressed
+in terms of ``dynamical $r$-matrices'', a notion borrowed from integrable
+systems. The case of marked points moving on a fixed Riemann surface is studied
+more closely. We prove a universal form of the (projective) flatness of the
+connection: the covariant derivatives commute as differential operators with
+coefficients in the universal enveloping algebra -- not just when acting on
+conformal blocks.
+</abstract>

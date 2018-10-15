@@ -1,0 +1,25 @@
+<date>
+Thu, 28 Mar 96 17:44:58 +0000
+</date>
+
+<title>
+Exact Scattering in the SU(n) Supersymmetric Principal Chiral Model
+</title>
+
+<abstract>
+  The complete spectrum of states in the supersymmetric principal chiral model
+based on SU(n) is conjectured, and an exact factorizable S-matrix is proposed
+to describe scattering amongst these states. The SU(n)_L*SU(n)_R symmetry of
+the lagrangian is manifest in the S-matrix construction. The supersymmetries,
+on the other hand, are incorporated in the guise of spin-1/2 charges acting on
+a set of RSOS kinks associated with su(n) at level n. To test the proposed
+S-matrix, calculations of the change in the ground-state energy in the presence
+of a coupling to a background charge are carried out. The results derived from
+the lagrangian using perturbation theory and from the S-matrix using the TBA
+are found to be in complete agreement for a variety of background charges which
+pick out, in turn, the highest weight states in each of the fundamental
+representations of SU(n). In particular, these methods rule out the possibility
+of additional CDD factors in the S-matrix. Comparison of the expressions found
+for the free-energy also yields an exact result for the mass-gap in these
+models: m/Lambda_{MS-bar}=(n/pi)sin(pi/n).
+</abstract>

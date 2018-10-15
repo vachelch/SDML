@@ -1,0 +1,22 @@
+<date>
+Thu, 17 Jun 1999 23:53:24 GMT
+</date>
+
+<title>
+A note on decoupling conditions for generic level $\hat{sl}(3)_k$ and
+  fusion rules
+</title>
+
+<abstract>
+  We find the solution of the $\hat{sl}(3)_k$ singular vector decoupling
+equations on 3-point functions for the particular case when one of the fields
+is of weight $w_0\cdot k\Lambda_0$. The result is a function with non-trivial
+singularities in the flag variables, namely a linear combination of 2F1
+hypergeometric functions. This calculation fills in a gap in [1] and confirms
+the $\hat{sl}(3)_k$ fusion rules determined there both for generic $\kappa \not
+\in \IQ$ and fractional levels.
+  We have also analysed the fusion in $\hat{sl}(3)_k$ using algebraic methods
+generalising those of Feigin and Fuchs and again find agreement with [1]. In
+the process we clarify some details of previous treatments of the fusion of
+$\hat{sl}(2)_k$ fractional level admissible representations.
+</abstract>

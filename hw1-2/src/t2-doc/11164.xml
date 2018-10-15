@@ -1,0 +1,14 @@
+<title>
+Solving the open XXZ spin chain with nondiagonal boundary terms at roots
+  of unity
+</title>
+
+<abstract>
+  We consider the open XXZ quantum spin chain with nondiagonal boundary terms.
+For bulk anisotropy value \eta = i \pi/(p+1), p= 1, 2, ..., we propose an exact
+(p+1)-order functional relation for the transfer matrix, which implies
+Bethe-Ansatz-like equations for the corresponding eigenvalues. The key
+observation is that the fused spin-(p+1)/2 transfer matrix can be expressed in
+terms of a lower-spin transfer matrix, resulting in the truncation of the
+fusion hierarchy.
+</abstract>

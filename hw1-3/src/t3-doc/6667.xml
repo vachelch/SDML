@@ -1,0 +1,24 @@
+<date>
+Mon, 4 Jan 93 23:03:30 -0500
+</date>
+
+<title>
+Vertex operator algebras and operads
+</title>
+
+<abstract>
+  Vertex operator algebras are mathematically rigorous objects corresponding to
+chiral algebras in conformal field theory. Operads are mathematical devices to
+describe operations, that is, $n$-ary operations for all $n$ greater than or
+equal to $0$, not just binary products. In this paper, a reformulation of the
+notion of vertex operator algebra in terms of operads is presented. This
+reformulation shows that the rich geometric structure revealed in the study of
+conformal field theory and the rich algebraic structure of the theory of vertex
+operator algebras share a precise common foundation in basic operations
+associated with a certain kind of (two-dimensional) ``complex'' geometric
+object, in the sense in which classical algebraic structures (groups, algebras,
+Lie algebras and the like) are always implicitly based on (one-dimensional)
+``real'' geometric objects. In effect, the standard analogy between
+point-particle theory and string theory is being shown to manifest itself at a
+more fundamental mathematical level.
+</abstract>

@@ -1,0 +1,24 @@
+<date>
+Fri, 13 Jan 95 16:11:21 EST
+</date>
+
+<title>
+Environment-Induced Effects on Quantum Chaos: Decoherence,
+  Delocalization and Irreversibility
+</title>
+
+<abstract>
+Decoherence in quantum systems which are classically chaotic is studied.
+It is well-known that a classically chaotic system when quantized
+loses many prominent chaotic traits. We show that interaction of the quantum
+system with an environment can under general circumstances quickly diminish
+quantum coherence and reenact some characteristic classical chaotic behavior.
+We use the Feynman-Vernon influence functional formalism to study the effect of
+an ohmic environment at high temperature on two classically-chaotic systems:
+The linear Arnold cat map (QCM) and the nonlinear quantum kicked rotor (QKR).
+Features of quantum chaos such as recurrence in QCM and diffusion suppression
+leading to localization in QKR are destroyed in a short time due to
+environment-induced decoherence. Decoherence also undermines localization and
+induces an apparent transition from reversible to irreversible dynamics in
+quantum chaotic systems.
+</abstract>

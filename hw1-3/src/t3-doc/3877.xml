@@ -1,0 +1,28 @@
+<date>
+Tue, 19 Jun 2001 23:18:03 GMT
+</date>
+
+<title>
+Tachyonic Instability and Dynamics of Spontaneous Symmetry Breaking
+</title>
+
+<abstract>
+  Spontaneous symmetry breaking usually occurs due to the tachyonic (spinodal)
+instability of a scalar field near the top of its effective potential at $\phi
+= 0$. Naively, one might expect the field $\phi$ to fall from the top of the
+effective potential and then experience a long stage of oscillations with
+amplitude O(v) near the minimum of the effective potential at $\phi = v$ until
+it gives its energy to particles produced during these oscillations. However,
+it was recently found that the tachyonic instability rapidly converts most of
+the potential energy V(0) into the energy of colliding classical waves of the
+scalar field. This conversion, which was called "tachyonic preheating," is so
+efficient that symmetry breaking typically completes within a single
+oscillation of the field distribution as it rolls towards the minimum of its
+effective potential. In this paper we give a detailed description of tachyonic
+preheating and show that the dynamics of this process crucially depend on the
+shape of the effective potential near its maximum. In the simplest models where
+$V(\phi) \sim -m^2\phi^2$ near the maximum, the process occurs solely due to
+the tachyonic instability, whereas in the theories $-\lambda\phi^n$ with n > 2
+one encounters a combination of the effects of tunneling, tachyonic instability
+and bubble wall collisions.
+</abstract>

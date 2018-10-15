@@ -1,0 +1,19 @@
+<title>
+Picard-Fuchs Equations and Whitham Hierarchy in N=2 Supersymmetric
+  SU(r+1) Yang-Mills Theory
+</title>
+
+<abstract>
+  In general, Whitham dynamics involves infinitely many parameters called
+Whitham times, but in the context of N=2 supersymmetric Yang-Mills theory it
+can be regarded as a finite system by restricting the number of Whitham times
+appropriately. For example, in the case of SU(r+1) gauge theory without
+hypermultiplets, there are r Whitham times and they play an essential role in
+the theory. In this situation, the generating meromorphic 1-form of the Whitham
+hierarchy on Seiberg-Witten curve is represented by a finite linear combination
+of meromorphic 1-forms associated with these Whitham times, but it turns out
+that there are various differential relations among these differentials. Since
+these relations can be written only in terms of the Seiberg-Witten 1-form,
+their consistency conditions are found to give the Picard-Fuchs equations for
+the Seiberg-Witten periods.
+</abstract>

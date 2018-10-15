@@ -1,0 +1,31 @@
+<date>
+Thu, 15 Feb 1996 19:59:33 +0900
+</date>
+
+<title>
+Path integral of the hydrogen atom, the Jacobi's principle of least
+  action and one-dimensional quantum gravity
+</title>
+
+<abstract>
+  A path integral evaluation of the Green's function for the hydrogen atom
+initiated by Duru and Kleinert is studied by recognizing it as a special case
+of the general treatment of the separable Hamiltonian of Liouville-type. The
+basic dynamical principle involved is identified as the Jacobi's principle of
+least action for given energy which is reparametrization invariant, and thus
+the appearance of a gauge freedom is naturally understood. The separation of
+variables in operator formalism corresponds to a choice of gauge in path
+integral, and the Green's function is shown to be gauge independent if the
+operator ordering is properly taken into account. Unlike the conventional
+Feynman path integral,which deals with a space-time picture of particle motion,
+the path integral on the basis of the Jacobi's principle sums over orbits in
+space. We illustrate these properties by evaluating an exact path integral of
+the Green's function for the hydrogen atom in parabolic coordinates, and thus
+avoiding the use of the Kustaanheimo-Stiefel transformation. In the present
+formulation , the Hamiltonian for Stark effect is converted to the one for
+anharmonic oscillators with an unstable quartic coupling. We also study the
+hydrogen atom path integral from a view point of one-dimensional quantum
+gravity coupled to matter fields representing the electron coordinates. A
+simple BRST analysis of the problem with an evaluation of Weyl anomaly is
+presented .
+</abstract>

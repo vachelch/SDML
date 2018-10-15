@@ -1,0 +1,17 @@
+<title>
+The Schwinger and Thirring models at finite chemical potential and
+  temperature
+</title>
+
+<abstract>
+  We study the generating functional for the massless Schwinger model in the
+torus, at nonzero chemical potential and temperature. The lack of hermiticity
+of the Dirac operator yields a non-trivial phase in the effective action, which
+is a topological contribution induced by the chemical potential. In the sector
+with no zero modes, we evaluate exactly the generating functional, the
+partition function, the boson propagator and the thermally averaged Polyakov
+loop. The system bosonizes at finite T and \mu, with the same mass as in
+vacuum. From the solution obtained for the Schwinger model we derive also
+exactly the generating functional and the partition function for the massless
+Thirring model at nonzero T and \mu.
+</abstract>

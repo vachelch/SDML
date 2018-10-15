@@ -1,0 +1,16 @@
+<date>
+Mon, 2 Sep 1996 13:35:04 +0500 (GMT+0500)
+</date>
+
+<title>
+A Quantum Many-body Problem in Two Dimensions: Ground State
+</title>
+
+<abstract>
+  We obtain the exact ground state for the Calogero-Sutherland problem in
+arbitrary dimensions. In the special case of two dimensions, we show that the
+problem is connected to the random matrix problem for complex matrices,
+provided the strength of the inverse-square interaction $g = 2$. In the
+thermodynamic limit, we obtain the ground state energy and the pair-correlation
+function and show that in this case there is no long-range order.
+</abstract>

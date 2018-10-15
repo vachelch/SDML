@@ -1,0 +1,15 @@
+<title>
+Completely Integrable Equation for the Quantum Correlation Function of
+  Nonlinear Schr\"odinger Eqaution
+</title>
+
+<abstract>
+  Correlation functions of exactly solvable models can be described by
+differential equation [Barough, McCoy, Wu]. In this paper we show that for non
+free fermionic case differential equations should be replaced by
+integro-differential equations.
+  We derive an integro-differential equation, which describes time and
+temperature dependent correlation function $<\psi(0,0)\psi^\dagger(x,t)>_T$
+of penetrable Bose gas. The integro-differential equation turns out be the
+continuum generalization of classical nonlinear Schr\"odinger equation.
+</abstract>

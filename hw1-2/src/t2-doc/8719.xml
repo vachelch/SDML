@@ -1,0 +1,16 @@
+<title>
+Two and Three-Dimensional Spin Systems with Gonihedric Action
+</title>
+
+<abstract>
+  We perform numerical simulations of the two and three-dimensional spin
+systems with competing interaction. They describe the model of random surfaces
+with linear-gonihedric action.The degeneracy of the vacuum state of this spin
+system is equal to $~~d \cdot 2^{N}~~$ for the lattice of the size $~N^{d}~$.
+We observe the second order phase transition of the three-dimensional system,
+at temperature $\beta_{c} \simeq 0.43932$ which almost coincides with
+$\beta_{c}$ of the 2D Ising model. This confirms the earlier analytical result
+for the case when self-interaction coupling constant $k$ is equal to zero. We
+suggest the full set of order parameters which characterize the structure of
+the vacuum states and of the phase transition.
+</abstract>

@@ -1,0 +1,26 @@
+<date>
+Wed, 25 Mar 1998 19:22:36 GMT
+</date>
+
+<title>
+Wilsonian Flow and Mass-Independent Renormalization
+</title>
+
+<abstract>
+  We derive the Gell-Mann and Low renormalization group equation in the
+Wilsonian approach to renormalization of massless $g\phi^4$ in four dimensions,
+as a particular case of a non-linear equation satisfied at any scale by the
+Wilsonian effective action.
+  We give an exact expression for the $\beta$ and $\gamma_{\phi}$ functions in
+terms of the Wilsonian effective action at the Wilsonian renormalization scale
+$\L_R$; at the first two loops they are simply related to the gradient of the
+flow of the relevant couplings and have the standard values; beyond two loops
+this relation is spoilt by corrections due to irrelevant couplings. We
+generalize this analysis to the case of massive $g\phi^4$, introducing a
+mass-independent Wilsonian renormalization scheme; using the flow equation
+technique we prove renormalizability and we show that the limit of vanishing
+mass parameter exists. We derive the corresponding renormalization group
+equation, in which $\beta$ and $\gamma_{\phi}$ are the same as in the massless
+case; $\gamma_m$ is also mass-independent; at one loop it is the gradient of a
+relevant coupling and it has the expected value.
+</abstract>

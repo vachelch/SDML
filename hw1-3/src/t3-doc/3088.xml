@@ -1,0 +1,31 @@
+<date>
+Fri, 23 Oct 1998 18:29:28 GMT
+</date>
+
+<title>
+Vector models in the large $N$ limit: a few applications
+</title>
+
+<abstract>
+  In these lecture notes prepared for the 11th Taiwan Spring School, Taipei
+1997}, and updated for the Saalburg summer school 1998, we review the solutions
+of O(N) or U(N) models in the large N limit and as 1/N expansions, in the case
+of vector representations. The general idea is that invariant composite fields
+have small fluctuations for N large. Therefore the method relies on
+constructing effective field theories for these composite fields after
+integration over the initial degrees of freedom. We illustrate these ideas by
+showing that the large N expansion allows to relate the phib^2^2 theory and the
+non-linear sigma-model, models which are renormalizable in different
+dimensions. In the same way large N techniques allow to relate the
+Gross--Neveu, an example of a theory with four-fermi self-interaction, with a
+Yukawa-type theory renormalizable in four dimensions, a topic relevant for four
+dimensional field theory. Among other issues for which large N methods are also
+useful we will briefly discuss finite size effects and finite temperature field
+theory, because they involve a crossover between different dimensions.\par
+Finally we consider the case of a general scalar V(phib^2) field theory,
+explain how the large N techniques can be generalized, and discuss some
+connected issues like tricritical behaviour and double scaling limit. Some
+sections in these notes are directly adapted from the work Zinn-Justin J.,
+1989, Quantum Field Theory and Critical Phenomena, Clarendon Press (Oxford
+third ed. 1996).
+</abstract>

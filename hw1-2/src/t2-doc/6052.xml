@@ -1,0 +1,22 @@
+<title>
+The Equivalence Principle of Quantum Mechanics: Uniqueness Theorem
+</title>
+
+<abstract>
+  Recently we showed that the postulated diffeomorphic equivalence of states
+implies quantum mechanics. This approach takes the canonical variables to be
+dependent by the relation p=\partial_q S_0 and exploits a basic
+GL(2,C)-symmetry which underlies the canonical formalism. In particular, we
+looked for the special transformations leading to the free system with
+vanishing energy. Furthermore, we saw that while on the one hand the
+equivalence principle cannot be consistently implemented in classical
+mechanics, on the other it naturally led to the quantum analogue of the
+Hamilton-Jacobi equation, thus implying the Schroedinger equation. In this
+letter we show that actually the principle uniquely leads to this solution.
+Furthermore, we find the map reducing any system to the free one with vanishing
+energy and derive the transformations on S_0 leaving the wave function
+invariant. We also express the canonical and Schroedinger equations by means of
+the brackets recently introduced in the framework of N=2 SYM. These brackets
+are the analogue of the Poisson brackets with the canonical variables taken as
+dependent.
+</abstract>

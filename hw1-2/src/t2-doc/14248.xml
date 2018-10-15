@@ -1,0 +1,19 @@
+<title>
+Nonperturbative methods for calculating the heat kernel
+</title>
+
+<abstract>
+  We study the low-energy approximation for calculation of the heat kernel
+which is determined by the strong slowly varying background fields in strongly
+curved quasi-homogeneous manifolds. A new covariant algebraic approach, based
+on taking into account a finite number of low-order covariant derivatives of
+the background fields and neglecting all covariant derivatives of higher
+orders, is proposed. It is shown that a set of covariant differential operators
+together with the background fields and their low-order derivatives generates a
+finite dimensional Lie algebra. This algebraic structure can be used to present
+the heat semigroup operator in the form of an average over the corresponding
+Lie group. Closed covariant formulas for the heat kernel diagonal are obtained.
+These formulas serve, in particular, as the generating functions for the whole
+sequence of the Hadamard-\-Minakshisundaram-\-De~Witt-\-Seeley coefficients in
+all symmetric spaces.
+</abstract>

@@ -1,0 +1,25 @@
+<title>
+Quaternionic Madelung Transformation and Non-Abelian Fluid Dynamics
+</title>
+
+<abstract>
+  In the 1920's, Madelung noticed that if the complex Schroedinger wavefunction
+is expressed in polar form, then its modulus squared and the gradient of its
+phase may be interpreted as the hydrodynamic density and velocity,
+respectively, of a compressible fluid. In this paper, we generalize Madelung's
+transformation to the quaternionic Schroedinger equation. The non-abelian
+nature of the full SU(2) gauge group of this equation leads to a richer, more
+intricate set of fluid equations than those arising from complex quantum
+mechanics. We begin by describing the quaternionic version of Madelung's
+transformation, and identifying its ``hydrodynamic'' variables. In order to
+find Hamiltonian equations of motion for these, we first develop the canonical
+Poisson bracket and Hamiltonian for the quaternionic Schroedinger equation, and
+then apply Madelung's transformation to derive non-canonical Poisson brackets
+yielding the desired equations of motion. These are a particularly natural set
+of equations for a non-abelian fluid, and differ from those obtained by
+Bistrovic et al. only by a global gauge transformation. Because we have
+obtained these equations by a transformation of the quaternionic Schroedinger
+equation, and because many techniques for simulating complex quantum mechanics
+generalize straightforwardly to the quaternionic case, our observation leads to
+simple algorithms for the computer simulation of non-abelian fluids.
+</abstract>

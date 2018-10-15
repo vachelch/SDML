@@ -1,0 +1,33 @@
+<date>
+Fri, 28 Sep 2001 07:34:23 GMT
+</date>
+
+<title>
+Dirac variables in gauge theories
+</title>
+
+<abstract>
+  The review is devoted to a relativistic formulation of the first Dirac
+quantization of QED (1927) and its generalization to the non-Abelian theories
+(Yang-Mills and QCD) with the topological degeneration of initial data. Using
+the Dirac variables we give a systematic description of relativistic nonlocal
+bound states in QED with a choice of the time axis of quantization along the
+eigenvectors of their total momentum operator.
+  We show that the Dirac variables of the non-Abelian fields are topologically
+degenerated, and there is a pure gauge Higgs effect in the sector of the zero
+winding number that leads to a nonperturbative physical vacuum in the form of
+the Wu-Yang monopole. Phases of the topological degeneration in the new
+perturbation theory are determined by an equation of the Gribov ambiguity of
+the constraint-shell gauge defined as an integral of the Gauss equation with
+zero initial data. The constraint-shell non-Abelian dynamics includes zero mode
+of the Gauss law differential operator, and a rising potential of the
+instantaneous interaction, that rearranges the perturbation series and changes
+the assymptotic freedom formula.
+  The Dirac variables in QCD with the topological degeneration of initial data
+describe constituent gluon, and quark masses, the spontaneous chiral symmetry
+breaking, color confinement in the form of quark-hadron duality as a
+consequence of summing over the Gribov copies. A solution of U(1)-problem is
+given by mixing the zero mode with $\eta_0$ - meson. We discuss reasons why all
+these physical effects disappear for arbitrary gauges of physical sources in
+the standard Faddeev-Popov integral.
+</abstract>

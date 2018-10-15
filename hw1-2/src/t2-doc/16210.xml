@@ -1,0 +1,19 @@
+<title>
+Y-systems and generalized associahedra
+</title>
+
+<abstract>
+  We prove, for an arbitrary finite root system, the periodicity conjecture of
+Al.B.Zamolodchikov concerning Y-systems, a particular class of functional
+relations arising in the theory of thermodynamic Bethe ansatz. Algebraically,
+Y-systems can be viewed as families of rational functions defined by certain
+birational recurrences formulated in terms of the underlying root system. In
+the course of proving periodicity, we obtain explicit formulas for all these
+rational functions, which turn out to always be Laurent polynomials.
+  In a closely related development, we introduce and study a family of
+simplicial complexes that can be associated to arbitrary root systems. In type
+A, our construction produces Stasheff's associahedron, whereas in type B, it
+gives the Bott-Taubes polytope, or cyclohedron. We enumerate the faces of these
+complexes, prove that their geometric realization is always a sphere, and
+describe them in concrete combinatorial terms for the classical types ABCD.
+</abstract>

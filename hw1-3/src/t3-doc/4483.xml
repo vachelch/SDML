@@ -1,0 +1,25 @@
+<date>
+Wed, 9 Feb 2000 23:57:55 GMT
+</date>
+
+<title>
+The IR/UV Connection in the Non-Commutative Gauge Theories
+</title>
+
+<abstract>
+  Quantum field theory on non-commutative spaces does not enjoy the usual
+ultraviolet-infrared decoupling that forms the basis for conventional
+renormalization. The high momentum contributions to loop integrations can lead
+to unfamiliar long distance behavior which can potentially undermine naive
+expectations for the IR behavior of the theory. These "anomalies" involve
+non-analytic behavior in the noncommutativity parameter Theta making the limit
+Theta goes to zero singular.
+  In this paper we will analyze such effects in the one loop approximation to
+gauge theories on non-commutative space. We will see that contrary to
+expectations poles in Theta do occur and lead to large discrepancies between
+the expected and actual infrared behavior. We find that poles in Theta are
+absent in supersymmetric theories. The "anomalies" are generally still present,
+but only at the logarithmic level. A notable exception is non-commutative super
+Yang Mills theory with 16 real supercharges in which anomalous effects seem to
+be absent altogether.
+</abstract>

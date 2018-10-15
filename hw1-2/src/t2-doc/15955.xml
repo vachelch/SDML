@@ -1,0 +1,17 @@
+<title>
+Conformal Field Theory Techniques in Random Matrix models
+</title>
+
+<abstract>
+  In these notes we explain how the CFT description of random matrix models can
+be used to perform actual calculations. Our basic example is the hermitian
+matrix model, reformulated as a conformal invariant theory of free fermions. We
+give an explicit operator construction of the corresponding collective field
+theory in terms of a bosonic field on a hyperelliptic Riemann surface, with
+special operators associated with the branch points. The quasiclassical
+expressions for the spectral kernel and the joint eigenvalue probabilities are
+then easily obtained as correlation functions of current, fermionic and twist
+operators. The result for the spectral kernel is valid both in macroscopic and
+microscopic scales. At the end we briefly consider generalizations in different
+directions.
+</abstract>

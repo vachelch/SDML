@@ -1,0 +1,19 @@
+<title>
+Fermion-boson duality in integrable quantum field theory
+</title>
+
+<abstract>
+  We introduce and study one parameter family of integrable quantum field
+theories. This family has a Lagrangian description in terms of massive Thirring
+fermions $\psi,\psi^{\dagger}$ and charged bosons $\chi,\bar{\chi}$ of complex
+sinh-Gordon model coupled with $BC_n$ affine Toda theory. Perturbative
+calculations, analysis of the factorized scattering theory and the Bethe ansatz
+technique are applied to show that under duality transformation, which relates
+weak and strong coupling regimes of the theory the fermions
+$\psi,\psi^{\dagger}$ transform to bosons and $\chi,\bar{\chi}$ and vive versa.
+The scattering amplitudes of neutral particles in this theory coincide exactly
+with S-matrix of particles in pure $BC_n$
+  Toda theory, i.e. the contribution of charged bosons and fermions to these
+amplitudes exactly cancel each other. We describe and discuss the symmetry
+responsible for this compensation property.
+</abstract>

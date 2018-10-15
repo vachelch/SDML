@@ -1,0 +1,19 @@
+<date>
+Wed, 1 Dec 93 17:52:36 +0100
+</date>
+
+<title>
+Symplectic structure of the moduli space of flat connections on a
+  Riemann surface
+</title>
+
+<abstract>
+  We consider canonical symplectic structure on the moduli space of flat
+${\g}$-connections on a Riemann surface of genus $g$ with $n$ marked points.
+For ${\g}$ being a semisimple Lie algebra we obtain an explicit efficient
+formula for this symplectic form and prove that it may be represented as a sum
+of $n$ copies of Kirillov symplectic form on the orbit of dressing
+transformations in the Poisson-Lie group $G^{*}$ and $g$ copies of the
+symplectic structure on the Heisenberg double of the Poisson-Lie group $G$ (the
+pair ($G,G^{*}$) corresponds to the Lie algebra ${\g}$).
+</abstract>

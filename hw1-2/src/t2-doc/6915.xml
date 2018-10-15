@@ -1,0 +1,19 @@
+<title>
+The Instanton Hunter's Guide to Supersymmetric SU(N) Gauge Theories
+</title>
+
+<abstract>
+  We present a compendium of results for ADHM multi-instantons in SU(N) SUSY
+gauge theories, followed by applications to N=2 supersymmetric models.
+Extending recent SU(2) work, and treating the N=1 and N=2 cases in parallel, we
+construct: (i) the ADHM supermultiplet, (ii) the multi-instanton action, and
+(iii) the collective coordinate integration measure. Specializing to N=2, we
+then give a closed formula for F_k, the k-instanton contribution to the
+prepotential, as a finite-dimensional collective coordinate integral. This
+amounts to a weak-coupling solution, in quadratures, of the low-energy dynamics
+of N=2 SQCD, without appeal to duality. As an application, we calculate F_1 for
+all SU(N) and any number of flavors N_F; for N_F<2N-2 and N_F=2N-1 we confirm
+previous instanton calculations and agree with the proposed hyper-elliptic
+curve solutions. For N_F=2N-2 and N_F=2N with N>3 we obtain new results, which
+in the latter case we do not understand how to reconcile with the curves.
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+Gauging dual symmetry
+</title>
+
+<abstract>
+  The idea of gauging (i.e. making local) symmetries of a physical system is a
+central feature of many modern field theories. Usually, one starts with a
+Lagrangian for some scalar or spinor matter fields, with the Lagrangian being
+invariant under a global phase symmetry transformation of the matter fields.
+Making this global phase symmetry local results in the introduction of vector
+fields. The vector fields can be said to arise as a result of the gauge
+principle. Here we show that this chain of reasoning can be reversed: by
+gauging the electric-magnetic dual symmetry of a Lagrangian which originally
+contains only the vector gauge fields we find that it is necessary to introduce
+matter fields (scalar fields in our example). In this gauging of the
+electric-magnetic dual symmetry the traditional roles of the vector fields and
+the matter fields are interchanged.
+</abstract>

@@ -1,0 +1,18 @@
+<date>
+Sun, 16 Mar 2003 15:10:35 GMT
+</date>
+
+<title>
+A Matrix Model for Fractional Quantum Hall States
+</title>
+
+<abstract>
+  We have developed a matrix model for FQH states at filling factor
+\nu_{k_1k_2} going beyond the Laughlin theory. To illustrate our idea, we have
+considered an FQH system of a finite number N=(N_{1}+N_{2}) of electrons with
+filling factor \nu_{k_{1}k_{2}} = \nu_{p_{1}p_{2}}=\frac{p_{2}}{p_{1}p_{2}-1};
+p_{1} is an odd integer and p_{2} is an even integer. The \nu_{p_{1}p_{2}}
+series corresponds just to the level two of the Haldane hierarchy; it recovers
+the Laughlin series \nu_{p_{1}} =\frac{1}{p_{1}} by going to the limit p_{2}
+large and contains several observable FQH states such as \nu = 2/3, 2/5, >....
+</abstract>

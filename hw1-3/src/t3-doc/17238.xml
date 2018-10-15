@@ -1,0 +1,19 @@
+<date>
+Fri, 30 Jun 1995 19:32:10 -0400
+</date>
+
+<title>
+Algebraic and Geometric Structures in String Backgrounds
+</title>
+
+<abstract>
+  We give a brief introduction to the study of the algebraic structures -- and
+their geometrical interpretations -- which arise in the BRST construction of a
+conformal string background. Starting from the chiral algebra $\cA$ of a string
+background, we consider a number of elementary but universal operations on the
+chiral algebra. From these operations we deduce a certain fundamental odd
+Poisson structure, known as a Gerstenhaber algebra, on the BRST cohomology of
+$\cA$. For the 2D string background, the correponding G-algebra can be
+partially described in term of a geometrical G-algebra of the affine plane
+$\bC^2$. This paper will appear in the proceedings of {\it Strings 95}.
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+On the quantum inverse scattering problem
+</title>
+
+<abstract>
+  A general method for solving the so-called quantum inverse scattering problem
+(namely the reconstruction of local quantum (field) operators in term of the
+quantum monodromy matrix satisfying a Yang-Baxter quadratic algebra governed by
+an R-matrix) for a large class of lattice quantum integrable models is given.
+The principal requirement being the initial condition (R(0) = P, the
+permutation operator) for the quantum R-matrix solving the Yang-Baxter
+equation, it applies not only to most known integrable fundamental lattice
+models (such as Heisenberg spin chains) but also to lattice models with
+arbitrary number of impurities and to the so-called fused lattice models
+(including integrable higher spin generalizations of Heisenberg chains). Our
+method is then applied to several important examples like the sl(n) XXZ model,
+the XYZ spin-1/2 chain and also to the spin-s Heisenberg chains.
+</abstract>

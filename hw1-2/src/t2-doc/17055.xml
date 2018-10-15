@@ -1,0 +1,21 @@
+<title>
+Quantum Field Theory in Singular Limits
+</title>
+
+<abstract>
+  This is a short summary of the phase structure of vector O(N) symmetric
+quantum field theories in a singular limit, the double scaling limit.It is
+motivated by the fact that summing up dynamically triangulated random surfaces
+using Feynman graphs of the O(N) matrix model results in a genus expansion and
+it provides,in some sense, a nonperturbative treatment of string theory when
+the double scaling limit is enforced. The main point emphasized here is that
+this formal singular limit, recently discussed mainly in d=0 O(N) matrix
+models, has an intriguing physical meaning in d>2 O(N) vector theories. In this
+limit all orders in {1\over N} are of equal importance since at each order
+infrared divergences compensate for the decrease in powers of {1\over N}. The
+infrared divergences are due to the tuning of the strength of the force {g \to
+g_c} between the O(N) quanta so that a massless O(N) singlet appears in the
+spectrum. At the critical dimension an interesting phase structure is revealed,
+the massless excitation has the expected physical meaning: it is the Goldston
+boson of spontaneous breaking of scale invariance - the dilaton.
+</abstract>

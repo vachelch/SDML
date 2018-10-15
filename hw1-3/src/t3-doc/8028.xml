@@ -1,0 +1,20 @@
+<date>
+Tue, 30 Jun 1998 21:52:40 GMT
+</date>
+
+<title>
+Putting an Edge to the Poisson Bracket
+</title>
+
+<abstract>
+  We consider a general formalism for treating a Hamiltonian (canonical) field
+theory with a spatial boundary. In this formalism essentially all functionals
+are differentiable from the very beginning and hence no improvement terms are
+needed. We introduce a new Poisson bracket which differs from the usual
+``bulk'' Poisson bracket with a boundary term and show that the Jacobi identity
+is satisfied. The result is geometrized on an abstract world volume manifold.
+The method is suitable for studying systems with a spatial edge like the ones
+often considered in Chern-Simons theory and General Relativity. Finally, we
+discuss how the boundary terms may be related to the time ordering when
+quantizing.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Large N Matrix Mechanics on the Light-Cone
+</title>
+
+<abstract>
+  We report a simplification in the large N matrix mechanics of light-cone
+matrix field theories. The absence of pure creation or pure annihilation terms
+in the Hamiltonian formulation of these theories allows us to find their
+reduced large N Hamiltonians as explicit functions of the generators of the
+Cuntz algebra. This opens up a free-algebraic playground of new reduced models
+-- all of which exhibit new hidden conserved quantities at large N and all of
+whose eigenvalue problems are surprisingly simple. The basic tool we develop
+for the study of these models is the infinite dimensional algebra of all
+normal-ordered products of Cuntz operators, and this algebra also leads us to a
+special number-conserving subset of these models, each of which exhibits an
+infinite number of new hidden conserved quantities at large N.
+</abstract>

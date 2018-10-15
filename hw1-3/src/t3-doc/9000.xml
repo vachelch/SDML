@@ -1,0 +1,27 @@
+<date>
+Sat, 8 Mar 2003 08:15:51 GMT
+</date>
+
+<title>
+Hitchin system on singular curves I
+</title>
+
+<abstract>
+  In this paper we study Hitchin system on singular curves. Some examples of
+such system were first considered by N. Nekrasov (hep-th/9503157), but our
+methods are different. We consider the curves which can be obtained from the
+projective line by gluing several points together or by taking cusp
+singularities. (More general cases of gluing subschemas will be considered in
+the next paper). It appears that on such curves all ingredients of Hitchin
+integrable system (moduli space of vector bundles, dualizing sheaf, Higgs field
+etc.) can be explicitly described, which may deserve independent interest. As a
+main result we find explicit formulas for the Hitchin hamiltonians. We also
+show how to obtain the Hitchin integrable system on such a curve as a
+hamiltonian reduction from a more simple system on some finite-dimensional
+space. In this paper we also work out the case of a degenerate curve of genus
+two and find the analogue of the Narasimhan-Ramanan parameterization of
+SL(2)-bundles. We describe the Hitchin system in such coordinates. As a
+demonstration of the efficiency of our approach we also rederive the rational
+and trigonometric Calogero systems from the Hitchin system on cusp and node
+with a marked point.
+</abstract>

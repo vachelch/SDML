@@ -1,0 +1,18 @@
+<title>
+Effective Schroedinger equations for nonlocal and/or dissipative systems
+</title>
+
+<abstract>
+  The projection formalism for calculating effective Hamiltonians and
+resonances is generalized to the nonlocal and/or nonhermitian case, so that it
+is applicable to the reduction of relativistic systems (Bethe-Salpeter
+equations), and to dissipative systems modeled by an optical potential.
+  It is also shown how to recover all solutions of the time-independent
+Schroedinger equation in terms of solutions of the effective Schroedinger
+equation in the reduced state space and a Schroedinger equation in a reference
+state space.
+  For practical calculations, it is important that the resulting formulas can
+be used without computing any projection operators. This leads to a modified
+coupled reaction channel/resonating group method framework for the calculation
+of multichannel scattering information.
+</abstract>

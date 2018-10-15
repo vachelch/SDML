@@ -1,0 +1,30 @@
+<date>
+Thu, 10 Dec 1998 07:48:06 GMT
+</date>
+
+<title>
+Picard-Fuchs Ordinary Differential Systems in N=2 Supersymmetric
+  Yang-Mills Theories
+</title>
+
+<abstract>
+  In general, Picard-Fuchs systems in N=2 supersymmetric Yang-Mills theories
+are realized as a set of simultaneous partial differential equations. However,
+if the QCD scale parameter is used as unique independent variable instead of
+moduli, the resulting Picard-Fuchs systems are represented by a single ordinary
+differential equation (ODE) whose order coincides with the total number of
+independent periods. This paper discusses some properties of these Picard-Fuchs
+ODEs. In contrast with the usual Picard-Fuchs systems written in terms of
+moduli derivatives, there exists a Wronskian for this ordinary differential
+system and this Wronskian produces a new relation among periods, moduli and QCD
+scale parameter, which in the case of SU(2) is reminiscent of scaling relation
+of prepotential. On the other hand, in the case of the SU(3) theory, there are
+two kinds of ordinary differential equations, one of which is the equation
+directly constructed from periods and the other is derived from the SU(3)
+Picard-Fuchs equations in moduli derivatives identified with Appell's $F_4$
+hypergeometric system, i.e., Burchnall's fifth order ordinary differential
+equation published in 1942. It is shown that four of the five independent
+solutions to the latter equation actually correspond to the four periods in the
+SU(3) gauge theory and the closed form of the remaining one is established by
+the SU(3) Picard-Fuchs ODE. The formula for this fifth solution is a new one.
+</abstract>

@@ -1,0 +1,23 @@
+<date>
+Tue, 28 May 2002 19:31:51 GMT
+</date>
+
+<title>
+Interacting fermions on noncommutative spaces: Exactly solvable quantum
+  field theories in 2n+1 dimensions
+</title>
+
+<abstract>
+  I present a novel class of exactly solvable quantum field theories. They
+describe non-relativistic fermions on even dimensional flat space, coupled to a
+constant external magnetic field and a four point interaction defined with the
+Groenewold-Moyal star product. Using Hamiltonian quantization and a suitable
+regularization, I show that these models have a dynamical symmetry
+corresponding to $\gl_\infty\oplus \gl_\infty$ at the special points where the
+magnetic field $B$ is related to the matrix $\theta$ defining the star product
+as $B\theta=\pm I$. I construct all eigenvalues and eigenstates of the
+many-body Hamiltonian at these special points. I argue that this solution
+cannot be obtained by any mean-field theory, i.e. the models describe
+correlated fermions. I also mention other possible interpretations of these
+models in solid state physics.
+</abstract>

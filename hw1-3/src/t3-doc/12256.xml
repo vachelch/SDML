@@ -1,0 +1,24 @@
+<date>
+Thu, 3 Oct 1996 17:35:27 +0200 (MET DST)
+</date>
+
+<title>
+Supermembrane dynamics from multiple interacting strings
+</title>
+
+<abstract>
+  The supermembrane theory on $R^{10}x S^1$ is investigated, for membranes that
+wrap once around the compact dimension. The Hamiltonian can be organized as
+describing $N_s$ interacting strings, the exact supermembrane corresponding to
+$N_s\to \infty$. The zero-mode part of $N_s-1$ strings turn out to be
+precisely the modes which are responsible of instabilities. For sufficiently
+large compactification radius $R_0$, interactions are negligible and the
+lowest-energy excitations are described by a set of harmonic oscillators. We
+compute the physical spectrum to leading order, which becomes exact in the
+limit $ g^2 \to \infty $, where $g^2\equiv 4\pi^2 T_3 R_0^3$ and $T_3$ is the
+membrane tension. As the radius is decreased, more strings become strongly
+interacting and their oscillation modes get frozen. In the zero-radius limit,
+the spectrum is constituted of the type IIA superstring spectrum, plus an
+infinite number of extra states associated with flat directions of the quartic
+potential.
+</abstract>

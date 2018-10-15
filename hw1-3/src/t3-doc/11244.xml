@@ -1,0 +1,35 @@
+<date>
+Thu, 29 Feb 1996 18:26:41 -0500 (EST)
+</date>
+
+<title>
+The Four Dimensional Green-Schwarz Mechanism and Anomaly Cancellation
+  Conditions
+</title>
+
+<abstract>
+  We consider a theory with gauge group $G \times U(1)_A$ containing: i) an
+abelian factor for which the chiral matter content of the theory is anomalous
+$\sum_{f} q^f_A \neq 0 \neq \sum_{f} (q^f_A)^3$ ; ii) a nonanomalous factor
+$G$. In these models, the calculation of consistent gauge anomalies usually
+found in the literature as a solution to the Zumino-Stora descent equations is
+reconsidered. Another solution of the descent equations that differs on the
+terms involving mixed gauge anomalies is presented on this paper. The origin of
+their difference is analysed, and using Fujikawa's formalism the second result
+is argued to be the divergence of the usual chiral current. Invoking
+topological arguments the physical equivalence of both solutions is explained,
+but only the second one can be technically called the consistent anomaly of a
+classically invariant theory. The first one corresponds to the addition of
+noninvariant local counterterms to the action. A consistency check of their
+physical equivalence is performed by implementing the four dimensional string
+inspired Green-Schwarz mechanism for both expressions. This is achieved adding
+slightly different anomaly cancelling terms to the original action, whose
+difference is precisely the local counterterms mentioned before. The complete
+anomaly free action is therefore uniquely defined, and the resulting
+constraints on the spectrum of fermion charges are the same. The Lorentz
+invariance of the fermion measure in four dimensions forces the Lorentz
+variation of the Green-Schwarz terms to cancel by itself, producing an
+additional constraint usually overlooked in the literature. This often happens
+when a dual description of the theory is used without including all local
+counterterms.
+</abstract>

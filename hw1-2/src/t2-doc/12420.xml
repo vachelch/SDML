@@ -1,0 +1,18 @@
+<title>
+New results for the quantum supersymmetric kink
+</title>
+
+<abstract>
+  We review our work on computations of the quantum corrections to the mass and
+the central charge of the susy kink. For the mass corrections, we find that the
+widely used momentum cut-off scheme gives an incorrect result, but we deduce
+through smoothing of the cut-off an extra term in the mass formula, which
+produces the correct result. We discover the importance of boundary effects for
+the mode number cut-off regularization scheme. We introduce the notion of
+delocalized boundary energy. We discuss two discrete $Z_2$ symmetries and their
+importance to the mode number approach. For the central charge corrections, we
+use momentum cut-off regularization with two cut-offs, one for propagators and
+another for Dirac delta functions. We then compute the quantum anomaly in the
+central charge, and find that it restores the BPS bound at the one-loop level
+if the two cut-offs are equal.
+</abstract>

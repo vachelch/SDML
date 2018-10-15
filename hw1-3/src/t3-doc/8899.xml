@@ -1,0 +1,23 @@
+<date>
+Mon, 14 Apr 1997 15:25:32 -0300
+</date>
+
+<title>
+Extra Dimensions in Superstring Theory
+</title>
+
+<abstract>
+  It was earlier shown that an SO(9,1) $\theta^\a$ spinor variable can be
+constructed from RNS matter and ghost fields. $\theta^\a$ has a bosonic
+worldsheet super-partner $\lambda^\a$ which plays the role of a twistor
+variable, satisfying $\lambda\Gamma^\mu\lambda = \partial x^\mu
++i\theta\Gamma^\mu \partial\theta$. For Type IIA superstrings, the left-moving
+$[\theta_L^\a,\lambda_L^\a]$ and right-moving $[\theta_{R\a},\lambda_{R\a}]$
+can be combined into 32-component SO(10,1) spinors $[\theta^A,\lambda^A]$.
+    This suggests that $\lambda^A \Gamma^{11}_{AB}\lambda^B= 2\lambda_L^\a
+\lambda_{R\a}$ can be interpreted as momentum in the eleventh direction.
+Evidence for this interpretation comes from the zero-momentum vertex operators
+of the Type IIA superstring and from consideration of $D_0$-branes. As in the
+work of Bars, one finds an SO(10,2) structure for the Type IIA superstring and
+an SO(9,1) x SO(2,1) structure for the Type IIB superstring.
+</abstract>

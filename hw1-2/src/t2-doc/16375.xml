@@ -1,0 +1,16 @@
+<title>
+Locating Overlap Information in Quantum Systems
+</title>
+
+<abstract>
+  When discussing the black hole information problem the term ``information
+flow'' is frequently used in a rather loose fashion. In this article I attempt
+to make this notion more concrete. I consider a Hilbert space which is
+constructed as a tensor product of two subspaces (representing for example
+inside and outside the black hole). I discuss how the system has the capacity
+to contain information which is in NEITHER of the subspaces. I attempt to
+quantify the amount of information located in each of the two subspaces, and
+elsewhere, and analyze the extent to which unitary evolution can correspond to
+``information flow''. I define the notion of ``overlap information'' which
+appears to be well suited to the problem.
+</abstract>

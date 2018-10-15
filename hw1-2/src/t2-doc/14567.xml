@@ -1,0 +1,31 @@
+<title>
+An Algorithmic Approach to Operator Product Expansions, $W$-Algebras and
+  $W$-Strings
+</title>
+
+<abstract>
+  String theory is currently the most promising theory to explain the spectrum
+of the elementary particles and their interactions. One of its most important
+features is its large symmetry group, which contains the conformal
+transformations in two dimensions as a subgroup. At quantum level, the symmetry
+group of a theory gives rise to differential equations between correlation
+functions of observables. We show that these Ward-identities are equivalent to
+Operator Product Expansions (OPEs), which encode the short-distance
+singularities of correlation functions with symmetry generators. The OPEs allow
+us to determine algebraically many properties of the theory under study. We
+analyse the calculational rules for OPEs, give an algorithm to compute OPEs,
+and discuss an implementation in Mathematica. There exist different string
+theories, based on extensions of the conformal algebra to so-called W-algebras.
+These algebras are generically nonlinear. We study their OPEs, with as main
+results an efficient algorithm to compute the beta-coefficients in the OPEs,
+the first explicit construction of the WB_2-algebra, and criteria for the
+factorisation of free fields in a W-algebra. An important technique to
+construct realisations of W-algebras is Drinfel'd- Sokolov reduction. The
+method consists of imposing certain constraints on the elements of an affine
+Lie algebra. We quantise this reduction via gauged WZNW-models. This enables us
+in a theory with a gauged W-symmetry, to compute exactly the correlation
+functions of the effective theory. Finally, we investigate the critical
+W-string theories based on an extension of the conformal algebra with one
+symmetry generator of dimension N. We clarify how the spectrum of this theory
+forms a minimal model of the W_N-algebra.
+</abstract>

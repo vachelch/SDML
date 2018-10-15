@@ -1,0 +1,23 @@
+<title>
+Dynamics of the Universal Confining String Theory on the Loop Space
+</title>
+
+<abstract>
+  Starting with the representation of the Wilson average in the Euclidean 4D
+compact QED as a partition function of the Universal Confining String Theory,
+we derive for it the corresponding loop equation, alternative to the familiar
+one.
+ In the functional momentum representation the obtained equation decouples into
+two independent ones, which describe the dynamics of the transverse and
+longitudinal components of the area derivative of the Wilson loop. At some
+critical value of the momentum discontinuity, which can be determined from a
+certain equation, the transverse component does not propagate.
+ Next, we derive the equation for the momentum Wilson loop, where on the
+left-hand side stands the sum of the squares of the momentum discontinuities,
+multiplied by the loop, which describes its free propagation, while the
+right-hand side describes the interaction of the loop with the functional
+vorticity tensor current.
+ Finally, using the method of inversion of the functional Laplacian, we obtain
+for the Wilson loop in the coordinate representation a simple Volterra type-II
+linear integral equation, which can be treated perturbatively.
+</abstract>

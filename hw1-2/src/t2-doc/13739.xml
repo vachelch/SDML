@@ -1,0 +1,15 @@
+<title>
+Projection operator approach to general constrained systems
+</title>
+
+<abstract>
+  We propose a new BRST-like quantization procedure which is applicable to
+dynamical systems containing both first and second class constraints. It
+requires no explicit separation into first and second class constraints and
+therefore no conversion of second class constraints is needed. The basic
+ingredient is instead an invariant projection operator which projects out the
+maximal subset of constraints in involution. The hope is that the method will
+enable a covariant quantization of models for which there is no covariant
+separation into first and second class constraints. An example of this type is
+given.
+</abstract>

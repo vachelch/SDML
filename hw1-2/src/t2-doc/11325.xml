@@ -1,0 +1,13 @@
+<title>
+A Unified Scheme for Modular Invariant Partition Functions of WZW Models
+</title>
+
+<abstract>
+  We introuduce a unified method which can be applied to any WZW model at
+arbitrary level to search systematically for modular invariant physical
+partition functions. Our method is based essentially on modding out a known
+theory on group manifold $G$ by a discrete group $\Gamma$.
+  We apply our method to $\widehat {su(n)}$ with $n=2,3,4,5,6$, and to
+$\widehat {g_2}$ models, and obtain all the known partition functions and some
+new ones, and give explicit expressions for all of them.
+</abstract>

@@ -1,0 +1,30 @@
+<title>
+Perturbative nonequilibrium dynamics of phase transitions in an
+  expanding universe
+</title>
+
+<abstract>
+  A complete set of Feynman rules is derived, which permits a perturbative
+description of the nonequilibrium dynamics of a symmetry-breaking phase
+transition in $\lambda\phi^4$ theory in an expanding universe. In contrast to a
+naive expansion in powers of the coupling constant, this approximation scheme
+provides for (a) a description of the nonequilibrium state in terms of its own
+finite-width quasiparticle excitations, thus correctly incorporating
+dissipative effects in low-order calculations, and (b) the emergence from a
+symmetric initial state of a final state exhibiting the properties of
+spontaneous symmetry breaking, while maintaining the constraint $<\phi>\equiv
+0$. Earlier work on dissipative perturbation theory and spontaneous symmetry
+breaking in Minkowski spacetime is reviewed. The central problem addressed is
+the construction of a perturbative approximation scheme which treats the
+initial symmetric state in terms of the field $\phi$, while the state that
+emerges at later times is treated in terms of a field $\zeta$, linearly related
+to $\phi^2$. The connection between early and late times involves an infinite
+sequence of composite propagators. Explicit one-loop calculations are given of
+the gap equations that determine quasiparticle masses and of the equation of
+motion for $<\phi^2(t)>$ and the renormalization of these equations is
+described. The perturbation series needed to describe the symmetric and
+broken-symmetry states are not equivalent, and this leads to ambiguities
+intrinsic to any perturbative approach. These ambiguities are discussed in
+detail and a systematic procedure for matching the two approximations is
+described.
+</abstract>

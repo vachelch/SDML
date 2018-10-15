@@ -1,0 +1,24 @@
+<date>
+Thu, 15 Feb 2001 12:58:48 GMT
+</date>
+
+<title>
+Centers of Mass and Rotational Kinematics for the Relativistic N-Body
+  Problem in the Rest-Frame Instant Form
+</title>
+
+<abstract>
+  In the Wigner-covariant rest-frame instant form of dynamics it is possible to
+develop a relativistic kinematics for the N-body problem. The Wigner
+hyperplanes define the intrinsic rest frame and realize the separation of the
+center-of-mass. Three notions of {\it external} relativistic center of mass can
+be defined only in terms of the {\it external} Poincar\'e group realization.
+Inside the Wigner hyperplane, an {\it internal} unfaithful realization of the
+Poincar\'e group is defined. The three concepts of {\it internal} center of
+mass weakly {\it coincide} and are eliminated by the rest-frame conditions. An
+adapted canonical basis of relative variables is found. The invariant mass is
+the Hamiltonian for the relative motions. In this framework we can introduce
+the same {\it dynamical body frames}, {\it orientation-shape} variables, {\it
+spin frame} and {\it canonical spin bases} for the rotational kinematics
+developed for the non-relativistic N-body problem.
+</abstract>

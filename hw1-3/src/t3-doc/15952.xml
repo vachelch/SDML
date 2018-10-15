@@ -1,0 +1,20 @@
+<date>
+Sun, 7 Apr 96 01:54:40 +0900
+</date>
+
+<title>
+Boson Expansion Methods in (1+1)-dimensional Light-Front QCD
+</title>
+
+<abstract>
+  We derive a bosonic Hamiltonian from two dimensional QCD on the light-front.
+To obtain the bosonic theory we find that it is useful to apply the boson
+expansion method which is the standard technique in quantum many-body physics.
+We introduce bilocal boson operators to represent the gauge-invariant quark
+bilinears and then local boson operators as the collective states of the
+bilocal bosons. If we adopt the Holstein-Primakoff type among various
+representations, we obtain a theory of infinitely many interacting bosons,
+whose masses are the eigenvalues of the 't Hooft equation. In the large $N$
+limit, since the interaction disappears and the bosons are identified with
+mesons, we obtain a free Hamiltonian with infinite kinds of mesons.
+</abstract>

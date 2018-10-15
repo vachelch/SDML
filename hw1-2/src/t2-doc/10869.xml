@@ -1,0 +1,16 @@
+<title>
+Form Factors for Integrable Lagrangian Field Theories, the Sinh-Gordon
+  Model
+</title>
+
+<abstract>
+  Using Watson's and the recursive equations satisfied by matrix elements of
+local operators in two-dimensional integrable models, we compute the form
+factors of the elementary field $\phi(x)$ and the stress-energy tensor
+$T_{\mu\nu}(x)$ of Sinh-Gordon theory. Form factors of operators with higher
+spin or with different asymptotic behaviour can easily be deduced from them.
+The value of the correlation functions are saturated by the form factors with
+lowest number of particle terms. This is illustrated by an application of the
+form factors of the trace of $T_{\mu\nu}(x)$ to the sum rule of the
+$c$-theorem.
+</abstract>

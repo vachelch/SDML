@@ -1,0 +1,28 @@
+<title>
+Dynamical Body Frames, Orientation-Shape Variables and Canonical Spin
+  Bases for the Non-Relativistic N-Body Problem
+</title>
+
+<abstract>
+  After the separation of the center-of-mass motion, a new privileged class of
+canonical Darboux bases is proposed for the non-relativistic N-body problem by
+exploiting a geometrical and group theoretical approach to the definition of
+{\it body frame} for deformable bodies. This basis is adapted to the rotation
+group SO(3), whose canonical realization is associated with a symmetry
+Hamiltonian {\it left action}. The analysis of the SO(3) coadjoint orbits
+contained in the N-body phase space implies the existence of a {\it spin frame}
+for the N-body system. Then, the existence of appropriate non-symmetry
+Hamiltonian {\it right actions} for non-rigid systems leads to the construction
+of a N-dependent discrete number of {\it dynamical body frames} for the N-body
+system, hence to the associated notions of {\it dynamical} and {\it measurable}
+orientation and shape variables, angular velocity, rotational and vibrational
+configurations. For N=3 the dynamical body frame turns out to be unique and our
+approach reproduces the {\it xxzz gauge} of the gauge theory associated with
+the {\it orientation-shape} SO(3) principal bundle approach of Littlejohn and
+Reinsch. For $N \geq 4$ our description is different, since the dynamical body
+frames turn out to be {\it momentum dependent}. The resulting Darboux bases for
+$N\geq 4$ are connected to the coupling of the {\it spins} of particle clusters
+rather than the coupling of the {\it centers of mass} (based on Jacobi relative
+normal coordinates). One of the advantages of the spin coupling is that, unlike
+the center-of-mass coupling, it admits a relativistic generalization.
+</abstract>

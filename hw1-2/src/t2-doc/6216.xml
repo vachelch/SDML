@@ -1,0 +1,19 @@
+<title>
+Renormalization-group Calculation of Color-Coulomb Potential
+</title>
+
+<abstract>
+  We report here on the application of the perturbative renormalization-group
+to the Coulomb gauge in QCD. We use it to determine the high-momentum
+asymptotic form of the instantaneous color-Coulomb potential $V(\vec{k})$ and
+of the vacuum polarization $P(\vec{k}, k_4)$. These quantities are
+renormalization-group invariants, in the sense that they are independent of the
+renormalization scheme. A scheme-independent definition of the running coupling
+constant is provided by $\vec{k}^2 V(\vec{k}) = x_0
+g^2(\vec{k}/\Lambda_{coul})$, and of $\alpha_s \equiv {{g^2(\vec{k} /
+\Lambda_{coul})} \over {4\pi}}$, where $x_0 = {{12N} \over {11N - 2N_f}}$, and
+$\Lambda_{coul}$ is a finite QCD mass scale. We also show how to calculate the
+coefficients in the expansion of the invariant $\beta$-function $\beta(g)
+\equiv |\vec{k}| {{\partial g} \over{\partial |\vec{k}|}} = -(b_0 g^3 + b_1 g^5
++b_2 g^7 + ...)$, where all coefficients are scheme-independent.
+</abstract>

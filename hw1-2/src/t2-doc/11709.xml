@@ -1,0 +1,17 @@
+<title>
+Hodge decomposition theorem for Abelian two form gauge theory
+</title>
+
+<abstract>
+  We show that the BRST/anti-BRST invariant 3+1 dimensional 2-form gauge theory
+has further nilpotent symmetries (dual BRST /anti-dual BRST) that leave the
+gauge fixing term invariant. The generator for the dual BRST symmetry is
+analogous to the co-exterior derivative of differential geometry. There exists
+a bosonic symmetry which keeps the ghost terms invariant and it turns out to be
+the analogue of the Laplacian operator. The Hodge duality operation is shown to
+correspond to a discrete symmetry in the theory. The generators of all these
+continuous symmetries are shown to obey the algebra of the de Rham cohomology
+operators of differential geometry. We derive the extended BRST algebra
+constituted by six conserved charges and discuss the Hodge decomposition
+theorem in the quantum Hilbert space of states.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+On Spherically Symmetric Breathers in Scalar Theories
+</title>
+
+<abstract>
+  We develop an algorithm which can be used to exclude the existence of
+classical breathers (periodic finite energy solutions) in scalar field
+theories, and apply it to several cases of interest. In particular, the
+technique is used to show that a pair of potentially periodic solutions of the
+3+1 Sine-Gordon Lagrangian, found numerically in earlier work, are not
+breathers. These ``pseudo-breather states'' do have a signature in our method,
+which we suggest can be used to find similar quasi-bound state configurations
+in other theories. We also discuss the results of our algorithm when applied to
+the 1+1 Sine-Gordon model (which exhibits a well-known set of breathers), and
+$\phi ^4$ theory.
+</abstract>

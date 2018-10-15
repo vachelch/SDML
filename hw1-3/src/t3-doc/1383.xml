@@ -1,0 +1,27 @@
+<date>
+Wed, 19 May 1999 15:12:41 GMT
+</date>
+
+<title>
+Quantum Field Theories with Symmetries in the Wilsonian Exact
+  Renormalization Group
+</title>
+
+<abstract>
+  The purpose of the present thesis is the implementation of symmetries in the
+Wilsonian Exact Renormalization Group (ERG) approach. After recalling how the
+ERG can be introduced in a general theory (i.e. containing both bosons and
+fermions, scalars and vectors) and having applied it to the massless scalar
+theory as an example of how the method works, we discuss the formulation of the
+Quantum Action Principle (QAP) in the ERG and show that the Slavnov-Taylor
+identities can be directly derived for the cutoff effective action at any
+momentum scale. Firstly the QAP is exploited to analyse the breaking of
+dilatation invariance occurring in the scalar theory in this approach. Then we
+address SU(N) Yang-Mills theory and extensively treat the key issue of the
+boundary conditions of the flow equation which, in this case, have also to
+ensure restoration of symmetry for the physical theory. In case of a chiral
+gauge theory, we show how the chiral anomaly can be obtained in the ERG.
+Finally, we extend the ERG formulation to supersymmetric (gauge) theories. It
+is emphasized regularization is implemented in such a way that supersymmetry is
+preserved.
+</abstract>

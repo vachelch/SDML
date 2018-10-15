@@ -1,0 +1,25 @@
+<date>
+Tue, 21 Oct 1997 15:53:17 GMT
+</date>
+
+<title>
+Gauge theory and the division algebras
+</title>
+
+<abstract>
+  We present a novel formulation of the instanton equations in 8-dimensional
+Yang-Mills theory. This formulation reveals these equations as the last member
+of a series of gauge-theoretical equations associated with the real division
+algebras, including flatness in dimension 2 and (anti-)self-duality in 4. Using
+this formulation we prove that (in flat space) these equations can be
+understood in terms of moment maps on the space of connections and the moduli
+space of solutions is obtained via a generalised symplectic quotient: a Kaehler
+quotient in dimension 2, a hyperkaehler quotient in dimension 4 and an
+octonionic Kaehler quotient in dimension 8. One can extend these equations to
+curved space: whereas the 2-dimensional equations make sense on any surface,
+and the 4-dimensional equations make sense on an arbitrary oriented manifold,
+the 8-dimensional equations only make sense for manifolds whose holonomy is
+contained in Spin(7). The interpretation of the equations in terms of moment
+maps further constraints the manifolds: the surface must be orientable, the
+4-manifold must be hyperkaehler and the 8-manifold must be flat.
+</abstract>

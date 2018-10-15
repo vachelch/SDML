@@ -1,0 +1,16 @@
+<title>
+Lattice Regularization of Gauge Theories Without Loss of Chiral Symmetry
+</title>
+
+<abstract>
+  A lattice regularization procedure for gauge theories is proposed in which
+fermions are given a special treatment such that all chiral flavor symmetries
+that are free of Adler-Bell-Jackiw anomalies are kept intact. There is no
+doubling of fermionic degrees of freedom. A price paid for this feature is that
+the number of fermionic degrees of freedom per unit cell is still infinite,
+although finiteness of the complete functional integrals can be proven (details
+are outlined in an Appendix). Therefore, although perhaps of limited usefulness
+for numerical simulations, our scheme can be applied for studying aspects such
+as analytic convergence questions, spontaneous symmetry breakdown and baryon
+number violation in non-Abelian gauge theories.
+</abstract>

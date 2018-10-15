@@ -1,0 +1,29 @@
+<title>
+New Approach to Quantum Field Theory for Arbitrary Observers in
+  Electromagnetic Backgrounds
+</title>
+
+<abstract>
+  A reformulation of fermionic QFT in electromagnetic backgrounds is presented
+which uses methods analogous to those of conventional multiparticle quantum
+mechanics. Emphasis is placed on the (Schr\"odinger picture) states of the
+system, described in terms of Slater determinants of Dirac states, and not on
+the field operator $\hat{\psi}(x)$ (which is superfluous in this approach). The
+vacuum state `at time $\tau$' is defined as the Slater determinant of a basis
+for the span of the negative spectrum of the `first quantized' Hamiltonian
+$\hat{H}(\tau)$, thus providing a concrete realisation of the Dirac Sea. The
+general S-matrix element of the theory is derived in terms of time-dependent
+Bogoliubov coefficients, demonstrating that the S-matrix follows directly from
+the definition of inner product between Slater determinants. The process of
+`Hermitian extension', inherited directly from conventional multiparticle
+quantum mechanics, allows second quantized operators to be defined without
+appealing to a complete set of orthonormal modes, and provides an extremely
+straightforward derivation of the general expectation value of the theory. The
+concept of `radar time', advocated by Bondi in his work on k-calculus, is used
+to generalise the particle interpretation to an arbitrarily moving observer. A
+definition of particle results, which depends {\it only} on the observer's
+motion and the background present, not on any choice of coordinates or gauge,
+or of the particle detector. We relate this approach to conventional methods by
+comparing and contrasting various derivations. Our particle definition can be
+viewed as a generalisation to arbitrary observers of Gibbons' approach.
+</abstract>

@@ -1,0 +1,33 @@
+<date>
+Fri, 27 Jun 1997 17:02:22 -0600
+</date>
+
+<title>
+String Without Strings
+</title>
+
+<abstract>
+  Scale invariance provides a principled reason for the physical importance of
+Hilbert space, the Virasoro algebra, the string mode expansion, canonical
+commutators and Schroedinger evolution of states, independent of the
+assumptions of string theory and quantum theory. The usual properties of
+dimensionful fields imply an infinite, projective tower of conformal weights
+associated with the tangent space to scale-invariant spacetimes. Convergence
+and measurability on this tangent tower are guaranteed using a scale-invariant
+norm, restricted to conformally self-dual vectors. Maps on the resulting
+Hilbert space are correspondingly restricted to semi-definite conformal weight.
+We find the maximally- and minimally-commuting, complete Lie algebras of
+definite-weight operators. The projective symmetry of the tower gives these
+algebras central charges, giving the canonical commutator and quantum Virasoro
+algebras, respectively. Using a continuous, m-parameter representation for
+rank-m tower tensors, we show that the parallel transport equation for the
+momentum vector of a particle is the Schroedinger equation, while the
+associated definite-weight operators obey canonical commutation relations.
+Generalizing to the set of integral curves of general timelike, self-dual
+vector-valued weight maps gives a lifting such that the action of the curves
+parallel transports arbitrary tower vectors. We prove that the full set of
+Schroedinger-lifted integral curves of a general self-dual map gives an
+immersion of its 2-dim parameter space into spacetime, inducing a Lorentzian
+metric on the parameter space. The immersion is shown to satisfy the
+variational equations of open string.
+</abstract>

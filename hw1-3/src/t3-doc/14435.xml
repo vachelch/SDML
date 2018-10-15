@@ -1,0 +1,17 @@
+<date>
+Mon, 22 Mar 1999 20:05:33 GMT
+</date>
+
+<title>
+Simple Spin Networks as Feynman Graphs
+</title>
+
+<abstract>
+  We show how spin networks can be described and evaluated as Feynman integrals
+over an internal space. This description can, in particular, be applied to the
+so-called simple SO(D) spin networks that are of importance for
+higher-dimensional generalizations of loop quantum gravity. As an illustration
+of the power of the new formalism, we use it to obtain the asymptotics of an
+amplitude for the D-simplex and show that its oscillatory part is given by the
+Regge action.
+</abstract>

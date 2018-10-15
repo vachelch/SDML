@@ -1,0 +1,26 @@
+<title>
+Extremal Correlators in the AdS/CFT Correspondence
+</title>
+
+<abstract>
+  The non-renormalization of the 3-point functions $tr X^{k_1} tr X^{k_2} tr
+X^{k_3}$ of chiral primary operators in N=4 super-Yang-Mills theory is one of
+the most striking facts to emerge from the AdS/CFT correspondence. A two-fold
+puzzle appears in the extremal case, e.g. k_1 = k_2 + k_3. First, the
+supergravity calculation involves analytic continuation in the k_i variables to
+define the product of a vanishing bulk coupling and an infinite integral over
+AdS. Second, extremal correlators are uniquely sensitive to mixing of the
+single-trace operators $tr X^k$ with protected multi-trace operators in the
+same representation of SU(4). We show that the calculation of extremal
+correlators from supergravity is subject to the same subtlety of regularization
+known for the 2-point functions, and we present a careful method which
+justifies the analytic continuation and shows that supergravity fields couple
+to single traces without admixture. We also study extremal n-point functions of
+chiral primary operators, and argue that Type IIB supergravity requires that
+their space-time form is a product of n-1 two-point functions (as in the free
+field approximation) multiplied by a non-renormalized coefficient. This
+non-renormalization property of extremal n-point functions is a new prediction
+of the AdS/CFT correspondence. As a byproduct of this work we obtain the cubic
+couplings $t \phi \phi$ and $s \phi \phi$ of fields in the dilaton and 5-sphere
+graviton towers of Type IIB supergravity on $AdS_5 \times S^5$.
+</abstract>

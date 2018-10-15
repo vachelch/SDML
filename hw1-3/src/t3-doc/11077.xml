@@ -1,0 +1,22 @@
+<date>
+Tue, 14 Aug 2001 12:38:27 GMT
+</date>
+
+<title>
+NC Branes and Hierarchies in Quantum Hall Fluids
+</title>
+
+<abstract>
+  We develop the non commutative Chern-Simons gauge model analysis modeling the
+description of the hierarchical states of fractional quantum Hall fluids. For a
+generic level $n$ of the hierarchy, we show that the order parameter matrix
+$K_{ab}$ is given by $ \theta^{-2}Tr(\tau_a \tau_b)$, where $\{\tau_a, 1\leq a
+\leq n \}$ define a specific set of $n\times n$ matrices depending on the
+parameter $\theta$ and the levels $l_a$ of the CS effective field theory. Our
+analysis predicts the existence of a third order tensor of order parameters
+$C_{abc}$ induced by the external magnetic field. It is shown that the
+$C_{abc}$'s are not new order parameters and are given by $\theta d_{abc}$,
+where $d_{abc}$ are numbers depending on the $l_a$'s. We also give the
+generalized quantum Hall soliton extending the one obtained in the case of the
+Laughlin state.
+</abstract>

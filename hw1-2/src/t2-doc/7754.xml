@@ -1,0 +1,14 @@
+<title>
+Inonu-Wigner Contractions of Kac-Moody Algebras
+</title>
+
+<abstract>
+  We discuss In\"on\"u-Wigner contractions of affine Kac-Moody algebras. We
+show that the Sugawara construction for the contracted affine algebra exists
+only for a fixed value of the level $k$, which is determined in terms of the
+dimension of the uncontracted part of the starting Lie algebra, and the
+quadratic Casimir in the adjoint representation. Further, we discuss
+contractions of $G/H$ coset spaces, and obtain an affine {\it translation}
+algebra, which yields a Virasoro algebra (via a GKO construction) with a
+central charge given by $dim(G/H)$.
+</abstract>

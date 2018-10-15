@@ -1,0 +1,23 @@
+<title>
+Kink Dynamics in a Topological Phi^4 Lattice
+</title>
+
+<abstract>
+  It was recently proposed a novel discretization for nonlinear Klein-Gordon
+field theories in which the resulting lattice preserves the topological
+(Bogomol'nyi) lower bound on the kink energy and, as a consequence, has no
+Peierls-Nabarro barrier even for large spatial discretizations (h~1.0). It was
+then suggested that these ``topological discrete systems'' are a natural choice
+for the numerical study of continuum kink dynamics. Giving particular emphasis
+to the phi^4 theory, we numerically investigate kink-antikink scattering and
+breather formation in these topological lattices. Our results indicate that,
+even though these systems are quite accurate for studying free kinks in coarse
+lattices, for legitimate dynamical kink problems the accuracy is rather
+restricted to fine lattices (h~0.1). We suggest that this fact is related to
+the breaking of the Bogomol'nyi bound during the kink-antikink interaction,
+where the field profile loses its static property as required by the
+Bogomol'nyi argument. We conclude, therefore, that these lattices are not
+suitable for the study of more general kink dynamics, since a standard
+discretization is simpler and has effectively the same accuracy for such
+resolutions.
+</abstract>

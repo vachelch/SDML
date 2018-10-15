@@ -1,0 +1,22 @@
+<title>
+The membrane at the end of the (de Sitter) universe
+</title>
+
+<abstract>
+  The original {\it membrane at the end of the universe} corresponds to a probe
+$M2$-brane of signature $(2,1)$ occupying the $S^{2} \times S^{1}$ boundary of
+the $(10,1)$ spacetime $AdS_{4} \times S^{7}$, and is described by an
+$OSp(4/8)$ SCFT. However, it was subsequently generalized to other worldvolume
+signatures $(s,t)$ and other spacetime signatures $(S,T)$. An interesting
+special case is provided by the $(3,0)$ brane at the end of the de Sitter
+universe $dS_{4}$ which has recently featured in the $dS/CFT$ correspondence.
+The resulting CFT contains the one recently proposed as the holographic dual of
+a four-dimensional de Sitter cosmology.
+  Supersymmetry restricts $S,T,s,t$ by requiring that the corresponding bosonic
+symmetry $O(s+1,t+1) \times O(S-s,T-t)$ be a subgroup of a superconformal
+group. The case of $dS_{4} \times AdS_{7}$ is `doubly holographic' and may be
+regarded as the near horizon geometry of $N_{2}$ $M2$-branes or equivalently,
+under interchange of conformal and R symmetry, of $N_{5}$ $M5$-branes, provided
+$N_{2}=2N_{5}{}^{2}$. The same correspondence holds in the pp-wave limit of
+conventional $M$-theory.
+</abstract>

@@ -1,0 +1,30 @@
+<title>
+Group-Variation Equations for the Coefficients in the 1/N Expansions of
+  Physical Quantities in SU(N) Gauge Theories in D=3+1
+</title>
+
+<abstract>
+  The coefficients in the 1/N expansions of the vacuum expectation values and
+correlation functions of Wilson loops, in continuum SU(N) gauge theories in 3+1
+dimensions, are shown to be determined by a closed and complete set of
+equations, called the Group-Variation Equations, that exhibit a simple and
+robust mechanism for the emergence of massive glueballs and the Wilson area
+law. The equations predict that the cylinder-topology minimal-area spanning
+surface term in the two-glueball correlation function, when it exists, must be
+multiplied by a pre-exponential factor, which for large area A of the
+minimal-area cylinder-topology surface, decreases with increasing A at least as
+fast as $1/\ln(\sigma A)$. If this factor decreases faster than $1/\ln(\sigma
+A)$, then the mass $m_{0^{++}}$ of the lightest glueball, and the coefficient
+$\sigma$ of the area in the Wilson area law, are determined in a precisely
+parallel manner, and the equations give a zeroth-order estimate of
+$m_{0^{++}}/\sqrt{\sigma}$ of 2.38, about 33% less than the best lattice value,
+without the need for a full calculation of any of the terms in the right-hand
+sides. The large distance behaviour of the vacuum expectation values and
+correlation functions is completely determined by terms called island diagrams,
+the dominant contributions to which come from islands of \emph{fixed} size of
+about $1/\sqrt{\sigma}$. The value of $\sigma$ is determined by the point at
+which $|\beta(g)/g|$ reaches a critical value, and since the large distance
+behaviour of all physical quantities is determined by islands of the fixed size
+$1/\sqrt{\sigma}$, the running coupling $g^2$ never increases beyond the value
+at which $|\beta(g)/g|$ reaches the critical value.
+</abstract>

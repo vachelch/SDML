@@ -1,0 +1,10 @@
+<title>
+Background field method in the Wilson formulation
+</title>
+
+<abstract>
+  A cutoff regularization for a pure Yang-Mills theory is implemented within
+the background field method keeping explicit the gauge invariance of the
+effective action. The method has been applied to compute the beta function at
+one loop order.
+</abstract>

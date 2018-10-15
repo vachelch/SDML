@@ -1,0 +1,18 @@
+<title>
+Domain walls in supersymmetric QCD: The taming of the zoo
+</title>
+
+<abstract>
+  We provide a unified picture of the domain wall spectrum in supersymmetric
+QCD with Nc colors and Nf flavors of quarks in the (anti-) fundamental
+representation. Within the framework of the Veneziano-Yankielowicz-Taylor
+effective Lagrangian, we consider domain walls connecting chiral symmetry
+breaking vacua, and we take the quark masses to be degenerate. For Nf/Nc<1/2,
+there is one BPS saturated domain wall for any value of the quark mass m. For
+1/2=<Nf/Nc<1 there are two critical masses, m* and m**, which depend on the
+number of colors and flavors only through the ratio Nf/Nc; if m<m*, there are
+two BPS walls, if m*<m<m** there is one non-BPS wall, and if m>m** there is no
+domain wall. We numerically determine m* and m** as a function of Nf/Nc, and we
+find that m** approaches a constant value in the limit that this ratio goes to
+one.
+</abstract>

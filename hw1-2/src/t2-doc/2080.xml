@@ -1,0 +1,17 @@
+<title>
+A Stress Tensor for Anti-de Sitter Gravity
+</title>
+
+<abstract>
+  We propose a procedure for computing the boundary stress tensor associated
+with a gravitating system in asymptotically anti-de Sitter space. Our
+definition is free of ambiguities encountered by previous attempts, and
+correctly reproduces the masses and angular momenta of various spacetimes. Via
+the AdS/CFT correspondence, our classical result is interpretable as the
+expectation value of the stress tensor in a quantum conformal field theory. We
+demonstrate that the conformal anomalies in two and four dimensions are
+recovered. The two dimensional stress tensor transforms with a Schwarzian
+derivative and the expected central charge. We also find a nonzero ground state
+energy for global AdS_5, and show that it exactly matches the Casimir energy of
+the dual N=4 super Yang-Mills theory on S^3 x R.
+</abstract>

@@ -1,0 +1,26 @@
+<date>
+Thu, 26 Apr 2001 05:28:41 GMT
+</date>
+
+<title>
+Additive and Multiplicative Noise Driven Systems in 1+1 Dimensions:
+  Waiting Time Extraction of Nucleation Rates
+</title>
+
+<abstract>
+  We study the rate of true vacuum bubble nucleation numerically for a phi^4
+field system coupled to a source of thermal noise. We compare in detail the
+cases of additive and multiplicative noise. We pay special attention to the
+choice of initial field configuration, showing the advantages of a version of
+the quenching technique. We advocate a new method of extracting the nucleation
+time scale that employs the full distribution of nucleation times. Large data
+samples are needed to study the initial state configuration choice and to
+extract nucleation times to good precision. The 1+1 dimensional models afford
+large statistics samples in reasonable running times. We find that for both
+additive and multiplicative models, nucleation time distributions are well fit
+by a waiting time, or gamma, distribution for all parameters studied. The
+nucleation rates are a factor three or more slower for the multiplicative
+compared to the additive models with the same dimensionless parameter choices.
+Both cases lead to high confidence level linear fits of ln(nucleation time) vs.
+1/T plots, in agreement with semiclassical nucleation rate predictions.
+</abstract>

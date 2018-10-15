@@ -1,0 +1,20 @@
+<date>
+Mon, 08 Mar 93 17:05:38 BCN
+</date>
+
+<title>
+Systematic Differential Renormalization to All Orders
+</title>
+
+<abstract>
+  We present a systematic implementation of differential renormalization to all
+orders in perturbation theory. The method is applied to individual Feynamn
+graphs written in coordinate space. After isolating every singularity. which
+appears in a bare diagram, we define a subtraction procedure which consists in
+replacing the core of the singularity by its renormalized form givenby a
+differential formula. The organizationof subtractions in subgraphs relies in
+Bogoliubov's formula, fulfilling the requirements of locality, unitarity and
+Lorentz invariance. Our method bypasses the use of an intermediate
+regularization andautomatically delivers renormalized amplitudes which obey
+renormalization group equations.
+</abstract>

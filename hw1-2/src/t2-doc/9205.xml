@@ -1,0 +1,26 @@
+<title>
+Multistring Vertices and Hyperbolic Kac Moody Algebras
+</title>
+
+<abstract>
+  Multistring vertices and the overlap identities which they satisfy are
+exploited to understand properties of hyperbolic Kac Moody algebras, and
+$E_{10}$ in particular. Since any such algebra can be embedded in the larger
+Lie algebra of physical states of an associated completely compactified
+subcritical bosonic string, one can in principle determine the root spaces by
+analyzing which (positive norm) physical states decouple from the $N$-string
+vertex. Consequently, the Lie algebra of physical states decomposes into a
+direct sum of the hyperbolic algebra and the space of decoupled states. Both
+these spaces contain transversal and longitudinal states. Longitudinal
+decoupling holds generally, and may also be valid for uncompactified strings,
+with possible consequences for Liouville theory; the identification of the
+decoupled states simply amounts to finding the zeroes of certain ``decoupling
+polynomials''. This is not the case for transversal decoupling, which crucially
+depends on special properties of the root lattice, as we explicitly demonstrate
+for a non-trivial root space of $E_{10}$. Because the $N$-vertices of the
+compactified string contain the complete information about decoupling, all the
+properties of the hyperbolic algebra are encoded into them. In view of the
+integer grading of hyperbolic algebras such as $E_{10}$ by the level, these
+algebras can be interpreted as interacting strings moving on the respective
+group manifolds associated with the underlying finite-dimensional Lie algebras.
+</abstract>

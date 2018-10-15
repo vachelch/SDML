@@ -1,0 +1,23 @@
+<title>
+$U(1)^m$ modular invariants, N=2 minimal models, and the quantum Hall
+  effect
+</title>
+
+<abstract>
+  The problem of finding all possible effective field theories for the quantum
+Hall effect is closely related to the problem of classifying all possible
+modular invariant partition functions for the algebra $u(1)^m$, as was argued
+recently by Cappelli and Zemba. This latter problem is also a natural one from
+the perspective of conformal field theory. In this paper we completely solve
+this problem, expressing the answer in terms of self-dual lattices, or
+equivalently, rational points on the dual Grassmannian $G_{m,m}(R)^*$. We also
+find all modular invariant partition functions for $su(2)\oplus u(1)^m$, from
+which we obtain the classification of all N=2 superconformal minimal models.
+The `A-D-E classification' of these, though often quoted in the literature,
+turns out to be a very coarse-grained one: e.g. associated with the names
+$E_6,E_7,E_8$, respectively, are precisely 20,30,24 different partition
+functions. As a by-product of our analysis, we find that the list of modular
+invariants for su(2) lengthens surprisingly little when commutation with T --
+i.e. invariance under $\tau \mapsto \tau+1$ -- is ignored: the other conditions
+are far more essential.
+</abstract>

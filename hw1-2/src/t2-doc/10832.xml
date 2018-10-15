@@ -1,0 +1,17 @@
+<title>
+Exact Two-Point Correlation Functions of Turbulence Without Pressure in
+  Three-Dimensions
+</title>
+
+<abstract>
+  We investigate exact results of isotropic turbulence in three-dimensions when
+the pressure gradient is negligible. We derive exact two-point correlation
+functions of density in three-dimensions and show that the density-density
+correlator behaves as $ |{x_1 - x_2}|^{-\alpha_3}$, where $\alpha_3 = 2 +
+\frac{\sqrt{33}}{6}$. It is shown that, in three-dimensions, the energy
+spectrum $E(k)$ in the inertial range scales with exponent $ 2 - \frac
+{\sqrt{33}}{12} \simeq 1.5212$. We also discuss the time scale for which our
+exact results are valid for strong 3D--turbulence in the presence of the
+pressure. We confirm our predictions by using the recent results of numerical
+calculations and experiment.
+</abstract>

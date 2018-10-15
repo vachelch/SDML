@@ -1,0 +1,26 @@
+<date>
+Thu, 5 Dec 2002 16:23:52 GMT
+</date>
+
+<title>
+"Principle of Indistinguishability" and equations of motion for
+  particles with spin
+</title>
+
+<abstract>
+  In this work we review the derivation of Dirac and Weinberg equations based
+on a ``principle of indistinguishability'' for the (j,0) and (0,j) irreducible
+representations (irreps) of the Homogeneous Lorentz Group (HLG). We generalize
+this principle and explore its consequences for other irreps containing spin >=
+1. We rederive Ahluwalia-Kirchbach equation using this principle and conclude
+that it yields O(p^{2j}) equations of motion for any representation containing
+spin j and lower spins. We also use the obtained generators of the HLG for a
+given representation to explore the possibility of the existence of first order
+equations for that representation. We show that, except for j=1/2, there exists
+no Dirac-like equation for the (j,0)\oplus (0,j) representation nor for the
+(1/2,1/2) representation. We rederive Kemmer-Duffin-Petieau (KDP) equation for
+the (1,0)\oplus (1/2,1/2)\oplus(0,1) representation by this method and show
+that the (1,1/2)\oplus (1/2,1) representation satisfies a Dirac-like equation
+which describes a multiplet of j=3/2 and j=1/2 with masses m and m/2}
+respectively.
+</abstract>

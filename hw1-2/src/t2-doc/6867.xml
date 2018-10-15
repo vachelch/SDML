@@ -1,0 +1,23 @@
+<title>
+Bogoliubov Renormalization Group and Symmetry of Solution in
+  Mathematical Physics
+</title>
+
+<abstract>
+  Evolution of the concept known in the theoretical physics as the
+Renormalization Group (RG) is presented. The corresponding symmetry, that has
+been first introduced in QFT in mid-fifties, is a continuous symmetry of a
+solution with respect to transformation involving parameters (e.g., of boundary
+condition) specifying some particular solution.
+  After short detour into Wilson's discrete semi-group, we follow the expansion
+of QFT RG and argue that the underlying transformation, being considered as a
+reparameterisation one, is closely related to the self-similarity property. It
+can be treated as its generalization, the Functional Self-similarity (FS).
+  Then, we review the essential progress during the last decade of the FS
+concept in application to boundary value problem formulated in terms of
+differential equations. A summary of a regular approach recently devised for
+discovering the RG = FS symmetries with the help of the modern Lie group
+analysis and some of its applications are given.
+  As a main physical illustration, we give application of new approach to
+solution for a problem of self-focusing laser beam in a non-linear medium.
+</abstract>

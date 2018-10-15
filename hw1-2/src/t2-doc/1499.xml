@@ -1,0 +1,27 @@
+<title>
+Application of Tomita-Takesaki theory in algebraic euclidean field
+  theories
+</title>
+
+<abstract>
+  The construction of the known interacting quantum field theory models is
+mostly based on euclidean techniques. The expectation values of interesting
+quantities are usually given in terms of euclidean correlation functions from
+which one should be able to extract information about the behavior of the
+correlation functions of the Minkowskian counterpart.
+  We think that the C*-algebraic approach to euclidean field theory gives an
+appropriate setup in order to study structural aspects model independently. A
+previous paper deals with a construction scheme which relates to each euclidean
+field theory a Poincar\'e covariant quantum field theory model in the sense of
+R. Haag and D. Kastler.
+  Within the framework of R. Haag and D. Kastler, the physical concept of PCT
+symmetry and spin and statistics is related to the Tomita-Takesaki theory of
+von Neumann algebras and this important aspects has been studied by several
+authors.
+  We express the PCT symmetry in terms of euclidean reflexions and we
+explicitly identify the corresponding modular operator and the modular
+conjugation of the related Tomita-Takesaki theory. Locality, wedge duality, and
+a geometric action of the modular group of the von Neumann algebra of
+observables, localized within a wedge region in Minkowski space, are direct
+consequences.
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Sat, 14 Dec 1996 11:49:41 -330
+</date>
+
+<title>
+Turbulence With Pressure
+</title>
+
+<abstract>
+  We investigate the exact results of the Navier-Stokes equations using the
+methods developed by Polyakov. It is shown that when the velocity field and the
+density are not independent, the Burgers equation is obtained leading to exact
+N-point generating functions of velocity field. Our results show that, the
+operator product expansion has to be generalized both in the absence and the
+presence of pressure. We find a method to determine the extra terms in the
+operator product expansion and derive its coefficients and find the first
+correction to probablity distribuation function. In the general case and for
+small pressure, we solve the problem perturbatively and find the probablity
+distribuation function for the Navier-Stokes equation in the mean field
+approximation.
+</abstract>

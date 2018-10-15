@@ -1,0 +1,24 @@
+<title>
+Non-linear Schroedinger Dynamics of Matrix D-branes
+</title>
+
+<abstract>
+  We formulate an effective Schroedinger wave equation describing the quantum
+dynamics of a system of D0-branes by applying the Wilson renormalization group
+equation to the worldsheet partition function of a deformed sigma-model
+describing the system, which includes the quantum recoil due to the exchange of
+string states between the individual D-particles. We arrive at an effective
+Fokker-Planck equation for the probability density with diffusion coefficient
+determined by the total kinetic energy of the recoiling system. We use Galilean
+invariance of the system to show that there are three possible solutions of the
+associated non-linear Schroedinger equation depending on the strength of the
+open string interactions among the D-particles. When the open string energies
+are small compared to the total kinetic energy of the system, the solutions are
+governed by freely-propagating solitary waves. When the string coupling
+constant reaches a dynamically determined critical value, the system is
+described by minimal uncertainty wavepackets which describe the smearing of the
+D-particle coordinates due to the distortion of the surrounding spacetime from
+the string interactions. For strong string interactions, bound state solutions
+exist with effective mass determined by an energy-dependent shift of the static
+BPS mass of the D0-branes.
+</abstract>

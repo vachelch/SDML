@@ -1,0 +1,21 @@
+<title>
+From euclidean field theory to quantum field theory
+</title>
+
+<abstract>
+  In order to construct examples for interacting quantum field theory models,
+the methods of euclidean field theory turned out to be powerful tools since
+they make use of the techniques of classical statistical mechanics.
+  Starting from an appropriate set of euclidean n-point functions (Schwinger
+distributions), a Wightman theory can be reconstructed by an application of the
+famous Osterwalder-Schrader reconstruction theorem. This procedure (Wick
+rotation), which relates classical statistical mechanics and quantum field
+theory, is, however, somewhat subtle. It relies on the analytic properties of
+the euclidean n-point functions.
+  We shall present here a C*-algebraic version of the Osterwalder-Scharader
+reconstruction theorem. We shall see that, via our reconstruction scheme, a
+Haag-Kastler net of bounded operators can directly be reconstructed.
+  Our considerations also include objects, like Wilson loop variables, which
+are not point-like localized objects like distributions. This point of view may
+also be helpful for constructing gauge theories.
+</abstract>

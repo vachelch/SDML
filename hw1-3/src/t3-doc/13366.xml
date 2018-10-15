@@ -1,0 +1,24 @@
+<date>
+Mon, 18 Mar 1996 15:25:47 +0100 (MET)
+</date>
+
+<title>
+Operational Discrete Symmetries and CP-Violation
+</title>
+
+<abstract>
+  The discrete symmetries of the Lorentz group are on the one hand a `complex'
+interplay between linear and anti-linear operations on spinor fields and on the
+other hand simple linear reflections of the Minkowski space. We define
+operations for T, CP and CPT leading to both kinds of actions. These operations
+extend the action of SL(2,C), representing the action of the proper
+orthochronous Lorentz group SO^+(1,3) on the Weyl spinors, to an action of the
+full group O(1,3). But it is more instructive to reverse the arguments. The
+action of O(1,3) is the natural way how SL(2,C) together with its conjugation
+structure acts on Minkowski space.
+ Focusing on the symmetries of these (anti-)linear operations we can for
+example distinguish between CP-invariant and CP-violating symmetries. This is
+important if gauge symmetries are included. It turns out that, contrary to the
+general belief, CP and T are not compatible with SU(n) for n > 2, especially
+with colour-SU(3) or with the U(3)-Cabibbo-Kobayashi-Maskawa matrix.
+</abstract>

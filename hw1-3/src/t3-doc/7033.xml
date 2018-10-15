@@ -1,0 +1,25 @@
+<date>
+Wed, 7 Aug 96 15:54:05 +0200
+</date>
+
+<title>
+Solving Gauge Field Theory by Discretized Light-Cone Quantization
+</title>
+
+<abstract>
+  The canonical front form Hamiltonian for non-Abelian SU(N) gauge theory in
+3+1 dimensions is mapped on an effective Hamiltonian which acts only in the
+Fock space of one quark and one antiquark. The approach is non-perturbative and
+exact. It is based on Discretized Light-Cone Quantization and the Method of
+Iterated Resolvents. The method resums the diagrams of perturbation theory to
+all orders in the coupling constant and is free of Tamm-Dancoff truncations in
+the Fock-space. Emphasis is put on dealing accurately with the many-body
+aspects of gauge field theory. Pending future renormalization group analysis
+the running coupling is derived to all orders in the bare coupling
+constant.~--- The derived effective interaction has an amazingly simple
+structure and is gauge invariant and frame independent. It is solvable on a
+small computer like a work station. The many-body amplitudes can be retrieved
+self-consistently from these solutions, by quadratures without solving another
+eigenvalue problem. The structures found allow also for developing simple
+phenomenological models consistent with non-Abelian gauge field theory.
+</abstract>

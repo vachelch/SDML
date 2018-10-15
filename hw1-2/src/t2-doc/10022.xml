@@ -1,0 +1,17 @@
+<title>
+Integration measure and extended BRST covariant quantization
+</title>
+
+<abstract>
+  We propose an extended BRST invariant Lagrangian quantization scheme of
+general gauge theories based on an explicit realization of the modified
+triplectic algebra that was announced in our previous investigation
+(hep-th/0104189). The algebra includes, besides the odd operators $V^a$
+appearing in the triplectic formalism, also the odd operators $U^a$ introduced
+within modified triplectic quantization, both of which being anti-Hamiltonian
+vector fields. We show that some even supersymplectic structure defined on the
+space of fields and antifields provides the extended BRST path integral with a
+well-defined integration measure. All the known Lagrangian quantization schemes
+based on the extended BRST symmetry are obtained by specifying the (free)
+parameters of that method.
+</abstract>

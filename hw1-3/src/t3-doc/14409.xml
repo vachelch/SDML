@@ -1,0 +1,27 @@
+<date>
+Sat, 2 Nov 2002 03:28:48 GMT
+</date>
+
+<title>
+Experimental String Field Theory
+</title>
+
+<abstract>
+  We develop efficient algorithms for level-truncation computations in open
+bosonic string field theory. We determine the classical action in the universal
+subspace to level (18,54) and apply this knowledge to numerical evaluations of
+the tachyon condensate string field. We obtain two main sets of results. First,
+we directly compute the solutions up to level L=18 by extremizing the
+level-truncated action. Second, we obtain predictions for the solutions for L >
+18 from an extrapolation to higher levels of the functional form of the tachyon
+effective action. We find that the energy of the stable vacuum overshoots -1
+(in units of the brane tension) at L=14, reaches a minimum E_min = -1.00063 at
+L ~ 28 and approaches with spectacular accuracy the predicted answer of -1 as L
+-> infinity. Our data are entirely consistent with the recent perturbative
+analysis of Taylor and strongly support the idea that level-truncation is a
+convergent approximation scheme. We also check systematically that our
+numerical solution, which obeys the Siegel gauge condition, actually satisfies
+the full gauge-invariant equations of motion. Finally we investigate the
+presence of analytic patterns in the coefficients of the tachyon string field,
+which we are able to reliably estimate in the L -> infinity limit.
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+Massive spinning particles and the geometry of null curves
+</title>
+
+<abstract>
+  We study the simplest geometrical particle model associated with null paths
+in four-dimensional Minkowski space-time. The action is given by the
+pseudo-arclength of the particle worldline. We show that the reduced classical
+phase space of this system coincides with that of a massive spinning particle
+of spin $s=\alpha^2/M$, where $M$ is the particle mass, and $\alpha$ is the
+coupling constant in front of the action. Consistency of the associated quantum
+theory requires the spin $s$ to be an integer or half integer number, thus
+implying a quantization condition on the physical mass $M$ of the particle.
+Then, standard quantization techniques show that the corresponding Hilbert
+spaces are solution spaces of the standard relativistic massive wave equations.
+Therefore this geometrical particle model provides us with an unified
+description of Dirac fermions ($s=1/2$) and massive higher spin fields.
+</abstract>

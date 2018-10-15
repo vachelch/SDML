@@ -1,0 +1,28 @@
+<date>
+Wed, 26 Jun 2002 07:20:40 GMT
+</date>
+
+<title>
+On quantum deformation of conformal symmetry: Gauge dependence via field
+  redefinitions
+</title>
+
+<abstract>
+  The effective action in gauge theories is known to depend on a choice of
+gauge fixing conditions. This dependence is such that any change of gauge
+conditions is equivalent to a field redefinition in the effective action. In
+this sense, the quantum deformation of conformal symmetry in the N = 4 super
+Yang-Mills theory, which was computed in 't Hooft gauge in hep-th/9808039 and
+hep-th/0203236, is gauge dependent. The deformation is an intrinsic property of
+the theory in that it cannot be eliminated by a local choice of gauge (although
+we sketch a field redefinition induced by a nonlocal gauge which, on the
+Coulomb branch of the theory, converts the one-loop quantum-corrected conformal
+transformations to the classical ones). We explicitly compute the deformed
+conformal symmetry in R_\xi gauge. The conformal transformation law of the
+gauge field turns out to be \xi-independent. We construct the scalar field
+redefinition which relates the 't Hooft and R_\xi gauge results. A unique
+feature of 't Hooft gauge is that it makes it possible to consistently truncate
+the one-loop conformal deformation to the terms of first order in derivatives
+of the fields such that the corresponding transformations form a field
+realization of the conformal algebra.
+</abstract>

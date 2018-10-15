@@ -1,0 +1,17 @@
+<date>
+Thu, 15 Aug 1996 16:10:51 +0200 (MET DST)
+</date>
+
+<title>
+Elliptic Genera of Symmetric Products and Second Quantized Strings
+</title>
+
+<abstract>
+  In this note we prove an identity that equates the elliptic genus partition
+function of a supersymmetric sigma model on the N-fold symmetric product
+$M^N/S_N$ of a manifold M to the partition function of a second quantized
+string theory on the space $M \times S^1$. The generating function of these
+elliptic genera is shown to be (almost) an automorphic form for O(3,2,Z). In
+the context of D-brane dynamics, this result gives a precise computation of the
+free energy of a gas of D-strings inside a higher-dimensional brane.
+</abstract>

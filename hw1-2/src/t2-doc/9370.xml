@@ -1,0 +1,21 @@
+<title>
+O(n) Spin Systems- Some General Properties: A Generalized
+  Mermin-Wagner-Coleman Theorem, Ground States, Peierls Bounds, and Dynamics
+</title>
+
+<abstract>
+  Here we examine O(n) systems with arbitrary two spin interactions (of
+unspecified range) within a general framework. We shall focus on
+translationally invariant interactions. In the this case, we determine the
+ground states of the $O(n \ge 2)$ systems. We further illustrate how one may
+establish Peierls bounds for many Ising systems with long range interactions.
+We study the effect of thermal fluctuations on the ground states and derive the
+corresponding fluctuation integrals. The study of the thermal fluctuation
+spectra will lead us to discover a very interesting odd-even $n$
+(coupling-decoupling) effect. We will prove a generalized Mermin-Wagner-Coleman
+theorem for all two dimensional systems (of arbitrary range) with analytic
+kernels in $k$ space. We will show that many three dimensional systems have
+smectic like thermodynamics. We will examine the topology of the ground state
+manifolds for both translationally invariant and spin glass systems. We
+conclude with a discussion of O(n) spin dynamics in the general case.
+</abstract>

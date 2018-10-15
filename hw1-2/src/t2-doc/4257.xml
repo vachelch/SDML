@@ -1,0 +1,13 @@
+<title>
+An Improved Heat Kernel Expansion from Worldline Path Integrals
+</title>
+
+<abstract>
+  The one--loop effective action for the case of a massive scalar loop in the
+background of both a scalar potential and an abelian or non--abelian gauge
+field is written in a one--dimensional path integral representation. From this
+the inverse mass expansion is obtained by Wick contractions using a suitable
+Green function, which allows the computation of higher order coefficients. For
+the scalar case, explicit results are presented up to order O(T**8) in the
+proper time expansion. The relation to previous work is clarified.
+</abstract>

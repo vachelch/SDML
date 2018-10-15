@@ -1,0 +1,15 @@
+<title>
+Analysis of constraints in light-cone version of SU(2) Yang-Mills
+  mechanics
+</title>
+
+<abstract>
+  We study the classical dynamics of mechanical model obtained from the
+light-cone version of SU(2) Yang-Mills field theory under the supposition of
+gauge potential dependence only on ``time'' along the light-cone direction. The
+computer algebra system Maple was used strongly to compute and separate the
+complete set of constraints. In contrast to the instant form of Yang-Mills
+mechanics the constraints here represent a mixed form of first and second-class
+constraints and reduce the number of the physical degrees of freedom up to four
+canonical one.
+</abstract>

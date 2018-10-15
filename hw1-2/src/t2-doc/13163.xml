@@ -1,0 +1,23 @@
+<title>
+Single-Particle Green Functions in Exactly Solvable Models of Bose and
+  Fermi Liquids
+</title>
+
+<abstract>
+  Based on a class of exactly solvable models of interacting bose and fermi
+liquids, we compute the single-particle propagators of these systems exactly
+for all wavelengths and energies and in any number of spatial dimensions. The
+field operators are expressed in terms of bose fields that correspond to
+displacements of the condensate in the bose case and displacements of the fermi
+sea in the fermi case.
+ Unlike some of the previous attempts, the present attempt reduces the answer
+for the spectral function in any dimension in both fermi and bose systems to
+quadratures.
+ It is shown that when only the lowest order sea-displacement terms are
+included, the random phase approximation in its many guises is recovered in the
+fermi case, and Bogoliubov's theory in the bose case. The momentum distribution
+is evaluated using two different approaches, exact diagonalisation and the
+equation of motion approach.
+ The novelty being of course, the exact computation of single-particle
+properties including short wavelength behaviour.
+</abstract>

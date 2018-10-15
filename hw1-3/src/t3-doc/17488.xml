@@ -1,0 +1,22 @@
+<date>
+Tue, 26 Nov 2002 15:11:10 GMT
+</date>
+
+<title>
+Soliton Dynamics in a 2D Lattice Model with Nonlinear Interactions
+</title>
+
+<abstract>
+  This paper is concerned with a lattice model which is suited to
+square-rectangle transformations characterized by two strain components. The
+microscopic model involves nonlinear and competing interactions, which play a
+key role in the stability of soliton solutions and emerge from interactions as
+a function of particle pairs and noncentral type or bending forces. Special
+attention is devoted to the continuum approximation of the two-dimensional
+discrete system with the view of including the leading discreteness effects at
+the continuum description. The long time evolution of the localized structures
+is governed by an asymptotic integrable equation of the Kadomtsev-Petviashvili
+I type which allows the explicit construction of moving multi-solitons on the
+lattice. Numerical simulation performed at the discrete system investigate the
+stability and dynamics of multi-soliton in the lattice space.
+</abstract>

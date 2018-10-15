@@ -1,0 +1,15 @@
+<title>
+Integrals of Motion and Quantum Groups
+</title>
+
+<abstract>
+  A homological construction of integrals of motion of the classical and
+quantum Toda field theories is given. Using this construction, we identify the
+integrals of motion with cohomology classes of certain complexes, which are
+modeled on the BGG resolutions of the associated Lie algebras and their quantum
+deformations. This way we prove that all classical integrals of motion can be
+quantized. For the Toda field theories associated to finite-dimensional Lie
+algebras, the algebra of integrals of motions is the corresponding W-algebra.
+For affine Toda field theories this algebra is a commutative subalgebra of a
+W-algebra; it consists of quantum KdV hamiltonians.
+</abstract>

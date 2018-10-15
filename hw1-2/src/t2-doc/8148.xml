@@ -1,0 +1,20 @@
+<title>
+Twisted Eguchi-Kawai Reduced Chiral Models
+</title>
+
+<abstract>
+  We study the twisted Eguchi-Kawai (TEK) reduction procedure for large-N
+unitary matrix lattice models. In particular, we consider the case of
+two-dimensional principal chiral models, and use numerical Monte Carlo (MC)
+simulations to check the conjectured equivalence of TEK reduced model and
+standard lattice model in the large-N limit. The MC results are compared with
+the large-N limit of lattice principal chiral models to verify the supposed
+equivalence. The consistency of the TEK reduction procedure is verified in the
+strong-coupling region, i.e. for $\beta<\beta_c$ where $\beta_c$ is the
+location of the large-N phase transition. On the other hand, in the
+weak-coupling regime $\beta>\beta_c$, relevant for the continuum limit, our MC
+results do not support the equivalence of the large-N limits of the lattice
+chiral model and the corresponding TEK reduction. The implications for the
+correspondence between TEK model and noncommutative field theory are also
+discussed.
+</abstract>

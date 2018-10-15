@@ -1,0 +1,16 @@
+<title>
+Parametric holomorphy? Triviality versus Duality in Sinh-Gordon
+</title>
+
+<abstract>
+  Suppose a regularised functional integral depends holomorphically on a
+parameter that receives only a finite renormalization. Can one expect the
+correlation functions to retain the analyticity in the parameter after removal
+of the cutoff(s)? We examine the issue in the Sinh-Gordon theory by computing
+the intrinsic 4-point coupling as a function of the Lagrangian coupling \beta.
+Drawing on the conjectured triviality of the model in its functional integral
+formulation for \beta^2 > 8\pi, and the weak-strong coupling duality in the
+bootstrap formulation on the other hand, we conclude that the operations:
+``Removal of the cutoff(s)'' and ``analytic continuation in \beta'' do not
+commute.
+</abstract>

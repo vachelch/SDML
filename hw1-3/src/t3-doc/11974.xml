@@ -1,0 +1,30 @@
+<date>
+Mon, 29 Jul 1996 04:44:17 -0300
+</date>
+
+<title>
+Velocity field and operator in (non relativistic) quantum mechanics
+</title>
+
+<abstract>
+  Starting from the formal expressions of the hydrodynamical (or ``local'')
+quantities employed in the applications of Clifford Algebras to quantum
+mechanics, we introduce --in terms of the ordinary tensorial framework-- a new
+definition for the field of a generic quantity. By translating from Clifford
+into tensor algebra, we also propose a new (non-relativistic) velocity operator
+for a spin 1/2 particle. This operator is the sum of the ordinary part p/m
+describing the mean motion (the motion of the center-of-mass), and of a second
+part associated with the so-called zitterbewegung, which is the spin
+``internal'' motion observed in the center-of-mass frame. This spin component
+of the velocity operator is non-zero not only in the Pauli theoretical
+framework, i.e. in presence of external magnetic fields and spin precession,
+but also in the Schroedinger case, when the wave-function is a spin eigenstate.
+In the latter case, one gets a decomposition of the velocity field for the
+Madelung fluid into two distinct parts: which constitutes the non-relativistic
+analogue of the Gordon decomposition for the Dirac current. We find furthermore
+that the zitterbewegung motion involves a velocity field which is solenoidal,
+and that the local angular velocity is parallel to the spin vector. In presence
+of a non-constant spin vector (Pauli case) we have, besides the component
+normal to spin present even in the Schroedinger theory, also a component of the
+local velocity which is parallel to the rotor of the spin vector.
+</abstract>

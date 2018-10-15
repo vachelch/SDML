@@ -1,0 +1,19 @@
+<title>
+Building string field theory around non-conformal backgrounds
+</title>
+
+<abstract>
+  The main limitations of string field theory arise because its present
+formulation requires a background representing a classical solution, a
+background defined by a strictly conformally invariant theory. Here we sketch a
+construction for a gauge-invariant string field action around non-conformal
+backgrounds. The construction makes no reference to any conformal theory. Its
+two-dimensional field-theoretic aspect is based on a generalized BRST operator
+satisfying a set of Weyl descent equations. Its geometric aspect uses a complex
+of moduli spaces of two-dimensional Riemannian manifolds having ordinary
+punctures, and organized by the number of special punctures which goes from
+zero to infinity. In this complex there is a Batalin-Vilkovisky algebra that
+includes naturally the operator which adds one special puncture. We obtain a
+classical field equation that appears to relax the condition of conformal
+invariance usually taken to define classical string backgrounds.
+</abstract>

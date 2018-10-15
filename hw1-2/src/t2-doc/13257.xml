@@ -1,0 +1,22 @@
+<title>
+Supersymmetric Yang-Mills Theory in Eleven Dimensions
+</title>
+
+<abstract>
+  We present a Lorentz invariant lagrangian formulation for a supersymmetric
+Yang-Mills vector multiplet in eleven dimensions (11D). The Lorentz symmetry is
+broken at the field equation level, and therefore the breaking is spontaneous,
+as in other formulations of supersymmetric theories in 12D or higher
+dimensions. We introduce a space-like unit vector formed by the gradient of a
+scalar field, avoiding the problem of Lorentz non-invariance at the lagrangian
+level, which is also an analog of non-commutative geometry with constant field
+strengths breaking Lorentz covariance. The constancy of the space-like unit
+vector field is implied by the field equation of a multiplier field. The field
+equations for the physical fields are formally the same as those of 10D
+supersymmetric Yang-Mills multiplet, but now with some constraints on these
+fields for supersymmetric consistency. This formulation also utilizes the
+multiplier fields accompanied by the bilinear forms of constraints, such that
+these multiplier fields will not interfere with the physical field equations.
+Based on this component result, we also present a $\k$-symmetric supermembrane
+action with the supersymmetric Yang-Mills backgrounds.
+</abstract>

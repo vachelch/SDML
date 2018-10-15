@@ -1,0 +1,21 @@
+<date>
+Tue, 9 May 2000 13:56:00 GMT
+</date>
+
+<title>
+Distribution of instanton sizes in a simplified instanton gas model
+</title>
+
+<abstract>
+  We investigate the distribution of instanton sizes in the framework of a
+simplified model for ensembles of instantons. This model takes into account the
+non-diluteness of instantons. The infrared problem for the integration over
+instanton sizes is dealt with in a self-consistent manner by approximating
+instanton interactions by a repulsive hard core potential. This leads to a
+dynamical suppression of large instantons. The characteristic features of the
+instanton size distribution are studied by means of analytic and Monte Carlo
+methods. In one dimension exact results can be derived. In any dimension we
+find a power law behaviour for small sizes, consistent with the semi-classical
+results. At large instanton sizes the distribution decays exponentially. The
+results are compared with those from lattice simulations.
+</abstract>

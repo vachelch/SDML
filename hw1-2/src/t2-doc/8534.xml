@@ -1,0 +1,18 @@
+<title>
+Reshetikhin's Formula for the Jones Polynomial of a Link: Feynman
+  diagrams and Milnor's Linking Numbers
+</title>
+
+<abstract>
+  We use Feynman diagrams to prove a formula for the Jones polynomial of a link
+derived recently by N.~Reshetikhin. This formula presents the colored Jones
+polynomial as an integral over the coadjoint orbits corresponding to the
+representations assigned to the link components. The large $k$ limit of the
+integral can be calculated with the help of the stationary phase approximation.
+The Feynman rules allow us to express the phase in terms of integrals over the
+manifold and the link components. Its stationary points correspond to flat
+connections in the link complement. We conjecture a relation between the
+dominant part of the phase and Milnor's linking numbers. We check it explicitly
+for the triple and quartic numbers by comparing their expression through the
+Massey product with Feynman diagram integrals.
+</abstract>

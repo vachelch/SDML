@@ -1,0 +1,15 @@
+<title>
+High and low temperature behavior of a quantum group fermion gas
+</title>
+
+<abstract>
+  We consider the simplest $SU_{q}(2)$ invariant fermionic hamiltonian and
+calculate the low and high temperature behavior for the two distinct cases
+$q>1$ and $q<1$. For low temperatures we find that entropy values for the Fermi
+case are an upper bound for those corresponding to $q\neq 1$. At high
+temperatures we find that the sign of the second virial coefficient depends on
+$q$, and vanishes at $q=1.96$.
+  An important consequence of this fact is that the parameter $q$ connects the
+fermionic and bosonic regions, showing therefore that $SU_{q}(2)$ fermions
+exhibit fractional statistics in three spatial dimensions.
+</abstract>

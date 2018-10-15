@@ -1,0 +1,14 @@
+<date>
+Wed, 24 Jan 96 18:26:21 +0000
+</date>
+
+<title>
+Average Entropy of a Subsystem
+</title>
+
+<abstract>
+  It was recently conjectured by D. Page that if a quantum system of Hilbert
+space dimension $nm$ is in a random pure state then the average entropy of a
+subsystem of dimension $m$ where $m \leq n$ is $ S_{mn} =
+\sum^{mn}_{k=n+1}(1/k) - (m-1)/2n$. In this letter this conjecture is proved.
+</abstract>

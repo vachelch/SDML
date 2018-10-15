@@ -1,0 +1,24 @@
+<title>
+d\leq1\bigcup d\geq25$ and Constrained KP Hierarchy from BRST Invariance
+  in the $c\neq3$ Topological Algebra
+</title>
+
+<abstract>
+  The BRST invariance condition in a highest-weight representation of the
+topological ($\equiv$ twisted $N=2$) algebra captures the `invariant' content
+of two-dimensional gravity coupled to matter. The standard DDK formulation is
+recovered by splitting the topological generators into $c=-26$
+reparametrization ghosts+matter +`Liouville', while a similar splitting
+involving $c=-2$ ghosts gives rise to the matter dressed in exactly the way
+required in order that the theory be equivalent to Virasoro constraints on the
+KP hierarchy. The two dressings of matter with the `Liouville' differ also by
+their `ghost numbers', which is similar to the existence of representatives of
+BRST cohomologies with different ghost numbers. The topological central charge
+$\ctop\neq3$ provides a two-fold covering of the allowed region $d\leq1\cup
+d\geq25$ of the matter central charge $d$ via $d=(\ctop+1)(\ctop+6)/(\ctop-3)$.
+The `Liouville' field is identified as the ghost-free part of the topological
+$U(1)$ current. The construction thus allows one to establish a direct relation
+(presumably an equivalence) between the Virasoro-constrained KP hierarchies,
+minimal models, and the BRST invariance condition for highest-weight states of
+the topological algebra.
+</abstract>

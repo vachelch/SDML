@@ -1,0 +1,22 @@
+<title>
+Extrinsic Hermitian Geometry of Functional Determinants for Vector
+  Subbundles and the Drinfeld--Sokolov Ghost System
+</title>
+
+<abstract>
+  In this paper, a novel method is presented for the study of the dependence of
+the functional determinant of the Laplace operator associated to a subbundle
+$F$ of a hermitian holomorphic vector bundle $E$ over a Riemann surface
+$\Sigma$ on the hermitian structure $(h,H)$ of $E$. The generalized Weyl
+anomaly of the effective action is computed and found to be expressible in
+terms of a suitable generalization of the Liouville and Donaldson actions. The
+general techniques worked out are then applied to the study of a specific
+model, the Drinfeld--Sokolov (DS) ghost system arising in $W$--gravity. The
+expression of generalized Weyl anomaly of the DS ghost effective action is
+found. It is shown that, by a specific choice of the fiber metric $H_h$
+depending on the base metric $h$, the effective action reduces into that of a
+conformal field theory. Its central charge is computed and found to agree with
+that obtained by the methods of hamiltonian reduction and conformal field
+theory. The DS holomorphic gauge group and the DS moduli space are defined and
+their dimensions are computed.
+</abstract>

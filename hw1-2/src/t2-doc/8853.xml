@@ -1,0 +1,16 @@
+<title>
+Multidimensional Gravity with Einstein Internal Spaces
+</title>
+
+<abstract>
+  A multidimensional gravitational model on the manifold $M = M_0 \times
+\prod_{i=1}^{n} M_i$, where M_i are Einstein spaces ($i \geq 1$), is studied.
+For $N_0 = dim M_0 > 2$ the $\sigma$ model representation is considered and it
+is shown that the corresponding Euclidean Toda-like system does not satisfy the
+Adler-van-Moerbeke criterion. For $M_0 = R^{N_0}$, $N_0 = 3, 4, 6$ (and the
+total dimension $D = dim M = 11, 10, 11$, respectively) nonsingular spherically
+symmetric solutions to vacuum Einstein equations are obtained and their
+generalizations to arbitrary signatures are considered. It is proved that for a
+non-Euclidean signature the Riemann tensor squared of the solutions diverges on
+certain hypersurfaces in $R^{N_0}$.
+</abstract>

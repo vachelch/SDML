@@ -1,0 +1,21 @@
+<date>
+Fri, 24 Mar 2000 18:00:19 GMT
+</date>
+
+<title>
+Spontaneous Breakdown of Lorentz Invariance in IIB Matrix Model
+</title>
+
+<abstract>
+  We study the IIB matrix model, which is conjectured to be a nonperturbative
+definition of superstring theory, by introducing an integer deformation
+parameter `nu' which couples to the imaginary part of the effective action
+induced by fermions. The deformed IIB matrix model continues to be well-defined
+for arbitrary `nu', and it preserves gauge invariance, Lorentz invariance, and
+the cluster property. We study the model at `nu' = infinity using a
+saddle-point analysis, and show that ten-dimensional Lorentz invariance is
+spontaneously broken at least down to an eight-dimensional one. We argue that
+it is likely that the remaining eight-dimensional Lorentz invariance is further
+broken, which can be checked by integrating over the saddle-point
+configurations using standard Monte Carlo simulation.
+</abstract>

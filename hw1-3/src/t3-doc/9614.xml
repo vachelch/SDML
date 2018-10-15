@@ -1,0 +1,28 @@
+<date>
+Sat, 2 Dec 2000 05:33:14 GMT
+</date>
+
+<title>
+Dynamics of Effective Gluons
+</title>
+
+<abstract>
+  Renormalized Hamiltonians for gluons are constructed using a perturbative
+boost-invariant renormalization group procedure for effective particles in
+light-front QCD, including terms up to third order. The effective gluons and
+their Hamiltonians depend on the renormalization group parameter lambda, which
+defines the width of momentum space form factors that appear in the
+renormalized Hamiltonian vertices. Third-order corrections to the three-gluon
+vertex exhibit asymptotic freedom, but the rate of change of the vertex with
+lambda depends in a finite way on regularization of small-x singularities. This
+dependence is shown in some examples, and a class of regularizations with two
+distinct scales in x is found to lead to the Hamiltonian running coupling
+constant whose dependence on lambda matches the known perturbative result from
+Lagrangian calculus for the dependence of gluon three-point Green's function on
+the running momentum scale at large scales. In the Fock space basis of
+effective gluons with small lambda, the vertex form factors suppress
+interactions with large kinetic energy changes and thus remove direct couplings
+of low energy constituents to high energy components in the effective bound
+state dynamics. This structure is reminiscent of parton and constituent models
+of hadrons.
+</abstract>

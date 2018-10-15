@@ -1,0 +1,18 @@
+<date>
+Sun, 2 Mar 1997 13:33:51 -0500
+</date>
+
+<title>
+On Pairs of Difference Operators Satisfying: [P,Q] = Id
+</title>
+
+<abstract>
+  Different finite difference replacements for the derivative are analyzed in
+the context of the Heisenberg commutation relation. The type of the finite
+difference operator is shown to be tied to whether one can naturally consider
+$P$ and $X$ to be self-adjoint and skew self-adjoint or whether they have to be
+viewed as creation and annihilation operators. The first class, generalizing
+the central difference scheme, is shown to give unitary equivalent
+representations. For the second case we construct a large class of examples,
+generalizing previously known difference operator realizations of $[P,X]=Id$.
+</abstract>

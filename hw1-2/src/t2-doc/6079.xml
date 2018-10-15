@@ -1,0 +1,16 @@
+<title>
+The SU(2) Non-Linear Sigma-Model in 2+1 Dimensions: Perturbation Theory
+  in a Polynomial Formulation
+</title>
+
+<abstract>
+  We construct a perturbation theory for the SU(2) non-linear Sigma-model in
+2+1 dimensions using a polynomial, first-order formulation, where the variables
+are a non-Abelian vector field L_mu (the left SU(2) current), and a non-Abelian
+pseudovector field $\theta_{\mu}$, which imposes the condition F_{mu nu}(L) =
+0. The coordinates on the group do not appear in the Feynman rules, but their
+scattering amplitudes are easily related to those of the currents. We show that
+all the infinities affecting physical amplitudes at one-loop order can be cured
+by normal ordering, presenting the calculation of the full propagator as an
+example of an application.
+</abstract>

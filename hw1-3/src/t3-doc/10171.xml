@@ -1,0 +1,29 @@
+<date>
+Thu, 22 Sep 1994 15:54:48 -0600 (MDT)
+</date>
+
+<title>
+Theory of Neutral Particles: Mclennan-Case Construct for Neutrino, Its
+  Generalization, and a New Wave Equation
+</title>
+
+<abstract>
+  Continuing our recent argument where we constructed a FNBWW-type spin-$1$
+boson having opposite relative intrinsic parity to that of the associated
+antiparticle, we now study eigenstates of the Charge Conjugation operator.
+Based on the observation that if $\phi_{_{L}}(p^\mu)$ transforms as a $(0,\,j)$
+spinor under Lorentz boosts, then $\Theta_{[j]}\,\phi_{_{L}}^\ast(p^\mu)$
+transforms as a $(j,\,0)$ spinor (with a similar relationship existing between
+$\phi_{_{R}}(p^\mu)$ and $\Theta_{[j]}\,\phi_{_{R}}^\ast(p^\mu)$; where $
+\Theta_{[j]}\,{\bf J}\,\Theta_{[j]}^{-1}\,=\,-\,{\bf J}^\ast $ with
+$\Theta_{[j]}$ the well known Wigner matrix involved in the operation of time
+reversal) we introduce McLennan-Case type $(j,\,0)\oplus(0,\,j)$ spinors.
+Relative phases between $\phi_{_{R}}(p^\mu)$ and
+$\Theta_{[j]}\,\phi_{_{R}}^\ast(p^\mu)$, and
+$\Theta_{[j]}\,\phi_{_{L}}^\ast(p^\mu)$ and $\phi_{_{L}}(p^\mu)$, turn out to
+have physical significance and are fixed by appropriate requirements. Explicit
+construction, and a series of physically relevant properties, for these spinors
+are obtained for spin-$1/2$ and spin-$1$ culminating in the construction of a
+new wave equation and introduction of Dirac-like and Majorana-like quantum
+fields.
+</abstract>

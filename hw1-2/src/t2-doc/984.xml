@@ -1,0 +1,16 @@
+<title>
+QED(1+1) at Finite Temperature -- a Study with Light-Cone Quantisation
+</title>
+
+<abstract>
+  We explore quantum electrodynamics in (1+1) dimensions at finite temperature
+using the method of Discretized Light-Cone Quantisation. The partition
+function, energy and specific heat are computed in the canonical ensemble using
+the spectrum of invariant masses computed with a standard DLCQ numerical
+routine. In particular, the specific heat exhibits a peak which grows as the
+continuum limit is numerically approached. A critical exponent is tentatively
+extracted. The surprising result is that the density of states contains
+significant finite size artifacts even for a relatively high harmonic
+resolution. These and the other outstanding problems in the present calculation
+are discussed.
+</abstract>

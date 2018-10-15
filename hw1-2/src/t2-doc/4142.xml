@@ -1,0 +1,15 @@
+<title>
+BRST operator quantization of generally covariant gauge systems
+</title>
+
+<abstract>
+  The BRST generator is realized as a Hermitian nilpotent operator for a
+finite-dimensional gauge system featuring a quadratic super-Hamiltonian and
+linear supermomentum constraints. As a result, the emerging ordering for the
+Hamiltonian constraint is not trivial, because the potential must enter the
+kinetic term in order to obtain a quantization invariant under scaling. Namely,
+BRST quantization does not lead to the curvature term used in the literature as
+a means to get that invariance. The inclusion of the potential in the kinetic
+term, far from being unnatural, is beautifully justified in light of the
+Jacobi's principle.
+</abstract>

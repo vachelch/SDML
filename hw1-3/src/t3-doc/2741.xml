@@ -1,0 +1,24 @@
+<date>
+Tue, 29 Sep 1998 00:47:34 GMT
+</date>
+
+<title>
+Renormalization Group Improving the Effective Action
+</title>
+
+<abstract>
+  The existence of fluctuations together with interactions leads to
+scale-dependence in the couplings of quantum field theories for the case of
+quantum fluctuations, and in the couplings of stochastic systems when the
+fluctuations are of thermal or statistical nature. In both cases the effects of
+these fluctuations can be accounted for by solutions of the corresponding
+renormalization group equations. We show how the renormalization group
+equations are intimately connected with the effective action: given the
+effective action we can extract the renormalization group equations; given the
+renormalization group equations the effects of these fluctuations can be
+included in the classical action by using what is known as improved
+perturbation theory (wherein the bare parameters appearing in tree-level
+expressions are replaced by their scale-dependent running forms). The improved
+action can then be used to reconstruct the effective action, up to finite
+renormalizations, and gradient terms.
+</abstract>

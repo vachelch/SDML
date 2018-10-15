@@ -1,0 +1,26 @@
+<title>
+Prescriptionless light-cone integrals
+</title>
+
+<abstract>
+  Perturbative quantum gauge field theory seen within the perspective of
+physical gauge choices such as the light-cone entails the emergence of
+troublesome poles of the type $(k\cdot n)^{-\alpha}$ in the Feynman integrals,
+and these come from the boson field propagator, where $\alpha = 1,2,...$ and
+$n^{\mu}$ is the external arbitrary four-vector that defines the gauge proper.
+This becomes an additional hurdle to overcome in the computation of Feynman
+diagrams, since any graph containing internal boson lines will inevitably
+produce integrands with denominators bearing the characteristic gauge-fixing
+factor. How one deals with them has been the subject of research for over
+decades, and several prescriptions have been suggested and tried in the course
+of time, with failures and successes.
+  However, a more recent development in this front which applies the negative
+dimensional technique to compute light-cone Feynman integrals shows that we can
+altogether dispense with prescriptions to perform the calculations. An
+additional bonus comes attached to this new technique in that not only it
+renders the light-cone prescriptionless, but by the very nature of it, can also
+dispense with decomposition formulas or partial fractioning tricks used in the
+standard approach to separate pole products of the type $(k\cdot
+n)^{-\alpha}[(k-p)\cdot n]^{-\beta}$, $(\beta = 1,2,...)$.
+  In this work we demonstrate how all this can be done.
+</abstract>

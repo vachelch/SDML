@@ -1,0 +1,22 @@
+<date>
+Fri, 27 Sep 96 18:36:05 MESZ
+</date>
+
+<title>
+Variational Master Field for Large-N Interacting Matrix Models - Free
+  Random Variables on Trial
+</title>
+
+<abstract>
+  Matrices are said to behave as free non-commuting random variables if the
+action which governs their dynamics constrains only their eigenvalues, i.e.
+depends on traces of powers of individual matrices. The authors use recently
+developed mathematical techniques in combination with a standard variational
+principle to formulate a new variational approach for matrix models.
+Approximate variational solutions of interacting large-N matrix models are
+found using the free random matrices as the variational space. Several classes
+of classical and quantum mechanical matrix models with different types of
+interactions are considered and the variational solutions compared with exact
+Monte Carlo and analytical results. Impressive agreement is found in a majority
+of cases.
+</abstract>

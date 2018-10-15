@@ -1,0 +1,23 @@
+<date>
+Mon, 5 Feb 1996 14:10:15 +0300
+</date>
+
+<title>
+Heat Kernel Expansion for Operators of the Type of the Square Root of
+  the Laplace Operator
+</title>
+
+<abstract>
+  A method is suggested for the calculation of the DeWitt-Seeley-Gilkey (DWSG)
+coefficients for the operator $\sqrt{-\nabla^2 + V(x)}$ basing on a
+generalization of the pseudodifferential operator technique. The lowest DWSG
+coefficients for the operator $\sqrt{-\nabla^2} + V(x)$ are calculated by using
+the method proposed. It is shown that the method admits a generalization to the
+case of operators of the type $(-\nabla^2 + V(X))^{1/{\rm m}}$, where m is an
+arbitrary rational number. A more simple method is proposed for the calculation
+of the DWSG coefficients for the case of strictly positive operators under the
+sign of root. By using this method, it is shown that the problem of the
+calculation of the DWSG coefficients for such operators is exactly solvable.
+Namely, an explicit formula expressing the DWSG coefficients for operators with
+root through the DWSG coefficients for operators without root is deduced.
+</abstract>

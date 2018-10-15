@@ -1,0 +1,26 @@
+<title>
+String Corrections to the Holographic RG Flow of Supersymmetric SU(N) x
+  SU(N+M) Gauge Theory
+</title>
+
+<abstract>
+  We study leading string corrections to the type IIB supergravity solution
+dual to the ${\cal N}=1$ supersymmetric $SU(N+M)\times SU(N)$ gauge theory
+coupled to bifundamental chiral superfields $A_i, B_j$, $i,j=1,2$. This
+solution was found in hep-th/0007191, and its asymptotic form describing
+logarithmic RG flow was constructed in hep-th/0002159. The leading tree-level
+string correction to the type IIB string effective action is represented by the
+invariant of the form $\a'{}^3 (R^4 + ...)$. Since the background contains
+3-form field strengths, we need to know parts of this invariant that depend on
+them. By analyzing the 5-point superstring scattering amplitudes we show that
+only a few specific $R^3 (H_3)^2$ and $R^3 (F_3)^2$ terms are present in the
+effective action.
+  Their contribution to the holographic RG flow turns out to be of the same
+order as of the $R^4$ terms. Using this fact we show that it is possible to
+have agreement between the $\alpha'$-corrected radial dependence of the
+supergravity fields and the RG flow dictated by the NSVZ beta functions in
+field theory. The agreement with field theory requires that the anomalous
+dimension of the operators $\Tr (A_i B_j)$ is corrected by a term of order
+$(M/N)^4 \lambda^{-1/2}$ from its value $-{1 \over 2} $ found for M=0
+($\lambda$ is the appropriate 't Hooft coupling which is assumed to be strong).
+</abstract>

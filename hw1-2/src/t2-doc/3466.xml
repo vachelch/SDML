@@ -1,0 +1,18 @@
+<title>
+Nonperturbative Formulas for Central Functions of Supersymmetric Gauge
+  Theories
+</title>
+
+<abstract>
+  For quantum field theories that flow between ultraviolet and infrared fixed
+points, central functions, defined from two-point correlators of the stress
+tensor and conserved currents, interpolate between central charges of the UV
+and IR critical theories. We develop techniques that allow one to calculate the
+flows of the central charges and that of the Euler trace anomaly coefficient in
+a general N=1 supersymmetric gauge theory. Exact, explicit formulas for
+$SU(N_c)$ gauge theories in the conformal window are given and analysed. The
+Euler anomaly coefficient always satisfies the inequality $% a_{UV}-a_{IR}>0$.
+This is new evidence in strongly coupled theories that this quantity satisfies
+a four-dimensional analogue of the $c$-theorem, supporting the idea of
+irreversibility of the RG flow. Various other implications are discussed.
+</abstract>

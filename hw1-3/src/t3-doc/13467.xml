@@ -1,0 +1,22 @@
+<date>
+Mon, 25 Jun 2001 15:44:46 GMT
+</date>
+
+<title>
+Large Mass Invariant Asymptotics of the Effective Action
+</title>
+
+<abstract>
+  We study the large mass asymptotics of the Dirac operator with a
+nondegenerate mass matrix m={diag}(m_1,m_2,m_3) in the presence of scalar and
+pseudoscalar background fields taking values in the Lie algebra of the U(3)
+group. The corresponding one-loop effective action is regularized by the
+Schwinger's proper-time technique. Using a well-known operator identity, we
+obtain a series representation for the heat kernel which differs from the
+standard proper-time expansion, if m_1\ne m_2\ne m_3. After integrating over
+the proper-time we use a new algorithm to resum the series. The invariant
+coefficients which define the asymptotics of the effective action are
+calculated up to the fourth order and compared with the related Seeley-DeWitt
+coefficients for the particular case of a degenerate mass matrix with
+m_1=m_2=m_3.
+</abstract>

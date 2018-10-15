@@ -1,0 +1,32 @@
+<date>
+Fri, 27 Sep 2002 08:35:32 GMT
+</date>
+
+<title>
+A New Noncommutative Product on the Fuzzy Two-Sphere Corresponding to
+  the Unitary Representation of SU(2) and the Seiberg-Witten Map
+</title>
+
+<abstract>
+  We obtain a new explicit expression for the noncommutative (star) product on
+the fuzzy two-sphere which yields a unitary representation. This is done by
+constructing a star product, $\star_{\lambda}$, for an arbitrary representation
+of SU(2) which depends on a continuous parameter $\lambda$ and searching for
+the values of $\lambda$ which give unitary representations. We will find two
+series of values: $\lambda = \lambda^{(A)}_j=1/(2j)$ and
+$\lambda=\lambda^{(B)}_j =-1/(2j+2)$, where j is the spin of the representation
+of SU(2). At $\lambda = \lambda^{(A)}_j$ the new star product $\star_{\lambda}$
+has poles. To avoid the singularity the functions on the sphere must be
+spherical harmonics of order $\ell \leq 2j$ and then $\star_{\lambda}$ reduces
+to the star product $\star$ obtained by Preusnajder. The star product at
+$\lambda=\lambda^{(B)}_j$, to be denoted by $\bullet$, is new. In this case the
+functions on the fuzzy sphere do not need to be spherical harmonics of order
+$\ell \leq 2j$. Because in this case there is no cutoff on the order of
+spherical harmonics, the degrees of freedom of the gauge fields on the fuzzy
+sphere coincide with those on the commutative sphere. Therefore, although the
+field theory on the fuzzy sphere is a system with finite degrees of freedom, we
+can expect the existence of the Seiberg-Witten map between the noncommutative
+and commutative descriptions of the gauge theory on the sphere. We will derive
+the first few terms of the Seiberg-Witten map for the U(1) gauge theory on the
+fuzzy sphere by using power expansion around the commutative point $\lambda=0$.
+</abstract>

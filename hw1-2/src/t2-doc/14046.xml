@@ -1,0 +1,18 @@
+<title>
+$(l,q)$-Deformed Grassmann Field and the Two-dimensional Ising Model
+</title>
+
+<abstract>
+  In this paper we construct the exact representation of the Ising partition
+function in the form of the $ SL_q(2,R)$-invariant functional integral for the
+lattice free $(l,q)$-fermion field theory ($l=q=-1$). It is shown that the
+$(l,q)$-fermionization allows one to re-express the partition function of the
+eight-vertex model in external field through functional integral with
+four-fermion interaction. To construct these representations, we define a
+lattice $(l,q,s)$-deformed Grassmann bispinor field and extend the Berezin
+integration rules to this field. At $l=q=-1, s=1$ we obtain the lattice
+$(l,q)$-fermion field which allows us to fermionize the two-dimensional Ising
+model. We show that the Gaussian integral over $(q,s)$-Grassmann variables is
+expressed through the $(q,s)$-deformed Pfaffian which is equal to square root
+of the determinant of some matrix at $q=\pm 1, s=\pm 1$.
+</abstract>

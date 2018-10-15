@@ -1,0 +1,25 @@
+<title>
+Boost-Invariant Running Couplings in Effective Hamiltonians
+</title>
+
+<abstract>
+  We apply a boost-invariant similarity renormalization group procedure to a
+light-front Hamiltonian of a scalar field phi of bare mass mu and interaction
+term g phi^3 in 6 dimensions using 3rd order perturbative expansion in powers
+of the coupling constant g. The initial Hamiltonian is regulated using momentum
+dependent factors that approach 1 when a cutoff parameter Delta tends to
+infinity. The similarity flow of corresponding effective Hamiltonians is
+integrated analytically and two counterterms depending on Delta are obtained in
+the initial Hamiltonian: a change in mu and a change of g. In addition, the
+interaction vertex requires a Delta-independent counterterm that contains a
+boost invariant function of momenta of particles participating in the
+interaction. The resulting effective Hamiltonians contain a running coupling
+constant that exhibits asymptotic freedom. The evolution of the coupling with
+changing width of effective Hamiltonians agrees with results obtained using
+Feynman diagrams and dimensional regularization when one identifies the
+renormalization scale with the width. The effective light-front Schroedinger
+equation is equally valid in a whole class of moving frames of reference
+including the infinite momentum frame. Therefore, the calculation described
+here provides an interesting pattern one can attempt to follow in the case of
+Hamiltonians applicable in particle physics.
+</abstract>

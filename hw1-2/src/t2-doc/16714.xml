@@ -1,0 +1,19 @@
+<title>
+Effective Field Theories in the Large $N$ Limit
+</title>
+
+<abstract>
+  Various effective field theories in four dimensions are shown to have exact
+non-trivial solutions in the limit as the number $N$ of fields of some type
+becomes large. These include extended versions of the U(N) Gross-Neveu model,
+the non-linear O(N) $\sigma$-model, and the $CP^{N-1}$ model. Although these
+models are not renormalizable in the usual sense, the infinite number of
+coupling types allows a complete cancellation of infinities. These models
+provide qualitative predictions of the form of scattering amplitudes for
+arbitrary momenta, but because of the infinite number of free parameters, it is
+possible to derive quantitative predictions only in the limit of small momenta.
+For small momenta the large-$N$ limit provides only a modest simplification,
+removing at most a finite number of diagrams to each order in momenta, except
+near phase transitions, where it reduces the infinite number of diagrams that
+contribute for low momenta to a finite number.
+</abstract>

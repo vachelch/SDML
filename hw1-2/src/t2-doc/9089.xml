@@ -1,0 +1,16 @@
+<title>
+Born--Oppenheimer corrections to the effective zero-mode Hamiltonian in
+  SYM theory
+</title>
+
+<abstract>
+  We calculate the subleading terms in the Born--Oppenheimer expansion for the
+effective zero-mode Hamiltonian of N = 1, d=4 supersymmetric Yang--Mills theory
+with any gauge group. The Hamiltonian depends on 3r abelian gauge potentials
+A_i, lying in the Cartan subalgebra, and their superpartners (r being the rank
+of the group). The Hamiltonian belongs to the class of N = 2 supersymmetric QM
+Hamiltonia constructed earlier by Ivanov and I. Its bosonic part describes the
+motion over the 3r--dimensional manifold with a special metric. The corrections
+explode when the root forms \alpha_j(A_i) vanish and the Born--Oppenheimer
+approximation breaks down.
+</abstract>

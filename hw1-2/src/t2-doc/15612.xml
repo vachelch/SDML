@@ -1,0 +1,18 @@
+<title>
+Casimir Surface Force on a Dilute Dielectric Ball
+</title>
+
+<abstract>
+  The Casimir surface force density F on a dielectric dilute spherical ball of
+radius a, surrounded by a vacuum, is calculated at zero temperature. We treat
+(n-1) (n being the refractive index) as a small parameter. The dispersive
+properties of the material are taken into account by adopting a simple
+dispersion relation, involving a sharp high frequency cutoff at omega =
+omega_0. For a nondispersive medium there appears (after regularization) a
+finite, physical, force F^{nondisp} which is repulsive. By means of a uniform
+asymptotic expansion of the Riccati-Bessel functions we calculate F^{nondisp}
+up to the fourth order in 1/nu. For a dispersive medium the main part of the
+force F^{disp} is also repulsive. The dominant term in F^{disp} is proportional
+to (n-1)^2{omega_0}^3/a, and will under usual physical conditions outweigh
+F^{nondisp} by several orders of magnitude.
+</abstract>

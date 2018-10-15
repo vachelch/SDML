@@ -1,0 +1,15 @@
+<title>
+A modified c=1 matrix model with new critical behavior
+</title>
+
+<abstract>
+  By introducing a $\int dt \, g\left(\Tr \Phi^2(t)\right)^2$ term into the
+action of the $c=1$ matrix model of two-dimensional quantum gravity, we find a
+new critical behavior for random surfaces. The planar limit of the path
+integral generates multiple spherical ``bubbles'' which touch one another at
+single points. At a special value of $g$, the sum over connected surfaces
+behaves as $\Delta^2 \log\Delta$, where $\Delta$ is the cosmological constant
+(the sum over surfaces of area $A$ goes as $A^{-3}$). For comparison, in the
+conventional $c=1$ model the sum over planar surfaces behaves as $\Delta^2/
+\log\Delta$.
+</abstract>

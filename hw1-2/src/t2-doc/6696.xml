@@ -1,0 +1,20 @@
+<title>
+The Ostrogradsky Method for Local Symmetries. Constrained Theories with
+  Higher Derivatives
+</title>
+
+<abstract>
+  In the generalized Hamiltonian formalism by Dirac, the method of constructing
+the generator of local-symmetry transformations for systems with first- and
+second-class constraints (without restrictions on the algebra of constraints)
+is obtained from the requirement for them to map the solutions of the
+Hamiltonian equations of motion into the solutions of the same equations. It is
+proved that second-class constraints do not contribute to the transformation
+law of the local symmetry entirely stipulated by all the first-class
+constraints (and only by them). A mechanism of occurrence of higher derivatives
+of coordinates and group parameters in the symmetry transformation law in the
+Noether second theorem is elucidated. It is shown that the obtained
+transformations of symmetry are canonical in the extended (by Ostrogradsky)
+phase space. An application of the method in theories with higher derivatives
+is demonstrated with an example of the spinor Christ -- Lee model.
+</abstract>

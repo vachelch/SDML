@@ -1,0 +1,18 @@
+<title>
+Lagrangian Noether symmetries as canonical transformations
+</title>
+
+<abstract>
+  We prove that, given a time-independent Lagrangian defined in the first
+tangent bundle of configuration space, every infinitesimal Noether symmetry
+that is defined in the $n$-tangent bundle and is not vanishing on-shell, can be
+written as a canonical symmetry in an enlarged phase space, up to constraints
+that vanish on-shell. The proof is performed by the implementation of a change
+of variables from the the $n$-tangent bundle of the Lagrangian theory to an
+extension of the Hamiltonian formalism which is particularly suited for the
+case when the Lagrangian is singular. This result proves the assertion that any
+Noether symmetry can be canonically realized in an enlarged phase space. Then
+we work out the regular case as a particular application of this ideas and
+rederive the Noether identities in this framework. Finally we present an
+example to illustrate our results.
+</abstract>

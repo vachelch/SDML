@@ -1,0 +1,22 @@
+<title>
+Mirror Symmetry and the Moduli Space for Generic Hypersurfaces in Toric
+  Varieties
+</title>
+
+<abstract>
+  The moduli dependence of $(2,2)$ superstring compactifications based on
+Calabi--Yau hypersurfaces in weighted projective space has so far only been
+investigated for Fermat-type polynomial constraints. These correspond to
+Landau-Ginzburg orbifolds with $c=9$ whose potential is a sum of $A$-type
+singularities. Here we consider the generalization to arbitrary
+quasi-homogeneous singularities at $c=9$. We use mirror symmetry to derive the
+dependence of the models on the complexified K\"ahler moduli and check the
+expansions of some topological correlation functions against explicit genus
+zero and genus one instanton calculations. As an important application we give
+examples of how non-algebraic (``twisted'') deformations can be mapped to
+algebraic ones, hence allowing us to study the full moduli space. We also study
+how moduli spaces can be nested in each other, thus enabling a (singular)
+transition from one theory to another. Following the recent work of Greene,
+Morrison and Strominger we show that this corresponds to black hole
+condensation in type II string theories compactified on Calabi-Yau manifolds.
+</abstract>

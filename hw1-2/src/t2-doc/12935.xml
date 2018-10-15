@@ -1,0 +1,13 @@
+<title>
+Quantum Group Schr\"{o}dinger Field Theory
+</title>
+
+<abstract>
+  We show that a quantum deformation of quantum mechanics given in a previous
+work is equivalent to quantum mechanics on a nonlinear lattice with step size
+$\Delta x=~(1-q)x$. Then, based on this, we develop the basic formalism of
+quantum group Schr\"{o}dinger field theory in one spatial quantum dimension,
+and explicitly exhibit the $SU_{q}(2)$ covariant algebras satisfied by the
+$q$-bosonic and $q$-fermionic Schr\"{o}dinger fields. We generalize this result
+to an arbitrary number of fields.
+</abstract>

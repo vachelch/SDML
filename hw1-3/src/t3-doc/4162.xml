@@ -1,0 +1,25 @@
+<date>
+Thu, 11 Nov 1999 10:46:36 GMT
+</date>
+
+<title>
+Renormalization using Domain Wall Regularization
+</title>
+
+<abstract>
+  We formulate the renormalization procedure using the domain wall
+regularization that is based on the heat-kernel method. The quantum effects of
+both fermions and bosons (gauge fields) are taken into account. The background
+field method is quite naturally introduced. With regard to the treatment of the
+loop-momentum integrals, an interesting contrast between the
+fermion-determinant part and other parts is revealed. These points are
+elucidated by considering some examples. The Weyl anomalies for 2D QED and 4D
+QED are correctly obtained. It is found that the ``chiral solution'' produces
+(1/2)$^{d/2}$ $\times$ ``correct values'', where $d$ is the spatial dimension.
+Considering the model of 2D QED, both Weyl and chiral anomalies are directly
+obtained from the effective action. The mass and wave function renormalization
+are explicitly performed in 4D QED. We confirm the multiplicative (not
+additive) renormalization, which demonstrates the advantage of no fine-tuning.
+The relation with the recently popular higher-dimensional approach, such as the
+Randall- Sundrum model, is commented on.
+</abstract>

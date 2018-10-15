@@ -1,0 +1,20 @@
+<title>
+Large scale correlations in normal and general non-Hermitian matrix
+  ensembles
+</title>
+
+<abstract>
+  We compute the large scale (macroscopic) correlations in ensembles of normal
+random matrices with an arbitrary measure and in ensembles of general
+non-Hermition matrices with a class of non-Gaussian measures. In both cases the
+eigenvalues are complex and in the large $N$ limit they occupy a domain in the
+complex plane. For the case when the support of eigenvalues is a connected
+compact domain, we compute two-, three- and four-point connected correlation
+functions in the first non-vanishing order in 1/N in a manner that the
+algorithm of computing higher correlations becomes clear. The correlation
+functions are expressed through the solution of the Dirichlet boundary problem
+in the domain complementary to the support of eigenvalues. The two-point
+correlation functions are shown to be universal in the sense that they depend
+only on the support of eigenvalues and are expressed through the Dirichlet
+Green function of its complement.
+</abstract>

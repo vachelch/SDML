@@ -1,0 +1,21 @@
+<title>
+SO(9,1) invariant matrix formulation of supermembrane
+</title>
+
+<abstract>
+  An $SO(9,1)$ invariant formulation of an 11-dimensional supermembrane is
+presented by combining an $SO(10,1)$ invariant treatment of reparametrization
+symmetry with an $SO(9,1)$ invariant $\theta_{R} = 0$ gauge of
+$\kappa$-symmetry. The Lagrangian thus defined consists of polynomials in
+dynamical variables (up to quartic terms in $X^{\mu}$ and up to the eighth
+power in $\theta$), and reparametrization BRST symmetry is manifest. The area
+preserving diffeomorphism is consistently incorporated and the area preserving
+gauge symmetry is made explicit. The $SO(9,1)$ invariant theory contains terms
+which cannot be induced by a naive dimensional reduction of higher dimensional
+supersymmetric Yang-Mills theory. The $SO(9,1)$ invariant Hamiltonian and the
+generator of area preserving diffeomorphism together with the supercharge are
+matrix regularized by applying the standard procedure. As an application of the
+present formulation, we evaluate the possible central charges in superalgebra
+both in path integral and in canonical (Dirac) formalism, and we find only the
+two-form charge $[X^\mu, X^\nu]$.
+</abstract>

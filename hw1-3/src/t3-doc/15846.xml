@@ -1,0 +1,20 @@
+<date>
+Thu, 25 Jan 2001 18:13:25 GMT
+</date>
+
+<title>
+Scalar field spacetimes and the AdS/CFT conjecture
+</title>
+
+<abstract>
+  We describe a class of asymptotically AdS scalar field spacetimes, and
+calculate the associated conserved charges for three, four and five spacetime
+dimensions using the conformal and counter-term prescriptions. The energy
+associated with the solutions in each case is proportional to $\sqrt{M^2 -
+k^2}$, where $M$ is a constant and $k$ is a scalar charge. In five spacetime
+dimensions, the counter-term prescription gives an additional vacuum (Casimir)
+energy, which agrees with that found in the context of AdS/CFT correspondence.
+We find a surprising degeneracy: the energy of the ``extremal'' scalar field
+solution $M=k$ equals the energy of pure AdS. This result is discussed in light
+of the AdS/CFT conjecture.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Wed, 25 Jul 2001 00:29:43 GMT
+</date>
+
+<title>
+The Gauge Technique in QED_{2+1}
+</title>
+
+<abstract>
+  The Gauge Technique has been applied to QED$_{2+1}$ in the quenched case with
+infrared subtraction. The behaviour of the fermion propagator near the
+threshold is then found to be \[ S(p)\to \frac{(\gamma \cdot
+p+m)}{(p^{2}-m^{2})}(\frac{p^{2}-m^{2}}{% 2m^{2}})^{\zeta}\exp (-\frac{\eta
+\varsigma}{2}), \] where $\varsigma =e^{2}/(4\pi m)$ and this is gauge
+invariant except the exponential factor. We also find a spectral function in
+the Landau and Yennie like gauge. The propagators $S(p)$ are expressed in terms
+of $\Phi (z,1,\varsigma)$ explicitly .The vacuum expectation value $<
+\overline{\psi}\psi >$ is gauge dependent . Thus dynamical mass generation does
+not occur.
+</abstract>

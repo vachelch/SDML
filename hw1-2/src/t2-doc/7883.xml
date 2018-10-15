@@ -1,0 +1,24 @@
+<title>
+Einstein billiards and overextensions of finite-dimensional simple Lie
+  algebras
+</title>
+
+<abstract>
+  In recent papers, it has been shown that (i) the dynamics of theories
+involving gravity can be described, in the vicinity of a spacelike singularity,
+as a billiard motion in a region of hyperbolic space bounded by hyperplanes;
+and (ii) that the relevant billiard has remarkable symmetry properties in the
+case of pure gravity in $d+1$ spacetime dimensions, or supergravity theories in
+10 or 11 spacetime dimensions, for which it turns out to be the fundamental
+Weyl chamber of the Kac-Moody algebras $AE_d$, $E_{10}$, $BE_{10}$ or $DE_{10}$
+(depending on the model). We analyse in this paper the billiards associated to
+other theories containing gravity, whose toroidal reduction to three dimensions
+involves coset models $G/H$ (with $G$ maximally non compact). We show that in
+each case, the billiard is the fundamental Weyl chamber of the (indefinite)
+Kac-Moody ``overextension'' (or ``canonical Lorentzian extension'') of the
+finite-dimensional Lie algebra that appears in the toroidal compactification to
+3 spacetime dimensions. A remarkable feature of the billiard properties,
+however, is that they do not depend on the spacetime dimension in which the
+theory is analyzed and hence are rather robust, while the symmetry algebra that
+emerges in the toroidal dimensional reduction is dimension-dependent.
+</abstract>

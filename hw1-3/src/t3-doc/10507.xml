@@ -1,0 +1,20 @@
+<date>
+Wed, 25 Jan 1995 16:55:59 +0100 (MET)
+</date>
+
+<title>
+Solutions of the Hamilton--Jacobi equation for one component two
+  dimensional Field Theories
+</title>
+
+<abstract>
+The Hamilton--Jacobi formalism generalized to 2--dimensional field theories
+according to Lepage's canonical framework is applied to several covariant real
+scalar fields, e.g. massless and massive Klein--Gordon, Sine--Gordon, Liouville
+and $\phi^4$ theories. For simplicity we use the Hamilton--Jacobi equation of
+DeDonder and Weyl. Unlike mechanics we have to impose certain integrability
+conditions on the velocity fields to guarantee the transversality relations
+between Hamilton--Jacobi wave fronts and the corresponding families of
+extremals embedded therein. B\"acklund Transformations play a crucial role in
+solving the resulting system of coupled nonlinear PDEs.
+</abstract>

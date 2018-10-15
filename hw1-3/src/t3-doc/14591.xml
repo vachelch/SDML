@@ -1,0 +1,18 @@
+<date>
+Mon, 20 Nov 95 14:26:03 -0500
+</date>
+
+<title>
+Quasi-Exactly Solvable Systems and Orthogonal Polynomials
+</title>
+
+<abstract>
+  This paper shows that there is a correspondence between quasi-exactly
+solvable models in quantum mechanics and sets of orthogonal polynomials $\{
+P_n\}$. The quantum-mechanical wave function is the generating function for the
+$P_n (E)$, which are polynomials in the energy $E$. The condition of
+quasi-exact solvability is reflected in the vanishing of the norm of all
+polynomials whose index $n$ exceeds a critical value $J$. The zeros of the
+critical polynomial $P_J(E)$ are the quasi-exact energy eigenvalues of the
+system.
+</abstract>

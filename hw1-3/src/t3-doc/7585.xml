@@ -1,0 +1,14 @@
+<date>
+Thu, 10 May 2001 20:20:46 GMT
+</date>
+
+<title>
+GAMMA: A Mathematica package for performing gamma-matrix algebra and
+  Fierz transformations in arbitrary dimensions
+</title>
+
+<abstract>
+  We have developed a Mathematica package capable of performing gamma-matrix
+algebra in arbitrary (integer) dimensions. As an application we can compute
+Fierz transformations.
+</abstract>

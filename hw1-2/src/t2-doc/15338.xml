@@ -1,0 +1,26 @@
+<title>
+Graded Chern-Simons field theory and graded topological D-branes
+</title>
+
+<abstract>
+  We discuss graded D-brane systems of the topological A model on a Calabi-Yau
+threefold, by means of their string field theory. We give a detailed analysis
+of the extended string field action, showing that it satisfies the classical
+master equation, and construct the associated BV system. The analysis is
+entirely general and it applies to any collection of D-branes (of distinct
+grades) wrapping the same special Lagrangian cycle, being valid in arbitrary
+topology. Our discussion employs a $\Z$-graded version of the covariant BV
+formalism, whose formulation involves the concept of {\em graded
+supermanifolds}. We discuss this formalism in detail and explain why
+$\Z$-graded supermanifolds are necessary for a correct geometric understanding
+of BV systems. For the particular case of graded D-brane pairs, we also give a
+direct construction of the master action, finding complete agreement with the
+abstract formalism. We analyze formation of acyclic composites and show that,
+under certain topological assumptions,all states resulting from the
+condensation process of a pair of branes with grades differing by one unit are
+BRST trivial and thus the composite can be viewed as a closed string vacuum. We
+prove that there are {\em six} types of pairs which must be viewed as generally
+inequivalent. This contradicts the assumption that `brane-antibrane' systems
+exhaust the nontrivial dynamics of topological A-branes with the same geometric
+support.
+</abstract>

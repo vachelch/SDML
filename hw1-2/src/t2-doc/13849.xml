@@ -1,0 +1,29 @@
+<title>
+Determinations of rational Dedekind-zeta invariants of hyperbolic
+  manifolds and Feynman knots and links
+</title>
+
+<abstract>
+  We identify 998 closed hyperbolic 3-manifolds whose volumes are rationally
+related to Dedekind zeta values, with coprime integers $a$ and $b$ giving $a/b
+vol(M)=(-D)^{3/2}/(2\pi)^{2n-4} (\zeta_K(2))/(2\zeta(2))$ for a manifold M
+whose invariant trace field $K$ has a single complex place, discriminant $D$,
+degree $n$, and Dedekind zeta value $\zeta_K(2)$. The largest numerator of the
+998 invariants of Hodgson-Weeks manifolds is, astoundingly,
+$a=2^4\times23\times37\times691 =9,408,656$; the largest denominator is merely
+b=9. We also study the rational invariant a/b for single-complex-place cusped
+manifolds, complementary to knots and links, both within and beyond the
+Hildebrand-Weeks census. Within the censi, we identify 152 distinct Dedekind
+zetas rationally related to volumes. Moreover, 91 census manifolds have volumes
+reducible to pairs of these zeta values. Motivated by studies of Feynman
+diagrams, we find a 10-component 24-crossing link in the case n=2 and D=-20. It
+is one of 5 alternating platonic links, the other 4 being quartic. For 8 of 10
+quadratic fields distinguished by rational relations between Dedekind zeta
+values and volumes of Feynman orthoschemes, we find corresponding links.
+Feynman links with D=-39 and D=-84 are missing; we expect them to be as
+beautiful as the 8 drawn here. Dedekind-zeta invariants are obtained for knots
+from Feynman diagrams with up to 11 loops. We identify a sextic 18-crossing
+positive Feynman knot whose rational invariant, a/b=26, is 390 times that of
+the cubic 16-crossing non-alternating knot with maximal D_9 symmetry. Our
+results are secure, numerically, yet appear very hard to prove by analysis.
+</abstract>

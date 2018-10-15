@@ -1,0 +1,26 @@
+<title>
+The Gauging of Five-dimensional, N=2 Maxwell-Einstein Supergravity
+  Theories coupled to Tensor Multiplets
+</title>
+
+<abstract>
+  We study the general gaugings of N=2 Maxwell-Einstein supergravity theories
+(MESGT) in five dimensions, extending and generalizing previous work. The
+global symmetries of these theories are of the form SU(2)_R X G, where SU(2)_R
+is the R-symmetry group of the N=2 Poincare superalgebra and G is the group of
+isometries of the scalar manifold that extend to symmetries of the full action.
+We first gauge a subgroup K of G by turning some of the vector fields into
+gauge fields of K while dualizing the remaining vector fields into tensor
+fields transforming in a non-trivial representation of K. Surprisingly, we find
+that the presence of tensor fields transforming non-trivially under the
+Yang-Mills gauge group leads to the introduction of a potential which does not
+admit an AdS ground state. Next we give the simultaneous gauging of the U(1)_R
+subgroup of SU(2)_R and a subgroup K of G in the presence of K-charged tensor
+multiplets. The potential introduced by the simultaneous gauging is the sum of
+the potentials introduced by gauging K and U(1)_R separately. We present a list
+of possible gauge groups K and the corresponding representations of tensor
+fields. For the exceptional supergravity we find that one can gauge the SO^*(6)
+subgroup of the isometry group E_{6(-26)} of the scalar manifold if one
+dualizes 12 of the vector fields to tensor fields just as in the gauged N=8
+supergravity.
+</abstract>

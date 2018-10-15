@@ -1,0 +1,14 @@
+<title>
+$W_n^{(\ka)}$ algebra associated with the Moyal KdV Hierarchy
+</title>
+
+<abstract>
+  We consider the Gelfand-Dickey (GD) structure defined by the Moyal
+$\star$-product with parameter $\ka$, which not only defines the bi-Hamiltonian
+structure for the generalized Moyal KdV hierarchy but also provides a
+$W_n^{(\ka)}$ algebra containing the Virasoro algebra as a subalgebra with
+central charge $\ka^2(n^3-n)/3$.
+ The free-field realization of the $W_n^{(\ka)}$ algebra is given through the
+Miura transformation and the cases for $W_3^{(\ka)}$ and $W_4^{(\ka)}$ are
+worked out in detail.
+</abstract>

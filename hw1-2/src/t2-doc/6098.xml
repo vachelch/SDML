@@ -1,0 +1,18 @@
+<title>
+Techniques of Distributions in Perturbative Quantum Field Theory (I)
+  Euclidean asymptotic operation for products of singular functions
+</title>
+
+<abstract>
+  We present a systematic description of the mathematical techniques for
+studying multiloop Feynman diagrams which constitutes a full-fledged and
+inherently more powerful alternative to the BPHZ theory. The new techniques
+emerged as a formalization of the reasoning behind a recent series of record
+multiloop calculations in perturbative quantum field theory. It is based on a
+systematic use of the ideas and notions of the distribution theory. We identify
+the problem of asymptotic expansion of products of singular functions in the
+sense of distributions as a key problem of the theory of asymptotic expansions
+of multiloop Feynman diagrams. Its complete solution for the case of Euclidean
+Feynman diagrams (the so-called Euclidean asymptotic operation for products of
+singular functions) is explicitly constructed and studied.
+</abstract>

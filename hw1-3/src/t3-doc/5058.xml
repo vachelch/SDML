@@ -1,0 +1,19 @@
+<date>
+Sun, 21 Aug 1994 17:03:22 +0200
+</date>
+
+<title>
+Discrete Differential Manifolds and Dynamics on Networks
+</title>
+
+<abstract>
+  A `discrete differential manifold' we call a countable set together with an
+algebraic differential calculus on it. This structure has already been explored
+in previous work and provides us with a convenient framework for the
+formulation of dynamical models on networks and physical theories with discrete
+space and time. We present several examples and introduce a notion of
+differentiability of maps between discrete differential manifolds. Particular
+attention is given to differentiable curves in such spaces. Every discrete
+differentiable manifold carries a topology and we show that differentiability
+of a map implies continuity.
+</abstract>

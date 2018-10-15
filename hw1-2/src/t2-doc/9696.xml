@@ -1,0 +1,22 @@
+<title>
+Bosonic Structure of a 2-Dimensional Fermion Model with Interaction
+  among Different Speices
+</title>
+
+<abstract>
+  We study a massive Thirring-like model in 2-dimensional space-time, which
+contains two different species of fermions. This model is a field theoretical
+version of the quantum mechanical model originally proposed by Gl\"{o}ckle,
+Nogami and Fukui, where different fermions interact with each other through
+$\delta$-function potentials. We derive a corresponding boson model by the
+bosonization technique in the path integral formulation. This is a simple but
+non-trivial extension of the freedom of the bosonization technique. Operator
+correspondences between fermion and boson fields are given. One of these could
+not be realistically expected from the naive correspondence of the original
+single-species models. It is essential for this point that in our model
+fermions of the same kind do not interact with each other directly. We find
+that for a specific value of the coupling constant, one boson field becomes
+free while the other is a Sine-Gordon field. For this case, therefore, our
+two-species model is equivalent to the ordinary Sine-Gordon model of a single
+boson field.
+</abstract>

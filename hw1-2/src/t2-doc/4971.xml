@@ -1,0 +1,18 @@
+<title>
+BRST Quantization of Gauge Theory in Noncommutative Geometry: Matrix
+  Derivative Approach
+</title>
+
+<abstract>
+  The BRST quantization of a gauge theory in noncommutative geometry is carried
+out in the ``matrix derivative" approach. BRST/anti-BRST transformation rules
+are obtained by applying the horizontality condition, in the superconnection
+formalism. A BRST/anti-BRST invariant quantum action is then constructed, using
+an adaptation of the method devised by Baulieu and Thierry-Mieg for the
+Yang-Mills case. The resulting quantum action turns out to be the same as that
+of a gauge theory in the 't Hooft gauge with spontaneously broken symmetry. Our
+result shows that only the even part of the supergroup acts as a gauge
+symmetry, while the odd part effectively provides a global symmetry. We treat
+the general formalism first, then work out the $SU(2/1)$ and $SU(2/2)$ cases
+explicitly.
+</abstract>

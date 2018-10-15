@@ -1,0 +1,15 @@
+<title>
+How to treat $\gamma_5$
+</title>
+
+<abstract>
+  We present a method to perform renormalized perturbation calculation in gauge
+theories with chiral fermions. We find it proper to focus directly on the
+Ward-Takahashi identities, relegating dimensional regularization into a
+supplementary and secondary role. We show with the example of the Abelian-Higgs
+theory how to handle amplitudes involving fermions, particularly how to handle
+the matrix $\gamma_5$. As a demonstration of our method of renormalization, we
+evaluate the radiative corrections of the triangular anomaly in the
+Abelian-Higgs theory with appropriate number of chiral fermions. This anomaly
+amplitude is calculated without any regularization and is found to vanish.
+</abstract>

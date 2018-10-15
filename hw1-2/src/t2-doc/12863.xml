@@ -1,0 +1,29 @@
+<title>
+The Supersymmetric Kink via Higher-Derivative and Momentum Cut-Off
+  Regularization Schemes
+</title>
+
+<abstract>
+  We study the supersymmetric kink with higher derivative and momentum cut-off
+regularization schemes. We introduce the new momentum cut-off regularization
+scheme which we call ``generalized momentum cut-off''. A new, explicit
+computation for the central charge anomaly for this scheme is described in
+detail. The calculation of the first order mass corrections for the bosonic and
+supersymmetric kink within the momentum cut-off is presented in hep-th/0010051,
+so that one can compare the one-loop central charge and mass computed
+independently within the same regularization setup. We confirm that the BPS
+bound is saturated in one loop level. Thus the Wilsonian momentum cut-off
+regularization scheme is rehabilitated as a bona fide procedure for computing
+quantum corrections in the topologically nontrivial backgrounds. We lead the
+reader to the idea that a consistent regularization in general does not only
+assume that one regulates loops properly, but also requires caution in defining
+the total number of modes involved in the quantization of the theory. We also
+study the higher-derivative regularization scheme of Shifman et al. in great
+detail. We extend the Noether method for the case when the higher-derivatives
+are present in the Lagrangian. The extensive discussion of the technical
+aspects and the consistency of the higher-derivative scheme is given. We show
+that higher-derivative regularization gives, in general, a nonlocal topological
+current, which leads to the correct value of the anomaly in the central charge.
+We also comment on the status of the dimensional regularization approach to the
+computation of the central charge anomaly and kink mass.
+</abstract>

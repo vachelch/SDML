@@ -1,0 +1,12 @@
+<title>
+Lattice Approximation of Quantum Statistical Traces at a Complex
+  Temperature
+</title>
+
+<abstract>
+  We prove that the simple condition on the potential V, \int exp(-t V) <
+\infty for all t>0, is sufficient for the lattice approximation of the trace
+Tr[A exp(-b H)] with (Re b)>0 to work for all bounded functions A and a large
+class of potentials. As a by-product we obtain an explicit bound for the
+real-temperature lattice kernels.
+</abstract>

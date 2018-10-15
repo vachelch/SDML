@@ -1,0 +1,18 @@
+<date>
+Thu, 7 Mar 96 15:46:35 +0900
+</date>
+
+<title>
+Exact Solution of 1-matrix Model
+</title>
+
+<abstract>
+  I review my new method for solving general 1-matrix models by expanding in
+$N^{-1}$ without taking a physical continuum limit. Using my method, each
+coefficient of the free energy in the genus expansion is exactly computable.
+One can include physical information in a function which is uniquely specified
+by the action of the model. My method gives completely the same result with the
+usual one if the physical fine tuning is done and the leading singular terms
+are extracted. I also calculate in the genus three case and confirm the
+validity of my method.
+</abstract>

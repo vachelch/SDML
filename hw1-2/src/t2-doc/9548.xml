@@ -1,0 +1,18 @@
+<title>
+On the Picture Dependence of Ramond-Ramond Cohomology
+</title>
+
+<abstract>
+  Closed string physical states are BRST cohomology classes computed on the
+space of states annihilated by $b_0^-$. Since $b_0^-$ does not commute with the
+operations of picture changing, BRST cohomologies at different pictures need
+not agree. We show explicitly that Ramond-Ramond (RR) zero-momentum physical
+states are inequivalent at different pictures, and prove that non-zero momentum
+physical states are equivalent in all pictures. We find that D-brane states
+represent BRST classes that are nonpolynomial on the superghost zero modes,
+while RR gauge fields appear as polynomial BRST classes. We also prove that in
+$x$-cohomology, the cohomology where the zero mode of the spatial coordinates
+is included, there is a unique ghost-number one BRST class responsible for the
+Green-Schwarz anomaly, and a unique ghost number minus one BRST class
+associated with RR charge.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Thu, 1 Jun 2000 12:36:51 GMT
+</date>
+
+<title>
+Cohomology in the Pure Spinor Formalism for the Superstring
+</title>
+
+<abstract>
+  A manifestly super-Poincar\'e covariant formalism for the superstring has
+recently been constructed using a pure spinor variable. Unlike the covariant
+Green-Schwarz formalism, this new formalism is easily quantized with a BRST
+operator and tree-level scattering amplitudes have been evaluated in a
+manifestly covariant manner.
+  In this paper, the cohomology of the BRST operator in the pure spinor
+formalism is shown to give the usual light-cone Green-Schwarz spectrum.
+Although the BRST operator does not directly involve the Virasoro constraint,
+this constraint emerges after expressing the pure spinor variable in terms of
+SO(8) variables.
+</abstract>

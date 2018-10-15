@@ -1,0 +1,15 @@
+<title>
+Signature Characters for A_2 and B_2
+</title>
+
+<abstract>
+  The signatures of the inner product matrices on a Lie algebra's highest
+weight representation are encoded in the representation's signature character.
+We show that the signature characters of a finite-dimensional Lie algebra's
+highest weight representations obey simple difference equations that have a
+unique solution once appropriate boundary conditions are imposed. We use these
+results to derive the signature characters of all $A_2$ and $B_2$ highest
+weight representations. Our results extend, and explain, signature patterns
+analogous to those observed by Friedan, Qiu and Shenker in the Virasoro
+algebra's representation theory.
+</abstract>

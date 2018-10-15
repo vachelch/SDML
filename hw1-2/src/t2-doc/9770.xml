@@ -1,0 +1,28 @@
+<title>
+Off-Shell Quantum Electrodynamics
+</title>
+
+<abstract>
+  More than twenty years have passed since the threads of the `proper time
+formalism' in covariant classical and quantum mechanics were brought together
+to construct a canonical formalism for the relativistic mechanics of many
+particles. Drawing on the work of Fock, Stueckelberg, Nambu, Schwinger, and
+Feynman, the formalism was raised from the status of a purely formal
+mathematical technique to a covariant evolution theory for interacting
+particles. In the context of this theory, solutions have been found for the
+relativistic bound state problem, classical and quantum scattering in
+relativistic potentials, as well as applications in statistical mechanics.
+ It has been shown that a generalization of the Maxwell theory is required in
+order that the electromagnetic interaction be well-posed in the theory. The
+resulting theory of electromagnetism involves a fifth gauge field introduced to
+compensate for the dependence of the gauge transformation on the invariant time
+parameter; permitting such dependence relaxes the requirement that individual
+particles be on fixed mass shells and allows exchange of mass during
+scattering. In this paper, we develop the quantum field theory of off-shell
+electromagnetism, and use it to calculate certain elementary processes,
+including Compton scattering and M{\o}ller scattering. These calculations lead
+to {\em qualitative} deviations from the usual scattering cross-sections, which
+are, however, small effects, but may be visible at small angles near the
+forward direction. The familiar IR divergence of the M{\o}ller scattering is,
+moreover, completely regularized.
+</abstract>

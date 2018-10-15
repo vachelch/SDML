@@ -1,0 +1,19 @@
+<title>
+Invariant Kinematics on a One-Dimensional Lattice in Noncommutative
+  Geometry
+</title>
+
+<abstract>
+  In a one-dimensional lattice, the induced metric (from a noncommutative
+geometry calculation) breaks translation invariance. This leads to some
+inconsistencies among different spectator frames, in the observation of the
+hoppings of a test particle between lattice sites. To resolve the
+inconsistencies between the different spectator frames, we replace the test
+particle's bare mass by an effective locally dependent mass. This effective
+mass also depends on the lattice constant - i.e. it is a scale dependent
+variable (a "running" mass). We also develop an alternative approach based on a
+compensating potential. The induced potential between a spectator frame and the
+test particle is attractive on the average. We then show that the entire
+formalism holds for a quantum particle represented by a wave function, just as
+it applies to the mechanics of a classical point particle.
+</abstract>

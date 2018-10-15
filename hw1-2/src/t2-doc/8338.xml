@@ -1,0 +1,22 @@
+<title>
+Casimir effect for scalar fields under Robin boundary conditions on
+  plates
+</title>
+
+<abstract>
+  We study the Casimir effect for scalar fields with general curvature coupling
+subject to mixed boundary conditions $(1+\beta_{m}n^{\mu}\partial_{\mu})\phi
+=0$ at $x=a_{m}$ on one ($m=1$) and two ($m=1,2$) parallel plates at a distance
+$a\equiv a_{2}-a_{1}$ from each other. Making use of the generalized Abel-Plana
+formula previously established by one of the authors \cite{Sahrev}, the Casimir
+energy densities are obtained as functions of $\beta_{1}$ and of
+$\beta_{1}$,$\beta_{2}$,$a$, respectively. In the case of two parallel plates,
+a decomposition of the total Casimir energy into volumic and superficial
+contributions is provided. The possibility of finding a vanishing energy for
+particular parameter choices is shown, and the existence of a minimum to the
+surface part is also observed. We show that there is a region in the space of
+parameters defining the boundary conditions in which the Casimir forces are
+repulsive for small distances and attractive for large distances. This yields
+to an interesting possibility for stabilizing the distance between the plates
+by using the vacuum forces.
+</abstract>

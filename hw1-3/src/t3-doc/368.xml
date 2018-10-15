@@ -1,0 +1,22 @@
+<date>
+Wed, 14 Oct 1998 06:42:50 GMT
+</date>
+
+<title>
+Quantization of spherically symmetric solution of SU(3) Yang-Mills
+  theory
+</title>
+
+<abstract>
+  A recent investigation of the SU(3) Yang-Mills field equations found several
+classical solutions which exhibited a type of confinement due to gauge fields
+which increased without bound as $r \to \infty$. This increase of the gauge
+fields gave these solutions an infinite field energy, raising questions about
+their physical significance. In this paper we apply some ideas of Heisenberg
+about the quantization of strongly interacting, non-linear fields to this
+classical solution and find that at large $r$ this quantization procedure
+softens the unphysical behaviour of the classical solution, while the
+interesting short distance behaviour is still maintained. This quantization
+procedure may provide a general method for approximating the quantum
+corrections to certain classical field configurations.
+</abstract>

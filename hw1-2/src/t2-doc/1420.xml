@@ -1,0 +1,20 @@
+<title>
+Moduli spaces of discrete gravity I: A few points
+</title>
+
+<abstract>
+  Spectral triples describe and generalize Riemannian spin geometries by
+converting the geometrical information into algebraic data, which consist of an
+algebra $A$, a Hilbert space $H$ carrying a representation of $A$ and the Dirac
+operator $D$ (a selfadjoint operator acting on $H$). The gravitational action
+is described by the trace of a suitable function of $D$. In this paper we
+examine the (path-integral-) quantization of such a system given by a finite
+dimensional commutative algebra. It is then (in concrete examples) possible to
+construct the moduli space of the theory, i.e. to divide the space of all Dirac
+operators by the action of the diffeomorphism group, and to construct an
+invariant measure on this space. We discuss expectation values of various
+observables and demonstrate some interesting effects such as the effect of
+coupling the system to Fermions (which renders finite quantities in cases,
+where the Bosons alone would give infinite quantities) or the striking effect
+of spontaneous breaking of spectral invariance.
+</abstract>

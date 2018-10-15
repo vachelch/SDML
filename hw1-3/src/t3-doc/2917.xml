@@ -1,0 +1,22 @@
+<date>
+Tue, 7 Mar 95 15:06:03 MET
+</date>
+
+<title>
+Secondary Quantum Hamiltonian Reduction
+</title>
+
+<abstract>
+  Recently, it has been shown how to perform the quantum hamiltonian reduction
+in the case of general $sl(2)$ embeddings into Lie (super)algebras, and in the
+case of general $osp(1|2)$ embeddings into Lie superalgebras. In another
+development it has been shown that when $H$ and $H'$ are both subalgebras of a
+Lie algebra $G$ with $H'\subset H$, then classically the $W(G,H)$ algebra can
+be obtained by performing a secondary hamiltonian reduction on $W(G,H')$. In
+this paper we show that the corresponding statement is true also for quantum
+hamiltonian reduction when the simple roots of $H'$ can be chosen as a subset
+of the simple roots of $H$. As an application, we show that the quantum
+secondary reductions provide a natural framework to study and explain the
+linearization of the $W$ algebras, as well as a great number of new
+realizations of $W$ algebras.
+</abstract>

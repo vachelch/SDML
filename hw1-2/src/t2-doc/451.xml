@@ -1,0 +1,10 @@
+<title>
+Wilson loop on a sphere
+</title>
+
+<abstract>
+  We give the formula for a simple Wilson loop on a sphere which is valid for
+an arbitrary QCD$_2$ saddle-point $\rho(x)$: \mbox{$W(A_1,A_2)=\oint
+\frac{dx}{2\pi i} \exp(\int dy \frac{\rho(y)}{y-x}+A_2x)$}. The
+strong-coupling-phase solution is investigated.
+</abstract>

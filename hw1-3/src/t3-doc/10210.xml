@@ -1,0 +1,25 @@
+<date>
+Wed, 14 Aug 2002 19:33:10 GMT
+</date>
+
+<title>
+D-branes, open string vertex operators, and Ext groups
+</title>
+
+<abstract>
+  In this paper we explicitly work out the precise relationship between Ext
+groups and massless modes of D-branes wrapped on complex submanifolds of
+Calabi-Yau manifolds. Specifically, we explicitly compute the boundary vertex
+operators for massless Ramond sector states, in open string B models describing
+Calabi-Yau manifolds at large radius, directly in BCFT using standard methods.
+Naively these vertex operators are in one-to-one correspondence with certain
+sheaf cohomology groups (as is typical for such vertex operator calculations),
+which are related to the desired Ext groups via spectral sequences. However, a
+subtlety in the physics of the open string B model has the effect of physically
+realizing those spectral sequences in BRST cohomology, so that the vertex
+operators are actually in one-to-one correspondence with Ext group elements.
+This gives an extremely concrete physical test of recent proposals regarding
+the relationship between derived categories and D-branes. We check these
+results extensively in numerous examples, and comment on several related
+issues.
+</abstract>

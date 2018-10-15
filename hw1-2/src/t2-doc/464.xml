@@ -1,0 +1,19 @@
+<title>
+The Holographic Weyl anomaly
+</title>
+
+<abstract>
+  We calculate the Weyl anomaly for conformal field theories that can be
+described via the adS/CFT correspondence. This entails regularizing the
+gravitational part of the corresponding supergravity action in a manner
+consistent with general covariance. Up to a constant, the anomaly only depends
+on the dimension d of the manifold on which the conformal field theory is
+defined. We present concrete expressions for the anomaly in the physically
+relevant cases d = 2, 4 and 6. In d = 2 we find for the central charge c = 3 l/
+2 G_N in agreement with considerations based on the asymptotic symmetry algebra
+of adS_3. In d = 4 the anomaly agrees precisely with that of the corresponding
+N = 4 superconformal SU(N) gauge theory. The result in d = 6 provides new
+information for the (0, 2) theory, since its Weyl anomaly has not been computed
+previously. The anomaly in this case grows as N^3, where N is the number of
+coincident M5 branes, and it vanishes for a Ricci-flat background.
+</abstract>

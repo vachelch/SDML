@@ -1,0 +1,26 @@
+<date>
+Fri, 4 Dec 1998 21:54:42 GMT
+</date>
+
+<title>
+String Theory on AdS_3
+</title>
+
+<abstract>
+  It was shown by Brown and Henneaux that the classical theory of gravity on
+AdS_3 has an infinite-dimensional symmetry group forming a Virasoro algebra.
+More recently, Giveon, Kutasov and Seiberg (GKS) constructed the corresponding
+Virasoro generators in the first-quantized string theory on AdS_3. In this
+paper, we explore various aspects of string theory on AdS_3 and study the
+relation between these two works. We show how semi-classical properties of the
+string theory reproduce many features of the AdS/CFT duality. Furthermore, we
+examine how the Virasoro symmetry of Brown and Henneaux is realized in string
+theory, and show how it leads to the Virasoro Ward identities of the boundary
+CFT. The Virasoro generators of GKS emerge naturally in this analysis. Our work
+clarifies several aspects of the GKS construction: why the Brown-Henneaux
+Virasoro algebra can be realized on the first-quantized Hilbert space, to what
+extent the free-field approximation is valid, and why the Virasoro generators
+act on the string worldsheet localized near the boundary of AdS_3. On the other
+hand, we find that the way the central charge of the Virasoro algebra is
+generated is different from the mechanism proposed by GKS.
+</abstract>

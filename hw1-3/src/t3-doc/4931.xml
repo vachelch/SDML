@@ -1,0 +1,21 @@
+<date>
+Mon, 29 Sep 1997 09:25:17 GMT
+</date>
+
+<title>
+Normal Ordering in the Theory of Correlation Functions of Exactly
+  Solvable Models
+</title>
+
+<abstract>
+  We study models of quantum statistical mechanics which can be solved by the
+algebraic Bethe ansatz. The general method of calculation of correlation
+functions is based on the method of determinant representations. The auxiliary
+Fock space and auxiliary Bose fields are introduced in order to remove the two
+body scattering and represent correlation functions as a mean value of a
+determinant of a Fredholm integral operator; the representation has a simple
+form for large space and time separations. In this paper we explain how to
+calculate the mean value in the auxiliary Fock space of asymptotic expression
+of the Fredholm determinant. It is necessary for the evaluation of the
+asymptotic form of the physical correlation functions.
+</abstract>

@@ -1,0 +1,13 @@
+<title>
+Black-Scholes equation from Gauge Theory of Arbitrage
+</title>
+
+<abstract>
+  We apply Gauge Theory of Arbitrage (GTA) {hep-th/9710148} to derivative
+pricing. We show how the standard results of Black-Scholes analysis appear from
+GTA and derive correction to the Black-Scholes equation due to a virtual
+arbitrage and speculators reaction on it. The model accounts for both violation
+of the no-arbitrage constraint and non-Brownian price walks which resemble real
+financial data. The correction is nonlocal and transform the differential
+Black-Scholes equation to an integro-differential one.
+</abstract>

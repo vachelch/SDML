@@ -1,0 +1,30 @@
+<date>
+Tue, 26 May 1998 13:26:05 GMT
+</date>
+
+<title>
+From the WZWN Model to the Liouville Equation: Exact String Dynamics in
+  Conformally Invariant AdS Background
+</title>
+
+<abstract>
+  It has been known for some time that the SL(2,R) WZWN model reduces to
+Liouville theory. Here we give a direct and physical derivation of this result
+based on the classical string equations of motion and the proper string size.
+This allows us to extract precisely the physical effects of the metric and
+antisymmetric tensor, respectively, on the {\it exact} string dynamics in the
+SL(2,R) background. The general solution to the proper string size is also
+found. We show that the antisymmetric tensor (corresponding to conformal
+invariance) generally gives rise to repulsion, and it precisely cancels the
+dominant attractive term arising from the metric.
+    Both the sinh-Gordon and the cosh-Gordon sectors of the string dynamics in
+non-conformally invariant AdS spacetime reduce here to the Liouville equation
+(with different signs of the potential), while the original Liouville sector
+reduces to the free wave equation. Only the very large classical string size is
+affected by the torsion. Medium and small size string behaviours are unchanged.
+    We also find illustrative classes of string solutions in the SL(2,R)
+background: dynamical closed as well as stationary open spiralling strings, for
+which the effect of torsion is somewhat like the effect of rotation in the
+metric. Similarly, the string solutions in the 2+1 BH-AdS background with
+torsion and angular momentum are fully analyzed.
+</abstract>

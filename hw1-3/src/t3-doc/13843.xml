@@ -1,0 +1,14 @@
+<date>
+Fri, 28 May 1999 17:57:19 GMT
+</date>
+
+<title>
+On the N=2 Superstring BRST Operator
+</title>
+
+<abstract>
+  We write the BRST operator of the N=2 superstring as $Q= e^{-R} (\oint
+\frac{dz}{2\pi i} ~ b \gamma_+ \gamma_-)e^R$ where $b$ and $gamma_\pm$ are
+super-reparameterization ghosts. This provides a trivial proof of the
+nilpotence of this operator.
+</abstract>

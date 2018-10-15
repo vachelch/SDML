@@ -1,0 +1,21 @@
+<title>
+Anomalous commutators for energy-momentum tensors
+</title>
+
+<abstract>
+  Anomalous contributions to the energy-momentum commutators are calculated for
+even dimensions, by using a non-perturbative approach that combines operator
+product expansion and Bjorken-Johnson-Low limit techniques. We first study the
+two dimensional case and give the covariant expression for the commutators. The
+expression in terms of light-cone coordinates is then calculated and found to
+be in perfect agreement with the results in the literature. The particular
+scenario of the light-cone frame is revisited using a reformulation of the BJL
+limit in such a frame. The arguments used for $n=2$ are then generalized to the
+case of any even dimensional Minkowskian spacetime and it is shown that there
+are no anomalous contributions to the commutators for $n\not=2$. These results
+are found to be valid for both fermionic and bosonic free fields. A
+generalization of the BJL-limit is later used to obtain double commutators of
+energy-momentum tensors and to study the Jacobi identity. The two dimensional
+case is studied and we find no existance of 3-cocycles in both the Abelian and
+non-Abelian case.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Construction of a non-standard quantum field theory through a
+  generalized Heisenberg algebra
+</title>
+
+<abstract>
+  We construct a Heisenberg-like algebra for the one dimensional quantum free
+Klein-Gordon equation defined on the interval of the real line of length $L$.
+Using the realization of the ladder operators of this type Heisenberg algebra
+in terms of physical operators we build a 3+1 dimensional free quantum field
+theory based on this algebra. We introduce fields written in terms of the
+ladder operators of this type Heisenberg algebra and a free quantum Hamiltonian
+in terms of these fields. The mass spectrum of the physical excitations of this
+quantum field theory are given by $\sqrt{n^2 \pi^2/L^2+m_q^2}$, where $n=
+1,2,...$ denotes the level of the particle with mass $m_q$ in an infinite
+square-well potential of width $L$.
+</abstract>

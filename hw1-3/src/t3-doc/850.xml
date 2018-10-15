@@ -1,0 +1,24 @@
+<date>
+Thu, 13 Nov 1997 04:44:34 GMT
+</date>
+
+<title>
+On the structure of Normal Matrix Model
+</title>
+
+<abstract>
+  We study the structure of the normal matrix model (NMM). We show that all
+correlation functions of the model with axially symmetric potentials can be
+expressed in terms of holomorphic functions of one variable. This observation
+is used to demonstrate the exact solvability of the model. The two-point
+correlation function is calculated in the scaling limit by solving the BBGKY
+chain of equations. The answer is shown to be universal (i.e. potential
+independent up to a change of the scale). We then develop a two-dimensional
+free fermion formalism and construct a family of completely integrable
+hierarchies (which we call the extended-KP(N) hierarchies) of non-linear
+differential equations. The well-known KP hierarchy is a lower-dimensional
+reduction of this family. The extended-KP(1) hierarchy contains the
+(2+1)-dimensional Burgers equations. The partition function of the N*N NMM is
+the tau function of the extended-KP(N) hierarchy invariant with respect to a
+subalgebra of an algebra of all infinitesimal diffeomorphisms of the plane.
+</abstract>

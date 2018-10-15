@@ -1,0 +1,21 @@
+<title>
+A proposal for a first class conversion formalism based on the
+  symmetries of the Wess-Zumino terms
+</title>
+
+<abstract>
+  We propose a new procedure to embed second class systems by introducing
+Wess-Zumino (WZ) fields in order to unveil hidden symmetries existent in the
+models. This formalism is based on the direct imposition that the new
+ Hamiltonian must be invariant by gauge-symmetry transformations. An
+interesting feature in this approach is the possibility to find a
+representation for the WZ fields in a convenient way, which leads to preserve
+the gauge symmetry in the original phase space. Consequently, the
+gauge-invariant Hamiltonian can be written only in terms of the original
+phase-space variables. In this situation, the WZ variables are only auxiliary
+tools that permit to reveal the hidden symmetries present in the original
+second class model. We apply this formalism to important physical models: the
+reduced-SU(2) Skyrme model, the Chern-Simons-Proca quantum mechanics and the
+chiral bosons field theory. In all these systems, the gauge-invariant
+Hamiltonians are derived in a very simple way.
+</abstract>

@@ -1,0 +1,22 @@
+<title>
+Thermal Fluctuations of Induced Fermion Number
+</title>
+
+<abstract>
+  We analyze the phemomenon of induced fermion number at finite temperature. At
+finite temperature, the induced fermion number $<N>$ is a thermal expectation
+value, and we compute the finite temperature fluctuations, $(\Delta
+N)^2=<N^2>-<N>^2$. While the zero temperature induced fermion number is
+topological and is a sharp observable, the finite temperature induced fermion
+number is generically nontopological, and is not a sharp observable. The
+fluctuations are due to the mixing of states inherent in any finite temperature
+expectation value. We analyze in detail two different cases in 1+1 dimensional
+field theory: fermions in a kink background, and fermions in a chiral sigma
+model background. At zero temperature the induced fermion numbers for these two
+cases are very similar, but at finite temperature they are very different. The
+sigma model case is generic and the induced fermion number is nontopological,
+but the kink case is special and the fermion number is topological, even at
+finite temperature. There is a simple physical interpretation of all these
+results in terms of the spectrum of the fermions in the relevant background,
+and many of the results generalize to higher dimensional models.
+</abstract>

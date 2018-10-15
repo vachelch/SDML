@@ -1,0 +1,22 @@
+<date>
+Sun, 2 Dec 2001 23:35:26 GMT
+</date>
+
+<title>
+A toy model of bosonic non-canonical quantum field
+</title>
+
+<abstract>
+  A harmonic oscillator is an indefinite-frequency one if the parameter
+$\omega$ is replaced by an operator. An ensemble of $N$ such oscillators may be
+regarded as a toy model of a bosonic quantum field. All the possible
+frequencies associated with a given problem are present already in a single
+oscillator and $N$ can be finite. Due to the operator character of $\omega$ the
+resulting algebra of creation-annihilation operators is non-canonical. In the
+limit of large $N$ one recovers perturbation theory formulas of the canonical
+quantum field theory but with form factors automatically built in. Vacuum
+energy of the ensemble is finite, a fact discussed in the context of the
+cosmological constant problem. Space of states is given by a vector bundle with
+Fock-type fibers. Interactions of the field with 2-level systems, including
+Rabi oscillations and spontaneous emission, are discussed in detail.
+</abstract>

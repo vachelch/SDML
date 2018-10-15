@@ -1,0 +1,16 @@
+<title>
+Casimir energy for spherically symmetric dispersive dielectric media
+</title>
+
+<abstract>
+  We consider the vacuum energy of the electromagnetic field in the background
+of spherically symmetric dielectrics, subject to a cut-off frequency in the
+dispersion relations. The effect of this frequency dependent boundary condition
+between media is described in terms of the {\it incomplete} $\zeta$-functions
+of the problem. The use of the Debye asymptotic expansion for Bessel functions
+allows to determine the dominant (volume, area, ...) terms in the Casimir
+energy. The application of these expressions to the case of a gas bubble
+immersed in water is discussed, and results consistent with Schwinger's
+proposal about the role the Casimir energy plays in sonoluminescence are found.
+  PACS: 03.70.+k,12.20.Ds,78.60.Mq
+</abstract>

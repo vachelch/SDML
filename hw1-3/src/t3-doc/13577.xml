@@ -1,0 +1,20 @@
+<date>
+Mon, 7 Oct 96 22:44:08 PDT
+</date>
+
+<title>
+Microcanonical D-branes and Back Reaction
+</title>
+
+<abstract>
+  We compare the emission rates from excited D-branes in the microcanonical
+ensemble with back reaction corrected emission rates from black holes in field
+theory. In both cases, the rates in the high energy tail of the spectrum differ
+markedly from what a canonical ensemble or free field theory approach would
+yield. Instead of being proportional to a Bose-Einstein distribution function,
+the rates in the high energy tail are proportional to $\exp (-\Delta S_{BH})$
+where $\Delta S_{BH}$ is the difference in black hole entropies before and
+after emission. After including the new effects, we find agreement, at leading
+order, between the D-brane and field theory rates over the entire range of the
+spectrum.
+</abstract>

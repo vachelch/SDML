@@ -1,0 +1,20 @@
+<title>
+Multiple-Scale Analysis of Quantum Systems
+</title>
+
+<abstract>
+  Conventional weak-coupling Rayleigh-Schr\"odinger perturbation theory suffers
+from problems that arise from resonant coupling of successive orders in the
+perturbation series. Multiple-scale analysis, a powerful and sophisticated
+perturbative method that quantitatively analyzes characteristic physical
+behaviors occurring on various length or time scales, avoids such problems by
+implicitly performing an infinite resummation of the conventional perturbation
+series. Multiple-scale perturbation theory provides a good description of the
+classical anharmonic oscillator. Here, it is extended to study (1) the
+Heisenberg operator equations of motion and (2) the Schr\"odinger equation for
+the quantum anharmonic oscillator. In the former case, it leads to a system of
+coupled operator differential equations, which is solved exactly. The solution
+provides an operator mass renormalization of the theory. In the latter case,
+multiple-scale analysis elucidates the connection between weak-coupling
+perturbative and semiclassical nonperturbative aspects of the wave function.
+</abstract>

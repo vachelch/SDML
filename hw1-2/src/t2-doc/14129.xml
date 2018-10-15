@@ -1,0 +1,15 @@
+<title>
+Confinement and chiral condensates in 2-d QED with massive N-flavor
+  fermions
+</title>
+
+<abstract>
+  We evaluate Polyakov loops and string tension in two-dimensional QED with
+both massless and massive $N$-flavor fermions at zero and finite temperature.
+External charges, or external electric fields, induce phases in fermion masses
+and shift the value of the vacuum angle parameter $\theta$, which in turn
+alters the chiral condensate. In particular, in the presence of two sources of
+opposite charges, $q$ and $-q$, the shift in $\theta$ is $2\pi(q/e)$
+independent of $N$. The string tension has a cusp singularity at
+$\theta=\pm\pi$ for $N\ge 2$ and is proportional to $m^{2N/(N+1)}$ at $T=0$.
+</abstract>

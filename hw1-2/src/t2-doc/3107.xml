@@ -1,0 +1,23 @@
+<title>
+Improved variational description of the Wick-Cutkosky model with the
+  most general quadratic trial action
+</title>
+
+<abstract>
+  We generalize the worldline variational approach to field theory by
+introducing a trial action which allows for anisotropic terms to be induced by
+external 4-momenta of Green's functions. By solving the ensuing variational
+equations numerically we demonstrate that within the (quenched) scalar
+Wick-Cutkosky model considerable improvement can be achieved over results
+obtained previously with isotropic actions. In particular, the critical
+coupling associated with the instability of the model is lowered, in accordance
+with expectations from Baym's proof of the instability in the unquenched
+theory. The physical picture associated with a different quantum mechanical
+motion of the dressed particle along and perpendicular to its classical
+momentum is discussed. Indeed, we find that for large couplings the dressed
+particle is strongly distorted in the direction of its four-momentum. In
+addition, we obtain an exact relation between the renormalized coupling of the
+theory and the propagator. Along the way we introduce new and efficient methods
+to evaluate the averages needed in the variational approach and apply them to
+the calculation of the 2-point function.
+</abstract>

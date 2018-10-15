@@ -1,0 +1,25 @@
+<title>
+On limits of superstring in AdS_5 x S^5
+</title>
+
+<abstract>
+  The superstring action in AdS_5 x S^5 depends on two parameters: the inverse
+string tension a' and the radius R. The standard AdS/CFT correspondence
+requires that the string coordinates are rescaled so that the action depends
+only on one combination of the two: (\lambda)^{1/2} = R^2/a'. Then \lambda \to
+0 limit is equivalent to R \to 0 for fixed $a'$ or to the zero-tension limit in
+AdS_5 x S^5: a' \to \infty for fixed R. After reviewing previous work
+hep-th/0009171 on the light cone superstring we explicitly obtain the \lambda=
+0 form of its action. Its zero-mode part is the same as the superparticle
+action in AdS_5 x S^5, and thus the \lambda=0 string spectrum must include, as
+expected, the ``protected'' type IIB supergravity states. Following recent
+suggestions, it is conjectured that the spectrum of this tensionless string
+should as well contain higher spin massless states in AdS_5. We also discuss
+the case of another parametrization of the string action which has
+straightforward R\to\infty flat space limit but where R \to 0 and a' \to \infty
+limits are not equivalent. There R \to 0 corresponds to shrinking S^5 to zero
+the size and ``freezing'' the fluctuations of the radial coordinate of AdS_5.
+This case is the basis of the ``non-standard'' AdS/CFT correspondence suggested
+in hep-th/0010106. Parts of this work were presented in the talk at
+``Supergravity at 25'' conference, Stony Brook, December 1-2, 2001.
+</abstract>

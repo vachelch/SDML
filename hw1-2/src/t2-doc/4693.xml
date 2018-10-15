@@ -1,0 +1,19 @@
+<title>
+Algebraic Aspects of the Background Field Method
+</title>
+
+<abstract>
+  We discuss some algebraic properties of the background field method. We
+introduce an extra gauge-fixing term for the background gauge field right at
+the beginning in the action in such a way that BRST invariance is preserved.
+The background effective action is considered and it is shown to satisfy both
+the Slavnov-Taylor identities and the Ward identities. This allows to prove the
+background equivalence theorem by means of the standard techniques. We show
+that the Legendre transform W_{bg} of the background gauge invariant action
+gives the same physical amplitudes as the original one we started with.
+Moreover, we point out that W_{bg} cannot in general be derived from a
+classical action by the Gell-Mann-Low formula. Finally, we show that the BRST
+doublet generated from the background field does not modify the anomaly of the
+original underlying gauge theory. The proof is algebraic and makes no use of
+arguments based on power-counting.
+</abstract>

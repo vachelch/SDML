@@ -1,0 +1,28 @@
+<date>
+Tue, 22 Jul 97 17:57:06 +0100
+</date>
+
+<title>
+On Mirror Symmetry for Manifolds of Exceptional Holonomy
+</title>
+
+<abstract>
+  We consider Type II string theories on ${\bf T^n}/{{\bf Z_2}^m}$ Joyce
+orbifolds. This class contains orbifolds which can be desingularised to give
+manifolds of $G_2$ $({\bf n}$$=$$7)$ and $Spin(7)$ holonomy $({\bf n}$$=$$8)$.
+In the $G_2$ holonomy case we present two types of $T$-duality transformation
+which are clearly generalisations of the $T$-duality/mirror transformation in
+Calabi-Yau spaces. The first maps Type IIA theory on one such space from this
+class to Type IIB theory on another such space. The second maps Type IIA (IIB)
+to Type IIA (IIB). In the case of $Spin(7)$ holonomy we present a $T$-duality
+transformation which maps Type IIA (IIB) theory on one such space to Type IIA
+(IIB) on another such space. As orbifold conformal field theories these
+$T$-dual target spaces are related via the inclusion/exclusion of discrete
+torsion and the $T$-duality is proven to genus $g$ in string perturbation
+theory. We then apply a Strominger, Yau, Zaslow type argument which suggests
+that manifolds of $G_2$ holonomy which have a ``mirror'' of the first (second)
+type admit supersymmetric ${\bf T^3}$ (${\bf T^4}$) fibrations and that
+manifolds of $Spin(7)$ holonomy for which a mirror exists admit fibration by
+supersymmetric $4$-tori. Further evidence for this suggestion is given by
+examining the moduli space structure of wrapped D-branes.
+</abstract>

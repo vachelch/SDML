@@ -1,0 +1,17 @@
+<title>
+Partially-flat gauge fields on manifolds of dimension greater than four
+</title>
+
+<abstract>
+  We describe two extensions of the notion of a self-dual connection in a
+vector bundle over a manifold M from dim M=4 to higher dimensions. The first
+extension, Omega-self-duality, is based on the existence of an appropriate
+4-form Omega on the Riemannian manifold M and yields solutions of the
+Yang-Mills equations. The second is the notion of half-flatness, which is
+defined for manifolds with certain Grassmann structure T^C M \cong E \otimes H.
+In some cases, for example for hyper-Kaehler manifolds M, half-flatness implies
+Omega-self-duality. A construction of half-flat connections inspired by the
+harmonic space approach is described. Locally, any such connection can be
+obtained from a free prepotential by solving a system of linear first order
+ODEs.
+</abstract>

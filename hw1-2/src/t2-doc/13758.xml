@@ -1,0 +1,16 @@
+<title>
+Light-cone Hamiltonian flow for positronium
+</title>
+
+<abstract>
+  The technique of Hamiltonian flow equations is applied to the canonical
+Hamiltonian of quantum electrodynamics in the front form and 3+1 dimensions.
+  The aim is to generate a bound state equation in a quantum field theory,
+particularly to derive an effective Hamiltonian which is practically solvable
+in Fock-spaces with reduced particle number. The effective Hamiltonian,
+obtained as a solution of flow eqautions to the second order, is solved
+numerically for positronium spectrum. The impact of different similarity
+functions is explicitly studied.
+  The approach discussed can ultimately be used to address to the same problem
+for quantum chromodynamics.
+</abstract>

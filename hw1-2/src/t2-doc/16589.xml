@@ -1,0 +1,22 @@
+<title>
+Alternative Dimensional Reduction via the Density Matrix
+</title>
+
+<abstract>
+  We give graphical rules, based on earlier work for the functional Schrodinger
+equation, for constructing the density matrix for scalar and gauge fields at
+finite temperature T. More useful is a dimensionally-reduced effective action
+(DREA) constructed from the density matrix by further functional integration
+over the arguments of the density matrix coupled to a source. The DREA is an
+effective action in one less dimension which may be computed order by order in
+perturbation theory or by dressed-loop expansions; it encodes all thermal
+matrix elements. The DREA is useful because it gives a dimensionally-reduced
+field theory usable at any T including infinity, where it yields the usual
+dimensionally-reduced field theory (DRFT). However, it cannot and does not have
+spurious infinities which sometimes occur in the density matrix or the DRFT;
+these come from ln T factors at infinite temperature. An example of spurious
+divergences in the DRFT occurs in d 2+1 $\phi^4$ theory dimensionally reduced
+to d=2. We show that the rules for the DREA replace these "wrong" divergences
+in physical parameters by calculable powers of ln T; we also compute the phase
+transition temperature of this theory at one loop order.
+</abstract>

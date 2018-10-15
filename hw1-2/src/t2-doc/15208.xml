@@ -1,0 +1,15 @@
+<title>
+Algebra of one-particle operators for the Calogero model
+</title>
+
+<abstract>
+  An algebra ${\cal G}$ of symmetric {\em one-particle} operators is
+constructed for the Calogero model. This is an infinite-dimensional
+Lie-algebra, which is independent of the interaction parameter $\lambda$ of the
+model. It is constructed in terms of symmetric polynomials of raising and
+lowering operators which satisfy the commutation relations of the $S_N$-{\em
+extended} Heisenberg algebra. We interpret ${\cal G}$ as the algebra of
+observables for a system of identical particles on a line. The parameter
+$\lambda$, which characterizes (a class of) irreducible representations of the
+algebra, is interpreted as a statistics parameter for the identical particles.
+</abstract>

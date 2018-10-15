@@ -1,0 +1,19 @@
+<date>
+Fri, 21 May 93 18:51:24 +1000
+</date>
+
+<title>
+Vertex operators in solvable lattice models
+</title>
+
+<abstract>
+  We formulate the basic properties of q-vertex operators in the context of the
+Andrews-Baxter-Forrester (ABF) series, as an example of face-interaction
+models, derive the q-difference equations satisfied by their correlation
+functions, and establish their connection with representation theory. We also
+discuss the q-difference equations of the Kashiwara-Miwa (KM) series, as an
+example of edge-interaction models. Next, the Ising model--the simplest special
+case of both ABF and KM series--is studied in more detail using the
+Jordan-Wigner fermions. In particular, all matrix elements of vertex operators
+are calculated.
+</abstract>

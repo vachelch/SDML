@@ -1,0 +1,28 @@
+<date>
+Thu, 15 Jun 2000 12:06:06 GMT
+</date>
+
+<title>
+Matter Coupled F(4) Supergravity and the AdS_6/CFT_5 Correspondence
+</title>
+
+<abstract>
+  F(4) supergravity, the gauge theory of the exceptional six-dimensional
+Anti-de Sitter superalgebra, is coupled to an arbitrary number of vector
+multiplets whose scalar components parametrize the quaternionic manifold
+$SO(4,n)/SO(4)\times SO(n)$. By gauging the compact subgroup $SU(2)_d \otimes
+\cG$, where SU(2)_d is the diagonal subgroup of $SO(4)\simeq SU(2)_L\otimes
+SU(2)_R$ (the R-symmetry group of six-dimensional Poincar\'e supergravity) and
+$\cG$ is a compact group such that $dim\cG = n$, we compute the scalar
+potential which, besides the gauge coupling constants, also depends in non
+trivial way on the parameter m associated to a massive 2-form $B_{\mu\nu}$ of
+the gravitational multiplet. The potential admits an AdS background for g=3m,
+as the pure F(4)-supergravity. We compute the scalar squared masses (which are
+all negative) and retrieve the results dictated by AdS_6/CFT_5 correspondence
+from the conformal dimensions of boundary operators. The boundary F(4)
+superconformal fields are realized in terms of a singleton superfield
+(hypermultiplet) in harmonic superspace with flag manifold SU(2)/U(1)=S^2. We
+analize the spectrum of short representations in terms of superconformal
+primaries and predict general features of the K-K specrum of massive type IIA
+supergravity compactified on warped $AdS_6\otimes S^4$.
+</abstract>

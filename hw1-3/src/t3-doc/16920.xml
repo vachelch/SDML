@@ -1,0 +1,21 @@
+<date>
+Thu, 26 Jun 1997 15:52:53 +0900 (KST)
+</date>
+
+<title>
+Second Virial Coefficient of Anyons without Hard Core
+</title>
+
+<abstract>
+  We calculate the second virial coefficient of anyons whose wave function does
+not vanish at coincidence points. This kind of anyons appear naturally when one
+generalizes the hard-core boundary condition according to self-adjoint
+extension method in quantum mechanics, and also when anyons are treated field
+theoretically by applying renormalization procedure to nonrelativistic
+Chern-Simons field theory. For the anyons which do not satisfy hard-core
+boundary condition, it is argued that the other scale-invariant limit is more
+relevant in high-temperature limit where virial expansion is useful.
+Furthermore, the cusp existing at the bosonic point for hard-core anyons
+disappears in all the other cases; instead it is shown that a new cusp is
+generated at the fermionic point. A physical explanation is given.
+</abstract>

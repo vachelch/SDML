@@ -1,0 +1,30 @@
+<date>
+Wed, 11 Jan 1995 13:37:03 +0100
+</date>
+
+<title>
+NON-LOCAL EXTENSIONS OF THE CONFORMAL ALGEBRA : MATRIX $W$-ALGEBRAS,
+  MATRIX KdV-HIERARCHIES AND NON-ABELIAN TODA THEORIES,
+</title>
+
+<abstract>
+In the present contribution, I report on certain {\it non-linear} and {\it
+non-local} extensions of the conformal (Virasoro) algebra. These so-called
+$V$-algebras are matrix generalizations of $W$-algebras. First, in the context
+of two-dimensional field theory, I discuss the non-abelian Toda model which
+possesses three conserved (chiral) ``currents". The Poisson brackets of these
+``currents" give the simplest example of a $V$-algebra. The classical solutions
+of this model provide a free-field realization of the $V$-algebra. Then I show
+that this $V$-algebra is identical to the second Gelfand-Dikii symplectic
+structure on the manifold of $2\times 2$-matrix Schr\"odinger operators
+$L=-\d^2+U$ (with $\tr\sigma_3 U=0$). This provides a relation with matrix
+KdV-hierarchies and allows me to obtain an infinite family of conserved charges
+(Hamiltonians in involution). Finally, I work out the general
+$V_{n,m}$-algebras as symplectic structures based on $n\times n$-matrix $m^{\rm
+th}$-order differential operators $L=-\d^m +U_2\d^{m-2}+U_3 \d^{m-3}+\ldots
++U_m$. It is the absence of $U_1$, together with the non-commutativity of
+matrices that leads to the non-local terms in the $V_{n,m}$-algebras. I show
+that the conformal properties are similar to those of $W_m$-algebras, while the
+complete $V_{n,m}$-algebras are much more complicated, as is shown on the
+explicit example of $V_{n,3}$.
+</abstract>

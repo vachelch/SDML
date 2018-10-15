@@ -1,0 +1,17 @@
+<title>
+On the ground state energy for a penetrable sphere and for a dielectric
+  ball
+</title>
+
+<abstract>
+  We analyse the ultraviolet divergencies in the ground state energy for a
+penetrable sphere and a dielectric ball. We argue that for massless fields
+subtraction of the ``empty space'' or the ``unbounded medium'' contribution is
+not enough to make the ground state energy finite whenever the heat kernel
+coefficient $a_2$ is not zero. It turns out that $a_2\ne 0$ for a penetrable
+sphere, a general dielectric background and the dielectric ball. To our
+surprise, for more singular configurations, as in the presence of sharp
+boundaries, the heat kernel coefficients behave to some extend better than in
+the corresponding smooth cases, making, for instance, the dilute dielectric
+ball a well defined problem.
+</abstract>

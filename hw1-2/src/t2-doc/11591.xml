@@ -1,0 +1,17 @@
+<title>
+Renormalizing DLCQ Using Supersymmetry
+</title>
+
+<abstract>
+  Recent string theory developments suggest the necessity to understand
+supersymmetric gauge theories non-perturbatively, in various dimensions. In
+this work we show that there is a standard Hamiltonian formulation that
+generates a finite and supersymmetric result at every order of the DLCQ
+approximation scheme. We present this DLCQ renormalized Hamiltonian and solve
+for the bound states and the wave functions to verify that it exactly
+reproduces the large N SDLCQ results. We find that it has two novel features:
+it automatically chooses the t'Hooft prescription for renormalizing the
+singularities and it introduces irrelevant operators that serve to preserve the
+supersymmetry and improve the convergence. This is a first step in extending
+the advantages of SDLCQ to non-supersymmetric theories.
+</abstract>

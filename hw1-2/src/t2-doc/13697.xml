@@ -1,0 +1,12 @@
+<title>
+Combinatorial expression for universal Vassiliev link invariant
+</title>
+
+<abstract>
+  The most general R-matrix type state sum model for link invariants is
+constructed. It contains in itself all R-matrix invariants and is a generating
+function for "universal" Vassiliev link invariants. This expression is more
+simple than Kontsevich's expression for the same quantity, because it is
+defined combinatorially and does not contain any integrals, except for an
+expression for "the universal Drinfeld's associator".
+</abstract>

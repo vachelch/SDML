@@ -1,0 +1,25 @@
+<date>
+Wed, 6 Aug 97 14:44:11 -0600
+</date>
+
+<title>
+Supersymmetry and the Multi-Instanton Measure
+</title>
+
+<abstract>
+  We propose explicit formulae for the integration measure on the moduli space
+of charge-n ADHM multi-instantons in N=1 and N=2 supersymmetric gauge theories.
+The form of this measure is fixed by its (super)symmetries as well as the
+physical requirement of clustering in the limit of large spacetime separation
+between instantons. We test our proposals against known expressions for n < 3.
+Knowledge of the measure for all n allows us to revisit, and strengthen,
+earlier N=2 results, chiefly: (1) For any number of flavors N_F, we provide a
+closed formula for F_n, the n-instanton contribution to the Seiberg-Witten
+prepotential, as a finite-dimensional collective coordinate integral. This
+amounts to a solution, in quadratures, of the Seiberg-Witten models, without
+appeal to electric-magnetic duality. (2) In the conformal case N_F=4, this
+means reducing to quadratures the previously unknown finite renormalization
+that relates the microscopic and effective coupling constants, \tau_{micro} and
+\tau_{eff}. (3) Similar expressions are given for the 4-derivative/8-fermion
+term in the gradient expansion of N=2 supersymmetric QCD.
+</abstract>

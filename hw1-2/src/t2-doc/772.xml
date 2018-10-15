@@ -1,0 +1,20 @@
+<title>
+Some Observations on Non-covariant Gauges and the epsilon-term
+</title>
+
+<abstract>
+  We consider the Lagrangian path-integrals in Minkowski space for gauges with
+a residual gauge-invariance. From rather elementary considerations, we
+demonstrate the necessity of inclusion of an epsilon-term (even) in the formal
+treatments, without which one may reach incorrect conclusions. We show,
+further, that the epsilon-term can contribute to the BRST WT-identities in a
+nontrivial way (even as epsilon-->0). We also show that the (expectation value
+of the) correct epsilon-term satisfies an algebraic condition. We show by
+considering (a commonly used) example of a simple local quadratic epsilon
+-term, that they lead to additional constraints on Green's function that are
+not normally taken into account in the BRST formalism that ignores the
+epsilon-term, and that they are characteristic of the way the singularities in
+propagators are handled. We argue that for a subclass of these gauges, the
+Minkowski path-integral could not be obtained by a Wick rotation from a
+Euclidean path-integral.
+</abstract>

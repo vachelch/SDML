@@ -1,0 +1,21 @@
+<date>
+Wed, 15 Mar 2000 15:49:59 GMT
+</date>
+
+<title>
+Noncommutative Riemann Surfaces
+</title>
+
+<abstract>
+  We compactify M(atrix) theory on Riemann surfaces Sigma with genus g>1.
+Following [1], we construct a projective unitary representation of pi_1(Sigma)
+realized on L^2(H), with H the upper half-plane. As a first step we introduce a
+suitably gauged sl_2(R) algebra. Then a uniquely determined gauge connection
+provides the central extension which is a 2-cocycle of the 2nd Hochschild
+cohomology group. Our construction is the double-scaling limit N\to\infty,
+k\to-\infty of the representation considered in the Narasimhan-Seshadri
+theorem, which represents the higher-genus analog of 't Hooft's clock and shift
+matrices of QCD. The concept of a noncommutative Riemann surface Sigma_\theta
+is introduced as a certain C^\star-algebra. Finally we investigate the Morita
+equivalence.
+</abstract>

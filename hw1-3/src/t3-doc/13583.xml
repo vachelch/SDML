@@ -1,0 +1,19 @@
+<date>
+Tue, 29 Apr 2003 13:19:48 GMT
+</date>
+
+<title>
+E11 as E10 representation at low levels
+</title>
+
+<abstract>
+  The Lorentzian Kac-Moody algebra E11, obtained by doubly overextending the
+compact E8, is decomposed into representations of its canonical hyperbolic E10
+subalgebra. Whereas the appearing representations at levels 0 and 1 are known
+on general grounds, higher level representations can currently only be obtained
+by recursive methods. We present the results of such an analysis up to height
+120 in E11 which comprises representations on the first five levels. The
+algorithms used are a combination of Weyl orbit methods and standard methods
+based on the Peterson and Freudenthal formulae. In the appendices we give all
+multiplicities of E10 occuring up to height 340 and for E11 up to height 240.
+</abstract>

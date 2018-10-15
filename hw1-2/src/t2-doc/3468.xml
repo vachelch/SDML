@@ -1,0 +1,26 @@
+<title>
+Arithmetic Properties of Mirror Map and Quantum Coupling
+</title>
+
+<abstract>
+  We study some arithmetic properties of the mirror maps and the quantum Yukawa
+coupling for some 1-parameter deformations of Calabi-Yau manifolds. First we
+use the Schwarzian differential equation, which we derived previously, to
+characterize the mirror map in each case. For algebraic K3 surfaces, we solve
+the equation in terms of the $J$-function. By deriving explicit modular
+relations we prove that some K3 mirror maps are algebraic over the genus zero
+function field ${\bf Q}(J)$. This leads to a uniform proof that those mirror
+maps have integral Fourier coefficients. Regarding the maps as Riemann
+mappings, we prove that they are genus zero functions. By virtue of the
+Conway-Norton conjecture (proved by Borcherds using Frenkel-Lepowsky-Meurman's
+Moonshine module), we find that these maps are actually the reciprocals of the
+Thompson series for certain conjugacy classes in the Griess-Fischer group. This
+also gives, as an immediate consequence, a second proof that those mirror maps
+are integral. We thus conjecture a surprising connection between K3 mirror maps
+and the Thompson series. For threefolds, we construct a formal nonlinear ODE
+for the quantum coupling reduced $mod\ p$. Under the mirror hypothesis and an
+integrality assumption, we derive $mod~p$ congruences for the Fourier
+coefficients. For the quintics, we deduce (at least for $5\not{|}d$) that the
+degree $d$ instanton numbers $n_d$ are divisible by $5^3$ -- a fact first
+conjectured by Clemens.
+</abstract>

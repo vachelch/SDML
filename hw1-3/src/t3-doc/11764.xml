@@ -1,0 +1,25 @@
+<date>
+Fri, 4 May 2001 21:00:33 GMT
+</date>
+
+<title>
+Stability of AdS_p x M_q Compactifications Without Supersymmetry
+</title>
+
+<abstract>
+  We study the stability of Freund-Rubin compactifications, AdS_p x M_q, of
+p+q-dimensional gravity theories with a q-form field strength and no
+cosmological term. We show that the general AdS_p x S^q vacuum is classically
+stable against small fluctuations, in the sense that all modes satisfy the
+Breitenlohner-Freedman bound. In particular, the compactifications used in the
+recent discussion of the proposed bosonic M-theory are perturbatively stable.
+Our analysis treats all modes arising from the graviton and the q-form, and is
+completely independent of supersymmetry. From the masses of the linearized
+perturbations, we obtain the dimensions of some operators in possible
+holographic dual CFT's. Solutions with more general compact Einstein spaces
+need not be stable, and in particular AdS_p x S^n x S^{q-n} is unstable for q <
+9 but is stable for q >= 9. We also study the AdS_4 x S^6 compactification of
+massive type IIA supergravity, which differs from the usual Freund-Rubin
+compactification in that there is a cosmological term already in ten
+dimensions. This nonsupersymmetric vacuum is unstable.
+</abstract>

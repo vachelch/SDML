@@ -1,0 +1,26 @@
+<title>
+Lorentzian and Euclidean Quantum Gravity - Analytical and Numerical
+  Results
+</title>
+
+<abstract>
+  We review some recent attempts to extract information about the nature of
+quantum gravity, with and without matter, by quantum field theoretical methods.
+More specifically, we work within a covariant lattice approach where the
+individual space-time geometries are constructed from fundamental simplicial
+building blocks, and the path integral over geometries is approximated by
+summing over a class of piece-wise linear geometries. This method of
+``dynamical triangulations'' is very powerful in 2d, where the regularized
+theory can be solved explicitly, and gives us more insights into the quantum
+nature of 2d space-time than continuum methods are presently able to provide.
+It also allows us to establish an explicit relation between the Lorentzian- and
+Euclidean-signature quantum theories. Analogous regularized gravitational
+models can be set up in higher dimensions. Some analytic tools exist to study
+their state sums, but, unlike in 2d, no complete analytic solutions have yet
+been constructed. However, a great advantage of our approach is the fact that
+it is well-suited for numerical simulations. In the second part of this review
+we describe the relevant Monte Carlo techniques, as well as some of the
+physical results that have been obtained from the simulations of Euclidean
+gravity. We also explain why the Lorentzian version of dynamical triangulations
+is a promising candidate for a non-perturbative theory of quantum gravity.
+</abstract>

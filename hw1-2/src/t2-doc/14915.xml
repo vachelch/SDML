@@ -1,0 +1,22 @@
+<title>
+Generalized parity transformations in the regularized Chern-Simons
+  theory
+</title>
+
+<abstract>
+  We study renormalization effects in the Abelian Chern-Simons (CS) action.
+These effects can be non-trivial when the gauge field is coupled to dynamical
+matter, since the regularization of the UV divergences in the model forces the
+introduction of a parity even piece in the gauge field action. This changes the
+classical (odd) transformation properties of the pure CS action. This effect,
+already discussed for the case of a lattice regularization by F. Berruto, M.C.
+Diamantini and P. Sodano in hep-th/0004203, is also present when the theory is
+defined in the continuum and, indeed, it is a manifestation of a more general
+`anomalous' effect, since it happens for every regularization scheme. We
+explore the physical consequences of this anomaly. We also show that
+generalized, nonlocal parity transformations can be defined in such a way that
+the regularized theory is odd, and that those transformations tend to the usual
+ones when the cutoff is removed. These generalized transformations play a role
+that is tantamount to the deformed symmetry corresponding to Ginsparg-Wilson
+fermions [2] (in an even number of spacetime dimensions).
+</abstract>

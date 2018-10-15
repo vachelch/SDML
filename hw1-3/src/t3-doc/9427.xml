@@ -1,0 +1,22 @@
+<date>
+Thu, 9 May 1996 09:16:59 +0300 (EET DST)
+</date>
+
+<title>
+The Geometry of Self-dual 2-forms
+</title>
+
+<abstract>
+  We show that self-dual 2-forms in 2n dimensional spaces determine a $n^2-n+1$
+dimensional manifold ${\cal S}_{2n}$ and the dimension of the maximal linear
+subspaces of ${\cal S}_{2n}$ is equal to the (Radon-Hurwitz) number of linearly
+independent vector fields on the sphere $S^{2n-1}$. We provide a direct proof
+that for $n$ odd ${\cal S}_{2n}$ has only one-dimensional linear submanifolds.
+We exhibit $2^c-1$ dimensional subspaces in dimensions which are multiples of
+$2^c$, for $c=1,2,3$. In particular, we demonstrate that the seven dimensional
+linear subspaces of ${\cal S}_{8}$ also include among many other interesting
+classes of self-dual 2-forms, the self-dual 2-forms of Corrigan, Devchand,
+Fairlie and Nuyts and a representation of ${\cal C}l_7$
+ given by octonionic multiplication. We discuss the relation of the linear
+subspaces with the representations of Clifford algebras.
+</abstract>

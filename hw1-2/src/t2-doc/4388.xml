@@ -1,0 +1,21 @@
+<title>
+On the Structure of the Small Quantum Cohomology Rings of Projective
+  Hypersurfaces
+</title>
+
+<abstract>
+  We give an explicit procedure which computes for degree $d \leq 3$ the
+correlation functions of topological sigma model (A-model) on a projective Fano
+hypersurface $X$ as homogeneous polynomials of degree $d$ in the correlation
+functions of degree 1 (number of lines). We extend this formalism to the case
+of Calabi-Yau hypersurfaces and explain how the polynomial property is
+preserved. Our key tool is the construction of universal recursive formulas
+which express the structural constants of the quantum cohomology ring of $X$ as
+weighted homogeneous polynomial functions in the constants of the Fano
+hypersurface with the same degree and dimension one more. We propose some
+conjectures about the existence and the form of the recursive formulas for the
+structural constants of rational curves of arbitrary degree. Our recursive
+formulas should yield the coefficients of the hypergeometric series used in the
+mirror calculation. Assuming the validity of the conjectures we find the
+recursive laws for rational curves of degree 4 and 5.
+</abstract>

@@ -1,0 +1,18 @@
+<title>
+Noncommutative instantons: a new approach
+</title>
+
+<abstract>
+  We discuss instantons on noncommutative four-dimensional Euclidean space. In
+commutative case one can consider instantons directly on Euclidean space, then
+we should restrict ourselves to the gauge fields that are gauge equivalent to
+the trivial field at infinity. However, technically it is more convenient to
+work on four-dimensional sphere.
+  We will show that the situation in noncommutative case is quite similar. One
+can analyze instantons taking as a starting point the algebra of smooth
+functions vanishing at infinity, but it is convenient to add a unit element to
+this algebra (this corresponds to a transition to a sphere at the level of
+topology). Our approach is more rigorous than previous considerations ; it
+seems that it is also simpler and more transparent. In particular, we obtain
+the ADHM equations in a very simple way.
+</abstract>

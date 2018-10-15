@@ -1,0 +1,17 @@
+<title>
+SU3 isoscalar factors
+</title>
+
+<abstract>
+  A summary of the properties of the Wigner Clebsch-Gordan coefficients and
+isoscalar factors for the group SU3 in the SU2$\otimes$U1 decomposition is
+presented. The outer degeneracy problem is discussed in detail with a proof of
+a conjecture (Braunschweig's) which has been the basis of previous work on the
+SU3 coupling coefficients. Recursion relations obeyed by the SU3 isoscalar
+factors are produced, along with an algorithm which allows numerical
+determination of the factors from the recursion relations. The algorithm
+produces isoscalar factors which share all the symmetry properties under
+permutation of states and conjugation which are familiar from the SU2 case. The
+full set of symmetry properties for the SU3 Wigner-Clebsch-Gordan coefficients
+and isoscalar factors are displayed.
+</abstract>

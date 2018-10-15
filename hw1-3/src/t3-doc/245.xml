@@ -1,0 +1,17 @@
+<date>
+Fri, 12 Feb 93 13:57:24 SET
+</date>
+
+<title>
+Master Equations for Extended Lagrangian BRST Symmetries
+</title>
+
+<abstract>
+  Starting from the requirement that a Lagrangian field theory be invariant
+under both Schwinger-Dyson BRST and Schwinger-Dyson anti-BRST symmetry, we
+derive the BRST--anti-BRST analogue of the Batalin-Vilkovisky formalism. This
+is done through standard Lagrangian gauge fixing respecting the extended BRST
+symmetry. The solutions of the resulting Master Equation and the gauge-fixing
+procedure for the quantum action can be brought into forms that coincide with
+those obtained earlier on algebraic grounds by Batalin, Lavrov and Tyutin.
+</abstract>

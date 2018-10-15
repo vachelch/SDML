@@ -1,0 +1,15 @@
+<date>
+Sun, 08 Aug 93 23:19:42 MET
+</date>
+
+<title>
+Virasoro Singular Vectors via Quantum DS Reduction
+</title>
+
+<abstract>
+  The BRST quantisation of the Drinfeld - Sokolov reduction is exploited to
+recover all singular vectors of the Virasoro algebra Verma modules from the
+corresponding $A^{(1)}_1\,$ ones. The two types of singular vectors are shown
+to be identical modulo terms trivial in the $Q_{BRST}$ cohomology. The main
+tool is a quantum version of the DS gauge transformation.
+</abstract>

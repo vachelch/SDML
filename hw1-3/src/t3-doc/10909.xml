@@ -1,0 +1,29 @@
+<date>
+Mon, 01 Jul 1996 14:51:32 EET
+</date>
+
+<title>
+Two-Dimensional Instantons with Bosonization and Physics of Adjoint
+  $QCD_2$
+</title>
+
+<abstract>
+  We evaluate partition functions $Z_I$ in topologically nontrivial (instanton)
+gauge sectors in the bosonized version of the Schwinger model and in a gauged
+WZNW model corresponding to $QCD_2$ with adjoint fermions. We show that the
+bosonized model is equivalent to the fermion model only if a particular form of
+the WZNW action with gauge-invariant integrand is chosen. For the exact
+correspondence, it is necessary to integrate over the ways the gauge group
+$SU(N)/Z_N$ is embedded into the full $O(N^2 - 1)$ group for the bosonized
+matter field. For even $N$, one should also take into account the contributions
+of both disconnected components in $O(N^2 - 1)$. In that case, $Z_I \propto
+m^{n_0}$ for small fermion masses where $2n_0$ coincides with the number of
+fermion zero modes in a particular instanton background. The Taylor expansion
+of $Z_I/m^{n_0}$ in mass involves only even powers of $m$ as it should. The
+physics of adjoint $QCD_2$ is discussed. We argue that, for odd $N$, the
+discrete chiral symmetry $Z_2 \otimes Z_2$ present in the action is broken
+spontaneously down to $Z_2$ and the fermion condensate $<\bar{\lambda}
+\lambda>_0$ is formed. The system undergoes a first order phase transition at
+$T_c = 0$ so that the condensate is zero at an arbitrary small temperature. It
+is not yet quite clear what happens for even $N \geq 4$.
+</abstract>

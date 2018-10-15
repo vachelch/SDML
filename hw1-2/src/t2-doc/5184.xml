@@ -1,0 +1,15 @@
+<title>
+Jet Bundles in Quantum Field Theory: The BRST-BV method
+</title>
+
+<abstract>
+  The geometric interpretation of the Batalin-Vilkovisky antibracket as the
+Schouten bracket of functional multivectors is examined in detail. The
+identification is achieved by the process of repeated contraction of even
+functional multivectors with fermionic functional 1-forms. The classical master
+equation may then be considered as a generalisation of the Jacobi identity for
+Poisson brackets, and the cohomology of a nilpotent even functional multivector
+is identified with the BRST cohomology. As an example, the BRST-BV formulation
+of gauge fixing in theories with gauge symmetries is reformulated in the jet
+bundle formalism. (Hopefully this version will be TeXable)
+</abstract>

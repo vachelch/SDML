@@ -1,0 +1,27 @@
+<date>
+Wed, 9 Oct 2002 06:58:24 GMT
+</date>
+
+<title>
+Linear Sigma model in the Gaussian wave functional approximation II:
+  Analyticity of the S-matrix and the effective potential/action
+</title>
+
+<abstract>
+  We show an explicit connection between the solution to the equations of
+motion in the Gaussian functional approximation and the minimum of the
+(Gaussian) effective potential/action of the linear $\Sigma$ model, as well as
+with the N/D method in dispersion theory. The resulting equations contain
+analytic functions with branch cuts in the complex mass squared plane.
+Therefore the minimum of the effective action may lie in the complex mass
+squared plane. Many solutions to these equations can be found on the second,
+third, etc. Riemann sheets of the equation, though their physical
+interpretation is not clear. Our results and the established properties of the
+S-matrix in general, and of the N/D solutions in particular, guide us to the
+correct choice of the Riemann sheet. We count the number of states and find
+only one in each spin-parity and isospin channel with quantum numbers
+corresponding to the fields in the Lagrangian, i.e. to Castillejo-Dalitz-Dyson
+(CDD) poles. We examine the numerical solutions in both the strong and weak
+coupling regimes and calculate the Kallen-Lehmann spectral densities and then
+use them for physical interpretation.
+</abstract>

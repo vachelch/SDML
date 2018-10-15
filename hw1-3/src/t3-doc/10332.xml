@@ -1,0 +1,27 @@
+<date>
+Mon, 27 Nov 1995 15:59:04 -0500 (EST)
+</date>
+
+<title>
+Overview and Warmup Example for Perturbation Theory with Instantons
+</title>
+
+<abstract>
+  The large $k$ asymptotics (perturbation series) for integrals of the form
+$\int_{\cal F}\mu e^{i k S}$, where $\mu$ is a smooth top form and $S$ is a
+smooth function on a manifold ${\cal F}$, both of which are invariant under the
+action of a symmetry group ${\cal G}$, may be computed using the stationary
+phase approximation. This perturbation series can be expressed as the integral
+of a top form on the space $\cM$ of critical points of $S$ mod the action of
+${\cal G}$. In this paper we overview a formulation of the ``Feynman rules''
+computing this top form and a proof that the perturbation series one obtains is
+independent of the choice of metric on ${\cal F}$ needed to define it. We also
+overview how this definition can be adapted to the context of $3$-dimensional
+Chern--Simons quantum field theory where ${\cal F}$ is infinite dimensional.
+This results in a construction of new differential invariants depending on a
+closed, oriented $3$-manifold $M$ together with a choice of smooth component of
+the moduli space of flat connections on $M$ with compact structure group $G$.
+To make this paper more accessible we warm up with a trivial example and only
+give an outline of the proof that one obtains invariants in the Chern--Simons
+case. Full details will appear elsewhere.
+</abstract>

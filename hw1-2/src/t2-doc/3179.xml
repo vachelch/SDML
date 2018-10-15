@@ -1,0 +1,14 @@
+<title>
+Statistical Mechanics of Kinks in (1+1)-Dimensions
+</title>
+
+<abstract>
+  We investigate the thermal equilibrium properties of kinks in a classical
+$\phi^4$ field theory in $1+1$ dimensions. The distribution function, kink
+density, and correlation function are determined from large scale simulations.
+A dilute gas description of kinks is shown to be valid below a characteristic
+temperature. A double Gaussian approximation to evaluate the eigenvalues of the
+transfer operator enables us to extend the theoretical analysis to higher
+temperatures where the dilute gas approximation fails. This approach accurately
+predicts the temperature at which the kink description breaks down.
+</abstract>

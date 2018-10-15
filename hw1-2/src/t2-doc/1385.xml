@@ -1,0 +1,25 @@
+<title>
+Index-free Heat Kernel Coefficients
+</title>
+
+<abstract>
+  Using index-free notation, we present the diagonal values of the first five
+heat kernel coefficients associated with a general Laplace-type operator on a
+compact Riemannian space without boundary. The fifth coefficient appears here
+for the first time. For a flat space with a gauge connection, the sixth
+coefficient is given too. Also provided are the leading terms for any
+coefficient, both in ascending and descending powers of the Yang-Mills and
+Riemann curvatures, to the same order as required for the fourth coefficient.
+These results are obtained by directly solving the relevant recursion
+relations, working in Fock-Schwinger gauge and Riemann normal coordinates. Our
+procedure is thus noncovariant, but we show that for any coefficient the
+`gauged' respectively `curved' version is found from the corresponding
+`non-gauged' respectively `flat' coefficient by making some simple covariant
+substitutions. These substitutions being understood, the coefficients retain
+their `flat' form and size. In this sense the fifth and sixth coefficient have
+only 26 and 75 terms respectively, allowing us to write them down. Using
+index-free notation also clarifies the general structure of the heat kernel
+coefficients. In particular, in flat space we find that from the fifth
+coefficient onward, certain scalars are absent. This may be relevant for the
+anomalies of quantum field theories in ten or more dimensions.
+</abstract>

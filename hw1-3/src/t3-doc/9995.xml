@@ -1,0 +1,20 @@
+<date>
+Wed, 12 May 93 02:22:29 +0200
+</date>
+
+<title>
+Large $N$ Phase Transition in Continuum QCD$_2$
+</title>
+
+<abstract>
+  We compute the exact partition function for pure continuous Yang-Mills theory
+on the two-sphere in the large $N$ limit, and find that it exhibits a large $N$
+third order phase transition with respect to the area $A$ of the sphere. The
+weak coupling (small A) partition function is trivial, while in the strong
+coupling phase (large A) it is expressed in terms of elliptic integrals. We
+expand the strong coupling result in a double power series in $e^{-g^2 A}$ and
+$g^2 A$ and show that the terms are the weighted sums of branched coverings
+proposed by Gross and Taylor. The Wilson loop in the weak coupling phase does
+not show the simple area law. We discuss some consequences for higher
+dimensions.
+</abstract>

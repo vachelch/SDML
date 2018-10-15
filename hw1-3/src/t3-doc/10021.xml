@@ -1,0 +1,22 @@
+<date>
+Fri, 4 Jun 1999 23:09:16 GMT
+</date>
+
+<title>
+Local Mirror Symmetry at Higher Genus
+</title>
+
+<abstract>
+  We discuss local mirror symmetry for higher-genus curves. Specifically, we
+consider the topological string partition function of higher-genus curves
+contained in a Fano surface within a Calabi-Yau. Our main example is the local
+P^2 case. The Kodaira-Spencer theory of gravity, tailored to this local
+geometry, can be solved to compute this partition function. Then, using the
+results of Gopakumar and Vafa and the local mirror map, the partition function
+can be rewritten in terms of expansion coefficients, which are found to be
+integers. We verify, through localization calculations in the A-model, many of
+these Gromov-Witten predictions. The integrality is a mystery, mathematically
+speaking. The asymptotic growth (with degree) of the invariants is analyzed.
+Some suggestions are made towards an enumerative interpretation, following the
+BPS-state description of Gopakumar and Vafa.
+</abstract>

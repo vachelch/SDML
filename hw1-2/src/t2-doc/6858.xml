@@ -1,0 +1,16 @@
+<title>
+Gradient formula for linearly self-interacting branes
+</title>
+
+<abstract>
+  The computation of long range linear self-interaction forces in string and
+higher dimensional brane models requires the evaluation of the gradients of
+regularised values of divergent self-interaction potentials. It is shown that
+the appropriately regularised gradient in directions orthogonal to the brane
+surface will always be obtainable simply by multiplying the regularised
+potential components by just half the trace of the second fundamental tensor,
+except in the hypermembrane case for which the method fails. Whatever the
+dimension of the background this result is valid provided the codimension is
+two (the hyperstring case) or more, so it can be used for investigating
+brane-world scenarios with more than one extra space dimension.
+</abstract>

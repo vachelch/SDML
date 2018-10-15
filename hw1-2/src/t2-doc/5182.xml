@@ -1,0 +1,14 @@
+<title>
+Structure Constants and Conformal Bootstrap in Liouville Field Theory
+</title>
+
+<abstract>
+  An analytic expression is proposed for the three-point function of the
+exponential fields in the Liouville field theory on a sphere. In the classical
+limit it coincides with what the classical Liouville theory predicts. Using
+this function as the structure constant of the operator algebra we construct
+the four-point function of the exponential fields and verify numerically that
+it satisfies the conformal bootstrap equations, i.e., that the operator algebra
+thus defined is associative. We consider also the Liouville reflection
+amplitude which follows explicitly from the structure constants.
+</abstract>

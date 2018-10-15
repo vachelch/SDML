@@ -1,0 +1,29 @@
+<date>
+Tue, 16 Mar 1999 09:00:53 GMT
+</date>
+
+<title>
+Addenda and corrections to work done on the path-integral approach to
+  classical mechanics
+</title>
+
+<abstract>
+  In this paper we continue the study of the path-integral formulation of
+classical mechanics and in particular we better clarify, with respect to
+previous papers, the geometrical meaning of the variables entering this
+formulation. With respect to the first paper with the same title, we {\it
+correct} here the set of transformations for the auxiliary variables
+$\lambda_{a}$. We prove that under this new set of transformations the
+Hamiltonian ${\widetilde{\cal H}}$, appearing in our path-integral, is an exact
+scalar and the same for the Lagrangian. Despite this different transformation,
+the variables $\lambda_{a}$ maintain the same operatorial meaning as before but
+on a different functional space. Cleared up this point we then show that the
+space spanned by the whole set of variables ($\phi, c, \lambda,\bar c$) of our
+path-integral is the cotangent bundle to the {\it reversed-parity} tangent
+bundle of the phase space ${\cal M}$ of our system and it is indicated as
+$T^{\star}(\Pi T{\cal M})$. In case the reader feel uneasy with this strange
+{\it Grassmannian} double bundle, we show in this paper that it is possible to
+build a different path-integral made only of {\it bosonic} variables. These
+turn out to be the coordinates of $T^{\star}(T^{\star}{\cal M})$ which is the
+double cotangent bundle of phase-space.
+</abstract>

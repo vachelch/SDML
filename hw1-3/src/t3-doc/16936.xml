@@ -1,0 +1,29 @@
+<date>
+Sun, 11 Nov 2001 19:47:29 GMT
+</date>
+
+<title>
+Non-Linear Sigma Model on Conifolds
+</title>
+
+<abstract>
+  Explicit solutions to the conifold equations with complex dimension $n=3,4$
+in terms of {\it{complex coordinates (fields)}} are employed to construct the
+Ricci-flat K\"{a}hler metrics on these manifolds. The K\"{a}hler 2-forms are
+found to be closed. The complex realization of these conifold metrics are used
+in the construction of 2-dimensional non-linear sigma model with the conifolds
+as target spaces. The action for the sigma model is shown to be bounded from
+below. By a suitable choice of the 'integration constants', arising in the
+solution of Ricci flatness requirement, the metric and the equations of motion
+are found to be {\it{non-singular}}. As the target space is Ricci flat, the
+perturbative 1-loop counter terms being absent, the model becomes topological.
+The inherent U(1) fibre over the base of the conifolds is shown to correspond
+to a gauge connection in the sigma model.
+  The same procedure is employed to construct the metric for the resolved
+conifold, in terms of complex coordinates and the action for a non-linear sigma
+model with resolved conifold as target space, is found to have a minimum value,
+which is topological. The metric is expressed in terms of the six real
+coordinates and compared with earlier works. The harmonic function, which is
+the warp factor in Type II-B string theory, is obtained and the ten-dimensional
+warped metric has the $AdS_{5}\times X_{5}$ geometry.
+</abstract>

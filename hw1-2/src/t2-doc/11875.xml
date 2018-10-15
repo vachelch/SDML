@@ -1,0 +1,17 @@
+<title>
+D-brane charge, flux quantisation and relative (co)homology
+</title>
+
+<abstract>
+  We reconsider the problem of U(1) flux and D0-charge for D-branes in the WZW
+model and investigate the relationship between the different definitions that
+have been proposed recently. We identify the D0-charge as a particular
+reduction of a class in the relative cohomology of the group modulo the
+D-submanifold. We investigate under which conditions this class is equivalent
+to the first Chern class of a line bundle on the D-submanifold and we find that
+in general there is an obstruction given by the cohomology class of the NS
+3-form. Therefore we conclude that for topologically nontrivial B-fields, there
+is strictly speaking no U(1) gauge field on the D-submanifold. Nevertheless the
+ambiguity in the flux is not detected by the D0-charge. This has a natural
+interpretation in terms of gerbes.
+</abstract>

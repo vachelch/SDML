@@ -1,0 +1,13 @@
+<title>
+Loop Equation and Area Law in Turbulence
+</title>
+
+<abstract>
+  This is the extended version of the preprint \ct{Loop}, based on the lectures
+given in Cargese Summer School and Chernogolovka Summer School in 93. The
+incompressible fluid dynamics is reformulated as dynamics of closed loops $C$
+in coordinate space. We derive explicit functional equation for the pdf of the
+circulation $P_C(\Gamma)$ which allows the scaling solutions in inertial range
+of spatial scales. The pdf decays as exponential of some power of $
+\Gamma^3/A^2 $ where $A$ is the minimal area inside the loop.
+</abstract>

@@ -1,0 +1,12 @@
+<title>
+Multidimensional Phase Space and Sunset Diagrams
+</title>
+
+<abstract>
+  We derive expressions for the phase-space of a particle of momentum $p$
+decaying into $N$ particles, that are valid for any number of dimensions. These
+are the imaginary parts of so-called `sunset' diagrams, which we also obtain.
+The results are given as a series of hypergeometric functions, which terminate
+for odd dimensions and are also well-suited for deriving the threshold
+behaviour.
+</abstract>

@@ -1,0 +1,21 @@
+<title>
+Superselection Sectors of $\son$ Wess-Zumino-Witten Models
+</title>
+
+<abstract>
+  The superselection structure of $\son$ WZW models is investigated from the
+point of view of algebraic quantum field theory. At level $1$ it turns out that
+the observable algebras of the WZW theory can be constructed in terms of even
+CAR algebras. This fact allows to give a formulation of these models close to
+the DHR framework. Localized endomorphisms are constructed explicitly in terms
+of Bogoliubov transformations, and the WZW fusion rules are proven using the
+DHR sector product.
+  At level $2$ it is shown that most of the sectors are realized in
+$\HNSh=\HNS\otimes\HNS$ where $\HNS$ is the Neveu-Schwarz sector of the level
+$1$ theory. The level $2$ characters are derived and $\HNSh$ is decomposed
+completely into tensor products of the sectors of the WZW chiral algebra and
+irreducible representation spaces of the coset Virasoro algebra. Crucial for
+this analysis is the DHR decomposition of $\HNSh$ into sectors of a gauge
+invariant fermion algebra since the WZW chiral algebra as well as the coset
+Virasoro algebra are invariant under the gauge group $\Oz$.
+</abstract>

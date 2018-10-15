@@ -1,0 +1,18 @@
+<title>
+The Geometry of Point Particles
+</title>
+
+<abstract>
+  There is a very natural map from the configuration space of n distinct points
+in Euclidean 3-space into the flag manifold U(n)/U(1)^n, which is compatible
+with the action of the symmetric group. The map is well-defined for all
+configurations of points provided a certain conjecture holds, for which we
+provide numerical evidence. We propose some additional conjectures, which imply
+the first, and test these numerically. Motivated by the above map, we define a
+geometrical multi-particle energy function and compute the energy minimizing
+configurations for up to 32 particles. These configurations comprise the
+vertices of polyhedral structures which are dual to those found in a number of
+complicated physical theories, such as Skyrmions and fullerenes. Comparisons
+with 2-particle and 3-particle energy functions are made. The planar
+restriction and the generalization to hyperbolic 3-space are also investigated.
+</abstract>

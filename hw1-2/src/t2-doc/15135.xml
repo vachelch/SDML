@@ -1,0 +1,14 @@
+<title>
+Exact Solution of the Six-Vertex Model on a Random Lattice
+</title>
+
+<abstract>
+  We solve exactly the 6-vertex model on a dynamical random lattice, using its
+representation as a large N matrix model. The model describes a gas of dense
+nonintersecting oriented loops coupled to the local curvature defects on the
+lattice. The model can be mapped to the c=1 string theory, compactified at some
+length depending on the vertex coupling. We give explicit expression for the
+disk amplitude and evaluate the fractal dimension of its boundary, the average
+number of loops and the dimensions of the vortex operators, which vary
+continuously with the vertex coupling.
+</abstract>

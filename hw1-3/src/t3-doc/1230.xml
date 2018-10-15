@@ -1,0 +1,29 @@
+<date>
+Fri, 12 May 2000 03:01:29 GMT
+</date>
+
+<title>
+Open String on Symmetric Product
+</title>
+
+<abstract>
+  We develop some basic properties of the open string on the symmetric product
+which is supposed to describe the open string field theory in discrete
+lightcone quantization (DLCQ). After preparing the consistency conditions of
+the twisted boundary conditions for Annulus/M\"obius/Klein Bottle amplitudes in
+generic non-abelian orbifold, we classify the most general solutions of the
+constraints when the discrete group is $S_N$. We calculate the corresponding
+orbifold amplitudes from two viewpoints -- from the boundary state formalism
+and from the trace over the open string Hilbert space. It is shown that the
+topology of the world sheet for the short string and that of the long string in
+general do not coincide. For example the annulus sector for the short string
+contains all the sectors (torus, annulus, Klein bottle, M\"obius strip) of the
+long strings. The boundary/cross-cap states of the short strings are classified
+into three categories in terms of the long string, the ordinary boundary and
+the cross-cap states, and the ``joint'' state which describes the connection of
+two short strings. We show that the sum of the all possible boundary conditions
+is equal to the exponential of the sum of the irreducible amplitude -- one body
+amplitude of long open (closed) strings. This is typical structure of DLCQ
+partition function. We examined that the tadpole cancellation condition in our
+language and derived the well-known gauge group $SO(2^{13})$.
+</abstract>

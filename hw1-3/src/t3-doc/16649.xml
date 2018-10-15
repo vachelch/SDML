@@ -1,0 +1,21 @@
+<date>
+Fri, 11 Apr 2003 15:55:05 GMT
+</date>
+
+<title>
+An O(N) symmetric extension of the Sine-Gordon Equation
+</title>
+
+<abstract>
+  We discuss an O(N) exension of the Sine-Gordon (S-G)equation which allows us
+to perform an expansion around the leading order in large-N result using
+Path-Integral methods. In leading order we show our methods agree with the
+results of a variational calculation at large-N. We discuss the striking
+differences for a non-polynomial interaction between the form for the effective
+potential in the Gaussian approximation that one obtains at large-N when
+compared to the N=1 case. This is in contrast to the case when the classical
+potential is a polynomial in the field and no such drastic differences occur.
+We find for our large-N extension of the Sine-Gordon model that the unbroken
+ground state is unstable as one increases the coupling constant (as it is for
+the original S-G equation) and we determine the stability criteria.
+</abstract>

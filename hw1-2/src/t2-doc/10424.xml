@@ -1,0 +1,16 @@
+<title>
+Tracing the String: BMN correspondence at Finite J^2/N
+</title>
+
+<abstract>
+  Employing the string bit formalism of hep-th/0209215, we identify the basis
+transformation that relates BMN operators in N=4 gauge theory to string states
+in the dual string field theory at finite g_2=J^2/N. In this basis, the
+supercharge truncates at linear order in g_2, and the mixing amplitude between
+1 and 2-string states precisely matches with the (corrected) answer of
+hep-th/0206073 for the 3-string amplitude in light-cone string field theory.
+Supersymmetry then predicts the order g_2^2 contact term in the string bit
+Hamiltonian. The resulting leading order mass renormalization of string states
+agrees with the recently computed shift in conformal dimension of BMN operators
+in the gauge theory.
+</abstract>

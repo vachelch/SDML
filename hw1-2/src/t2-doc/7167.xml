@@ -1,0 +1,23 @@
+<title>
+Extended Iterative Scheme for QCD: Three-point Vertices
+</title>
+
+<abstract>
+  In the framework of a generalized iterative scheme introduced previously to
+account for the non-analytic coupling dependence associated with the
+renormalization-group invariant mass scale Lambda, we establish the
+self-consistency equations of the extended Feynman rules (Lambda-modified
+vertices of zeroth perturbative order) for the three-gluon vertex, the two
+ghost vertices, and the two vertices of massless quarks. Calculations are
+performed to one-loop-order, in Landau gauge, and at the lowest approximation
+level (r=1) of interest for QCD. We discuss the phenomenon of compensating
+poles inherent in these equations, by which the formalism automatically cancels
+unphysical poles on internal lines, and the role of composite-operator
+information in the form of equation-of-motion condensate conditions. The
+observed near decoupling of the four-gluon conditions permits a solution to the
+2-and-3-point conditions within an effective one-parameter freedom. There
+exists a parameter range in which one solution has all vertex coefficients
+real, as required for a physical solution, and a narrower range in which the
+transverse-gluon and massless-quark propagators both exhibit complex-conjugate
+pole pairs.
+</abstract>

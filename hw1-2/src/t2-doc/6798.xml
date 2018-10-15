@@ -1,0 +1,18 @@
+<title>
+Contour gauges, canonical formalism and flux algebras
+</title>
+
+<abstract>
+  A broad class of contour gauges is shown to be determined by admissible
+contractions of the geometrical region considered and a suitable equivalence
+class of curves is defined. In the special case of magnetostatics, the relevant
+electromagnetic potentials are directly related to the ponderomotive forces.
+Schwinger's method of extracting a gauge invariant factor from the fermion
+propagator could, it is argued, lead to incorrect results. Dirac brackets of
+both Maxwell and Yang-Mills theories are given for arbitrary admissible
+space-like paths. It is shown how to define a non-abelian flux and local
+charges which obey a local charge algebra. Fields associated with the charges
+differ from the electric fields of the theory by singular topological terms; to
+avoid this obstruction to the Gauss law it is necessary to exclude a single,
+gauge fixing curve from the region considered.
+</abstract>

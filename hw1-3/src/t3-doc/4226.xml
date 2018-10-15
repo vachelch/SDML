@@ -1,0 +1,24 @@
+<date>
+Wed, 28 May 1997 09:04:53 MDT
+</date>
+
+<title>
+Hidden Algebras of the (super) Calogero and Sutherland models
+</title>
+
+<abstract>
+  We propose to parametrize the configuration space of one-dimensional quantum
+systems of N identical particles by the elementary symmetric polynomials of
+bosonic and fermionic coordinates. It is shown that in this parametrization the
+Hamiltonians of the A_N, BC_N, B_N, C_N and D_N Calogero and Sutherland models,
+as well as their supersymmetric generalizations, can be expressed -- for
+arbitrary values of the coupling constants -- as quadratic polynomials in the
+generators of a Borel subalgebra of the Lie algebra gl(N+1) or the Lie
+superalgebra gl(N+1|N) for the supersymmetric case. These algebras are realized
+by first order differential operators. This fact establishes the exact
+solvability of the models according to the general definition given by one of
+the authors in 1994, and implies that the Calogero and Jack-Sutherland
+polynomials, as well as their supersymmetric generalizations, are related to
+finite-dimensional irreducible representations of the Lie algebra gl(N+1) and
+the Lie superalgebra gl(N+1|N).
+</abstract>

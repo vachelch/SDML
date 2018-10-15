@@ -1,0 +1,22 @@
+<date>
+Mon, 10 Apr 2000 13:10:42 GMT
+</date>
+
+<title>
+3D reduction of the N-body Bethe-Salpeter equation
+</title>
+
+<abstract>
+  We perform a 3D reduction of the two-fermion Bethe-Salpeter equation, by
+series expansion around a positive-energy instantaneous approximation of the
+Bethe-Salpeter kernel, followed by another series expansion at the 3D level in
+order to get a manifestly hermitian 3D potential. It turns out that this
+potential does not depend on the choice of the starting approximation of the
+kernel anymore, and can be written in a very compact form. This result can also
+be obtained directly by starting with an approximation of the free propagator,
+based on integrals in the relative energies instead of the more usual
+delta-constraint. Furthermore, the method can be generalized to a system of N
+particles, consisting in any combination of bosons and fermions. As an example,
+we write the 3D equation for systems of two or three fermions exchanging
+photons, in Feynman or Coulomb's gauge.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+Integrable Boundary Conditions and Reflection Matrices for the O(N)
+  Nonlinear Sigma Model
+</title>
+
+<abstract>
+  We find new integrable boundary conditions, depending on a free parameter
+$g$, for the O(N) nonlinear $\sigma$ model, which are of nondiagonal type, that
+is, particles can change their ``flavor'' through scattering off the boundary.
+These boundary conditions are derived from a microscopic boundary lagrangian,
+which is used to establish their integrability, and exhibit integrable flows
+between diagonal boundary conditions investigated earlier. We solve the
+boundary Yang-Baxter equation, connect these solutions to the boundary
+conditions, and examine the corresponding integrable flows.
+</abstract>

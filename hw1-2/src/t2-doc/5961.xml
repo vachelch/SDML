@@ -1,0 +1,17 @@
+<title>
+Simulated Annealing for Topological Solitons
+</title>
+
+<abstract>
+  The search for solutions of field theories allowing for topological solitons
+requires that we find the field configuration with the lowest energy in a given
+sector of topological charge. The standard approach is based on the numerical
+solution of the static Euler-Lagrange differential equation following from the
+field energy. As an alternative, we propose to use a simulated annealing
+algorithm to minimize the energy functional directly. We have applied simulated
+annealing to several nonlinear classical field theories: the sine-Gordon model
+in one dimension, the baby Skyrme model in two dimensions and the nuclear
+Skyrme model in three dimensions. We describe in detail the implementation of
+the simulated annealing algorithm, present our results and get independent
+confirmation of the studies which have used standard minimization techniques.
+</abstract>

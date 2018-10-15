@@ -1,0 +1,23 @@
+<date>
+Fri, 1 Oct 1999 04:28:34 GMT
+</date>
+
+<title>
+Approximations for strongly-coupled supersymmetric quantum mechanics
+</title>
+
+<abstract>
+  We advocate a set of approximations for studying the finite temperature
+behavior of strongly-coupled theories in 0+1 dimensions. The approximation
+consists of expanding about a Gaussian action, with the width of the Gaussian
+determined by a set of gap equations. The approximation can be applied to
+supersymmetric systems, provided that the gap equations are formulated in
+superspace. It can be applied to large-N theories, by keeping just the planar
+contribution to the gap equations. We analyze several models of scalar
+supersymmetric quantum mechanics, and show that the Gaussian approximation
+correctly distinguishes between a moduli space, mass gap, and supersymmetry
+breaking at strong coupling. Then we apply the approximation to a bosonic
+large-N gauge theory, and argue that a Gross-Witten transition separates the
+weak-coupling and strong-coupling regimes. A similar transition should occur in
+a generic large-N gauge theory, in particular in 0-brane quantum mechanics.
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Propagators in Curved Space
+</title>
+
+<abstract>
+  We demonstrate how to obtain explicitly the propagators for quantum fields
+residing in curved space-time using the heat kernel for which a new
+construction procedure exists. Propagators are determined for the case of
+Rindler, Friedman-Robertson-Walker, Schwarzschild and general conformally flat
+metrics, both for scalar, Dirac and Yang-Mills fields. The calculations are
+based on an improved formula for the heat kernel in a general curved space. All
+the calculations are done in $d=4$ dimensions for concreteness, but are easily
+generalizable to arbitrary $d$. The new method advocated here does not assume
+that the fields are massive, nor is it based on an aymptotic expansion as
+such.
+  Whenever possible, the results are compared to that of other authors.
+</abstract>

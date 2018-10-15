@@ -1,0 +1,16 @@
+<title>
+Instantons on Noncommutative R^4 and Projection Operators
+</title>
+
+<abstract>
+  I carefully study noncommutative version of ADHM construction of instantons,
+which was proposed by Nekrasov and Schwarz. Noncommutative ${\bf R}^4$ is
+described as algebra of operators acting in Fock space. In ADHM construction of
+instantons, one looks for zero-modes of Dirac-like operator. The feature
+peculiar to noncommutative case is that these zero-modes project out some
+states in Fock space. The mechanism of these projections is clarified when the
+gauge group is U(1). I also construct some zero-modes when the gauge group is
+U(N) and demonstrate that the projections also occur, and the mechanism is
+similar to the U(1) case. A physical interpretation of the projections in IIB
+matrix model is briefly discussed.
+</abstract>

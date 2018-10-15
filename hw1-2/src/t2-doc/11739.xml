@@ -1,0 +1,16 @@
+<title>
+Radiation reaction in various dimensions
+</title>
+
+<abstract>
+  We discuss the radiation reaction problem for an electric charge moving in
+flat space-time of arbitrary dimensions. It is shown that four is the unique
+dimension where a local differential equation exists accounting for the
+radiation reaction and admitting a consistent mass-renormalization (the
+Dirac-Lorentz equation). In odd dimensions the Huygens principle does not hold;
+as a result, the radiation reaction force depends on the whole past history of
+a charge (radiative tail). We show that the divergence in the tail integral can
+be removed by the mass renormalization only in the 2+1 theory. In even
+dimensions higher than four, divergences can not be removed by a
+renormalization.
+</abstract>

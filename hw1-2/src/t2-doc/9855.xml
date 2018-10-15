@@ -1,0 +1,15 @@
+<title>
+Algebraic Properties of BRST Coupled Doublets
+</title>
+
+<abstract>
+  We characterize the dependence on doublets of the cohomology of an arbitrary
+nilpotent differential s (including BRST differentials and classical linearized
+Slavnov-Taylor (ST) operators) in terms of the cohomology of the
+doublets-independent component of s. All cohomologies are computed in the space
+of local integrated formal power series. We drop the usual assumption that the
+counting operator for the doublets commutes with s (decoupled doublets) and
+discuss the general case where the counting operator does not commute with s
+(coupled doublets). The results are purely algebraic and do not rely on
+power-counting arguments.
+</abstract>

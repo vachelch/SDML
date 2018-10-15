@@ -1,0 +1,15 @@
+<title>
+A QFT approach to W_{1+infty}
+</title>
+
+<abstract>
+  W_{1+infty} is defined as an infinite dimensional Lie algebra spanned by the
+unit operator and the Laurent modes of a series of local quasiprimary chiral
+fields V^l(z) of dimension l+1 (l=0,1,2,...). These fields are neutral with
+respect to the u(1) current J(z)=V^0(z); as a result the (l+2)-fold commutator
+of J with V^l vanishes. We outline a construction of rational conformal field
+theories with stress energy tensor T(z)=V^1(z) whose chiral algebras include
+all V^l's. It is pointed out that earlier work on local extensions of the u(1)
+current algebra solves the problem of classifying all such theories for
+Virasoro central charge c=1.
+</abstract>

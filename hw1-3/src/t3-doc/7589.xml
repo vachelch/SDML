@@ -1,0 +1,22 @@
+<date>
+Wed, 8 Oct 1997 18:35:40 GMT
+</date>
+
+<title>
+Computing the spectrum of black hole radiation in the presence of high
+  frequency dispersion: an analytical approach
+</title>
+
+<abstract>
+  We present a method for computing the spectrum of black hole radiation of a
+scalar field satisfying a wave equation with high frequency dispersion. The
+method involves a combination of Laplace transform and WKB techniques for
+finding approximate solutions to ordinary differential equations. The modified
+wave equation is obtained by adding a higher order derivative term suppressed
+by powers of a fundamental momentum scale $k_0$ to the ordinary wave equation.
+Depending on the sign of this new term, high frequency modes propagate either
+superluminally or subluminally. We show that the resulting spectrum of created
+particles is thermal at the Hawking temperature, and further that the out-state
+is a thermal state at the Hawking temperature, to leading order in $k_0$, for
+either modification.
+</abstract>

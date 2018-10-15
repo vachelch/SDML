@@ -1,0 +1,21 @@
+<title>
+A geometric approach to free variable loop equations in discretized
+  theories of 2D gravity
+</title>
+
+<abstract>
+  We present a self-contained analysis of theories of discrete 2D gravity
+coupled to matter, using geometric methods to derive equations for generating
+functions in terms of free (noncommuting) variables. For the class of discrete
+gravity theories which correspond to matrix models, our method is a
+generalization of the technique of Schwinger-Dyson equations and is closely
+related to recent work describing the master field in terms of noncommuting
+variables; the important differences are that we derive a single equation for
+the generating function using purely graphical arguments, and that the approach
+is applicable to a broader class of theories than those described by matrix
+models. Several example applications are given here, including theories of
+gravity coupled to a single Ising spin ($c = 1/2$), multiple Ising spins ($c =
+k/2$), a general class of two-matrix models which includes the Ising theory and
+its dual, the three-state Potts model, and a dually weighted graph model which
+does not admit a simple description in terms of matrix models.
+</abstract>

@@ -1,0 +1,18 @@
+<date>
+Thu, 5 May 1994 18:58:52 -0400
+</date>
+
+<title>
+Integral formulas for wave functions of quantum many-body problems and
+  representations of gl(n)
+</title>
+
+<abstract>
+  We derive explicit integral formulas for eigenfunctions of quantum integrals
+of the Calogero-Sutherland-Moser operator with trigonometric interaction
+potential. In particular, we derive explicit formulas for Jack's symmetric
+functions. To obtain such formulas, we use the representation of these
+eigenfunctions by means of traces of intertwining operators between certain
+modules over the Lie algebra $\frak gl_n$, and the realization of these modules
+on functions of many variables.
+</abstract>

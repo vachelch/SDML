@@ -1,0 +1,18 @@
+<title>
+Moyal Formulation of Witten's Star Product in the Fermionic Ghost Sector
+</title>
+
+<abstract>
+  In this paper, we recast the fermionic ghost sector of Witten's open bosonic
+string field theory in the language of noncommutative field theory. In
+particular, following the methods of hep-th/0202087, we find that in Siegel
+gauge Witten's star product roughly corresponds to a continuous tensor product
+of Clifford Algebras, and we formulate important operators of the theory in
+this language, notably the kinetic operator of vacuum string field theory and
+the BRST operator describing the vacuum of the unstable D-25 brane. We find
+that the BRST operator is singular in this formulation. We explore alternative
+operator/Moyal representations of the star product analogous to the split
+string description and the discrete Moyal basis developed extensively in recent
+work by Bars and Matsuo (hep-th/0204260). Finally we discuss some interesting
+singulariries in the formalism and how they may be regulated.
+</abstract>

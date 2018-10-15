@@ -1,0 +1,23 @@
+<date>
+Thu, 12 Jun 1997 23:34:58 +0200
+</date>
+
+<title>
+Non-holomorphic terms in N=2 SUSY Wilsonian actions and RG equation
+</title>
+
+<abstract>
+  In this paper we first investigate the Ansatz of one of the present authors
+for K(\Psi,\bar\Psi), the adimensional modular invariant non-holomorphic
+correction to the Wilsonian effective Lagrangian of an N=2 globally
+supersymmetric gauge theory. The renormalisation group beta-function of the
+theory crucially allows us to express K(\Psi,\bar\Psi) in a form that easily
+generalises to the case in which the theory is coupled to N_F hypermultiplets
+in the fundamental representation of the gauge group. This function satisfies
+an equation which should be viewed as a fully non-perturbative ``non-chiral
+superconformal Ward identity". We also determine its renormalisation group
+equation. Furthermore, as a first step towards checking the validity of this
+Ansatz, we compute the contribution to K(\Psi,\bar\Psi) from instantons of
+winding number k=1 and k=2. As a by-product of our analysis we check a
+non-renormalisation theorem for N_F=4.
+</abstract>

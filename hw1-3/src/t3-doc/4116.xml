@@ -1,0 +1,22 @@
+<date>
+Sun, 24 Dec 2000 15:05:07 GMT
+</date>
+
+<title>
+Calabi-Yau Manifolds Over Finite Fields, I
+</title>
+
+<abstract>
+  We study Calabi-Yau manifolds defined over finite fields. These manifolds
+have parameters, which now also take values in the field and we compute the
+number of rational points of the manifold as a function of the parameters. The
+intriguing result is that it is possible to give explicit expressions for the
+number of rational points in terms of the periods of the holomorphic
+three-form. We show also, for a one parameter family of quintic threefolds,
+that the number of rational points of the manifold is closely related to as the
+number of rational points of the mirror manifold. Our interest is primarily
+with Calabi-Yau threefolds however we consider also the interesting case of
+elliptic curves and even the case of a quadric in CP_1 which is a zero
+dimensional Calabi-Yau manifold. This zero dimensional manifold has trivial
+dependence on the parameter over C but a not trivial arithmetic structure.
+</abstract>

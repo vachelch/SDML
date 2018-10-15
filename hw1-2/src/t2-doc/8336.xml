@@ -1,0 +1,17 @@
+<title>
+The ground state energy of a massive scalar field in the background of a
+  semi-transparent spherical shell
+</title>
+
+<abstract>
+  We calculate the zero point energy of a massive scalar field in the
+background of an infinitely thin spherical shell given by a potential of the
+delta function type. We use zeta functional regularization and express the
+regularized ground state energy in terms of the Jost function of the related
+scattering problem. Then we find the corresponding heat kernel coefficients and
+perform the renormalization, imposing the normalization condition that the
+ground state energy vanishes when the mass of the quantum field becomes large.
+Finally the ground state energy is calculated numerically. Corresponding plots
+are given for different values of the strength of the background potential, for
+both attractive and repulsive potentials.
+</abstract>

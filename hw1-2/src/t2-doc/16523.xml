@@ -1,0 +1,19 @@
+<title>
+Introduction to Random Matrices
+</title>
+
+<abstract>
+  These notes provide an introduction to the theory of random matrices. The
+central quantity studied is $\tau(a)= det(1-K)$ where $K$ is the integral
+operator with kernel $1/\pi} {\sin\pi(x-y)\over x-y} \chi_I(y)$. Here
+$I=\bigcup_j(a_{2j-1},a_{2j})$ and $\chi_I(y)$ is the characteristic function
+of the set $I$. In the Gaussian Unitary Ensemble (GUE) the probability that no
+eigenvalues lie in $I$ is equal to $\tau(a)$. Also $\tau(a)$ is a tau-function
+and we present a new simplified derivation of the system of nonlinear
+completely integrable equations (the $a_j$'s are the independent variables)
+that were first derived by Jimbo, Miwa, M{\^o}ri, and Sato in 1980. In the case
+of a single interval these equations are reducible to a Painlev{\'e} V
+equation. For large $s$ we give an asymptotic formula for $E_2(n;s)$, which is
+the probability in the GUE that exactly $n$ eigenvalues lie in an interval of
+length $s$.
+</abstract>

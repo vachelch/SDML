@@ -1,0 +1,26 @@
+<date>
+Tue, 17 Oct 1995 15:53:06 -0500 (EDT)
+</date>
+
+<title>
+On The Gauge-Fixed BRST Cohomology
+</title>
+
+<abstract>
+  A crucial property of the standard antifield-BRST cohomology at non negative
+ghost number is that any cohomological class is completely determined by its
+antifield independent part. In particular, a BRST cocycle that vanishes when
+the antifields are set equal to zero is necessarily exact.\ \ This property,
+which follows from the standard theorems of homological perturbation theory,
+holds not only in the algebra of local functions, but also in the space of
+local functionals. The present paper stresses how important it is that the
+antifields in question be the usual antifields associated with the gauge
+invariant description. By means of explicit counterexamples drawn from the free
+Maxwell-Klein-Gordon system, we show that the property does not hold, in the
+case of local functionals, if one replaces the antifields of the gauge
+invariant description by new antifields adapted to the gauge fixation. In terms
+of these new antifields, it is not true that a local functional weakly
+annihilated by the gauge-fixed BRST generator determines a BRST cocycle; nor
+that a BRST cocycle which vanishes when the antifields are set equal to zero is
+necessarily exact.
+</abstract>

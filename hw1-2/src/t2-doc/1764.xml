@@ -1,0 +1,15 @@
+<title>
+QED symmetries in real-time thermal field theory
+</title>
+
+<abstract>
+  We study the discrete and gauge symmetries of Quantum Electrodynamics at
+finite temperature within the real-time formalism.
+  The gauge invariance of the complete generating functional leads to the
+finite temperature Ward identities. These Ward identities relate the eight
+vertex functions to the elements of the self-energy matrix. Combining the
+relations obtained from the $Z_2$ and the gauge symmetries of the theory we
+find that only one out of eight longitudinal vertex functions is independent.
+As a consequence of the Ward identities it is shown that some elements of the
+vertex function are singular when the photon momentum goes to zero.
+</abstract>

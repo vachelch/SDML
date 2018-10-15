@@ -1,0 +1,19 @@
+<title>
+The k-folded sine-Gordon model in finite volume
+</title>
+
+<abstract>
+  We consider the k-folded sine-Gordon model, obtained from the usual version
+by identifying the scalar field after k periods of the cosine potential. We
+examine (1) the ground state energy split, (2) the lowest lying multi-particle
+state spectrum and (3) vacuum expectation values of local fields in finite
+spatial volume, combining the Truncated Conformal Space Approach, the method of
+the Destri-de Vega nonlinear integral equation (NLIE) and semiclassical
+instanton calculations. We show that the predictions of all these different
+methods are consistent with each other and in particular provide further
+support for the NLIE method in the presence of a twist parameter. It turns out
+that the model provides an optimal laboratory for examining instanton
+contributions beyond the dilute instanton gas approximation. We also provide
+evidence for the exact formula for the vacuum expectation values conjectured by
+Lukyanov and Zamolodchikov.
+</abstract>

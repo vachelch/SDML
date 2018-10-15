@@ -1,0 +1,31 @@
+<date>
+Mon, 25 Feb 2002 16:26:38 GMT
+</date>
+
+<title>
+On the UV renormalizability of noncommutative field theories
+</title>
+
+<abstract>
+  UV/IR mixing is one of the most important features of noncommutative field
+theories. As a consequence of this coupling of the UV and IR sectors, the
+configuration of fields at the zero momentum limit in these theories is a very
+singular configuration. We show that the renormalization conditions set at a
+particular momentum configuration with a fixed number of zero momenta,
+renormalizes the Green's functions for any general momenta only when this
+configuration has same set of zero momenta. Therefore only when renormalization
+conditions are set at a point where all the external momenta are nonzero, the
+quantum theory is renormalizable for all values of nonzero momentum. This
+arises as a result of different scaling behaviors of Green's functions with
+respect to the UV cutoff ($\Lambda$) for configurations containing different
+set of zero momenta. We study this in the noncommutative $\phi^4$ theory and
+analyse similar results for the Gross-Neveu model at one loop level. We next
+show this general feature using Wilsonian RG of Polchinski in the globally O(N)
+symmetric scalar theory and prove the renormalizability of the theory to all
+orders with an infrared cutoff. In the context of spontaneous symmetry breaking
+(SSB) in noncommutative scalar theory, it is essential to note the different
+scaling behaviors of Green's functions with respect to $\Lambda$ for different
+set of zero momenta configurations. We show that in the broken phase of the
+theory the Ward identities are satisfied to all orders only when one keeps an
+infrared regulator by shifting to a nonconstant vacuum.
+</abstract>

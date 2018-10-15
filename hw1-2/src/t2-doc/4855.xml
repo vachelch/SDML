@@ -1,0 +1,17 @@
+<title>
+Angular Quantization of the Sine-Gordon Model at the Free Fermion Point
+</title>
+
+<abstract>
+  The goal of this paper is to analyse the method of angular quantization for
+the Sine-Gordon model at the free fermion point, which is one of the most
+investigated models of the two-dimensional integrable field theories. The
+angular quantization method (see hep-th/9707091) is a continuous analog of the
+Baxter's corner transfer matrix method. Investigating the canonical
+quantization of the free massive Dirac fermions in one Rindler wedge we
+identify this quantization with a representation of the infinite-dimensional
+algebra introduced in the paper q-alg/9702002 and specialized to the free
+fermion point. We construct further the main ingredients of the SG theory in
+terms of the representation theory of this algebra following the approach by
+M.Jimbo, T.Miwa et al.
+</abstract>

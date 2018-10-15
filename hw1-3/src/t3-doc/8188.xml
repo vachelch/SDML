@@ -1,0 +1,19 @@
+<date>
+Mon, 3 Jun 1996 16:30:49 +0200 (MET DST)
+</date>
+
+<title>
+Higher genus correlators for the hermitian matrix model with multiple
+  cuts
+</title>
+
+<abstract>
+  An iterative scheme is set up for solving the loop equation of the hermitian
+one-matrix model with a multi-cut structure. Explicit results are presented for
+genus one for an arbitrary but finite number of cuts. Due to the complicated
+form of the boundary conditions, the loop correlators now contain elliptic
+integrals. This demonstrates the existence of new universality classes for the
+hermitian matrix model. The two-cut solution is investigated in more detail,
+including the double-scaling limit. It is shown, that in special cases it
+differs from the known continuum solution with one cut.
+</abstract>

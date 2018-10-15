@@ -1,0 +1,20 @@
+<title>
+Casimir Energy of a Semi-Circular Infinite Cylinder
+</title>
+
+<abstract>
+  The Casimir energy of a semi-circular cylindrical shell is calculated by
+making use of the zeta function technique. This shell is obtained by crossing
+an infinite circular cylindrical shell by a plane passing through the symmetry
+axes of the cylinder and by considering only a half of this configuration. All
+the surfaces, including the cutting plane, are assumed to be perfectly
+conducting. The zeta functions for scalar massless fields obeying the Dirichlet
+and Neumann boundary conditions on the semi-circular cylinder are constructed
+exactly. The sum of these zeta functions gives the zeta function for
+electromagnetic field in question. The relevant plane problem is considered
+also. In all the cases the final expressions for the corresponding Casimir
+energies contain the pole contributions which are the consequence of the edges
+or corners in the boundaries. This implies that further renormalization is
+needed in order for the finite physical values for vacuum energy to be obtained
+for given boundary conditions.
+</abstract>

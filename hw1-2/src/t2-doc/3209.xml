@@ -1,0 +1,29 @@
+<title>
+Relativistic Stars in Randall-Sundrum Gravity
+</title>
+
+<abstract>
+  The non-linear behaviour of Randall-Sundrum gravity with one brane is
+examined. Due to the non-compact extra dimension, the perturbation spectrum has
+no mass gap, and the long wavelength effective theory is only understood
+perturbatively. The full 5-dimensional Einstein equations are solved
+numerically for static, spherically symmetric matter localized on the brane,
+yielding regular geometries in the bulk with axial symmetry. An elliptic
+relaxation method is used, allowing both the brane and asymptotic radiation
+boundary conditions to be simultaneously imposed. The same data that specifies
+stars in 4-dimensional gravity, uniquely constructs a 5-dimensional solution.
+The algorithm performs best for small stars (radius less than the AdS length)
+yielding highly non-linear solutions. An upper mass limit is observed for these
+small stars, and the geometry shows no global pathologies. The geometric
+perturbation is shown to remain localized near the brane at high densities, the
+confinement interestingly increasing for both small and large stars as the
+upper mass limit is approached. Furthermore, the static spatial sections are
+found to be approximately conformal to those of AdS. We show that the intrinsic
+geometry of large stars, with radius several times the AdS length, is described
+by 4-dimensional General Relativity far past the perturbative regime. This
+indicates that the non-linear long wavelength effective action remains local,
+even though the perturbation spectrum has no mass gap. The implication is that
+Randall-Sundrum gravity, with localized brane matter, reproduces relativistic
+astrophysical solutions, such as neutron stars and massive black holes,
+consistent with observation.
+</abstract>

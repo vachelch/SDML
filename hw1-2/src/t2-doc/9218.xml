@@ -1,0 +1,13 @@
+<title>
+Renormalization in Quantum Mechanics
+</title>
+
+<abstract>
+  We implement the concept of Wilson renormalization in the context of simple
+quantum mechanical systems. The attractive inverse square potential leads to a
+$\b$ function with a nontrivial ultraviolet stable fixed point and the Hulthen
+potential exhibits the crossover phenomenon. We also discuss the implementation
+of the Wilson scheme in the broader context of one dimensional potential
+problems. The possibility of an analogue of Zamolodchikov's $C$ function in
+these systems is also discussed.
+</abstract>

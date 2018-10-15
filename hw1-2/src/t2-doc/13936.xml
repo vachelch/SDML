@@ -1,0 +1,19 @@
+<title>
+The Thirring model 40 years later
+</title>
+
+<abstract>
+  Solutions to the Thirring model are constructed in the framework of algebraic
+QFT. It is shown that for all positive temperatures there are fermionic
+solutions only if the coupling constant is $\lambda = \sqrt{2(2n+1)\pi}, n\in
+\bf N$, otherwise solutions are anyons. Different anyons (which are uncountably
+many) live in orthogonal spaces, so the whole Hilbert space becomes
+non-separable and in each of its sectors a different Urgleichung holds. This
+feature certainly cannot be seen by any power expansion in $\lambda$. Moreover,
+if the statistic parameter is tied to the coupling constant it is clear that
+such an expansion is doomed to failure and will never reveal the true structure
+of the theory.
+  On the basis of the model in question, it is not possible to decide whether
+fermions or bosons are more fundamental since dressed fermions can be
+constructed either from bare fermions or directly from the current algebra.
+</abstract>

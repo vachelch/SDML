@@ -1,0 +1,23 @@
+<title>
+Renormalization group domains of the scalar Hamiltonian
+</title>
+
+<abstract>
+  Using the local potential approximation of the exact renormalization group
+(RG) equation, we show the various domains of values of the parameters of the
+O(1)-symmetric scalar Hamiltonian. In three dimensions, in addition to the
+usual critical surface $S_{c}$ (attraction domain of the Wilson-Fisher fixed
+point), we explicitly show the existence of a first-order phase transition
+domain $S_{f}$ separated from $S_{c}$ by the tricritical surface $S_{t}$
+(attraction domain of the Gaussian fixed point). $S_{f}$ and $S_{c}$ are two
+distinct domains of repulsion for the Gaussian fixed point, but $S_{f}$ is not
+the basin of attraction of a fixed point. $S_{f}$ is characterized by an
+endless renormalized trajectory lying entirely in the domain of negative values
+of the $\phi ^{4}$-coupling. This renormalized trajectory exists also in four
+dimensions making the Gaussian fixed point ultra-violet stable (and the
+$\phi_{4}^{4}$ renormalized field theory asymptotically free but with a wrong
+sign of the perfect action). We also show that very retarded classical-to-Ising
+crossover may exist in three dimensions (in fact below four dimensions). This
+could be an explanation of the unexpected classical critical behavior observed
+in some ionic systems.
+</abstract>

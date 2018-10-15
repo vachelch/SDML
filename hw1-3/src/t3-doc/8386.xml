@@ -1,0 +1,22 @@
+<date>
+Mon, 07 Apr 1997 12:30:32 EST
+</date>
+
+<title>
+Universality of Correlation Functions in Random Matrix Models of QCD
+</title>
+
+<abstract>
+  We demonstrate the universality of the spectral correlation functions of a
+QCD inspired random matrix model that consists of a random part having the
+chiral structure of the QCD Dirac operator and a deterministic part which
+describes a schematic temperature dependence. We calculate the correlation
+functions analytically using the technique of Itzykson-Zuber integrals for
+arbitrary complex super-matrices. An alternative exact calculation for
+arbitrary matrix size is given for the special case of zero temperature, and we
+reproduce the well-known Laguerre kernel. At finite temperature, the
+microscopic limit of the correlation functions are calculated in the saddle
+point approximation. The main result of this paper is that the microscopic
+universality of correlation functions is maintained even though unitary
+invariance is broken by the addition of a deterministic matrix to the ensemble.
+</abstract>

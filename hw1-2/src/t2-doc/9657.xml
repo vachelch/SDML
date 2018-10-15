@@ -1,0 +1,21 @@
+<title>
+General Covariance and Free Fields in Two Dimensions
+</title>
+
+<abstract>
+  We investigate the canonical equivalence of a matter-coupled 2D dilaton
+gravity theory defined by the action functional $S = \int d^2x \sqrt{-g}
+(R\phi + V(\phi) - 1/2 H(\phi ) (\nablaf)^2)$, and a free field theory. When
+the scalar field $f$ is minimally coupled to the metric field$(H(\phi)=1)$ the
+theory is equivalent, up to a boundary contribution,to a theory of three free
+scalar fields with indefinite kinetic terms, irrespective of the particular
+form of the potential $V(\phi)$. If the potential is an exponential function of
+the dilaton one recovers a generalized form of the classical canonical
+transformation of Liouville theory. When $f$ is a dilaton coupled scalar
+$(H(\phi)=\phi)$ and the potential is an arbitrary power of the dilaton the
+theory is also canonically equivalent to a theory of three free fields with a
+Minkowskian target space. In the simplest case $(V(\phi)=0)$ we provide an
+explicit free field realization of the Einstein-Rosen midisuperspace. The
+Virasoro anomaly and the consistence of the Dirac operator quantization play a
+central role in our approach.
+</abstract>

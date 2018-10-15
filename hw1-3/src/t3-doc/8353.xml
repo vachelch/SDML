@@ -1,0 +1,21 @@
+<date>
+Tue, 5 Mar 1996 14:47:13 +0100
+</date>
+
+<title>
+Boundary Operators in Euclidean Quantum Gravity
+</title>
+
+<abstract>
+  Gauge-invariant boundary conditions in Euclidean quantum gravity can be
+obtained by setting to zero at the boundary the spatial components of metric
+perturbations, and a suitable class of gauge-averaging functionals. This paper
+shows that, on choosing the de Donder functional, the resulting boundary
+operator involves projection operators jointly with a nilpotent operator.
+Moreover, the elliptic operator acting on metric perturbations is symmetric.
+Other choices of mixed boundary conditions, for which the normal components of
+metric perturbations can be set to zero at the boundary, are then analyzed in
+detail. Last, the evaluation of the 1-loop divergence in the axial gauge for
+gravity is obtained. Interestingly, such a divergence turns out to coincide
+with the one resulting from transverse-traceless perturbations.
+</abstract>

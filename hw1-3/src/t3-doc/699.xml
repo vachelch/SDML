@@ -1,0 +1,22 @@
+<date>
+Fri, 23 Feb 1996 11:41:00 +0900
+</date>
+
+<title>
+The Polynomial Formulation of the U(1) Non-Linear Sigma-Model in 2
+  Dimensions
+</title>
+
+<abstract>
+  We investigate some properties of a first-order polynomial formulation of the
+U(1) non-linear sigma-model in two Euclidean dimensions. The variables in this
+description are a 1-form field plus a 0-form Lagrange multiplier field. The
+usual spin variables are non-local functions of the new fields. As this
+construction incorporates O(2) invariance ab initio, only O(2)-invariant
+correlation functions (the only non-vanishing ones in the model) can be
+constructed. We show that the vortices play a dual role to the spin variables
+in the partition function. The equivalent Sine-Gordon description is obtained
+in a natural way, when one integrates out the 1-form field to get an effective
+partition function for the Lagrange multiplier. We also show how to introduce
+strings of vortices within this formulation.
+</abstract>

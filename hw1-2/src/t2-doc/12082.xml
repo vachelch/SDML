@@ -1,0 +1,18 @@
+<title>
+Induced parity violating thermal effective action for (2+1)-dimensional
+  fermions interacting with a non-Abelian background
+</title>
+
+<abstract>
+  We study the parity breaking effective action in 2+1 dimensions, generated,
+at finite temperature, by massive fermions interacting with a non-Abelian gauge
+background. We explicitly calculate, in the static limit, parity violating
+amplitudes up to the seven point function, which allows us to determine the
+corresponding effective actions. We derive the exact parity violating effective
+action when $\vec{E}=0$. When $\vec{E}\neq 0$, there are families of terms that
+can be determined order by order in perturbation theory. We attempt to
+generalize our results to non-static backgrounds through the use of time
+ordered exponentials and prove gauge invariance, both {\it small} and {\it
+large}, of the resulting effective action. We also point out some open
+questions that need to be further understood.
+</abstract>

@@ -1,0 +1,14 @@
+<title>
+Single particle Green's function in the Calogero-Sutherland model for
+  rational couplings $\beta=p/q$
+</title>
+
+<abstract>
+  We derive an exact expression for the single particle Green function in the
+Calogero-Sutherland model for all rational values of the coupling $\beta$. The
+calculation is based on Jack polynomial techniques and the results are given in
+the thermodynamical limit. Two type of intermediate states contribute. The
+firts one consists of a particle propagating out of the Fermi sea and the
+second one consists of a particle propagating in one direction, q particles in
+the opposite direction and p holes.
+</abstract>

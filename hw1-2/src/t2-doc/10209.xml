@@ -1,0 +1,20 @@
+<title>
+Notes on Branes in Matrix Theory
+</title>
+
+<abstract>
+  We study the effective actions of various brane configurations in Matrix
+theory. Starting from the 0+1 dimensional quantum mechanics, we replace
+coordinate matrices by covariant derivatives in the large N limit, thereby
+obtaining effective field theories on the brane world volumes. Even for
+noncompact branes, these effective theories are of Yang-Mills type, with
+constant background magnetic fields. In the case of a D2-brane, we show
+explicitly how the effective action equals the large magnetic field limit of
+the Born-Infeld action, and thus derive from Matrix theory the action used by
+Polchinski and Pouliot to compute M-momentum transfer between membranes. We
+also consider the effect of compactifying transverse directions. Finally, we
+analyze a scattering process involving a recently proposed background
+representing a classically stable D6+D0 brane configuration. We compute the
+potential between this configuration and a D0-brane, and show that the result
+agrees with supergravity.
+</abstract>

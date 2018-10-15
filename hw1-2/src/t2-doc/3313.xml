@@ -1,0 +1,26 @@
+<title>
+Dynamic D8-branes in IIA string theory
+</title>
+
+<abstract>
+  In this paper we perform a detailed investigation of the Dirichlet
+eight-brane of the Type IIA string theory, when the effects of gravity are
+included. In particular, consider what happens when one allows the ten-form
+field strength $F_{10}$ to vary discontinuously across the worldvolume of the
+brane. Since the ten-form is constant on each side of the brane ($d*F_{10} =
+0$), a variation in the bulk term $\int F_{10}*F_{10}$ gives rise to a net
+pressure acting on the surface of the brane. This means that the infinite
+`planar' eight-brane is no longer a static configuration with these boundary
+conditions. Instead, a static configuration is found only when the brane
+`compactifies' to the topology of an eight-sphere, $S^8$. These spherical
+eight-branes are thus bubbles which form boundaries between different phases of
+the massive Type IIA supergravity theory. While these bubbles are generically
+unstable and will want to expand (or contract), we show that in certain cases
+there is a critical radius, $r_c$, at which the (inward) tension of the brane
+is exactly counterbalanced by the (outward) force exerted by the pressure
+terms. Intuitively, these `compactified' branes are just spherical bubbles
+where the effective cosmological constant jumps by a discrete amount as you
+cross a brane worldsheet. We argue that these branes will be unstable to
+various semi-classical decay processes. We discuss the implications of such
+processes for the open strings which have endpoints on the eight-brane.
+</abstract>

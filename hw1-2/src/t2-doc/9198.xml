@@ -1,0 +1,16 @@
+<title>
+Renormalization Conditions and the Sliding Scale in the Implicit
+  Regularization Scheme: A Simple Connection
+</title>
+
+<abstract>
+  We describe in detail how a sliding scale is introduced in the
+renormalization of a QFT according to integer-dimensional implicit
+regularization scheme. We show that since no regulator needs to be specified at
+intermediate steps of the calculation, the introduction of a mass scale is a
+direct consequence of a set of renormalization conditions. As an illustration
+the one loop beta-function for QED and lambda*phi^4 theories are derived. They
+are given in terms of derivatives of appropriately systematized functions
+(related to definited parts of the amplitudes) with respect to a mass scale mu.
+Our formal scheme can be easily generalized to higher loop calculations.
+</abstract>

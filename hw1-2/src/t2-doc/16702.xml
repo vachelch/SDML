@@ -1,0 +1,21 @@
+<title>
+The Energy-Momentum Tensor in Field Theory II
+</title>
+
+<abstract>
+  In a previous paper, field theory in curved space was considered, and a
+formula that expresses the first order variation of correlation functions with
+respect to the external metric was postulated. The formula is given as an
+integral of the energy-momentum tensor over space, where the short distance
+singularities of the product of the energy-momentum tensor and an arbitrary
+composite field must be subtracted, and finite counterterms must be added.
+These finite counterterms have been interpreted geometrically as a connection
+for the linear space of composite fields over theory space. In this paper we
+will study a second order consistency condition for the variational formula and
+determine the torsion of the connection. A non-vanishing torsion results from
+the integrability of the variational formula, and it is related to the Bose
+symmetry of the product of two energy-momentum tensors. The massive Ising model
+on a curved two-dimensional surface is discussed as an example, and the
+short-distance singularities of the product of two energy-momentum tensors are
+calculated explicitly.
+</abstract>

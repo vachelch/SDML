@@ -1,0 +1,19 @@
+<date>
+Wed, 18 Dec 1996 18:57:32 +0100 (MET)
+</date>
+
+<title>
+Multi-scale Renormalization
+</title>
+
+<abstract>
+  The Standard MS renormalization prescription is inadequate for dealing with
+multi-scale problems. To illustrate this we consider the computation of the
+effective potential in the Higgs-Yukawa model. It is argued that it is natural
+to employ a two-scale renormalization group. We give a modified version of a
+two-scale scheme introduced by Einhorn and Jones. In such schemes the beta
+functions necessarily contain potentially large logarithms of the RG scale
+ratios. For credible perturbation theory one must implement a large logarithms
+resumation on the beta functions themselves. We show how the integrability
+condition for the two RG equations allows one to perform this resummation.
+</abstract>

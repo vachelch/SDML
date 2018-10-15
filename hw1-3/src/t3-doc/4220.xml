@@ -1,0 +1,21 @@
+<date>
+Thu, 30 Nov 1995 20:11:50 GMT
+</date>
+
+<title>
+The generic soliton of the $A_n$ affine Toda field theories
+</title>
+
+<abstract>
+  In this note we show that the single soliton solutions known previously in
+the $1+1$ dimensional affine Toda field theories from a variety of different
+methods \cite{H1,MM,OTUa,OTUb}, are in fact not the most general single soliton
+solutions. We exhibit single soliton solutions with additional small parameters
+which reduce to the previously known solutions when these extra parameters are
+set to zero. The new solution has the same mass and topological charges as the
+standard solution when these parameters are set to zero. However we cannot yet
+completely rule out the possibility that other solutions with larger values of
+these extra parameters are non-singular, in the cases where the number of extra
+parameters is greater than one, and if so their topological charges would most
+likely be different.
+</abstract>

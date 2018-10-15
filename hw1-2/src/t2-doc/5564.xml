@@ -1,0 +1,18 @@
+<title>
+Asymptotic Freedom and Bound States in Hamiltonian Dynamics
+</title>
+
+<abstract>
+  We study a model of asymptotically free theories with bound states using the
+similarity renormalization group for hamiltonians. We find that the
+renormalized effective hamiltonians can be approximated in a large range of
+widths by introducing similarity factors and the running coupling constant.
+This approximation loses accuracy for the small widths on the order of the
+bound state energy and it is improved by using the expansion in powers of the
+running coupling constant. The coupling constant for small widths is order 1.
+The small width effective hamiltonian is projected on a small subset of the
+effective basis states. The resulting small matrix is diagonalized and the
+exact bound state energy is obtained with accuracy of the order of 10% using
+the first three terms in the expansion. We briefly describe options for
+improving the accuracy.
+</abstract>

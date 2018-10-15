@@ -1,0 +1,17 @@
+<title>
+Finite temperature regularization
+</title>
+
+<abstract>
+  We present a non-perturbative regularization scheme for Quantum Field
+Theories which amounts to an embedding of the originally unregularized theory
+into a spacetime with an extra compactified dimensions of length L ~
+Lambda^{-1} (with Lambda an ultraviolet cutoff), plus a doubling in the number
+of fields, which satisfy different periodicity conditions and have opposite
+Grassmann parity. The resulting regularized action may be interpreted, for the
+fermionic case, as corresponding to a finite-temperature theory with a
+supersymmetry, which is broken because of the boundary conditions. We test our
+proposal in a perturbative calculation (the vacuum polarization graph for a
+D-dimensional fermionic theory) and in a non-perturbative one (the chiral
+anomaly).
+</abstract>

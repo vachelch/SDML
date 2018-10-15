@@ -1,0 +1,20 @@
+<title>
+Correction induced by irrelevant operators in the correlators of the 2d
+  Ising model in a magnetic field
+</title>
+
+<abstract>
+  We investigate the presence of irrelevant operators in the 2d Ising model
+perturbed by a magnetic field, by studying the corrections induced by these
+operators in the spin-spin correlator of the model. To this end we perform a
+set of high precision simulations for the correlator both along the axes and
+along the diagonal of the lattice. By comparing the numerical results with the
+predictions of a perturbative expansion around the critical point we find
+unambiguous evidences of the presence of such irrelevant operators. It turns
+out that among the irrelevant operators the one which gives the largest
+correction is the spin 4 operator T^2 + \bar T^2 which accounts for the
+breaking of the rotational invariance due to the lattice. This result agrees
+with what was already known for the correlator evaluated exactly at the
+critical point and also with recent results obtained in the case of the thermal
+perturbation of the model.
+</abstract>

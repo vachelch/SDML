@@ -1,0 +1,13 @@
+<title>
+Quantum $R^2$ Gravity in Two Dimensions
+</title>
+
+<abstract>
+  Two-dimensional quantum gravity with an $R^2$ term is investigated in the
+continuum framework. It is shown that the partition function for small area $A$
+is highly suppressed by an exponential factor $exp \{ -2\pi (1-h)^2/(m^2A) \}$,
+where $1/m^2$ is the coefficient (times $32\pi$) of $R^2$ and $h$ is the genus
+of the surface. Although positivity is violated, at a short distance scale (
+$\ll 1/m$) surfaces are smooth and the problem of the branched polymer is
+avoided.
+</abstract>

@@ -1,0 +1,20 @@
+<title>
+Exact solutions of Dyson-Schwinger equations for iterated one-loop
+  integrals and propagator-coupling duality
+</title>
+
+<abstract>
+  The Hopf algebra of undecorated rooted trees has tamed the combinatorics of
+perturbative contributions, to anomalous dimensions in Yukawa theory and scalar
+$\phi^3$ theory, from all nestings and chainings of a primitive self-energy
+subdivergence. Here we formulate the nonperturbative problems which these
+resummations approximate. For Yukawa theory, at spacetime dimension $d=4$, we
+obtain an integrodifferential Dyson-Schwinger equation and solve it
+parametrically in terms of the complementary error function. For the scalar
+theory, at $d=6$, the nonperturbative problem is more severe; we transform it
+to a nonlinear fourth-order differential equation. After intensive use of
+symbolic computation we find an algorithm that extends both perturbation series
+to 500 loops in 7 minutes. Finally, we establish the propagator-coupling
+duality underlying these achievements making use of the Hopf structure of
+Feynman diagrams.
+</abstract>

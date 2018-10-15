@@ -1,0 +1,25 @@
+<date>
+Tue, 28 May 1996 18:20:59 +0200 (MET DST)
+</date>
+
+<title>
+Batalin-Vilkovisky field-antifield quantisation of fluctuations around
+  classical field configurations
+</title>
+
+<abstract>
+  The Lagrangian field-antifield formalism of Batalin and Vilkovisky (BV) is
+used to investigate the application of the collective coordinate method to
+soliton quantisation. It is shown how Noether identities and local symmetries
+of the Lagrangian arise when collective coordinates are introduced in order to
+avoid divergences related to zero modes. This transformation to collective and
+fluctuation degrees of freedom is interpreted as a canonical transformation in
+the symplectic field-antifield space which induces a time-local gauge symmetry.
+Separating the corresponding Lagrangian path integral of the BV scheme in
+lowest order into harmonic quantum fluctuations and a free motion of the
+collective coordinate with the classical mass of the soliton, we show how the
+BV approach clarifies the relation between zero modes, collective coordinates,
+gauge invariance and the center-of-mass motion of classical solutions in
+quantum fields. Finally, we apply the procedure to the reduced nonlinear O(3)
+sigma-model.
+</abstract>

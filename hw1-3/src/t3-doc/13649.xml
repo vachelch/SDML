@@ -1,0 +1,20 @@
+<date>
+Wed, 10 Nov 1999 23:49:37 GMT
+</date>
+
+<title>
+The propagator for a general form field in $AdS_{d+1}$
+</title>
+
+<abstract>
+  Using the known propagator equations for 0,1 and 2 forms in AdS_{d+1}, we
+find the p-form field propagator equations in dimensions where the forms are
+Poincare dual. Since the general equation obeyed by the propagators is linear
+in dimension, this gives us the equation obeyed by the propagators for any d.
+Furthermore, based on the Poincare duality formulas for 0,1,2 and 3 forms we
+conjecture the general form of the Poincare duality formulas, and check them
+against the previously found propagator equations. The whole structure is
+self-consistent. Once we have the equations, we can easily obtain all the
+p-form field propagators in AdS_{d+1}. The generalization to massive p-forms
+can also be easily done.
+</abstract>

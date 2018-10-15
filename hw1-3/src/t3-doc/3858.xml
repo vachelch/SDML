@@ -1,0 +1,26 @@
+<date>
+Thu, 19 Dec 2002 20:56:48 GMT
+</date>
+
+<title>
+Seiberg--Witten Duality in Dijkgraaf--Vafa Theory
+</title>
+
+<abstract>
+  We show that a suitable rescaling of the matrix model coupling constant makes
+manifest the duality group of the N=2 SYM theory with gauge group SU(2). This
+is done by first identifying the possible modifications of the SYM moduli
+preserving the monodromy group. Then we show that in matrix models there is a
+simple rescaling of the pair $(S_D,S)$ which makes them dual variables with
+$\Gamma(2)$ monodromy. We then show that, thanks to a crucial scaling property
+of the free energy derived perturbatively by Dijkgraaf, Gukov, Kazakov and
+Vafa, this redefinition corresponds to a rescaling of the free energy which in
+turn fixes the rescaling of the coupling constant. Next, we show that in terms
+of the rescaled free energy one obtains a nonperturbative relation which is the
+matrix model counterpart of the relation between the $u$--modulus and the
+prepotential of N=2 SYM. This suggests considering a dual formulation of the
+matrix model in which the expansion of the prepotential in the strong coupling
+region, whose QFT derivation is still unknown, should follow from perturbation
+theory. The investigation concerns the SU(2) gauge group and can be generalized
+to higher rank groups.
+</abstract>

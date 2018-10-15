@@ -1,0 +1,23 @@
+<title>
+Can Renormalization Group Flow End in a Big Mess?
+</title>
+
+<abstract>
+  The field theoretical renormalization group equations have many common
+features with the equations of dynamical systems. In particular, the manner how
+Callan-Symanzik equation ensures the independence of a theory from its
+subtraction point is reminiscent of self-similarity in autonomous flows towards
+attractors. Motivated by such analogies we propose that besides isolated fixed
+points, the couplings in a renormalizable field theory may also flow towards
+more general, even fractal attractors. This could lead to Big Mess scenarios in
+applications to multiphase systems, from spin-glasses and neural networks to
+fundamental string (M?) theory. We consider various general aspects of such
+chaotic flows. We argue that they pose no obvious contradictions with the known
+properties of effective actions, the existence of dissipative Lyapunov
+functions, and even the strong version of the c-theorem. We also explain the
+difficulties encountered when constructing effective actions with chaotic
+renormalization group flows and observe that they have many common virtues with
+realistic field theory effective actions. We conclude that if chaotic
+renormalization group flows are to be excluded, conceptually novel no-go
+theorems must be developed.
+</abstract>

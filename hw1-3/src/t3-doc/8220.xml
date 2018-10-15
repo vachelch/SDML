@@ -1,0 +1,28 @@
+<date>
+Tue, 22 Sep 1998 23:07:56 GMT
+</date>
+
+<title>
+On Exact Supersymmetry in DLCQ
+</title>
+
+<abstract>
+  In recent years a supersymmetric form of discrete light-cone quantization
+(hereafter `SDLCQ') has emerged as a very powerful tool for solving
+supersymmetric field theories. In this scheme, one calculates the light-cone
+supercharge with respect to a discretized light-cone Fock basis, instead of
+working with the light-cone Hamiltonian. This procedure has the advantage of
+preserving supersymmetry even in the discretized theory, and eliminates the
+need for explicit renormalizations in 1+1 dimensions. In order to compare the
+usual DLCQ prescription with the supersymmetric prescription, we consider two
+dimensional SU(N) Yang-Mills theory coupled to a massive adjoint Majorana
+fermion, which is known to be supersymmetric at a particular value of the
+fermion mass. After studying how singular-valued amplitudes and intermediate
+zero momentum modes are regularized in both schemes, we are able to establish a
+precise connection between conventional DLCQ and its supersymmetric extension,
+SDLCQ. In particular, we derive the explicit form of the (irrelevant)
+interaction that renders the DLCQ formulation of the theory exactly
+supersymmetric for any light-cone compactification. We check our analytical
+results via a numerical procedure, and discuss the relevance of this
+interaction when supersymmetry is explicitly broken.
+</abstract>

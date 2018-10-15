@@ -1,0 +1,24 @@
+<title>
+A three-fermion Salpeter equation
+</title>
+
+<abstract>
+  We write a 3D equation for three fermions by combining the three two-body
+potentials obtained by the reductions of the corresponding two-fermion
+Bethe-Salpeter equations to equivalent 3D equations, putting the spectator
+fermion on the mass shell. In this way, the cluster-separated limits are still
+exact, and the Lorentz invariance / cluster separability requirement is
+automatically satisfied, provided no supplementary approximation, like the Born
+approximation, is made. The use of positive free-energy projectors in the
+chosen reductions of the two-fermion Bethe-Salpeter equations prevents
+continuum dissolution in our 3D three-fermion equation. The potentials are
+hermitian and depend only slowly on the total three-fermion energy. The one
+high-mass limits are approximately exact. In view of a possible perturbation
+calculation, correcting the remaining discrepancies with the three-fermion
+Bethe-Salpeter equation, we succeeded in deriving our 3D equation from an
+approximation of the three-fermion Bethe-Salpeter equation, in which the
+three-body kernel is neglected and the two-body kernels approached by
+positive-energy instantaneous expressions, with the spectator fermion on the
+mass shell. The neglected terms are transformed into corrections to the 3D
+equation. A comparison is made with Gross' spectator model.
+</abstract>

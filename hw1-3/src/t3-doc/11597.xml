@@ -1,0 +1,20 @@
+<date>
+Sat, 3 Jan 1998 11:15:27 GMT
+</date>
+
+<title>
+On Simulating Liouvillian Flow From Quantum Mechanics Via Wigner
+  Functions
+</title>
+
+<abstract>
+  The interconnection between quantum mechanics and probabilistic classical
+mechanics for a free relativistic particle is derived in terms of Wigner
+functions (WF) for both Dirac and Klein-Gordon (K-G) equations. Construction of
+WF is achieved by first defining a bilocal 4-current and then taking its
+Fourier transform w.r.t. the relative 4-coordinate. The K-G and Proca cases
+also lend themselves to a closely parallel treatment provided the Kemmer-
+Duffin beta-matrix formalism is employed for the former. Calculation of WF is
+carried out in a Lorentz-covariant fashion by standard `trace' techniques. The
+results are compared with a recent derivation due to Bosanac.
+</abstract>

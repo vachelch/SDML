@@ -1,0 +1,19 @@
+<date>
+Tue, 17 Feb 1998 21:11:37 GMT
+</date>
+
+<title>
+Pauli--Villars as a Nonperturbative Ultraviolet Regulator in Discretized
+  Light-Cone Quantization
+</title>
+
+<abstract>
+  We propose a solution to the problem of renormalizing light-cone Hamiltonian
+theories while maintaining Lorentz invariance and other symmetries. The method
+uses generalized Pauli--Villars regulators to render the theory finite. We
+discuss the method in the context of Yukawa theory at one loop and for a
+soluble model in 3+1 dimensions. The model is studied nonperturbatively.
+Numerical results obtained with use of discretized light-cone quantization,
+special integration weighting factors, and the complex symmetric Lanczos
+diagonalization algorithm compare well with the analytic answers.
+</abstract>

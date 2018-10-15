@@ -1,0 +1,16 @@
+<title>
+Stable Knotted Strings
+</title>
+
+<abstract>
+  We solve the Cauchy problem for the relativistic closed string in Minkowski
+space $M^{3+1}$, including the cases where the initial data has a knot like
+topology. We give the general conditions for the world sheet of a closed
+knotted string to be a time periodic surface. In the particular case of zero
+initial string velocity the period of the world sheet is proportional to half
+the length ($\ell$) of the initial string and a knotted string always collapses
+to a link for $t=\ell/4$. Relativistic closed strings are dynamically evolving
+or pulsating structures in spacetime, and knotted or unknotted like structures
+remain stable over time. The generation of arbitrary $n$-fold knots, starting
+with an initial simple link configuration with non zero velocity is possible.
+</abstract>

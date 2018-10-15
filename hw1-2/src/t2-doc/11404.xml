@@ -1,0 +1,22 @@
+<title>
+Fermionic realisations of simple Lie algebras
+</title>
+
+<abstract>
+  We study the representation ${\cal D}$ of a simple compact Lie algebra $\g$
+of rank l constructed with the aid of the hermitian Dirac matrices of a (${\rm
+dim} \g$)-dimensional euclidean space. The irreducible representations of $\g$
+contained in ${\cal D}$ are found by providing a general construction on
+suitable fermionic Fock spaces. We give full details not only for the simplest
+odd and even cases, namely su(2) and su(3), but also for the next (${dim}
+\g$)-even case of su(5). Our results are far reaching: they apply to any
+$\g$-invariant quantum mechanical system containing ${\rm dim} \g$ fermions.
+Another reason for undertaking this study is to examine the role of the
+$\g$-invariant fermionic operators that naturally arise. These are given in
+terms of products of an odd number of gamma matrices, and include, besides a
+cubic operator, (l-1) fermionic scalars of higher order. The latter are
+constructed from the Lie algebra cohomology cocycles, and must be considered to
+be of theoretical significance similar to the cubic operator. In the (${\rm
+dim} \g$)-even case, the product of all l operators turns out to be the
+chirality operator $\gamma_q, q=({{\rm dim} \g+1})$.
+</abstract>

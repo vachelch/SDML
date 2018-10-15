@@ -1,0 +1,19 @@
+<title>
+Conformal Symmetry and the Chiral Anomaly
+</title>
+
+<abstract>
+  Two-loop contributions to the anomalous correlation function
+<J_mu(x)J_nu(y)J_rho(z)> of three chiral currents are calculated by a method
+based on the conformal properties of massless field theories. The method was
+previously applied to virtual photon diagrams in quantum electrodynamics, and
+it is extended here to diagrams with scalars and chiral spinors in the abelian
+Higgs model and in the SU(3)xSU(2)xU(1) standard model. In each case there are
+nonvanishing contributions to the gauge current correlator from self-energy
+insertions, vertex insertions and nonplanar diagrams, but their sum exactly
+vanishes. The two-loop contribution to the anomaly therefore also vanishes, in
+agreement with the Adler-Bardeen theorem. An application of the method to the
+correlator <R_mu(x)R_nu(y)K_rho(z)> of the R and Konishi axial currents in
+supersymmetric gauge theories which was reported in hep-th/9608125 is discussed
+here. The net two-loop contribution to this correlator also vanishes.
+</abstract>

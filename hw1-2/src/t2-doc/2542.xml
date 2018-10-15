@@ -1,0 +1,25 @@
+<title>
+Genus One Partition Function of the Calabi-Yau d-Fold embedded in
+  ${CP^{d+1}}$
+</title>
+
+<abstract>
+  For a one-parameter family of Calabi-Yau d-fold M embedded in ${{CP}^{d+1}}$,
+we consider a new quasi-topological field theory ${A^{\ast}}$(M)-model compared
+with the $A$(M)-model. The two point correlators on the sigma model moduli
+space (the hermitian metrics) are analyzed by the $A{A^{\ast}}$-fusion on the
+world sheet sphere. A set of equations of these correlators turns out to be a
+non-affine A-type Toda equation system for the d-fold M. This non-affine
+property originates in the vanishing first Chern class of M. Using the results
+of the $A{A^{\ast}}$-equation, we obtain a genus one partition function of the
+sigma model associated to the M in the recipe of the holomorphic anomaly. By
+taking an asymmetrical limit of the complexified {\kae} parameters
+${\bar{t}\rightarrow \infty}$ and $t$ is fixed, the ${A^{\ast}}$(M)-model part
+is decoupled and we can obtain a partition function (or one point function of
+the operator ${{\cal O}^{(1)}}$ associated to a {\kae} form of M) of the
+$A$(M)-matter coupled with the topological gravity at the stringy one loop
+level. The coefficients of the series expansion with respect to an
+indeterminate $q:={e^{2\pi i t}}$ are integrals of the top Chern class of the
+vector bundle {\Large $\nu $} over the moduli space of stable maps with
+definite degrees.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Fri, 5 Jan 2001 20:18:51 GMT
+</date>
+
+<title>
+Virasoro Constraints and Flavor-Topology Duality in QCD
+</title>
+
+<abstract>
+  We derive Virasoro constraints for the zero momentum part of the QCD-like
+partition functions in the sector of topological charge $\nu$. The constraints
+depend on the topological charge only through the combination $N_f +\beta\nu/2$
+where the value of the Dyson index $\beta$ is determined by the reality type of
+the fermions. This duality between flavor and topology is inherited by the
+small-mass expansion of the partition function and {\em all} spectral sum-rules
+of inverse powers of the eigenvalues of the Dirac operator. For the special
+case $\beta=2$ but arbitrary topological charge the Virasoro constraints are
+solved uniquely by a Generalized Kontsevich Model with potential ${\cal V}(X) =
+1/X$.
+</abstract>

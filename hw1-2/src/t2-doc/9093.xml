@@ -1,0 +1,16 @@
+<title>
+Lagrangian Formulation of Symmetric Space sine-Gordon Models
+</title>
+
+<abstract>
+  The symmetric space sine-Gordon models arise by conformal reduction of
+ordinary 2-dim $\sigma$-models, and they are integrable exhibiting a black-hole
+type metric in target space. We provide a Lagrangian formulation of these
+systems by considering a triplet of Lie groups $F \supset G \supset H$. We show
+that for every symmetric space $F/G$, the generalized sine-Gordon models can be
+derived from the $G/H$ WZW action, plus a potential term that is algebraically
+specified. Thus, the symmetric space sine-Gordon models describe certain
+integrable perturbations of coset conformal field theories at the classical
+level. We also briefly discuss their vacuum structure, Backlund
+transformations, and soliton solutions.
+</abstract>

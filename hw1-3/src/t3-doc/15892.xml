@@ -1,0 +1,25 @@
+<date>
+Tue, 23 Jan 1996 16:08:11 -0500 (EST)
+</date>
+
+<title>
+Isomorphisms between the Batalin-Vilkovisky antibracket and the Poisson
+  bracket
+</title>
+
+<abstract>
+  One may introduce at least three different Lie algebras in any Lagrangian
+field theory : (i) the Lie algebra of local BRST cohomology classes equipped
+with the odd Batalin-Vilkovisky antibracket, which has attracted considerable
+interest recently~; (ii) the Lie algebra of local conserved currents equipped
+with the Dickey bracket~; and (iii) the Lie algebra of conserved, integrated
+charges equipped with the Poisson bracket. We show in this paper that the
+subalgebra of (i) in ghost number $-1$ and the other two algebras are
+isomorphic for a field theory without gauge invariance. We also prove that, in
+the presence of a gauge freedom, (ii) is still isomorphic to the subalgebra of
+(i) in ghost number $-1$, while (iii) is isomorphic to the quotient of (ii) by
+the ideal of currents without charge. In ghost number different from $-1$, a
+more detailed analysis of the local BRST cohomology classes in the Hamiltonian
+formalism allows one to prove an isomorphism theorem between the antibracket
+and the extended Poisson bracket of Batalin, Fradkin and Vilkovisky.
+</abstract>

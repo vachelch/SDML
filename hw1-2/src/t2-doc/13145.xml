@@ -1,0 +1,14 @@
+<title>
+Discrete Hirota's equation in quantum integrable models
+</title>
+
+<abstract>
+  The recent progress in revealing classical integrable structures in quantum
+models solved by Bethe ansatz is reviewed. Fusion relations for eigenvalues of
+quantum transfer matrices can be written in the form of classical Hirota's
+bilinear difference equation. This equation is also known as the completely
+discretized version of the 2D Toda lattice. We explain how one obtains the
+specific quantum results by solving the classical equation. The auxiliary
+linear problem for the Hirota equation is shown to generalize Baxter's T-Q
+relation.
+</abstract>

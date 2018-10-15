@@ -1,0 +1,25 @@
+<date>
+Fri, 7 May 1999 12:05:18 GMT
+</date>
+
+<title>
+Making Sense of Singular Gauge Transformations in 1+1 and 2+1 Fermion
+  Models
+</title>
+
+<abstract>
+  We study the problem of decoupling fermion fields in 1+1 and 2+1 dimensions,
+in interaction with a gauge field, by performing local transformations of the
+fermions in the functional integral. This could always be done if singular
+(large) gauge transformations were allowed, since any gauge field configuration
+may be represented as a singular pure gauge field. However, the effect of a
+singular gauge transformation of the fermions is equivalent to the one of a
+regular transformation with a non-trivial action on the spinorial indices. For
+example, in the two dimensional case, singular gauge transformations lead
+naturally to chiral transformations, and hence to the usual decoupling
+mechanism based on Fujikawa Jacobians. In 2+1 dimensions, using the same
+procedure, different transformations emerge, which also give rise to Fujikawa
+Jacobians. We apply this idea to obtain the v.e.v of the fermionic current in a
+background field, in terms of the Jacobian for an infinitesimal decoupling
+transformation, finding the parity violating result.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Thu, 16 Sep 1999 14:40:13 GMT
+</date>
+
+<title>
+On the BFFT quantization of first order systems
+</title>
+
+<abstract>
+  By using the field-antifield formalism, we show that the method of Batalin,
+Fradkin, Fradkina and Tyutin to convert Hamiltonian systems submitted to second
+class constraints introduces compensating fields which do not belong to the
+BRST cohomology at ghost number one. This assures that the gauge symmetries
+which arise from the BFFT procedure are not obstructed at quantum level. An
+example where massive electrodynamics is coupled to chiral fermions is
+considered. We solve the quantum master equation for the model and show that
+the respective counterterm has a decisive role in extracting anomalous
+expectation values associated with the divergence of the Noether chiral
+current.
+</abstract>

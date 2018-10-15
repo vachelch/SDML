@@ -1,0 +1,17 @@
+<title>
+Propagators and Path Integrals
+</title>
+
+<abstract>
+  Path-integral expressions for one-particle propagators in scalar and
+fermionic field theories are derived, for arbitrary mass. This establishes a
+direct connection between field theory and specific classical point-particle
+models. The role of world-line reparametrization invariance of the classical
+action and the implementation of the corresponding BRST-symmetry in the quantum
+theory are discussed. The presence of classical world-line supersymmetry is
+shown to lead to an unwanted doubling of states for massive spin-1/2 particles.
+The origin of this phenomenon is traced to a `hidden' topological fermionic
+excitation. A different formulation of the pseudo-classical mechanics using a
+bosonic representation of $\gam_5$ is shown to remove these extra states at the
+expense of losing manifest supersymmetry.
+</abstract>

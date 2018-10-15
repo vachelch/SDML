@@ -1,0 +1,22 @@
+<title>
+Conformal Correlation Functions, Frobenius Algebras and Triangulations
+</title>
+
+<abstract>
+  We formulate two-dimensional rational conformal field theory as a natural
+generalization of two-dimensional lattice topological field theory. To this end
+we lift various structures from complex vector spaces to modular tensor
+categories. The central ingredient is a special Frobenius algebra object A in
+the modular category that encodes the Moore-Seiberg data of the underlying
+chiral CFT. Just like for lattice TFTs, this algebra is itself not an
+observable quantity. Rather, Morita equivalent algebras give rise to equivalent
+theories. Morita equivalence also allows for a simple understanding of
+T-duality.
+  We present a construction of correlators, based on a triangulation of the
+world sheet, that generalizes the one in lattice TFTs. These correlators are
+modular invariant and satisfy factorization rules. The construction works for
+arbitrary orientable world sheets, in particular for surfaces with boundary.
+Boundary conditions correspond to representations of the algebra A. The
+partition functions on the torus and on the annulus provide modular invariants
+and NIM-reps of the fusion rules, respectively.
+</abstract>

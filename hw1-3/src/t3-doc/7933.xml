@@ -1,0 +1,20 @@
+<date>
+Fri, 7 Feb 1997 21:49:30 +0900
+</date>
+
+<title>
+Pedagogical Introduction to Hamiltonian BRST formalism
+</title>
+
+<abstract>
+  Hamiltonian BRST formalism (FV formalism) includes many auxiliary fields
+without explanation. Its path-integration has a simple form by using BRST
+charge, but its construction is quite mechanically and hard to understand
+physical meaning. In this paper we perform the phase space path-integral with
+requiring BRST invariance for action and measure, and show that the resultant
+form is equivalent to the Hamiltonian BRST (FV) formalism in gravitational
+theory. This explains why so many auxiliary fields are necessary to be
+introduced. We also find the gauge fixing is automatically done by requiring
+the BRST invariance of the path-integral measure. This is a pedagogical
+introduction to Hamiltonian BRST formalism.
+</abstract>

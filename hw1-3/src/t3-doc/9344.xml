@@ -1,0 +1,21 @@
+<date>
+Tue, 2 Dec 1997 12:14:45 GMT
+</date>
+
+<title>
+The C_2 heat-kernel coefficient in the presence of boundary
+  discontinuities
+</title>
+
+<abstract>
+  We consider the heat-kernel on a manifold whose boundary is piecewise smooth.
+The set of independent geometrical quantities required to construct an
+expression for the contribution of the boundary discontinuities to the C_{2}
+heat-kernel coefficient is derived in the case of a scalar field with Dirichlet
+and Robin boundary conditions. The coefficient is then determined using
+conformal symmetry and evaluation on some specific manifolds. For the Robin
+case a perturbation technique is also developed and employed. The contributions
+to the smeared heat-kernel coefficient and cocycle function are calculated.
+Some incomplete results for spinor fields with mixed conditions are also
+presented.
+</abstract>

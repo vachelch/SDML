@@ -1,0 +1,15 @@
+<title>
+Thompson's Method applied to Quantum Electrodynamics (QED)
+</title>
+
+<abstract>
+  In this work we apply Thompson's method (of the dimensions) to study the
+quantum electrodynamics (QED). This method can be considered as a simple and
+alternative way to the renormalisation group (R.G) approach and when applied to
+QED lagrangian is able to obtain the running coupling constant behavior $\alpha
+(\mu)$, namely the dependence of $\alpha$ on the energy scale. We also obtain
+the dependence of the mass on the energy scale. The calculations are evaluated
+just at $d_c=4$, where $d_c$ is the upper critical dimension of the problem, so
+that we obtain logarithmic behavior both for the coupling $\alpha$ and the mass
+$m$ on the energy scale $\mu$.
+</abstract>

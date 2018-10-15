@@ -1,0 +1,18 @@
+<date>
+Wed, 9 Oct 96 13:03:05 MESZ
+</date>
+
+<title>
+The Path Integral for 1+1-dimensional QCD
+</title>
+
+<abstract>
+  We derive a path integral expression for the transition amplitude in
+1+1-dimensional QCD starting from canonically quantized QCD. Gauge fixing after
+quantization leads to a formulation in terms of gauge invariant but curvilinear
+variables. Remainders of the curved space are Jacobians, an effective
+potential, and sign factors just as for the problem of a particle in a box.
+Based on this result we derive a Faddeev-Popov like expression for the
+transition amplitude avoiding standard infinities that are caused by
+integrations over gauge equivalent configurations.
+</abstract>

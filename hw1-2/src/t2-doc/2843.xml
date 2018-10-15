@@ -1,0 +1,20 @@
+<title>
+Statistical Mechanics, Gravity, and Euclidean Theory
+</title>
+
+<abstract>
+  A review of computations of free energy for Gibbs states on stationary but
+not static gravitational and gauge backgrounds is given. On these backgrounds
+wave equations for free fields are reduced to eigen-value problems which depend
+non-linearly on the spectral parameter. We present a method to deal with such
+problems. In particular, we demonstrate how some results of the spectral theory
+of second order elliptic operators, such as heat kernel asymptotics, can be
+extended to a class of non-linear spectral problems. The method is used to
+trace down the relation between the canonical definition of the free energy
+based on summation over the modes and the covariant definition given in
+Euclidean quantum gravity. As an application, high-temperature asymptotics of
+the free energy and of the thermal part of the stress-energy tensor in the
+presence of rotation are derived. We also discuss statistical mechanics in the
+presence of Killing horizons where canonical and Euclidean theories are related
+in a non-trivial way.
+</abstract>

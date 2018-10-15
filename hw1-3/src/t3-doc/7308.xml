@@ -1,0 +1,23 @@
+<date>
+Mon, 13 Feb 1995 16:35:43 EDT
+</date>
+
+<title>
+A Massive Renormalizable Abelian Gauge Theory in 2+1 Dimensions
+</title>
+
+<abstract>
+  The standard formulation of a massive Abelian vector field in $2+1$
+dimensions involves a Maxwell kinetic term plus a Chern-Simons mass term; in
+its place we consider a Chern-Simons kinetic term plus a Stuekelberg mass term.
+In this latter model, we still have a massive vector field, but now the
+interaction with a charged spinor field is renormalizable (as opposed to super
+renormalizable). By choosing an appropriate gauge fixing term, the Stuekelberg
+auxiliary scalar field decouples from the vector field. The one-loop spinor
+self energy is computed using operator regularization, a technique which
+respects the three dimensional character of the antisymmetric tensor
+$\epsilon_{\alpha\beta\gamma}$. This method is used to evaluate the vector self
+energy to two-loop order; it is found to vanish showing that the beta function
+is zero to two-loop order. The canonical structure of the model is examined
+using the Dirac constraint formalism.
+</abstract>

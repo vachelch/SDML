@@ -1,0 +1,22 @@
+<title>
+Dissipative Time Evolution of Observables in Non-equilibrium Statistical
+  Quantum Systems
+</title>
+
+<abstract>
+  We discuss differential-- versus integral--equation based methods describing
+out--of thermal equilibrium systems and emphasize the importance of a well
+defined reduction to statistical observables. Applying the projection operator
+approach, we investigate on the time evolution of expectation values of linear
+and quadratic polynomials in position and momentum for a statistical anharmonic
+oscillator with quartic potential. Based on the exact integro-differential
+equations of motion, we study the first and naive second order approximation
+which breaks down at secular time-scales. A method is proposed to improve the
+expansion by a non--perturbative resummation of all quadratic operator
+correlators consistent with energy conservation for all times. Motion cannot be
+described by an effective Hamiltonian local in time reflecting non-unitarity of
+the dissipative entropy generating evolution. We numerically integrate the
+consistently improved equations of motion for large times. We relate entropy to
+the uncertainty product, both being expressible in terms of the observables
+under consideration.
+</abstract>

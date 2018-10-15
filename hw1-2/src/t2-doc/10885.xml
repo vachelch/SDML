@@ -1,0 +1,19 @@
+<title>
+The geometry of dynamical triangulations
+</title>
+
+<abstract>
+  We discuss the geometry of dynamical triangulations associated with
+3-dimensional and 4-dimensional simplicial quantum gravity. We provide
+analytical expressions for the canonical partition function in both cases, and
+study its large volume behavior. In the space of the coupling constants of the
+theory, we characterize the infinite volume line and the associated critical
+points. The results of this analysis are found to be in excellent agreement
+with the MonteCarlo simulations of simplicial quantum gravity. In particular,
+we provide an analytical proof that simply-connected dynamically triangulated
+4-manifolds undergo a higher order phase transition at a value of the inverse
+gravitational coupling given by 1.387, and that the nature of this transition
+can be concealed by a bystable behavior. A similar analysis in the
+3-dimensional case characterizes a value of the critical coupling (3.845) at
+which hysteresis effects are present.
+</abstract>

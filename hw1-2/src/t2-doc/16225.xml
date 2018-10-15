@@ -1,0 +1,15 @@
+<title>
+Renormalization of Hamiltonians
+</title>
+
+<abstract>
+  A matrix model of an asymptotically free theory with a bound state is solved
+using a perturbative similarity renormalization group for hamiltonians. An
+effective hamiltonian with a small width, calculated including the first three
+terms in the perturbative expansion, is projected on a small set of effective
+basis states. The resulting small hamiltonian matrix is diagonalized and the
+exact bound state energy is obtained with accuracy of order 10%. Then, a brief
+description and an elementary illustration are given for a related light-front
+Fock space operator method which aims at carrying out analogous steps for
+hamiltonians of QCD and other theories.
+</abstract>

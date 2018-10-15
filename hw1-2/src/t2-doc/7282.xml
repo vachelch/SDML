@@ -1,0 +1,23 @@
+<title>
+The large Nc limit of N=2 super Yang-Mills, fractional instantons and
+  infrared divergences
+</title>
+
+<abstract>
+  We investigate the large Nc limit of pure N=2 supersymmetric gauge theory
+with gauge group SU(Nc) by using the exact low energy effective action. Typical
+one-complex dimensional sections of the moduli space parametrized by a global
+complex mass scale v display three qualitatively different regions depending on
+the ratio between |v| and the dynamically generated scale Lambda. At large
+|v|/Lambda, instantons are exponentially suppressed as N goes to infinity. When
+|v| is of order Lambda, singularities due to massless dyons occur. They are
+densely distributed in rings of calculable thicknesses in the v-plane. At small
+|v|/Lambda, instantons disintegrate into fractional instantons of charge
+1/(2N). These fractional instantons give non-trivial contributions to all
+orders of 1/N, unlike a planar diagrams expansion which generates a series in
+1/N^2, implying the presence of open strings. We have explicitly calculated the
+fractional instantons series in two representative examples, including the 1/N
+and 1/N^2 corrections. Our most interesting finding is that the 1/N expansion
+breaks down at singularities on the moduli space due to severe infrared
+divergencies, a fact that has remarkable consequences.
+</abstract>

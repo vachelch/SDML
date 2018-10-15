@@ -1,0 +1,19 @@
+<date>
+Fri, 3 Feb 1995 10:31:44 +0100 (MET)
+</date>
+
+<title>
+A Technique for generating Feynman Diagrams
+</title>
+
+<abstract>
+We present a simple technique that allows to generate Feynman diagrams for
+vector models with interactions of order $2n$ and similar models (Gross-Neveu,
+Thirring model), using a bootstrap equation that uses only the free field value
+of the energy as an input. The method allows to find the diagrams to, in
+principle, arbitrarily high order and applies to both energy and correlation
+functions. It automatically generates the correct symmetry factor (as a
+function of the number of components of the field) and the correct sign for any
+diagram in the case of fermion loops. We briefly discuss the possibility of
+treating QED as a Thirring model with non-local interaction.
+</abstract>

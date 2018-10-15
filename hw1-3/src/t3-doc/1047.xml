@@ -1,0 +1,26 @@
+<date>
+Thu, 16 Jan 2003 16:05:15 GMT
+</date>
+
+<title>
+Charge density and electric charge in quantum electrodynamics
+</title>
+
+<abstract>
+  The convergence of integrals over charge densities is discussed in relation
+with the problem of electric charge and (non-local) charged states in Quantum
+Electrodynamics (QED). Delicate, but physically relevant, mathematical points
+like the domain dependence of local charges as quadratic forms and the time
+smearing needed for strong convergence of integrals of charge densities are
+analyzed. The results are applied to QED and the choice of time smearing is
+shown to be crucial for the removal of vacuum polarization effects responible
+for the time dependence of the charge (Swieca phenomenon). The possibility of
+constructing physical charged states in the Feynman-Gupta-Bleuler gauge as
+limits of local states vectors is discussed, compatibly with the vanishing of
+the Gauss charge on local states. A modification by a gauge term of the Dirac
+exponential factor which yields the physical Coulomb fields from the
+Feynman-Gupta-Bleuler fields is shown to remove the infrared divergence of
+scalar products of local and physical charged states, allowing for a
+construction of physical charged fields with well defined correlation functions
+with local fields.
+</abstract>

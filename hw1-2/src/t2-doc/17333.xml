@@ -1,0 +1,28 @@
+<title>
+Hermitian Analyticity, IR/UV Mixing and Unitarity of Noncommutative
+  Field Theories
+</title>
+
+<abstract>
+  The IR/UV mixing and the violation of unitarity are two of the most
+intriguing aspects of noncommutative quantum field theories. In this paper the
+relation between these two phenomena is explained and established. We start out
+by showing that the S-matrix of noncommutative field theories is hermitian
+analytic. As a consequence, a noncommutative field theory is unitary if the
+discontinuities of its Feynman diagram amplitudes agree with the expressions
+calculated using the Cutkosky formulae. These unitarity constraints relate the
+discontinuities of amplitudes with physical intermediate states; and allow us
+to see how the IR/UV mixing may lead to a breakdown of unitarity. Specifically,
+we show that the IR/UV singularity does not lead to the violation of unitarity
+in the space-space noncommutative case, but it does lead to its violation in a
+space-time noncommutative field theory. As a corollary, noncommutative field
+theory without IR/UV mixing will be unitary in both the space-space and
+space-time noncommutative case. To illustrate this, we introduce and analyse
+the noncommutative Lee model--an exactly solvable quantum field theory. We show
+that the model is free from the IR/UV mixing in both the space-space and
+space-time noncommutative cases. Our analysis is exact. Due to absence of the
+IR/UV mixing one can expect that the theory is unitary. We present some checks
+supporting this claim. Our analysis provides a counter example to the generally
+held beliefs that field theories with space-time noncommutativity are
+non-unitary.
+</abstract>

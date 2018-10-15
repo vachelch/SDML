@@ -1,0 +1,19 @@
+<title>
+Extended antifield-formalism
+</title>
+
+<abstract>
+  The antifield formalism is extended so as to incorporate the rigid symmetries
+of a given theory. To that end, it is necessary to introduce global ghosts not
+only for the given rigid symmetries, but also for all the higher order
+conservation laws, associated with conserved antisymmetric tensors. Otherwise,
+one may encounter obstructions of the type discussed in [13]. These higher
+order conservation laws are shown to define additional rigid symmetries of the
+master equation and to form -- together with the standard symmetries -- an
+interesting algebraic structure. They lead furthermore to independent Ward
+identities which are derived in the standard manner, because the resulting
+master ("Zinn-Justin") equation capturing both the gauge symmetries and the
+rigid symmetries of all orders takes a known form. Issues such as anomalies or
+consistent deformations of the action preserving some set of rigid symmetries
+can be also systematically analysed in this framework.
+</abstract>

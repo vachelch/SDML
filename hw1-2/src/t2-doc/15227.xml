@@ -1,0 +1,17 @@
+<title>
+Split dimensional regularization for the Coulomb gauge at two loops
+</title>
+
+<abstract>
+  We evaluate the coefficients of the leading poles of the complete two-loop
+quark self-energy \Sigma(p) in the Coulomb gauge. Working in the framework of
+split dimensional regularization, with complex regulating parameters \sigma and
+n/2-\sigma for the energy and space components of the loop momentum,
+respectively, we find that split dimensional regularization leads to
+well-defined two-loop integrals, and that the overall coefficient of the
+leading pole term for \Sigma(p) is strictly local. Extensive tables showing the
+pole parts of one- and two-loop Coulomb integrals are given. We also comment on
+some general implications of split dimensional regularization, discussing in
+particular the limit \sigma \to 1/2 and the subleading terms in the
+epsilon-expansion of noncovariant integrals.
+</abstract>

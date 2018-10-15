@@ -1,0 +1,20 @@
+<date>
+Sun, 18 Jul 1999 23:36:34 GMT
+</date>
+
+<title>
+Computations in Large N Matrix Mechanics
+</title>
+
+<abstract>
+  The algebraic formulation of Large N matrix mechanics recently developed by
+Halpern and Schwartz leads to a practical method of numerical computation for
+both action and Hamiltonian problems. The new technique posits a boundary
+condition on the planar connected parts X_w, namely that they should decrease
+rapidly with increasing order. This leads to algebraic/variational schemes of
+computation which show remarkably rapid convergence in numerical tests on some
+many- matrix models. The method allows the calculation of all moments of the
+ground state, in a sequence of approximations, and excited states can be
+determined as well. There are two unexpected findings: a large d expansion and
+a new selection rule for certain types of interaction.
+</abstract>

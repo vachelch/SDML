@@ -1,0 +1,24 @@
+<date>
+Thu, 15 Jan 1998 16:07:42 GMT
+</date>
+
+<title>
+Mode regularization, time slicing, Weyl ordering and phase space path
+  integrals for quantum mechanical nonlinear sigma models
+</title>
+
+<abstract>
+  A simple, often invoked, regularization scheme of quantum mechanical path
+integrals in curved space is mode regularization: one expands fields into a
+Fourier series, performs calculations with only the first $M$ modes, and at the
+end takes the limit $M \to \infty$. This simple scheme does not manifestly
+preserve reparametrization invariance of the target manifold: particular
+noncovariant terms of order $\hbar^2$ must be added to the action in order to
+maintain general coordinate invariance. Regularization by time slicing requires
+a different set of terms of order $\hbar^2$ which can be derived from Weyl
+ordering of the Hamiltonian. With these counterterms both schemes give the same
+answers to all orders of loops. As a check we perform the three-loop
+calculation of the trace anomaly in four dimensions in both schemes. We also
+present a diagrammatic proof of Matthews' theorem that phase space and
+configuration space path integrals are equal.
+</abstract>

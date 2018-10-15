@@ -1,0 +1,21 @@
+<title>
+SDLCQ and String/Field Theory Correspondences
+</title>
+
+<abstract>
+  String/Field theory correspondences have been discussed heavily in recent
+years. Here, we describe a testing scenario involving a non-perturbative field
+theory calculation using the framework of supersymmetric discrete light-cone
+quantization (SDLCQ). We consider a Maldacena-type conjecture applied to the
+near horizon geometry of a D1-brane in the supergravity approximation.
+Numerical results of a test of this conjecture are presented with orders of
+magnitude more states than we previously considered. These results support the
+Maldacena conjecture and are within 10-15% of the predicted results. We present
+a method for using a ``flavor'' symmetry to greatly reduce the size of the Fock
+basis and discuss a numerical method that we use which is particularly well
+suited for this type of matrix element calculation. Our results are still not
+sufficient to demonstrate convergence, and, therefore, cannot be considered to
+be a numerical proof of the conjecture. We update our continuous efforts to
+improve on these results and present some results on the way to higher
+dimensional scenarios.
+</abstract>

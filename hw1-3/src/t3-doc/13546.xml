@@ -1,0 +1,24 @@
+<date>
+Fri, 19 Jul 2002 18:49:30 GMT
+</date>
+
+<title>
+Exact S-matrices for supersymmetric sigma models and the Potts model
+</title>
+
+<abstract>
+  We study the algebraic formulation of exact factorizable S-matrices for
+integrable two-dimensional field theories. We show that different formulations
+of the S-matrices for the Potts field theory are essentially equivalent, in the
+sense that they can be expressed in the same way as elements of the
+Temperley-Lieb algebra, in various representations. This enables us to
+construct the S-matrices for certain nonlinear sigma models that are invariant
+under the Lie ``supersymmetry'' algebras sl(m+n|n) (m=1,2; n>0), both for the
+bulk and for the boundary, simply by using another representation of the same
+algebra. These S-matrices represent the perturbation of the conformal theory at
+theta=pi by a small change in the topological angle theta. The m=1, n=1 theory
+has applications to the spin quantum Hall transition in disordered fermion
+systems. We also find S-matrices describing the flow from weak to strong
+coupling, both for theta=0 and theta=pi, in certain other supersymmetric sigma
+models.
+</abstract>

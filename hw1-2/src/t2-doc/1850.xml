@@ -1,0 +1,24 @@
+<title>
+QCD3 and the Replica Method
+</title>
+
+<abstract>
+  Using the replica method, we analyze the mass dependence of the QCD3
+partition function in a parameter range where the leading contribution is from
+the zero momentum Goldstone fields. Three complementary approaches are
+considered in this article. First, we derive exact relations between the QCD3
+partition function and the QCD4 partition function continued to half-integer
+topological charge. The replica limit of these formulas results in exact
+relations between the corresponding microscopic spectral densities of QCD3 and
+QCD4. Replica calculations, which are exact for QCD4 at half-integer
+topological charge, thus result in exact expressions for the microscopic
+spectral density of the QCD3 Dirac operator. Second, we derive Virasoro
+constraints for the QCD3 partition function. They uniquely determine the
+small-mass expansion of the partition function and the corresponding sum rules
+for inverse Dirac eigenvalues. Due to de Wit-'t Hooft poles, the replica limit
+only reproduces the small mass expansion of the resolvent up to a finite number
+of terms. Third, the large mass expansion of the resolvent is obtained from the
+replica limit of a loop expansion of the QCD3 partition function. Because of
+Duistermaat-Heckman localization exact results are obtained for the microscopic
+spectral density in this way.
+</abstract>

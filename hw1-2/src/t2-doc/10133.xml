@@ -1,0 +1,20 @@
+<title>
+Effect of retardation on dynamical mass generation in two-dimensional
+  QED at finite temperature
+</title>
+
+<abstract>
+  The effect of retardation on dynamical mass generation in is studied, in the
+imaginary time formalism. The photon porarization tensor is evaluated to
+leading order in 1/N (N is the number of flavours), and simple closed form
+expressions are found for the fully retarded longitudinal and transverse
+propagators, which have the correct limit when T goes to zero. The resulting
+S-D equation for the fermion mass (at order 1/N) has an infrared divergence
+associated with the contribution of the transverse photon propagator; only the
+longitudinal contribution is retained, as in earlier treatments. For solutions
+of constant mass, it is found that the retardation reduces the value of the
+parameter r (the ratio of twice the mass to the critical temperature) from
+about 10 to about 6. The gap equation is then solved allowing for the mass to
+depend on frequency. It was found that the r value remained close to 6.
+Possibilities for including the transverse propagator are discussed.
+</abstract>

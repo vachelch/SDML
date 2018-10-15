@@ -1,0 +1,24 @@
+<date>
+Thu, 23 Apr 1998 19:06:16 GMT
+</date>
+
+<title>
+Entropy and Conformal Field Theories of AdS_3 Models
+</title>
+
+<abstract>
+  We present a derivation of the Bekenstein-Hawking entropy from conformal
+field theories. In particular we consider a six-dimensional string
+configuration with background metric AdS_3 * S^3 near the horizon. In addition
+we introduce momentum modes along the string, corresponding to a
+Banados-Teitelboim-Zanelli (BTZ) black hole in the anti-de Sitter (AdS)
+space-time, and a Taub-NUT soliton in the transverse Euclidean space,
+projecting out a discrete subgroub of S^3. This spherical part is described by
+a SU(2)/Z(m) Wess-Zumino-Witten (WZW) model. The AdS_3 space-time, on the other
+hand, is determined by two conformal field theories living at the two
+boundaries: One SL(2,R)/U(1) WZW model on the horizon of the BTZ black hole and
+one Liouville model at infinity. The extremal BTZ black hole interpolates
+between these two conformal field theories. Moreover, we argue that the sum of
+the three conformal field theories yields the correct microscopic
+state-counting including all alpha' corrections.
+</abstract>

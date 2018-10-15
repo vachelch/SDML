@@ -1,0 +1,13 @@
+<title>
+Functional integral approach to multipoint correlators in 2d critical
+  systems
+</title>
+
+<abstract>
+  We extend a previously developed technique for computing spin-spin critical
+correlators in the 2d Ising model, to the case of multiple correlations. This
+enables us to derive Kadanoff-Ceva's formula in a simple and elegant way. We
+also exploit a doubling procedure in order to evaluate the critical exponent of
+the polarization operator in the Baxter model. Thus we provide a rigorous proof
+of the relation between different exponents, in the path-integral framework.
+</abstract>

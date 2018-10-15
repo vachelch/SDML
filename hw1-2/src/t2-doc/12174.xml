@@ -1,0 +1,23 @@
+<title>
+Quantum Spin Models and Extended Conformal Algebras
+</title>
+
+<abstract>
+ First, an algebraic criterion for integrability is discussed -the so-called
+`superintegrability'- and some results on the classification of superintegrable
+quantum spin Hamiltonians based on sl(2) are obtained.
+ Next, the massive phases of the Z_n-chiral Potts quantum spin chain (a model
+that violates parity) are studied in detail. It is shown that the excitation
+spectrum of the massive high-temperature phase can be explained in terms of n-1
+fundamental quasiparticles. We compute correlation functions from a
+perturbative and numerical evaluation of the groundstate for the Z_3-chain. In
+addition to an exponential decay we observe an oscillating contribution. The
+oscillation length seems to be related to the asymmetry of the dispersion
+relations. We show that this relation is exact at special values of the
+parameters for general Z_n using a form factor expansion.
+ Finally, we discuss several aspects of extended conformal algebras
+(W-algebras). We observe an analogy between boundary conditions for Z_n-spin
+chains and W-algebras and then turn to statements about the structure of
+W-algebras. In particular, we briefly summarize results on unifying structures
+present in the space of all quantum W-algebras.
+</abstract>

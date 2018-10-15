@@ -1,0 +1,19 @@
+<date>
+Tue, 14 May 1996 12:04:01 +0200 (MET DST)
+</date>
+
+<title>
+An Explicit Large Versus Small Field Multiscale Cluster Expansion
+</title>
+
+<abstract>
+  We introduce a new type of cluster expansion which generalizes a previous
+formula of Brydges and Kennedy. The method is especially suited for performing
+a phase-space multiscale expansion in a just renormalizable theory, and allows
+the writing of explicit non-perturbative formulas for the Schwinger functions.
+The procedure is quite model independent, but for simplicity we chose the
+infrared $\ph^4_4$ model as a testing ground. We used also a large field versus
+small field expansion. The polymer amplitudes, corresponding to graphs without
+almost local two and for point functions, are shown to satisfy the polymer
+bound.
+</abstract>

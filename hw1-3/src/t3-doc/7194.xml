@@ -1,0 +1,20 @@
+<date>
+Thu, 26 Sep 1996 09:30:19 +0200 (MET DST)
+</date>
+
+<title>
+The Luttinger-Schwinger Model
+</title>
+
+<abstract>
+  We study the Luttinger-Schwinger model, i.e. the (1+1) dimensional model of
+massless Dirac fermions with a non-local 4-point interaction coupled to a
+U(1)-gauge field. The complete solution of the model is found using the
+boson-fermion correspondence, and the formalism for calculating all gauge
+invariant Green functions is provided. We discuss the role of anomalies and
+show how the existence of large gauge transformations implies a fermion
+condensate in all physical states. The meaning of regularization and
+renormalization in our well-defined Hilbert space setting is discussed. We
+illustrate the latter by performing the limit to the Thirring-Schwinger model
+where the interaction becomes local.
+</abstract>

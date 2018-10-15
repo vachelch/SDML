@@ -1,0 +1,15 @@
+<title>
+Topological Amplitudes in String Theory
+</title>
+
+<abstract>
+  We show that certain type II string amplitudes at genus $g$ are given by the
+topological partition function $F_g$ discussed recently by Bershadsky, Cecotti,
+Ooguri and Vafa. These amplitudes give rise to a term in the four-dimensional
+effective action of the form $\sum_g F_g W^{2g}$, where $W$ is the chiral
+superfield of $N=2$ supergravitational multiplet. The holomorphic anomaly of
+$F_g$ is related to non-localities of the effective action due to the
+propagation of massless states. This result generalizes the holomorphic anomaly
+of the one loop case which is known to lead to non-harmonic gravitational
+couplings.
+</abstract>

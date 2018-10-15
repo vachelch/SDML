@@ -1,0 +1,16 @@
+<title>
+Constructing Gauge Theory Geometries from Matrix Models
+</title>
+
+<abstract>
+  We use the matrix model -- gauge theory correspondence of Dijkgraaf and Vafa
+in order to construct the geometry encoding the exact gaugino condensate
+superpotential for the N=1 U(N) gauge theory with adjoint and symmetric or
+anti-symmetric matter, broken by a tree level superpotential to a product
+subgroup involving U(N_i) and SO(N_i) or Sp(N_i/2) factors. The relevant
+geometry is encoded by a non-hyperelliptic Riemann surface, which we extract
+from the exact loop equations. We also show that O(1/N) corrections can be
+extracted from a logarithmic deformation of this surface. The loop equations
+contain explicitly subleading terms of order 1/N, which encode information of
+string theory on an orientifolded local quiver geometry.
+</abstract>

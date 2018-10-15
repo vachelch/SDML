@@ -1,0 +1,28 @@
+<title>
+Nonabelian Bosonization as a Nonholonomic Transformations from Flat to
+  Curved Field Space
+</title>
+
+<abstract>
+  There exists a simple rule by which path integrals for the motion of a point
+particle in a flat space can be transformed correctly into those in curved
+space. This rule arose from well-established methods in the theory of plastic
+deformations, where crystals with defects are described mathematically by
+applying nonholonomic coordinate transformations to ideal crystals. In the
+context of time-sliced path integrals, this has given rise to a {\em quantum
+equivalence principle\/} which determines the measure of fluctating orbits in
+spaces with curvature and torsion. The nonholonomic transformations are
+accompanied by a nontrivial Jacobian which in curved spaces produces
+an additional energy proportional to the curvature scalar, thereby canceling
+an equal term found earlier by DeWitt from a naive formulation of Feynman's
+time-sliced path integral in curved space. The importance of this cancelation
+has been documented in various systems (H-atom, particle on the surface of a
+sphere, spinning top). Here we point out its relevance in the process of
+bosonizing a nonabelian one-dimensional quantum field theory, whose fields live
+in a flat field space. Its bosonized version is a quantum-mechanical path
+integral of a point particle moving in a space with constant curvature. The
+additional term introduced by the Jacobian is crucial for the identity between
+original and bosonized theory.
+  A useful bozonization tool is the so-called Hubbard-Stratonovich formula for
+which we find a nonabelian version.
+</abstract>

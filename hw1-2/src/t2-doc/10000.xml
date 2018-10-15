@@ -1,0 +1,19 @@
+<title>
+Extensions of Conformal Nets and Superselection Structures
+</title>
+
+<abstract>
+  Starting with a conformal Quantum Field Theory on the real line, we show that
+the dual net is still conformal with respect to a new representation of the
+Moebius group. We infer from this that every conformal net is normal and
+conormal, namely the local von Neumann algebra associated with an interval
+coincides with its double relative commutant inside the local von Neumann
+algebra associated with any larger interval. The net and the dual net give
+together rise to an infinite dimensional symmetry group, of which we study a
+class of positive energy irreducible representations. We mention how
+superselsection sectors extend to the dual net and we illustrate by examples
+how, in general, this process generates solitonic sectors. We describe the free
+theories associated with the lowest weight n representations of PSL(2,R),
+showing that they violate 3-regularity for n>2. When n>1, we obtain examples of
+non Moebius-covariant sectors of a 3-regular (non 4-regular) net.
+</abstract>

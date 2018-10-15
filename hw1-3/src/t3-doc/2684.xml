@@ -1,0 +1,20 @@
+<date>
+Thu, 9 Mar 95 21:39:05 -0500
+</date>
+
+<title>
+Regularization of Chiral Gauge Theories
+</title>
+
+<abstract>
+  We propose a nonperturbative formulation of chiral gauge theories. The method
+involves a `pre-regulation' of the gauge fields, which may be implemented on a
+lattice, followed by a computation of the chiral fermion determinant in the
+form of a functional integral which is regularized in the continuum. Our result
+for the chiral determinant is expressed in terms of the vector-like Dirac
+operator and hence can be realized in lattice simulations. We investigate the
+local and global anomalies within our regularization scheme. We also compare
+our result for the chiral determinant to previous exact $\zeta$-function
+results. Finally, we use a symmetry property of the chiral determinant to show
+that the partition function for a chiral gauge theory is real.
+</abstract>

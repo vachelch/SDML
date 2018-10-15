@@ -1,0 +1,28 @@
+<title>
+Supersymmetric Generalizations of Matrix Models
+</title>
+
+<abstract>
+  In this thesis generalizations of matrix and eigenvalue models involving
+supersymmetry are discussed. Following a brief review of the Hermitian one
+matrix model, the c=-2 matrix model is considered. Built from a matrix valued
+superfield this model displays supersymmetry on the matrix level. We stress the
+emergence of a Nicolai-map of this model to a free Hermitian matrix model and
+study its diagrammatic expansion in detail. Correlation functions for quartic
+potentials on arbitrary genus are computed, reproducing the string
+susceptibility of c=-2 Liouville theory in the scaling limit. The results may
+be used to perform a counting of supersymmetric graphs.
+ We then turn to the supereigenvalue model, today's only successful discrete
+approach to 2d quantum supergravity. The model is constructed in a
+superconformal field theory formulation by imposing the super-Virasoro
+constraints. The complete solution of the model is given in the moment
+description, allowing the calculation of the free energy and the multi-loop
+correlators on arbitrary genus and for general potentials. The solution is
+presented in the discrete case and in the double scaling limit. Explicit
+results up to genus two are stated.
+ Finally the supersymmetric generalization of the external field problem is
+addressed. We state the discrete super-Miwa transformations of the
+supereigenvalue model on the eigenvalue and matrix level. Properties of
+external supereigenvalue models are discussed, although the model corresponding
+to the ordinary supereigenvalue model could not be identified so far.
+</abstract>

@@ -1,0 +1,29 @@
+<title>
+Chaos, Scaling and Existence of a Continuum Limit in Classical
+  Non-Abelian Lattice Gauge Theory
+</title>
+
+<abstract>
+  We discuss space-time chaos and scaling properties for classical non-Abelian
+gauge fields discretized on a spatial lattice. We emphasize that there is a
+``no go'' for simulating the original continuum classical gauge fields over a
+long time span since there is a never ending dynamical cascading towards the
+ultraviolet. We note that the temporal chaotic properties of the original
+continuum gauge fields and the lattice gauge system have entirely different
+scaling properties thereby emphasizing that they are entirely different
+dynamical systems which have only very little in common. Considered as a
+statistical system in its own right the lattice gauge system in a situation
+where it has reached equilibrium comes closest to what could be termed a
+``continuum limit'' in the limit of very small energies (weak non-linearities).
+We discuss the lattice system both in the limit for small energies and in the
+limit of high energies where we show that there is a saturation of the temporal
+chaos as a pure lattice artifact. Our discussion focuses not only on the
+temporal correlations but to a large extent also on the spatial correlations in
+the lattice system. We argue that various conclusions of physics have been
+based on monitoring the non-Abelian lattice system in regimes where the fields
+are correlated over few lattice units only. This is further evidenced by
+comparison with results for Abelian lattice gauge theory. How the real time
+simulations of the classical lattice gauge theory may reach contact with the
+real time evolution of (semi-classical aspects of) the quantum gauge theory
+(e.g. Q.C.D.) is left as an important question to be further examined.
+</abstract>

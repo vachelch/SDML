@@ -1,0 +1,23 @@
+<title>
+Propagators for p-forms in AdS_{2p+1} and correlation functions in the
+  AdS_7/(2,0) CFT correspondence
+</title>
+
+<abstract>
+  In AdS_{2p+1} we construct propagators for p-forms whose lagrangians contain
+terms of the form A / d A. In particular we explore the case of forms
+satisfying ``self duality in odd dimensions'', and the case of forms with a
+topological mass term. We point out that the ``complete'' set of maximally
+symmetric bitensors previously used in all the other propagator papers is
+incomplete - there exists another bitensor which can and does appear in the
+formulas for the propagators in this particular case. Nevertheless, its
+presence does not affect the other propagators computed so far.
+  On the AdS side of the correspondence we compute the 2 and 3 point functions
+involving the self-dual tensor of the maximal 7d gauged supergravity (sugra),
+S_{\mu\nu\rho}. Since the 7 dimensional antisymmetric self-dual tensor obeys
+first order field equations (S + * d S=0), to get a nonvanishing 2 point
+function we add a certain boundary term (to satisfy the variational principle
+on a manifold with boundary) to the 7d action. The 3 point functions we compute
+are of the type SSB and SBB, describing vertex interactions with the gauge
+fields B_{\mu}.
+</abstract>

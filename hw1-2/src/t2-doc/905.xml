@@ -1,0 +1,15 @@
+<title>
+Lattice QCD as a theory of interacting surfaces
+</title>
+
+<abstract>
+  Pure gauge lattice QCD at arbitrary D is considered. Exact integration over
+link variables in an arbitrary D-volume leads naturally to an appearance of a
+set of surfaces filling the volume and gives an exact expression for functional
+of their boundaries. The interaction between each two surfaces is proportional
+to their common area and is realized by a non-local matrix differential
+operator acting on their boundaries. The surface self-interaction is given by
+the QCD$_2$ functional of boundary. Partition functions and observables (Wilson
+loop averages) are written as an averages over all configurations of an
+integer-valued field living on a surfaces.
+</abstract>

@@ -1,0 +1,25 @@
+<date>
+Wed, 1 Sep 1999 21:32:02 GMT
+</date>
+
+<title>
+QCD_4 From a Five-Dimensional Point of View
+</title>
+
+<abstract>
+  We propose a 5-dimensional definition for the physical 4D-Yang-Mills theory.
+The fifth dimension corresponds to the Monte-Carlo time of numerical
+simulations of QCD_4. The 5-dimensional theory is a well-defined topological
+quantum field theory that can be renormalized at any given finite order of
+perturbation theory. The relation to non-perturbative physics is obtained by
+expressing the theory on a lattice, a la Wilson. The new fields that must be
+introduced in the context of a topological Yang-Mills theory have a simple
+lattice expression. We present a 5-dimensional critical limit for physical
+correlation functions and for dynamical auto-correlations, which allows new
+Monte-Carlo algorithm based on the time-step in lattice units given by $\e =
+g_0^{-13/11}$ in pure gluodynamics. The gauge-fixing in five dimensions is such
+that no Gribov ambiguity occurs. The weight is strictly positive, because all
+ghost fields have parabolic propagators and yield trivial determinants. We
+indicate how our 5-dimensional description of the Yang-Mills theory may be
+extended to fermions.
+</abstract>

@@ -1,0 +1,17 @@
+<date>
+Thu, 7 Dec 2000 23:09:20 GMT
+</date>
+
+<title>
+D-branes on Singularities: New Quivers from Old
+</title>
+
+<abstract>
+  In this paper we present simplifying techniques which allow one to compute
+the quiver diagrams for various D-branes at (non-Abelian) orbifold
+singularities with and without discrete torsion. The main idea behind the
+construction is to take the orbifold of an orbifold. Many interesting discrete
+groups fit into an exact sequence $N\to G\to G/N$. As such, the orbifold $M/G$
+is easier to compute as $(M/N)/(G/N)$ and we present graphical rules which
+allow fast computation given the $M/N$ quiver.
+</abstract>

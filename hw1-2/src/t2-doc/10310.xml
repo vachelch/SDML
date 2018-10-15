@@ -1,0 +1,14 @@
+<title>
+Axial Anomaly from the BPHZ regularized BV master equation
+</title>
+
+<abstract>
+  A BPHZ renormalized form for the master equation of the field antifiled (or
+BV) quantization has recently been proposed by De Jonghe, Paris and Troost.
+This framework was shown to be very powerful in calculating gauge anomalies. We
+show here that this equation can also be applied in order to calculate a global
+anomaly (anomalous divergence of a classically conserved Noether current),
+considering the case of QED. This way, the fundamental result about the
+anomalous contribution to the Axial Ward identity in standard QED (where there
+is no gauge anomaly) is reproduced in this BPHZ regularized BV framework.
+</abstract>

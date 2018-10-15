@@ -1,0 +1,21 @@
+<date>
+Mon, 6 Jul 1998 11:35:39 GMT
+</date>
+
+<title>
+Varying the Unruh Temperature in Integrable Quantum Field Theories
+</title>
+
+<abstract>
+  A computational scheme is developed to determine the response of a quantum
+field theory (QFT) with a factorized scattering operator under a variation of
+the Unruh temperature. To this end a new family of integrable systems is
+introduced, obtained by deforming such QFTs in a way that preserves the
+bootstrap S-matrix. The deformation parameter \beta plays the role of an
+inverse temperature for the thermal equilibrium states associated with the
+Rindler wedge, \beta = 2\pi being the QFT value. The form factor approach
+provides an explicit computational scheme for the \beta \neq 2\pi systems,
+enforcing in particular a modification of the underlying kinematical arena. As
+examples deformed counterparts of the Ising model and the Sinh-Gordon model are
+considered.
+</abstract>

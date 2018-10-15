@@ -1,0 +1,14 @@
+<title>
+The Hurwitz Enumeration Problem of Branched Covers and Hodge Integrals
+</title>
+
+<abstract>
+  We use algebraic methods to compute the simple Hurwitz numbers for arbitrary
+source and target Riemann surfaces. For an elliptic curve target, we reproduce
+the results previously obtained by string theorists. Motivated by the
+Gromov-Witten potentials, we find a general generating function for the simple
+Hurwitz numbers in terms of the representation theory of the symmetric group
+S_n. We also find a generating function for Hodge integrals on the moduli space
+M_{g,2} of Riemann surfaces with two marked points, similar to that found by
+Faber and Pandharipande for the case of one marked point.
+</abstract>

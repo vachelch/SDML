@@ -1,0 +1,23 @@
+<date>
+Fri, 21 Nov 1997 16:27:43 GMT
+</date>
+
+<title>
+Mode-by-mode summation for the zero point electromagnetic energy of an
+  infinite cylinder
+</title>
+
+<abstract>
+  Using the mode-by-mode summation technique the zero point energy of the
+electromagnetic field is calculated for the boundary conditions given on the
+surface of an infinite solid cylinder. It is assumed that the dielectric and
+magnetic characteristics of the material which makes up the cylinder
+$(\epsilon_1, \mu_1)$ and of that which makes up the surroundings $(\epsilon_2,
+\mu_2)$ obey the relation $\epsilon_1\mu_1= \epsilon_2\mu_2$. With this
+assumption all the divergences cancel. The divergences are regulated by making
+use of zeta function techniques. Numerical calculations are carried out for a
+dilute dielectric cylinder and for a perfectly conducting cylindrical shell.
+The Casimir energy in the first case vanishes, and in the second is in complete
+agreement with that obtained by DeRaad and Milton who employed a Green's
+function technique with an ultraviolet regulator.
+</abstract>

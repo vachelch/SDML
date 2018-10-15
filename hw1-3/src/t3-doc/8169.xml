@@ -1,0 +1,19 @@
+<date>
+Fri, 20 Aug 1999 14:37:57 GMT
+</date>
+
+<title>
+On the Arnold Conjecture and the Atiyah-Patodi-Singer Index Theorem
+</title>
+
+<abstract>
+  The Arnold conjecture yields a lower bound to the number of periodic
+classical trajectories in a Hamiltonian system. Here we count these
+trajectories with the help of a path integral, which we inspect using
+properties of the spectral flow of a Dirac operator in the background of a
+$\Sp(2N)$ valued gauge field. We compute the spectral flow from the
+Atiyah-Patodi-Singer index theorem, and apply the results to evaluate the path
+integral using localization methods. In this manner we find a lower bound to
+the number of periodic classical trajectories which is consistent with the
+Arnold conjecture.
+</abstract>

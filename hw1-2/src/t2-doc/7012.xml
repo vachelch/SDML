@@ -1,0 +1,19 @@
+<title>
+Classical Supersymmetric Mechanics
+</title>
+
+<abstract>
+  We analyse a supersymmetric mechanical model derived from (1+1)-dimensional
+field theory with Yukawa interaction, assuming that all physical variables take
+their values in a Grassmann algebra B. Utilizing the symmetries of the model we
+demonstrate how for a certain class of potentials the equations of motion can
+be solved completely for any B. In a second approach we suppose that the
+Grassmann algebra is finitely generated, decompose the dynamical variables into
+real components and devise a layer-by-layer strategy to solve the equations of
+motion for arbitrary potential. We examine the possible types of motion for
+both bosonic and fermionic quantities and show how symmetries relate the former
+to the latter in a geometrical way. In particular, we investigate oscillatory
+motion, applying results of Floquet theory, in order to elucidate the role that
+energy variations of the lower order quantities play in determining the
+quantities of higher order in B.
+</abstract>

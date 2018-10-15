@@ -1,0 +1,23 @@
+<title>
+Skyrmions, Fullerenes and Rational Maps
+</title>
+
+<abstract>
+  We apply two very different approaches to calculate Skyrmions with baryon
+number B less than 23. The first employs the rational map ansatz, where
+approximate charge B Skyrmions are constructed from a degree B rational map
+between Riemann spheres. We use a simulated annealing algorithm to search for
+the minimal energy rational map of a given degree B. The second involves the
+numerical solution of the full non-linear time dependent equations of motion,
+with initial conditions consisting of a number of well separated Skyrmion
+clusters. In general, we find a good agreement between the two approaches. For
+B greater than 6 almost all the solutions are of fullerene type, that is, the
+baryon density isosurface consists of twelve pentagons and 2B-14 hexagons
+arranged in a trivalent polyhedron. There are exceptional cases where this
+structure is modified, which we discuss in detail. We find that for a given
+value of B there are often many Skyrmions, with different symmetries, whose
+energies are very close to the minimal value, some of which we discuss. We
+present rational maps which are good approximations to these Skyrmions and
+accurately compute their energy by relaxation using the full non-linear
+dynamics.
+</abstract>

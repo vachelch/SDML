@@ -1,0 +1,18 @@
+<title>
+Hidden functional relation in Large-N Quark-Monopole system at finite
+  temperature
+</title>
+
+<abstract>
+  The quark-monopole potential is computed at finite temperature in the context
+of $AdS/CFT$ correspondence. It is found that the potential is invariant under
+$g \to 1/g$ and $U_T \to U_T / g$. As in the quark-quark case there exists a
+maximum separation between quark and monopole, and $L$-dependence of the
+potential exhibits a bifurcation behavior. We find a functional relation
+$dE_{QM}^{Reg} / dL = [(1/E_{(1,0)}^{Reg}(U_0))^2 +
+(1/E_{(0,1)}^{Reg}(U_0))^2]^{-1/2}$ which is responsible for the bifurcation.
+The remarkable property of this relation is that it makes a relation between
+physical quantities defined at the $AdS$ boundary through a quantity defined at
+the bulk. The physical implication of this relation for the existence of the
+extra dimension is speculated.
+</abstract>

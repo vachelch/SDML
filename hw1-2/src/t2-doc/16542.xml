@@ -1,0 +1,20 @@
+<title>
+Correlation functions in a cascading N=1 gauge theory from supergravity
+</title>
+
+<abstract>
+  We study fluctuations around the warped conifold supergravity solution of
+Klebanov and Tseytlin [hep-th/0002159], known to be dual to a cascading N=1
+gauge theory. Although this supergravity background is not asymptotically AdS,
+corresponding to a non-conformal field theory, it is possible to apply the
+usual methods of AdS/CFT duality to extract the high energy behavior of field
+theory correlators by solving linearized equations of motion for fluctuations
+around the background. We consider the Goldstone vector dual to the anomalous
+R-symmetry current and compute its mass, which exactly matches the general
+prediction of [hep-th/0009156]. We find the high energy 2-point functions for
+the R-current and two other vectors. As expected, the R-current 2-point
+function has a longitudinal part because R-symmetry is broken. We also
+calculate the high energy 2-point function of the energy-momentum tensor from
+fluctuations of modes in the graviton sector. This 2-point function has a trace
+part corresponding to broken conformal symmetry.
+</abstract>

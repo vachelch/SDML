@@ -1,0 +1,20 @@
+<title>
+Non-linear Dynamics in QED_3 and Non-trivial Infrared Structure
+</title>
+
+<abstract>
+  In this work we consider a coupled system of Schwinger-Dyson equations for
+self-energy and vertex functions in QED_3. Using the concept of a
+semi-amputated vertex function, we manage to decouple the vertex equation and
+transform it in the infrared into a non-linear differential equation of
+Emden-Fowler type. Its solution suggests the following picture: in the absence
+of infrared cut-offs there is only a trivial infrared fixed-point structure in
+the theory. However, the presence of masses, for either fermions or photons,
+changes the situation drastically, leading to a mass-dependent non-trivial
+infrared fixed point. In this picture a dynamical mass for the fermions is
+found to be generated consistently. The non-linearity of the equations gives
+rise to highly non-trivial constraints among the mass and effective (`running')
+gauge coupling, which impose lower and upper bounds on the latter for dynamical
+mass generation to occur. Possible implications of this to the theory of
+high-temperature superconductivity are briefly discussed.
+</abstract>

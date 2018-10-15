@@ -1,0 +1,29 @@
+<date>
+Thu, 31 Oct 2002 05:06:31 GMT
+</date>
+
+<title>
+Integrable and Conformal Twisted Boundary Conditions for sl(2) A-D-E
+  Lattice Models
+</title>
+
+<abstract>
+  We study integrable realizations of conformal twisted boundary conditions for
+sl(2) unitary minimal models on a torus. These conformal field theories are
+realized as the continuum scaling limit of critical G = A,D,E lattice models
+with positive spectral parameter u > 0 and Coxeter number g. Integrable seams
+are constructed by fusing blocks of elementary local face weights. The usual
+A-type fusions are labelled by the Kac labels (r, s) and are associated with
+the Verlinde fusion algebra. We introduce a new type of fusion in the two braid
+limits u->\pm i\infty associated with the graph fusion algebra, and labelled by
+nodes $a,b\in G$ respectively. When combined with automorphisms, they lead to
+general integrable seams labelled by $x=(r,a,b,\kappa) \in (A_{g-2}, H, H, Z_2
+)$ where H is the graph G itself for Type I theories and its parent for Type II
+theories. Identifying our construction labels with the conformal labels of
+Petkova and Zuber, we find that the integrable seams are in one-to-one
+correspondence with the conformal seams. The distinct seams are thus associated
+with the nodes of the Ocneanu quantum graph. The quantum symmetries and twisted
+partition functions are checked numerically for $|G| \leq 6$. We also show, in
+the case of $D_{2l}$, that the non-commutativity of the Ocneanu algebra of
+seams arises because the automorphisms do not commute with the fusions.
+</abstract>

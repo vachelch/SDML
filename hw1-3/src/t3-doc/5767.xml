@@ -1,0 +1,20 @@
+<date>
+Mon, 13 Oct 1997 13:32:22 GMT
+</date>
+
+<title>
+Direct mode summation for the Casimir energy of a solid ball
+</title>
+
+<abstract>
+  The Casimir energy of a solid ball placed in an infinite medium is calculated
+by a direct frequency summation using the contour integration. It is assumed
+that the permittivity and permeability of the ball and medium satisfy the
+condition $\epsilon_1 \mu_1=\epsilon_2\mu_2$. Upon deriving the general
+expression for the Casimir energy, a dilute compact ball is considered
+$(\epsilon_1 -\epsilon_2)^2/(\epsilon_1+\epsilon_2)^2\ll 1$. In this case the
+calculations are carried out which are of the first order in $\xi ^2$ and take
+account of the five terms in the Debye expansion of the Bessel functions
+involved. The implication of the obtained results to the attempts of explaining
+the sonoluminescence via the Casimir effect is shortly discussed.
+</abstract>

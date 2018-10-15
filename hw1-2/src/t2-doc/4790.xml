@@ -1,0 +1,19 @@
+<title>
+Permeable conformal walls and holography
+</title>
+
+<abstract>
+  We study conformal field theories in two dimensions separated by domain
+walls, which preserve at least one Virasoro algebra. We develop tools to study
+such domain walls, extending and clarifying the concept of `folding' discussed
+in the condensed-matter literature. We analyze the conditions for unbroken
+supersymmetry, and discuss the holographic duals in AdS3 when they exist. One
+of the interesting observables is the Casimir energy between a wall and an
+anti-wall. When these separate free scalar field theories with different
+target-space radii, the Casimir energy is given by the dilogarithm function of
+the reflection probability. The walls with holographic duals in AdS3 separate
+two sigma models, whose target spaces are moduli spaces of Yang-Mills
+instantons on T4 or K3. In the supergravity limit, the Casimir energy is
+computable as classical energy of a brane that connects the walls through AdS3.
+We compare this result with expectations from the sigma-model point of view.
+</abstract>

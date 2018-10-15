@@ -1,0 +1,13 @@
+<title>
+Hamilton-Jacobi formulation for singular systems with second order
+  Lagrangians
+</title>
+
+<abstract>
+  Recently the Hamilton-Jacobi formulation for first order constrained systems
+has been developed. In such formalism the equations of motion are written as
+total differential equations in many variables. We generalize the
+Hamilton-Jacobi formulation for singular systems with second order Lagrangians
+and apply this new formulation to Podolsky electrodynamics, comparing with the
+results obtained through Dirac's method.
+</abstract>

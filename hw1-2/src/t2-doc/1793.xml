@@ -1,0 +1,20 @@
+<title>
+Spectral Universality of Real Chiral Random Matrix Ensembles
+</title>
+
+<abstract>
+  We investigate the universality of microscopic eigenvalue correlations for
+Random Matrix Theories with the global symmetries of the QCD partition
+function. In this article we analyze the case of real valued chiral Random
+Matrix Theories ($\beta =1$) by relating the kernel of the correlations
+functions for $\beta =1$ to the kernel of chiral Random Matrix Theories with
+complex matrix elements ($\beta = 2$), which is already known to be universal.
+Our proof is based on a novel asymptotic property of the skew-orthogonal
+polynomials: an integral over the corresponding wavefunctions oscillates about
+half its asymptotic value in the region of the bulk of the zeros. This result
+solves the puzzle that microscopic universality persists in spite of
+contributions to the microscopic correlators from the region near the largest
+zero of the skew-orthogonal polynomials. Our analytical results are illustrated
+by the numerical construction of the skew-orthogonal polynomials for an $x^4$
+probability potential.
+</abstract>

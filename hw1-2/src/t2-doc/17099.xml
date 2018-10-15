@@ -1,0 +1,17 @@
+<title>
+Quantum radiation pressure on a moving mirror at finite temperature
+</title>
+
+<abstract>
+  We compute the radiation pressure force on a moving mirror, in the
+nonrelativistic approximation, assuming the field to be at temperature $T.$ At
+high temperature, the force has a dissipative component proportional to the
+mirror velocity, which results from Doppler shift of the reflected thermal
+photons. In the case of a scalar field, the force has also a dispersive
+component associated to a mass correction. In the electromagnetic case, the
+separate contributions to the mass correction from the two polarizations
+cancel. We also derive explicit results in the low temperature regime, and
+present numerical results for the general case. As an application, we compute
+the dissipation and decoherence rates for a mirror in a harmonic potential
+well.
+</abstract>

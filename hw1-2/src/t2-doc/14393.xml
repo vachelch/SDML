@@ -1,0 +1,12 @@
+<title>
+n-point functions at finite temperature
+</title>
+
+<abstract>
+  We study $n$-point functions at finite temperature in the closed time path
+formalism. With the help of two basic column vectors and their dual partners we
+derive a compact decomposition of the time-ordered $n$-point functions with
+$2^n$ components in terms of $2^{n-1} -1$ independent retarded/advanced
+$n$-point functions. This representation greatly simplifies calculations in the
+real-time formalism.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Holography and the Polyakov action
+</title>
+
+<abstract>
+  In two dimensional conformal field theory the generating functional for
+correlators of the stress-energy tensor is given by the non-local Polyakov
+action associated with the background geometry. We study this functional
+holographically by calculating the regularized on-shell action of
+asymptotically AdS gravity in three dimensions, associated with a specified
+(but arbitrary) boundary metric. This procedure is simplified by making use of
+the Chern-Simons formulation, and a corresponding first-order expansion of the
+bulk dreibein, rather than the metric expansion of Fefferman and Graham. The
+dependence of the resulting functional on local moduli of the boundary metric
+agrees precisely with the Polyakov action, in accord with the AdS/CFT
+correspondence. We also verify the consistency of this result with regard to
+the nontrivial transformation properties of bulk solutions under Brown-Henneaux
+diffeomorphisms.
+</abstract>

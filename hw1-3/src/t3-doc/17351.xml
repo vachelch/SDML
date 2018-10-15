@@ -1,0 +1,21 @@
+<date>
+Wed, 25 Nov 1998 15:15:14 GMT
+</date>
+
+<title>
+3-manifold topology and the Donaldson-Witten partition function
+</title>
+
+<abstract>
+  We consider Donaldson-Witten theory on four-manifolds of the form $X=Y \times
+{\bf S}^1$ where $Y$ is a compact three-manifold. We show that there are
+interesting relations between the four-dimensional Donaldson invariants of $X$
+and certain topological invariants of $Y$. In particular, we reinterpret a
+result of Meng-Taubes relating the Seiberg-Witten invariants to
+Reidemeister-Milnor torsion. If $b_1(Y)>1$ we show that the partition function
+reduces to the Casson-Walker-Lescop invariant of $Y$, as expected on formal
+grounds. In the case $b_1(Y)=1$ there is a correction. Consequently, in the
+case $b_1(Y)=1$, we observe an interesting subtlety in the standard
+expectations of Kaluza-Klein theory when applied to supersymmetric gauge theory
+compactified on a circle of small radius.
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Tue, 21 Jan 1997 13:28:41 +0900 (KST)
+</date>
+
+<title>
+The Quantization of the Chiral Schwinger Model based on the BFT-BFV
+  formalism
+</title>
+
+<abstract>
+  We apply newly improved Batalin-Fradkin-Tyutin Hamiltonian method to the
+chiral Schwinger Model in the case of the regularization ambiguity $a>1$. We
+show that one can systematically construct the first class constraints by the
+BFT Hamiltonian method, and also show that the well-known Dirac brackets of the
+original phase space variables are exactly the Poisson brackets of the
+corresponding modified fields in the extended phase space. Furthermore, we show
+that the first class Hamiltonian is simply obtained by replacing the original
+fields in the canonical Hamiltonian by these modified fields. Performing the
+momentum integrations, we obtain the corresponding first class Lagrangian in
+the configuration space.
+</abstract>

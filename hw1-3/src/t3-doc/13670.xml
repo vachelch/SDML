@@ -1,0 +1,26 @@
+<date>
+Sun, 30 Apr 1995 15:55:21 +0300 (WET)
+</date>
+
+<title>
+Mean Field Description of the Fractional Quantum Hall Effect Near
+  $\nu=1/(2k+1)$
+</title>
+
+<abstract>
+  The nature of Mean Field Solutions to the Equations of Motion of the
+Chern--Simons Landau--Ginsberg (CSLG) description of the Fractional Quantum
+Hall Effect (FQHE) is studied. Beginning with the conventional description of
+this model at some chemical potential $\mu_0$ and magnetic field $B$
+corresponding to a ``special'' filling fraction $\nu=2\pi\rho/eB=1/n$
+($n=1,3,5\cdot \cdot\cdot$) we show that a deviation of $\mu$ in a finite range
+around $\mu_0$ does not change the Mean Field solution and thus the mean
+density of particles in the model. This result holds not only for the lowest
+energy Mean Field solution but for the vortex excitations as well. The vortex
+configurations do not depend on $\mu$ in a finite range about $\mu_0$ in this
+model. However when $\mu-\mu_0 < \mu_{cr}^-$ (or $\mu-\mu_0>\mu_{cr}^+$) the
+lowest energy Mean Field solution describes a condensate of vortices (or
+antivortices). We give numerical examples of vortex and antivortex
+configurations and discuss the range of $\mu$ and $\nu$ over which the system
+of vortices is dilute.
+</abstract>

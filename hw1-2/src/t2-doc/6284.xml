@@ -1,0 +1,12 @@
+<title>
+Quantum Mechanics on the Hypercube
+</title>
+
+<abstract>
+  We construct quantum evolution operators on the space of states, that is
+represented by the vertices of the n-dimensional unit hypercube. They realize
+the metaplectic representation of the modular group SL(2,Z(2^n)). By
+construction this representation acts in a natural way on the coordinates of
+the non-commutative 2-torus,T^2, and thus is relevant for noncommutative field
+theories as well as theories of quantum space-time.
+</abstract>

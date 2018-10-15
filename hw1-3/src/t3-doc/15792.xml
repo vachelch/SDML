@@ -1,0 +1,24 @@
+<date>
+Wed, 2 Sep 1998 16:15:35 GMT
+</date>
+
+<title>
+Light-Cone Expansion of the Dirac Sea in the Presence of Chiral and
+  Scalar Potentials
+</title>
+
+<abstract>
+  We study the Dirac sea in the presence of external chiral and
+scalar/pseudoscalar potentials. In preparation, a method is developed for
+calculating the advanced and retarded Green's functions in an expansion around
+the light cone. For this, we first expand all Feynman diagrams and then
+explicitly sum up the perturbation series. The light-cone expansion expresses
+the Green's functions as an infinite sum of line integrals over the external
+potential and its partial derivatives.
+  The Dirac sea is decomposed into a causal and a non-causal contribution. The
+causal contribution has a light-cone expansion which is closely related to the
+light-cone expansion of the Green's functions; it describes the singular
+behavior of the Dirac sea in terms of nested line integrals along the light
+cone. The non-causal contribution, on the other hand, is, to every order in
+perturbation theory, a smooth function in position space.
+</abstract>

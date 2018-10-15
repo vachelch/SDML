@@ -1,0 +1,18 @@
+<title>
+Noncommutative quantum mechanics in the presence of delta-function
+  potentials
+</title>
+
+<abstract>
+  Quantum mechanics in the presence of $\delta$-function potentials is known to
+be plagued by UV divergencies which result from the singular nature of the
+potentials in question. The standard method for dealing with these divergencies
+is by constructing self-adjoint extensions of the corresponding Hamiltonians.
+Two particularly interesting examples of this kind are nonrelativistic spin
+zero particles in $\delta$-function potential and Dirac particles in
+Aharonov-Bohm magnetic background. In this paper we show that by extending the
+corresponding Schr\"odinger and Dirac equations onto the flat noncommutative
+space a well-defined quantum theory can be obtained. Using a star product and
+Fock space formalisms we construct the complete sets of eigenfunctions and
+eigenvalues in both cases which turn out to be finite.
+</abstract>

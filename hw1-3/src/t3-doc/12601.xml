@@ -1,0 +1,32 @@
+<date>
+Fri, 6 Dec 2002 20:39:10 GMT
+</date>
+
+<title>
+Multi-Trace Superpotentials vs. Matrix Models
+</title>
+
+<abstract>
+  We consider N = 1 supersymmetric U(N) field theories in four dimensions with
+adjoint chiral matter and a multi-trace tree-level superpotential. We show that
+the computation of the effective action as a function of the glueball
+superfield localizes to computing matrix integrals. Unlike the single-trace
+case, holomorphy and symmetries do not forbid non-planar contributions.
+Nevertheless, only a special subset of the planar diagrams contributes to the
+exact result. Some of the data of this subset can be computed from the large-N
+limit of an associated multi-trace Matrix model. However, the prescription
+differs in important respects from that of Dijkgraaf and Vafa for single-trace
+superpotentials in that the field theory effective action is not the derivative
+of a multi-trace matrix model free energy. The basic subtlety involves the
+correct identification of the field theory glueball as a variable in the Matrix
+model, as we show via an auxiliary construction involving a single-trace matrix
+model with additional singlet fields which are integrated out to compute the
+multi-trace results. Along the way we also describe a general technique for
+computing the large-N limits of multi-trace Matrix models and raise the
+challenge of finding the field theories whose effective actions they may
+compute. Since our models can be treated as N = 1 deformations of pure N =2
+gauge theory, we show that the effective superpotential that we compute also
+follows from the N = 2 Seiberg-Witten solution. Finally, we observe an
+interesting connection between multi-trace local theories and non-local field
+theory.
+</abstract>

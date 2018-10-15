@@ -1,0 +1,16 @@
+<title>
+Schubert Calculus and Threshold Polynomials of Affine Fusion
+</title>
+
+<abstract>
+  We show how the threshold level of affine fusion, the fusion of
+Wess-Zumino-Witten (WZW) conformal field theories, fits into the Schubert
+calculus introduced by Gepner. The Pieri rule can be modified in a simple way
+to include the threshold level, so that calculations may be done for all
+(non-negative integer) levels at once. With the usual Giambelli formula, the
+modified Pieri formula deforms the tensor product coefficients (and the fusion
+coefficients) into what we call threshold polynomials. We compare them with the
+q-deformed tensor product coefficients and fusion coefficients that are related
+to q-deformed weight multiplicities. We also discuss the meaning of the
+threshold level in the context of paths on graphs.
+</abstract>

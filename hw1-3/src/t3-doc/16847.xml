@@ -1,0 +1,18 @@
+<date>
+Wed, 22 Jun 1994 08:42 +0200
+</date>
+
+<title>
+Damped quantum harmonic oscillator: density operator and related
+  quantities
+</title>
+
+<abstract>
+  A closed expression for the density operator of the damped harmonic
+oscillator is extracted from the master equation based on the Lindblad theory
+for open quantum systems. The entropy and effective temperature of the system
+are subsequently calculated and their temporal behaviour is surveyed by showing
+how these quantities relax to their equilibrium values. The entropy for a state
+characterized by a Wigner distribution function which is Gaussian in form is
+found to depend only on the variance of the distribution function.
+</abstract>

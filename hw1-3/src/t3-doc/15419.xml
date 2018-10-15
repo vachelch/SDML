@@ -1,0 +1,28 @@
+<date>
+Mon, 24 Nov 1997 15:12:11 GMT
+</date>
+
+<title>
+Exact Results in Chern-Simons Supergravity
+</title>
+
+<abstract>
+  We propose an extension of a recent non-perturbative method suited for
+solving the N-body problem in (2+1)-gravity to the case of Chern-Simons
+supergravity. Coupling with supersymmetric point particles is obtained
+implicitly by extending the DJH matching conditions of gravity. The consistent
+solution of the interacting case is obtained by building a general non-trivial
+mapping, extending the superanalytic mapping, between a flat polydromic $X^M$
+supercoordinate system and a physical one $x^N$, representing the DJH matching
+conditions around the superparticles. We show how to construct such a mapping
+in terms of analytic functions, and we give their exact expressions for the two
+body case. The extension to the N body case is also discussed. In the
+Minkoskian coordinates the superparticles move freely, and in particular the
+fermionic coordinates $\Theta(\xi^N_{(i)})$ are constants, whose values can be
+fixed by using the monodromy properties. While the bosonic part of the
+supergeodesic equations are obtained, as in gravity, by measuring the bosonic
+distance in Minkowskian space-time, we find that the fermionic geodesic
+equations can be defined only by requiring that a non-perturbative divergence
+of the $X^M = X^M(x^N)$ mapping cancels out on the world-lines of the
+superparticles. 
+</abstract>

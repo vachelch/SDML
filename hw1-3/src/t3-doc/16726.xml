@@ -1,0 +1,23 @@
+<date>
+Sat, 19 Dec 1998 15:14:38 GMT
+</date>
+
+<title>
+Barrier penetration in 1+1-dimensional O(n) sigma models
+</title>
+
+<abstract>
+  The O(n) nonlinear sigma model in 1+1 dimensions is examined as quantum
+mechanics on an infinite-dimensional configuration space. Two metrics are
+defined in this space. One of these metrics is the same as Feynman's distance,
+but we show his conclusions concerning potential energy versus distance from
+the classical vacuum are incorrect. The potential-energy functional is found to
+have barriers; the configurations on these barriers are solitons of an
+associated sigma model with an external source. The tunneling amplitude is
+computed for the O(2) model and soliton condensation is shown to drive the
+phase transition at a critical coupling. We find the tunneling paths in the
+configuration space of the O(3) model and argue that these are responsible for
+the mass gap at $\theta=0$. These tunneling paths have half-integer topological
+charge, supporting the conjecture due to Affleck and Haldane that there is a
+massless phase at $\theta=\pi$.
+</abstract>

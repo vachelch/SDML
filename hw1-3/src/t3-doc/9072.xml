@@ -1,0 +1,20 @@
+<date>
+Wed, 13 Dec 2000 16:32:42 GMT
+</date>
+
+<title>
+Non-Abelian BFFT embedding, Schr\"odinger quantization and the anomaly
+  of the O(N) nonlinear sigma model
+</title>
+
+<abstract>
+  We embed the O(N) nonlinear sigma model in a non-Abelian gauge theory. As a
+first class system, it is quantized using two different approaches: the
+functional Schr\"odinger method and the non-local field-antifield procedure.
+Firstly, the quantization is performed with the functional Schr\"{o}dinger
+method, for N=2, obtaining the wave functionals for the ground and excited
+states. In the second place, using the BV formalism we compute the one-loop
+anomaly. This important result shows that the classical gauge symmetries,
+appearing due to the conversion via BFFT method, are broken at the quantum
+level.
+</abstract>

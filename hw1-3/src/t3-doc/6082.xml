@@ -1,0 +1,20 @@
+<date>
+Thu, 10 Jan 2002 05:41:00 GMT
+</date>
+
+<title>
+Linear $\Sigma$ Model in the Gaussian Functional Approximation
+</title>
+
+<abstract>
+  We apply a self-consistent relativistic mean-field variational ``Gaussian
+functional'' (or Hartree) approximation to the linear $\sigma$ model with
+spontaneously and explicitly broken chiral O(4) symmetry. We set up the
+self-consistency, or ``gap'' and the Bethe-Salpeter equations. We check and
+confirm the chiral Ward-Takahashi identities, among them the Nambu-Goldstone
+theorem and the (partial) axial current conservation [CAC], both in and away
+from the chiral limit. With explicit chiral symmetry breaking we confirm the
+Dashen relation for the pion mass and partial CAC. We solve numerically the gap
+and Bethe-Salpeter equations, discuss the solutions' properties and the
+particle content of the theory.
+</abstract>

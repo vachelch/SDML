@@ -1,0 +1,21 @@
+<title>
+The light-cone gauge without prescriptions
+</title>
+
+<abstract>
+  Feynman integrals in the physical light-cone gauge are harder to solve than
+their covariant counterparts. The difficulty is associated with the presence of
+unphysical singularities due to the inherent residual gauge freedom in the
+intermediate boson propagators constrained within this gauge choice. In order
+to circumvent these non-physical singularities, the headlong approach has
+always been to call for mathematical devices --- prescriptions --- some
+successful ones and others not so much so. A more elegant approach is to
+consider the propagator from its physical point of view, that is, an object
+obeying basic principles such as causality. Once this fact is realized and
+carefully taken into account, the crutch of prescriptions can be avoided
+altogether. An alternative third approach, which for practical computations
+could dispense with prescriptions as well as prescinding the necessity of
+careful stepwise watching out of causality would be of great advantage. And
+this third option is realizable within the context of negative dimensions, or
+as it has been coined, negative dimensional integration method, NDIM for short.
+</abstract>

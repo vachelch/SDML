@@ -1,0 +1,27 @@
+<date>
+Wed, 17 Oct 2001 12:50:55 GMT
+</date>
+
+<title>
+Mesons in (2+1) Dimensional Light Front QCD. II. Similarity
+  Renormalization Approach
+</title>
+
+<abstract>
+  Recently we have studied the Bloch effective Hamiltonian approach to bound
+states in 2+1 dimensional gauge theories. Numerical calculations were carried
+out to investigate the vanishing energy denominator problem. In this work we
+study similarity renormalization approach to the same problem. By performing
+analytical calculations with a step function form for the similarity factor, we
+show that in addition to curing the vanishing energy denominator problem,
+similarity approach generates linear confining interaction for large transverse
+separations. However, for large longitudinal separations, the generated
+interaction grows only as the square root of the longitudinal separation and
+hence produces violations of rotational symmetry in the spectrum. We carry out
+numerical studies in the G{\l}azek-Wilson and Wegner formalisms and present low
+lying eigenvalues and wavefunctions. We investigate the sensitivity of the
+spectra to various parameterizations of the similarity factor and other
+parameters of the effective Hamiltonian, especially the scale $\sigma$. Our
+results illustrate the need for higher order calculations of the effective
+Hamiltonian in the similarity renormalization scheme.
+</abstract>

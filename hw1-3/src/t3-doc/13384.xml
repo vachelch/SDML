@@ -1,0 +1,29 @@
+<date>
+Fri, 23 May 1997 22:08:38 -0700
+</date>
+
+<title>
+Renormalization Group Invariance of Exact Results in Supersymmetric
+  Gauge Theories
+</title>
+
+<abstract>
+  We clarify the notion of Wilsonian renormalization group (RG) invariance in
+supersymmetric gauge theories, which states that the low-energy physics can be
+kept fixed when one changes the ultraviolet cutoff, provided appropriate
+changes are made to the bare coupling constants in the Lagrangian. We first
+pose a puzzle on how a quantum modified constraint (such as Pf(Q^i Q^j) =
+\Lambda^{2(N+1)} in SP(N) theories with N+1 flavors) can be RG invariant, since
+the bare fields Q^i receive wave function renormalization when one changes the
+ultraviolet cutoff, while we naively regard the scale \Lambda as RG invariant.
+The resolution is that \Lambda is not RG invariant if one sticks to
+canonical normalization for the bare fields as is conventionally done in field
+theory. We derive a formula for how \Lambda must be changed when one changes
+the ultraviolet cutoff. We then compare our formula to known exact results and
+show that their consistency requires the change in \Lambda we have found.
+Finally, we apply our result to models of supersymmetry breaking due to quantum
+modified constraints. The RG invariance helps us to determine the effective
+potential along the classical flat directions found in these theories. In
+particular, the inverted hierarchy mechanism does not occur in the original
+version of these models.
+</abstract>

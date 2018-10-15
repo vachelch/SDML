@@ -1,0 +1,13 @@
+<title>
+Classification of Reflexive Polyhedra in Three Dimensions
+</title>
+
+<abstract>
+  We present the last missing details of our algorithm for the classification
+of reflexive polyhedra in arbitrary dimensions. We also present the results of
+an application of this algorithm to the case of three dimensional reflexive
+polyhedra. We get 4319 such polyhedra that give rise to K3 surfaces embedded in
+toric varieties. 16 of these contain all others as subpolyhedra. The 4319
+polyhedra form a single connected web if we define two polyhedra to be
+connected if one of them contains the other.
+</abstract>

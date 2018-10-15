@@ -1,0 +1,26 @@
+<date>
+Thu, 12 Jan 1995 10:21:15 +0300 (WET)
+</date>
+
+<title>
+Kazakov--Migdal Model with Logarithmic Potential and the Double Penner
+  Matrix Model
+</title>
+
+<abstract>
+The Kazakov--Migdal (KM) Model is a U(N) Lattice Gauge Theory with a Scalar
+Field in the adjoint representation but with no kinetic term for the Gauge
+Field. This model is formally soluble in the limit $N\rightarrow \infty$ though
+explicit solutions are available for a very limited number of scalar
+potentials. A ``Double Penner'' Model in which the potential has two
+logarithmic singularities provides an example of a explicitly soluble model. We
+begin by reviewing the formal solution to this Double Penner KM Model. We pay
+special attention to the relationship of this model to an ordinary (one) matrix
+model whose potential has two logarithmic singularities (the Double Penner
+Model). We present a detailed analysis of the large N behavior of this Double
+Penner Model. We describe the various one cut and two cut solutions and we
+discuss cases in which ``eigenvalue condensation'' occurs at the singular
+points of the potential. We then describe the consequences of our study for the
+KM Model described above. We present the phase diagram of the model and
+describe its critical regions.
+</abstract>

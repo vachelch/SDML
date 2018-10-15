@@ -1,0 +1,15 @@
+<title>
+Target Space Duality I: General Theory
+</title>
+
+<abstract>
+  We develop a systematic framework for studying target space duality at the
+classical level. We show that target space duality between manifolds M and
+Mtilde arises because of the existence of a very special symplectic manifold.
+This manifold locally looks like M x Mtilde and admits a double fibration. We
+analyze the local geometric requirements necessary for target space duality and
+prove that both manifolds must admit flat orthogonal connections. We show how
+abelian duality, nonabelian duality and Poisson-Lie duality are all special
+cases of a more general framework. As an example we exhibit new (nonlinear)
+dualities in the case M = Mtilde = R^n.
+</abstract>

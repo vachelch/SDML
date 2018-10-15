@@ -1,0 +1,26 @@
+<title>
+The Scattering Theory of Oscillator Defects in an Optical Fiber
+</title>
+
+<abstract>
+  We examine harmonic oscillator defects coupled to a photon field in the
+environs of an optical fiber. Using techniques borrowed or extended from the
+theory of two dimensional quantum fields with boundaries and defects, we are
+able to compute exactly a number of interesting quantities. We calculate the
+scattering S-matrices (i.e. the reflection and transmission amplitudes) of the
+photons off a single defect. We determine using techniques derived from
+thermodynamic Bethe ansatz (TBA) the thermodynamic potentials of the
+interacting photon-defect system. And we compute several correlators of
+physical interest. We find the photon occupancy at finite temperature, the
+spontaneous emission spectrum from the decay of an excited state, and the
+correlation functions of the defect degrees of freedom. In an extension of the
+single defect theory, we find the photonic band structure that arises from a
+periodic array of harmonic oscillators. In another extension, we examine a
+continuous array of defects and exactly derive its dispersion relation. With
+some differences, the spectrum is similar to that found for EM wave propagation
+in covalent crystals. We then add to this continuum theory isolated defects, so
+as to obtain a more realistic model of defects embedded in a frequency
+dependent dielectric medium. We do this both with a single isolated defect and
+with an array of isolated defects, and so compute how the S-matrices and the
+band structure change in a dynamic medium.
+</abstract>

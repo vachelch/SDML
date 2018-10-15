@@ -1,0 +1,26 @@
+<title>
+New Generalized Verma Modules and Multilinear Intertwining Differential
+  Operators
+</title>
+
+<abstract>
+  The present paper contains two interrelated developments. First, are proposed
+new generalized Verma modules. They are called k-Verma modules, k\in N, and
+coincide with the usual Verma modules for k=1. As a vector space a k-Verma
+module is isomorphic to the symmetric tensor product of k copies of the
+universal enveloping algebra U(g^-), where g^- is the subalgebra of lowering
+generators in the standard triangular decomposition of a simple Lie algebra g =
+g^+ \oplus h \oplus g^- . The second development is the proposal of a procedure
+for the construction of multilinear intertwining differential operators for
+semisimple Lie groups G . This procedure uses k-Verma modules and coincides for
+k=1 with a procedure for the construction of linear intertwining differential
+operators. For all k central role is played by the singular vectors of the
+k-Verma modules. Explicit formulae for series of such singular vectors are
+given. Using these are given explicitly many new examples of multilinear
+intertwining differential operators. In particular, for G = SL(2,R) are given
+explicitly all bilinear intertwining differential operators. Using the latter,
+as an application are constructed (n/2)-differentials for all n\in 2N, the
+ordinary Schwarzian being the case n=4. As another application, in a Note Added
+we propose a new hierarchy of nonlinear equations, the lowest member being the
+KdV equation.
+</abstract>

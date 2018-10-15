@@ -1,0 +1,21 @@
+<title>
+Consistency of the Regularization of Gauge Theories by High Covariant
+  Derivatives
+</title>
+
+<abstract>
+  We show that regularization of gauge theories by higher covariant derivatives
+and gauge invariant Pauli-Villars regulators is a consistent method if the
+Pauli-Villars vector fields are considered in a covariant in the regulating
+Pauli-Villars fields is pathological and the original Slavnov proposal in
+covariant Landau gauge is not correct because of the appearance of massless
+modes in the regulators which do not decouple when the ultraviolet regulator is
+removed. In such a case the method does not correspond to the regularization of
+a pure gauge theory but that of a gauge theory in interaction with massless
+ghost fields. This explains the problems pointed out by Martin and Ruiz in
+covariant Landau gauge. However, a minor modification of Slavnov method
+provides a consistent regularization even for such a case. The regularization
+that we introduce also solves the problem of overlapping divergences in a way
+similar to geometric regularization and yields the standard values of the
+$\beta$ and $\gamma$ functions of the renormalization group equations.
+</abstract>

@@ -1,0 +1,22 @@
+<date>
+Thu, 11 Jul 2002 08:47:21 GMT
+</date>
+
+<title>
+Stabilizing textures with magnetic fields
+</title>
+
+<abstract>
+  The best-known way of stabilizing textures is by Skyrme-like terms, but
+another possibility is to use gauge fields. The semilocal vortex may be viewed
+as an example of this, in two spatial dimensions. In three dimensions, however,
+the idea (in its simplest form) does not work -- the link between the gauge
+field and the scalar field is not strong enough to prevent the texture from
+collapsing. Modifying the |D Phi|^2 term in the Lagrangian (essentially by
+changing the metric on the Phi-space) can strengthen this link, and lead to
+stability. Furthermore, there is a limit in which the gauge field is entirely
+determined in terms of the scalar field, and the system reduces to a pure
+Skyrme-like one. This is described for gauge group U(1), in dimensions two and
+three. The non-abelian version is discussed briefly, but as yet no examples of
+texture stabilization are known in this case.
+</abstract>

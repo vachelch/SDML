@@ -1,0 +1,15 @@
+<title>
+Variational approximations for correlation functions in quantum field
+  theories
+</title>
+
+<abstract>
+  Applying the time-dependent variational principle of Balian and V\'en\'eroni,
+we derive variational approximations for multi-time correlation functions in
+$\Phi^4$ field theory. We assume first that the initial state is given and
+characterized by a density operator equal to a Gaussian density matrix. Then,
+we study the more realistic situation where only a few expectation values are
+given at the initial time and we perform an optimization with respect to the
+initial state. We calculate explicitly the two-time correlation functions with
+two and four field operators at equilibrium in the symmetric phase.
+</abstract>

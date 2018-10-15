@@ -1,0 +1,18 @@
+<title>
+Generalized Semilocal Theories and Higher Hopf Maps
+</title>
+
+<abstract>
+  \def\mon{S^3\stackrel{S^1}{\rightarrow}S^2}
+\def\inst{S^7\stackrel{S^3}{\rightarrow}S^4}
+\def\octo{S^{15}\stackrel{S^7}{\rightarrow}S^8} In semilocal theories, the
+vacuum manifold is fibered in a non-trivial way by the action of the gauge
+group. Here we generalize the original semilocal theory (which was based on the
+Hopf bundle $\mon$) to realize the next Hopf bundle $\inst$, and its extensions
+$S^{2n+1}\stackrel{S^3}\rightarrow \H P^n$. The semilocal defects in this class
+of theories are classified by $\pi_3(S^3)$, and are interpreted as constrained
+instantons or generalized sphaleron configurations. We fail to find a field
+theoretic realization of the final Hopf bundle $\octo$, but are able to
+construct other semilocal spaces realizing Stiefel bundles over Grassmanian
+spaces.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+The Generalisation of the Coulomb Gauge to Yang-Mills Theory
+</title>
+
+<abstract>
+  I consider the problem of generalising the Abelian Coulomb gauge condition to
+the non-Abelian Yang-Mills theory, with an arbitrary compact and semi-simple
+gauge group. It is shown that a straightforward generalisation exists, which
+reduces the Gauss law into a form involving the gauge potentials only, but not
+their time derivatives. The existence and uniqueness of the generalised Coulomb
+gauge is shown to depend on an elliptic linear partial differential equation
+for a Lie-algebra valued quantity, which defines the gauge transform by means
+of which the generalised Coulomb gauge condition is realised. Thus the Gribov
+problem is actually non-existent in this case.
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Tue, 22 Oct 1996 17:49:51 +0330
+</date>
+
+<title>
+The Logarithmic Conformal Field Theories
+</title>
+
+<abstract>
+  We study the correlation functions of logarithmic conformal field theories.
+First, assuming conformal invariance, we explicitly calculate two-- and three--
+point functions. This calculation is done for the general case of more than one
+logarithmic field in a block, and more than one set of logarithmic fields. Then
+we show that one can regard the logarithmic field as a formal derivative of the
+ordinary field with respect to its conformal weight. This enables one to
+calculate any $n$-- point function containing the logarithmic field in terms of
+ordinary $n$--point functions. At last, we calculate the operator product
+expansion (OPE) coefficients of a logarithmic conformal field theory, and show
+that these can be obtained from the corresponding coefficients of ordinary
+conformal theory by a simple derivation.
+</abstract>

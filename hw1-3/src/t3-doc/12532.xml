@@ -1,0 +1,15 @@
+<date>
+Thu, 2 Nov 95 17:40:52 MET
+</date>
+
+<title>
+Anyonic Realization of the Quantum Affine Lie Algebra U_q(A_N)
+</title>
+
+<abstract>
+  We give a realization of quantum affine Lie algebra $U_q(\hat A_{N-1})$ in
+terms of anyons defined on a two-dimensional lattice, the deformation parameter
+$q$ being related to the statistical parameter $\nu$ of the anyons by $q =
+e^{i\pi\nu}$. In the limit of the deformation parameter going to one we recover
+the Feingold-Frenkel fermionic construction of undeformed affine Lie algebra.
+</abstract>

@@ -1,0 +1,28 @@
+<date>
+Wed, 14 Nov 2001 22:20:34 GMT
+</date>
+
+<title>
+Holography and Defect Conformal Field Theories
+</title>
+
+<abstract>
+  We develop both the gravity and field theory sides of the Karch-Randall
+conjecture that the near-horizon description of a certain D5-D3 brane
+configuration in string theory, realized as AdS_5 x S^5 bisected by an AdS_4 x
+S^2 "brane", is dual to N=4 Super Yang-Mills theory in R^4 coupled to an R^3
+defect. We propose a complete Lagrangian for the field theory dual, a novel
+"defect superconformal field theory" wherein a subset of the fields of N=4 SYM
+interacts with a d=3 SU(N) fundamental hypermultiplet on the defect preserving
+conformal invariance and 8 supercharges. The Kaluza-Klein reduction of wrapped
+D5 modes on AdS_4 x S^2 leads to towers of short representations of OSp(4|4),
+and we construct the map to a set of dual gauge-invariant defect operators O_3
+possessing integer conformal dimensions. Gravity calculations of <O_4> and
+<O_4O_3> are given. Spacetime and N-dependence matches expectations from dCFT,
+while the behavior as functions of lambda = g^2 N at strong and weak coupling
+is generically different. We comment on a class of correlators for which a
+non-renormalization theorem may still exist. Partial evidence for the
+conformality of the quantum theory is given, including a complete argument for
+the special case of a U(1) gauge group. Some weak coupling arguments which
+illuminate the duality are presented.
+</abstract>

@@ -1,0 +1,24 @@
+<title>
+DGP Brane as a Gravity Conductor
+</title>
+
+<abstract>
+  We study how the DGP (Dvali-Gabadadze-Porrati) brane affects particle
+dynamics in linearized approximation. We find that once the particle is removed
+from the brane it is repelled to the bulk. Assuming that the cutoff for
+gravitational interaction is $M_*\sim 1/\epsilon$, we calculate the classical
+self energy of a particle as the function of its position. Since the particle
+wants to go to the region where its self energy is lower, it is repelled from
+the brane to the bulk where it gains its 5D self energy. Cases when mass of the
+particle $m<8\pi^2M_*$ and $m>8\pi^2M_*$ are qualitatively different, and in
+later case one has to take into account effects of strong gravity. In both
+cases the particle is repelled from the brane. For $m<8\pi^2M_*$ we obtain the
+same result from the 'electrostatic' analog of the theory. In that language
+mass (charge) in the bulk induces charge distribution on the brane which
+shields the other side of the brane and provides repulsive force. The DGP brane
+acts as a conducting plane in electrostatics (keeping in mind that in gravity
+different charges repel). The repulsive nature of the brane requires a certain
+localization mechanism. When the particle overcomes the localizing potential it
+rapidly moves to the bulk. Particles of mass $m>8\pi^2M_*$ form a black hole
+within $1/M_*$ distance from the brane.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+The Master Field for Large $N$ Matrix Models and Quantum Groups
+</title>
+
+<abstract>
+In recent works by Singer, Douglas and Gopakumar and Gross an application of
+results of Voiculescu from non-commutative probability theory to constructions
+of the master field for large $N$ matrix field theories have been suggested. In
+this note we consider interrelations between the master field and quantum
+groups. We define the master field algebra and observe that it is isomorphic to
+the algebra of functions on the quantum group $SU_q(2)$ for $q=0$. The master
+field becomes a central element of the quantum group Hopf algebra. The quantum
+Haar measure on the $SU_q(2)$ for any $q$ gives the Wigner semicircle
+distribution for the master field. Coherent states on $SU_q(2)$ become coherent
+states in the master field theory.
+</abstract>

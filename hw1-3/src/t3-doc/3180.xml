@@ -1,0 +1,24 @@
+<date>
+Tue, 21 May 96 21:49:26 -0600
+</date>
+
+<title>
+Cones, Spins and Heat Kernels
+</title>
+
+<abstract>
+  The heat kernels of Laplacians for spin 1/2, 1, 3/2 and 2 fields, and the
+asymptotic expansion of their traces are studied on manifolds with conical
+singularities. The exact mode-by-mode analysis is carried out for 2-dimensional
+domains and then extended to arbitrary dimensions. The corrections to the first
+Schwinger-DeWitt coefficients in the trace expansion, due to conical
+singularities, are found for all the above spins. The results for spins 1/2 and
+1 resemble the scalar case. However, the heat kernels of the Lichnerowicz spin
+2 operator and the spin 3/2 Laplacian show a new feature. When the conical
+angle deficit vanishes the limiting values of these traces differ from the
+corresponding values computed on the smooth manifold. The reason for the
+discrepancy is breaking of the local translational isometries near a conical
+singularity. As an application, the results are used to find the ultraviolet
+divergences in the quantum corrections to the black hole entropy for all these
+spins.
+</abstract>

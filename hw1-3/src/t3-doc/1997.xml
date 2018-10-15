@@ -1,0 +1,21 @@
+<date>
+Fri, 16 Oct 1998 10:27:22 GMT
+</date>
+
+<title>
+Basics of BRST quantization on inner product spaces
+</title>
+
+<abstract>
+  There is an elaborated abstract form of BRST quantization on inner product
+spaces within the operator formalism which leads to BRST invariant states of
+the form |ph>=e^{[Q,\psi]} |\phi> where \psi is a gauge fixing fermion, and
+where |\phi> is a BRST invariant state determined by simple hermitian
+conditions. These state representations are closely related to the path
+integral formulation. Here we analyse the basics of this approach in detail.
+The freedom in the choice of \psi and |\phi> as well as their properties under
+gauge transformations are explicitly determined for simple abelian models. In
+all considered cases SL(2,R) is shown both to be a natural extended gauge
+symmetry and to be useful to determine |ph>. The results are also applied to
+nonabelian models.
+</abstract>

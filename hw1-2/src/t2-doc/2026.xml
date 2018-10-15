@@ -1,0 +1,16 @@
+<title>
+Properties of perturbative solutions of unilateral matrix equations
+</title>
+
+<abstract>
+  A left-unilateral matrix equation is an algebraic equation of the form $$
+a_0+a_1 x+a_2 x^2+... +a_n x^n=0 $$ where the coefficients $a_r$ and the
+unknown $x$ are square matrices of the same order and all coefficients are on
+the left (similarly for a right-unilateral equation). Recently certain
+perturbative solutions of unilateral equations and their properties have been
+discussed. We present a unified approach based on the generalized Bezout
+theorem for matrix polynomials. Two equations discussed in the literature,
+their perturbative solutions and the relation between them are described. More
+abstractly, the coefficients and the unknown can be taken as elements of an
+associative, but possibly noncommutative, algebra.
+</abstract>

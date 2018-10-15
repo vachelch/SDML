@@ -1,0 +1,26 @@
+<date>
+Tue, 23 May 1995 17:35:27 +0200
+</date>
+
+<title>
+Spatial Geometry of Non-Abelian Gauge Theory in \(2 + 1\) Dimensions
+</title>
+
+<abstract>
+  The Hamiltonian dynamics of \(2 + 1\) dimensional Yang-Mills theory with
+gauge group SU(2) is reformulated in gauge invariant, geometric variables, as
+in earlier work on the \(3 + 1\) dimensional case. Physical states in electric
+field representation have the product form \(\Psi_{\mathrm{phys}} [E^{a i}] =
+\exp ( i \Omega [ E ] / g ) F [G_{ij}]\), where the phase factor is a simple
+local functional required to satisfy the Gauss law constraint, and \(G_{ij}\)
+is a dynamical metric tensor which is bilinear in \(E^{a k}\). The Hamiltonian
+acting on \(F [ G_{ij} ]\) is local, but the energy density is infinite for
+degenerate configurations where \(\det G (x)\) vanishes at points in space, so
+wave functionals must be specially constrained to avoid infinite total energy.
+Study of this situation leads to the further factorization \(F [G_{ij} ] = F_c
+[ G_{ij} ] \mathcal R [ G_{ij} ]\), and the product \(\Psi_c [E] \equiv \exp (i
+\Omega [ E ] / g ) F_c [G_{ij}]\) is shown to be the wave functional of a
+topological field theory. Further information from topological field theory may
+illuminate the question of the behavior of physical gauge theory wave
+functionals for degenerate fields.
+</abstract>

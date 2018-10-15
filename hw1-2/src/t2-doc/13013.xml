@@ -1,0 +1,18 @@
+<title>
+Integrable systems and supersymmetric gauge theory
+</title>
+
+<abstract>
+  After the work of Seiberg and Witten, it has been seen that the dynamics of
+N=2 Yang-Mills theory is governed by a Riemann surface $\Sigma$. In particular,
+the integral of a special differential $\lambda_{SW}$ over (a subset of) the
+periods of $\Sigma$ gives the mass formula for BPS-saturated states. We show
+that, for each simple group $G$, the Riemann surface is a spectral curve of the
+periodic Toda lattice for the dual group, $G^\vee$, whose affine Dynkin diagram
+is the dual of that of $G$. This curve is not unique, rather it depends on the
+choice of a representation $\rho$ of $G^\vee$; however, different choices of
+$\rho$ lead to equivalent constructions. The Seiberg-Witten differential
+$\lambda_{SW}$ is naturally expressed in Toda variables, and the N=2 Yang-Mills
+pre-potential is the free energy of a topological field theory defined by the
+data $\Sigma_{\gg,\rho}$ and $\lambda_{SW}$.
+</abstract>

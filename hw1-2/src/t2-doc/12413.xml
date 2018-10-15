@@ -1,0 +1,15 @@
+<title>
+Electromagnetic self interaction in strings
+</title>
+
+<abstract>
+  To facilitate the treatment of electromagnetic effects in applications such
+as dynamically perturbed vortons, this work employs a covariantly formulated
+string-source Green measure to obtain a coherent relativistic scheme for
+describing the self interaction of electromagnetic currents in string models of
+a very general kind, at leading order in the relevant field gradients, using a
+regularised gradient operator given by $\hat\nabla_\nu=$
+$\bar\nabla_\nu +{1\over 2} K_\nu$ where $\bar\nabla_\nu$ is the
+usual tangential gradient operator and $K_\nu$ is the extrinsic curvature
+vector.
+</abstract>

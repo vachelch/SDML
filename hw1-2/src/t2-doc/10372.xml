@@ -1,0 +1,21 @@
+<title>
+On Mode Regularization of the Configuration Space Path Integral in
+  Curved Space
+</title>
+
+<abstract>
+  The path integral representation of the transition amplitude for a particle
+moving in curved space has presented unexpected challenges since the
+introduction of path integrals by Feynman fifty years ago. In this paper we
+discuss and review mode regularization of the configuration space path
+integral, and present a three loop computation of the transition amplitude to
+test with success the consistency of such a regularization. Key features of the
+method are the use of the Lee-Yang ghost fields, which guarantee a consistent
+treatment of the non-trivial path integral measure at higher loops, and an
+effective potential specific to mode regularization which arises at two loops.
+We also perform the computation of the transition amplitude using the
+regularization of the path integral by time discretization, which also makes
+use of Lee-Yang ghost fields and needs its own specific effective potential.
+This computation is shown to reproduce the same final result as the one
+performed in mode regularization.
+</abstract>

@@ -1,0 +1,23 @@
+<title>
+Short-distance analysis for algebraic euclidean field theory
+</title>
+
+<abstract>
+  Recently D. Buchholz and R. Verch have proposed a method for implementing in
+algebraic quantum field theory ideas from renormalization group analysis of
+short-distance (high energy) behavior by passing to certain scaling limit
+theories. Buchholz and Verch distinguish between different types of theories
+where the limit is unique, degenerate, or classical, and the method allows in
+principle to extract the `ultraparticle' content of a given model, i.e. to
+identify particles (like quarks and gluons) that are not visible at finite
+distances due to `confinement'. It is therefore of great importance for the
+physical interpretation of the theory. The method has been illustrated in a
+simple model in with some rather surprising results.
+  This paper will focus on the question how the short distance behavior of
+models defined by euclidean means is reflected in the corresponding behavior of
+their Minkowski counterparts. More specifically, we shall prove that if a
+euclidean theory has some short distance limit, then it is possible to pass
+from this limit theory to a theory on Minkowski space, which is a short
+distance limit of the Minkowski space theory corresponding to the original
+euclidean theory.
+</abstract>

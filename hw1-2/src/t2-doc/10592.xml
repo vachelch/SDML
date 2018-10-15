@@ -1,0 +1,19 @@
+<title>
+Critical exponents for 3D O(n)-symmetric model with n > 3
+</title>
+
+<abstract>
+  Critical exponents for the 3D O(n)-symmetric model with n > 3 are estimated
+on the base of six-loop renormalization-group (RG) expansions. A simple
+Pade-Borel technique is used for the resummation of the RG series and the Pade
+approximants [L/1] are shown to give rather good numerical results for all
+calculated quantities. For large n, the fixed point location g_c and the
+critical exponents are also determined directly from six-loop expansions
+without addressing the resummation procedure. An analysis of the numbers
+obtained shows that resummation becomes unnecessary when n exceeds 28 provided
+an accuracy of about 0.01 is adopted as satisfactory for g_c and critical
+exponents. Further, results of the calculations performed are used to estimate
+the numerical accuracy of the 1/n-expansion. The same value n = 28 is shown to
+play the role of the lower boundary of the domain where this approximation
+provides high-precision estimates for the critical exponents.
+</abstract>

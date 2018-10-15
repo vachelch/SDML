@@ -1,0 +1,27 @@
+<date>
+Mon, 17 Apr 2000 19:41:14 GMT
+</date>
+
+<title>
+The AdS-CFT correspondence, consistent truncations and gauge invariance
+</title>
+
+<abstract>
+  We give arguments for a conjecture made in a previous paper, that one has to
+use only the gauged sugra action for the calculation of correlators of certain
+operators via the AdS-CFT correspondence. The existence of consistent
+truncations implies that the massive modes decouple, and gauged supergravity is
+sufficient for computing n-point functions of CFT operators coupled to the
+massless (sugra) sector. The action obtained from the linear ansatz, of the
+type $\phi(x,y)=\phi_I(x)Y^I(y)$ gives only part of the gauged sugra. This
+means that there is a difference for the correlators on the boundary of AdS
+space. We find, studying examples of correlators, that the right prescription
+is to use the full gauged sugra, which implies using the full nonlinear KK
+ansatz. To this purpose, we analyze 3 point functions of various gauge fields
+in 5 and 7 dimensions, and the R-current anomaly in the corresponding CFT. We
+also show that the nonlinear rotation in the tower of scalar fields of Lee et
+al., Corrado et al. and Bastianelli and Zucchini produces a consistent
+truncation to the massless level and coincides with the Taylor expansion of the
+nonlinear KK ansatz in massless scalar fluctuations. Finally, we speculate
+about the way to do the full nonlinear rotation for the massive tower.
+</abstract>

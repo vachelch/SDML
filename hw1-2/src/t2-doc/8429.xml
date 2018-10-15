@@ -1,0 +1,26 @@
+<title>
+Local BRST cohomology in Einstein--Yang--Mills theory
+</title>
+
+<abstract>
+  We analyse in detail the local BRST cohomology in Einstein-Yang-Mills theory
+using the antifield formalism. We do not restrict the Lagrangian to be the sum
+of the standard Hilbert and Yang-Mills Lagrangians, but allow for more general
+diffeomorphism and gauge invariant actions. The analysis is carried out in all
+spacetime dimensions larger than 2 and for all ghost numbers. This covers the
+classification of all candidate anomalies, of all consistent deformations of
+the action, as well as the computation of the (equivariant) characteristic
+cohomology, i.e. the cohomology of the spacetime exterior derivative in the
+space of (gauge invariant) local differential forms modulo forms that vanish
+on-shell. We show in particular that for a semi-simple Yang-Mills gauge group
+the antifield dependence can be entirely removed both from the consistent
+deformations of the Lagrangian and from the candidate anomalies. Thus, the
+allowed deformations of the action necessarily preserve the gauge structure,
+while the only candidate anomalies are those provided by previous works not
+dealing with antifields, and by ``topological" candidate anomalies which are
+present only in special spacetime dimensions (6,9,10,13,...). This result no
+longer holds in presence of abelian factors where new candidate anomalies and
+deformations of the action can be constructed out of the conserved Noether
+currents (if any). The Noether currents themselves are shown to be
+covariantizable, with a few exceptions discussed as well.
+</abstract>

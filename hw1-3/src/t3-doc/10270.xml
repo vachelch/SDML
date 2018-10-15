@@ -1,0 +1,22 @@
+<date>
+Tue, 18 Oct 94 11:35:34 -0500
+</date>
+
+<title>
+Invariant Indentities in the Heisenberg Algebra
+</title>
+
+<abstract>
+  Polynomial relations between the generators of $q$--deformed
+Heisenberg algebra  invariant under the quantization and $q$-deformation
+are discovered.
+One of the examples of such relations is the following:  if two elements
+$a$ and $b$, obeying the relation
+\[
+ab - q ba  = p,
+\]
+where $p, q$ are any complex numbers, then for any $p,q$ and natural $n$
+\[
+(aba)^n = a^n b^n a^n
+\]
+</abstract>

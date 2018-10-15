@@ -1,0 +1,15 @@
+<title>
+Complex singularities of the critical potential in the large-N limit
+</title>
+
+<abstract>
+  We show with two numerical examples that the conventional expansion in powers
+of the field for the critical potential of 3-dimensional O(N) models in the
+large-N limit, does not converge for values of phi^2 larger than some critical
+value. This can be explained by the existence of conjugated branch points in
+the complex phi^2 plane. Pade approximants [L+3/L] for the critical potential
+apparently converge at large phi^2. This allows high-precision calculation of
+the fixed point in a more suitable set of coordinates. We argue that the
+singularities are generic and not an artifact of the large-N limit. We show
+that ignoring these singularities may lead to inaccurate approximations.
+</abstract>

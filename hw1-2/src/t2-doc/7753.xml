@@ -1,0 +1,24 @@
+<title>
+Unsharp Degrees of Freedom and the Generating of Symmetries
+</title>
+
+<abstract>
+  In quantum theory, real degrees of freedom are usually described by operators
+which are self-adjoint. There are, however, exceptions to the rule. This is
+because, in infinite dimensional Hilbert spaces, an operator is not necessarily
+self-adjoint even if its expectation values are real. Instead, the operator may
+be merely symmetric. Such operators are not diagonalizable - and as a
+consequence they describe real degrees of freedom which display a form of
+"unsharpness" or "fuzzyness". For example, there are indications that this type
+of operators could arise with the description of space-time at the string or at
+the Planck scale, where some form of unsharpness or fuzzyness has long been
+conjectured.
+  A priori, however, a potential problem with merely symmetric operators is the
+fact that, unlike self-adjoint operators, they do not generate unitaries - at
+least not straightforwardly. Here, we show for a large class of these operators
+that they do generate unitaries in a well defined way, and that these operators
+even generate the entire unitary group of the Hilbert space. This shows that
+merely symmetric operators, in addition to describing unsharp physical
+entities, may indeed also play a r{\^o}le in the generation of symmetries, e.g.
+within a fundamental theory of quantum gravity.
+</abstract>

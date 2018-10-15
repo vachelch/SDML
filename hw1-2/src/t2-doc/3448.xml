@@ -1,0 +1,18 @@
+<title>
+Reduced phase space quantization of massive vector theory
+</title>
+
+<abstract>
+  We quantize massive vector theory in such a way that it has a well-defined
+massless limit. In contrast to the approach by St\"uckelberg where ghost fields
+are introduced to maintain manifest Lorentz covariance, we use reduced phase
+space quantization with nonlocal dynamical variables which in the massless
+limit smoothly turn into the photons, and check explicitly that the Poincare
+algebra is fullfilled. In contrast to conventional covariant quantization our
+approach leads to a propagator which has no singularity in the massless limit
+and is well behaved for large momenta. For massive QED, where the vector field
+is coupled to a conserved fermion current, the quantum theory of the nonlocal
+vector fields is shown to be equivalent to that of the standard local vector
+fields. An inequivalent theory, however, is obtained when the reduced nonlocal
+massive vector field is coupled to a nonconserved classical current.
+</abstract>

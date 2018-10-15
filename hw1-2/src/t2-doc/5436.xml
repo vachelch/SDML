@@ -1,0 +1,18 @@
+<title>
+*-TREK: The One-Loop N=4 Noncommutative SYM Action
+</title>
+
+<abstract>
+  We investigate N=4 noncommutative super Yang-Mills (SYM) theory. We compute
+the one-loop four gauge boson scattering amplitude on parallel Dp-branes, and
+find the corresponding contribution to the noncommutative SYM one-loop action
+in a momentum expansion. The result is somewhat surprising. We find that while
+the planar diagram can be written using the usual *-product, the contributions
+from nonplanar diagrams in general involve additional structure beyond the
+*-product, arising from the nontrivial worldsheet correlations surviving the
+field theory limit. To each nonplanar diagram, depending on the number n of
+external vertex operator insertions on each boundary, there is a corresponding
+*_n n-ary operation. We further find that it is no longer possible to write
+down an off-shell gauge invariant one-loop effective action using the
+noncommutative field strength defined at tree-level.
+</abstract>

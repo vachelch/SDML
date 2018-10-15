@@ -1,0 +1,17 @@
+<title>
+The Decay of Unstable Noncommutative Solitons
+</title>
+
+<abstract>
+  We study the classical decay of unstable scalar solitons in noncommutative
+field theory in 2+1 dimensions. This can, but does not have to, be viewed as a
+toy model for the decay of D-branes in string theory. In the infinite \theta
+limit, in which the gradient term is absent, there are no propagating modes and
+the soliton does not decay at all. If \theta is large, but finite, the
+rotationally symmetric decay channel can be described as a highly excited
+nonlinear oscillator weakly coupled to a continuum of linear modes. This system
+is closely akin to those studied in the context of discrete breathers. We here
+diagonalize the linear problem and compute the decay rate to first order using
+a version of Fermi's Golden Rule, leaving a more rigorous treatment for future
+work.
+</abstract>

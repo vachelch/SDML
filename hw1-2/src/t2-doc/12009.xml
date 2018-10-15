@@ -1,0 +1,17 @@
+<title>
+Novel construction of boundary states in coset conformal field theories
+</title>
+
+<abstract>
+  We develop a systematic method to solve the Cardy condition for the coset
+conformal field theory G/H. The problem is equivalent to finding a non-negative
+integer valued matrix representation (NIM-rep) of the fusion algebra. Based on
+the relation of the G/H theory with the tensor product theory G x H, we give a
+map from NIM-reps of G x H to those of G/H. Our map provides a large class of
+NIM-reps in coset theories. In particular, we give some examples of NIM-reps
+not factorizable into the G and the H sectors. The action of the simple
+currents on NIM-reps plays an essential role in our construction. As an
+illustration of our procedure, we consider the diagonal coset SU(2)_5 x SU(2)_3
+/SU(2)_8 to obtain a new NIM-rep based on the conformal embedding su(2)_3
+\oplus su(2)_8 \subset sp(6)_1.
+</abstract>

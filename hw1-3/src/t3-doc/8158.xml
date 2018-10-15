@@ -1,0 +1,21 @@
+<date>
+Tue, 25 Mar 1997 11:37:02 -0400 (CST)
+</date>
+
+<title>
+Path Integral Invariance under Point Transformations
+</title>
+
+<abstract>
+  We give here a covariant definition of the path integral formalism for the
+Lagrangian, which leaves a freedom to choose anyone of many possible quantum
+systems that correspond to the same classical limit without adding new
+potential terms nor searching for a strange measure, but using as a framework
+the geometry of the spaces considered. We focus our attention on the set of
+paths used to join succesive points in the discretization if the time-slicing
+definition is used to calculate the integral.If this set of paths is not
+preserved when performing a point transformation, the integral may change. The
+reasons for this are geometrically explained. Explicit calculation of the
+Kernel in polar coordinates is made, yielding the same system as in Cartesian
+coordinates.
+</abstract>

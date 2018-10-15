@@ -1,0 +1,19 @@
+<date>
+Sun, 29 Jun 97 02:10:42 +0200
+</date>
+
+<title>
+Renormalization of Hamiltonians in the Light-Front Fock Space
+</title>
+
+<abstract>
+  We outline an ultraviolet renormalization procedure for hamiltonians acting
+in the light-front Fock space. The hamiltonians are defined and calculated
+using creation and annihilation operators with no limitation of the space of
+states. Both, the regularization of the initial hamiltonian and the definition
+of the renormalized effective hamiltonians, preserve the light-front frame
+kinematical symmetries. The general equations for the effective hamiltonians
+are illustrated by second order calculations of the self-energy and
+two-particle interaction terms in Yukawa theory, QED and QCD. Infrared
+singularities are regulated but not renormalized.
+</abstract>

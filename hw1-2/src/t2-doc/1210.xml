@@ -1,0 +1,28 @@
+<title>
+Gauge Field Theory Coherent States (GCS) : II. Peakedness Properties
+</title>
+
+<abstract>
+  In this article we apply the methods outlined in the previous paper of this
+series to the particular set of states obtained by choosing the complexifier to
+be a Laplace operator for each edge of a graph. The corresponding coherent
+state transform was introduced by Hall for one edge and generalized by
+Ashtekar, Lewandowski, Marolf, Mour\~ao and Thiemann to arbitrary, finite,
+piecewise analytic graphs. However, both of these works were incomplete with
+respect to the following two issues : (a) The focus was on the unitarity of the
+transform and left the properties of the corresponding coherent states
+themselves untouched. (b) While these states depend in some sense on
+complexified connections, it remained unclear what the complexification was in
+terms of the coordinates of the underlying real phase space. In this paper we
+resolve these issues, in particular, we prove that this family of states
+satisfies all the usual properties : i) Peakedness in the configuration,
+momentum and phase space (or Bargmann-Segal) representation, ii) Saturation of
+the unquenched Heisenberg uncertainty bound. iii) (Over)completeness. These
+states therefore comprise a candidate family for the semi-classical analysis of
+canonical quantum gravity and quantum gauge theory coupled to quantum gravity,
+enable error-controlled approximations and set a new starting point for {\it
+numerical canonical quantum general relativity and gauge theory}. The text is
+supplemented by an appendix which contains extensive graphics in order to give
+a feeling for the so far unknown peakedness properties of the states
+constructed.
+</abstract>

@@ -1,0 +1,26 @@
+<date>
+Mon, 23 Mar 1998 18:36:01 GMT
+</date>
+
+<title>
+Gauged Duality, Conformal Symmetry, and Spacetime with Two Times
+</title>
+
+<abstract>
+  We construct a duality between several simple physical systems by showing
+that they are different aspects of the same quantum theory. Examples include
+the free relativistic massless particle and the hydrogen atom in any number of
+dimensions. The key is the gauging of the Sp(2) duality symmetry that treats
+position and momentum (x,p) as a doublet in phase space. As a consequence of
+the gauging, the Minkowski space-time vectors (x^\mu, p^\mu) get enlarged by
+one additional space-like and one additional time-like dimensions to (x^M,p^M).
+A manifest global symmetry SO(d,2) rotates (x^M,p^M) like d+2 dimensional
+vectors. The SO(d,2) symmetry of the parent theory may be interpreted as the
+familiar conformal symmetry of quantum field theory in Minkowski spacetime in
+one gauge, or as the dynamical symmetry of a totally different physical system
+in another gauge. Thanks to the gauge symmetry, the theory permits various
+choices of ``time'' which correspond to different looking Hamiltonians, while
+avoiding ghosts. Thus we demonstrate that there is a physical role for a
+spacetime with two times when taken together with a gauged duality symmetry
+that produces appropriate constraints.
+</abstract>

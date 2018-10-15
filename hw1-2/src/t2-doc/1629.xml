@@ -1,0 +1,14 @@
+<title>
+Single particles and composite systems in a mathematically rigorous
+  formulation of relativistic quantum field theory
+</title>
+
+<abstract>
+  We define quantum field theory by taking the Lagrangian action to be given as
+a sequence of mathematically well-defined functionals written in terms of
+operator fields fulfilling given \hbox{local} commutation relations. The
+renormalized solution fields have a fully defined Fock space expansion and are
+\hbox{multi-local}; thus Haag's theorem does not apply, i.e., the interaction
+picture exists. Also, the formalism allows immediately the definition of a wave
+function and the description of many-body bound-state systems.
+</abstract>

@@ -1,0 +1,25 @@
+<date>
+Mon, 22 Jan 1996 12:44:12 +0000 (WET)
+</date>
+
+<title>
+Approximate solutions in scalar and fermionic theories within the exact
+  renormalization group approach
+</title>
+
+<abstract>
+  We give a review of the exact renormalization group (ERG) approach and
+illustrate its applications in scalar and fermionic theories. The derivative
+expansion and approximations based on the derivative expansion with further
+truncation in the number of fields (mixed approximation) are discussed. We
+analyse the mixed approximation for a three-dimensional scalar theory and show
+that it is less effective than the pure derivative expansion. For pure
+fermionic theories analytical solutions for the pure derivative expansion and
+mixed approximation in the limit $N \to \infty $, where $N$ is the number of
+fermionic species, are found. For finite $N$ a few series of fixed point
+solutions with their anomalous dimensions and critical exponents are computed
+numerically. We argue that one of the fermionic solutions can be identified
+with that of Dashen and Frishman, whereas the others seem to be new ones. The
+issues of spurious solutions and scheme dependence of the results are
+discussed.
+</abstract>

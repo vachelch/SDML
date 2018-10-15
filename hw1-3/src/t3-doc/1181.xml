@@ -1,0 +1,33 @@
+<date>
+Fri, 26 Jan 2001 15:08:30 GMT
+</date>
+
+<title>
+The Gauge String Solution of the D>=3 Yang-Mills Loop Equations
+</title>
+
+<abstract>
+  I adapt the Gauge String, representing the strong coupling (SC) expansion in
+the continuous D>=3 Yang-Mills theory (YM_{D}) with a sufficiently large bare
+coupling constant \lambda>\lambda_{cr} and a fixed ultraviolet cut off \Lambda,
+to the analysis of the regularized Wilson's loop-averages. When generalized to
+describe the fat (rather than infinitely thin) flux-tubes, the pattern of thus
+modified U(N) Gauge String is proved to be consistent with the chain of the
+judiciously regularized U(N) Loop equations. In particular, we reveal the
+dimensional reduction YM_{D}=>YM_{2}, taking place in the extreme SC limit
+\lambda=>\infty, and compare it with the implications of the AdS/CFT
+correspondence conjecture. On the other hand, for the loop-averages associated
+to the sufficiently large minimal areas, the proposed stringy pattern is
+supposed to be in the one infrared universality class (provided the loops are
+without zig-zag backtrackings) with the novel implementation of the noncritical
+D-dimensional Nambu-Goto string. The peculiarity is due to the nonstandard
+\Lambda^{2}-scaling, \Lambda^{2}=O(\sigma_{ph}), of the physical string tension
+\sigma_{ph}. Being well-motivated from the viewpoint of the standard YM_{4}
+theory with \lambda=>0, this scaling is argued to entail that the considered
+modification of the Nambu-Goto system is in the stringy (rather than in the
+branched polymer) regime. In sum, the confinement in the continuous D>=3 U(N)
+(and, similarly, SU(N)) gauge theory is justified, for the first time, at least
+when both N and \lambda are sufficiently large. As a by-product, when continued
+to N=1, the Gauge String is shown to describe the continuous U(1) gauge theory
+with the monopoles.
+</abstract>

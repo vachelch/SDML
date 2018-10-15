@@ -1,0 +1,16 @@
+<title>
+Fusion in coset CFT from admissible singular-vector decoupling
+</title>
+
+<abstract>
+  Fusion rules for Wess-Zumino-Witten (WZW) models at fractional level can be
+defined in two ways, with distinct results. The Verlinde formula yields fusion
+coefficients that can be negative. These signs cancel in coset fusion rules,
+however. On the other hand, the fusion coefficients calculated from decoupling
+of singular vectors are non-negative. They produce incorrect coset fusion
+rules, however, when factorisation is assumed. Here we give two prescriptions
+that yield the correct coset fusion rules from those found for the WZW models
+by the decoupling method. We restrict to the Virasoro minimal models for
+simplicity, and because decoupling results are only complete in the $\su(2)$
+case.
+</abstract>

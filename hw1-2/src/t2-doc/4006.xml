@@ -1,0 +1,23 @@
+<title>
+Derivative Expansions of the Exact Renormalisation Group and SU(N|N)
+  Gauge Theory
+</title>
+
+<abstract>
+  We investigate the convergence of the derivative expansion of the exact
+renormalisation group, by using it to compute the beta function of scalar
+theory. We demonstrate that the derivative expansion of the Polchinski flow
+equation converges at one loop for certain fast falling smooth cutoffs. The
+derivative expansion of the Legendre flow equation trivially converges at one
+loop, but also at two loops: slowly with sharp cutoff (as a momentum-scale
+expansion), and rapidly in the case of a smooth exponential cutoff. We also
+show that the two loop contributions to certain higher derivative operators
+(not involved in beta) have divergent momentum-scale expansions for sharp
+cutoff, but the smooth exponential cutoff gives convergent derivative
+expansions for all such operators with any number of derivatives. In the latter
+part of the thesis, we address the problems of applying the exact
+renormalisation group to gauge theories. A regularisation scheme utilising
+higher covariant derivatives and the spontaneous symmetry breaking of the gauge
+supergroup SU(N|N) is introduced and it is demonstrated to be finite to all
+orders of perturbation theory.
+</abstract>

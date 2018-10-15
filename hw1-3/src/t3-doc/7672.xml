@@ -1,0 +1,19 @@
+<date>
+Fri, 24 Mar 1995 15:17:36 --100
+</date>
+
+<title>
+Derivatives as an IR Regulator for Massless Fields
+</title>
+
+<abstract>
+  The free propagator for the scalar $\lambda \phi^4$--theory is calculated
+exactly up to the second derivative of a background field. Using this
+propagator I compute the one--loop effective action, which then contains all
+powers of the field but with at most two derivatives acting on each field. The
+standard derivative expansion, which only has a finite number of derivatives in
+each term, breaks down for small fields when the mass is zero, while the
+expression obtained here has a well--defined expansion in $\phi$. In this way
+the resummation of derivatives cures the naive IR divergence. The extension to
+finite temperature is also discussed.
+</abstract>

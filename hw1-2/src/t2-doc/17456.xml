@@ -1,0 +1,27 @@
+<title>
+Transverse Spin in QCD. I. Canonical Structure
+</title>
+
+<abstract>
+  In this work we initiate a systematic investigation of the spin of a
+composite system in an arbitrary reference frame in QCD. After a brief review
+of the difficulties one encounters in equal-time quantization, we turn to
+light-front quantization. We show that, in spite of the complexities,
+light-front field theory offers a unique opportunity to address the issue of
+relativistic spin operators in an arbitrary reference frame since boost is
+kinematical in this formulation. Utilizing this symmetry, we show how to
+introduce transverse spin operators for massless particles in an arbitrary
+reference frame in analogy with those for massive particles. Starting from the
+manifestly gauge invariant, symmetric energy momentum tensor in QCD, we derive
+expressions for the interaction dependent transverse spin operators ${\cal
+J}^i$ ($i=1,2$) which are responsible for the helicity flip of the nucleon in
+light-front quantization. In order to construct ${\cal J}^i$, first we derive
+expressions for the transverse rotation operators $F^i$. In the gauge $A^+=0$,
+we eliminate the constrained variables. In the completely gauge fixed sector,
+in terms of the dynamical variables, we show that one can decompose ${\cal
+J}^i= {\cal J}^i_I + {\cal J}^i_{II} + {\cal J}^i_{III}$ where only ${\cal
+J}^i_{I}$ has explicit coordinate ($x^-, x^i$) dependence in its integrand. The
+operators ${\cal J}^i_{II}$ and ${\cal J}^i_{III}$ arise from the fermionic and
+bosonic parts respectively of the gauge invariant energy momentum tensor. We
+discuss the implications of our results.
+</abstract>

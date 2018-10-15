@@ -1,0 +1,27 @@
+<date>
+Wed, 17 Nov 1999 19:17:05 GMT
+</date>
+
+<title>
+Three-point correlators of stress tensors in maximally-supersymmetric
+  conformal theories in d=3 and d=6
+</title>
+
+<abstract>
+  We consider free superconformal theories of n=8 scalar multiplet in d=3 and
+(2,0) tensor multiplet in d=6 and compute 2-point and 3-point correlators of
+their stress tensors. The results for the 2-point and 3-point correlators for a
+single d=3 and d=6 multiplet differ from the "strong-coupling" AdS_4 and AdS_7
+supergravity predictions by the factors $4\sqrt2 \over 3\pi}N^{3/2}$ and $4N^3$
+respectively. These are the same factors as found earlier in hep-th/9703040 in
+the comparison of the brane free field theory and the 11-d supergravity
+predictions for the absorption cross-sections of longitudinally polarized
+gravitons by multiple M2 and M5 branes. While the correspondence of the results
+for the cross-sections and 2-point functions was expected on the basis of
+unitarity, the fact that the same coefficients appear in the ratio of the
+free-theory and supergravity 3-point functions is non-trivial. Thus, like in
+the d=4 SYM case, in both d=3 and d=6 theories the ratio of the 3-point and
+2-point correlators <TTT>/<TT> is exactly the same in the free field theory and
+in the interacting CFT as described (to leading order in large $N$) by the 11-d
+supergravity on AdS_{d+1} x S^{10-d}.
+</abstract>

@@ -1,0 +1,20 @@
+<title>
+Gaussian and Mean Field Approximations for Reduced Yang-Mills Integrals
+</title>
+
+<abstract>
+  In this paper, we consider bosonic reduced Yang-Mills integrals by using some
+approximation schemes, which are a kind of mean field approximation called
+Gaussian approximation and its improved version. We calculate the free energy
+and the expectation values of various operators including Polyakov loop and
+Wilson loop. Our results nicely match to the exact and the numerical results
+obtained before. Quite good scaling behaviors of the Polyakov loop and of the
+Wilson loop can be seen under the 't Hooft like large $N$ limit for the case of
+the loop length smaller. Then, simple analytic expressions for the loops are
+obtained. Furthermore, we compute the Polyakov loop and the Wilson loop for the
+case of the loop length sufficiently large, where with respect to the Polyakov
+loop there seems to be no known results in appropriate literatures even in
+numerical calculations. The result of the Wilson loop exhibits a strong
+resemblance to the result simulated for a few smaller values of $N$ in the
+supersymmetric case.
+</abstract>

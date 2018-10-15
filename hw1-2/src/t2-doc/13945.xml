@@ -1,0 +1,24 @@
+<title>
+Kerr-Newman solution as a Dirac particle
+</title>
+
+<abstract>
+  For m^2 < a^2 + q^2, with m, a, and q respectively the source mass, angular
+momentum per unit mass, and electric charge, the Kerr--Newman (KN) solution of
+Einstein's equation reduces to a naked singularity of circular shape, enclosing
+a disk across which the metric components fail to be smooth. By considering the
+Hawking and Ellis extended interpretation of the KN spacetime, it is shown
+first that, similarly to the electron-positron system, this solution presents
+four inequivalent classical states. Next, it is shown that due to the
+topological structure of the extended KN spacetime it does admit states with
+half-integral angular momentum. This last property is corroborated by the fact
+that, under a rotation of the space coordinates, those inequivalent states
+transform into themselves only after a 4pi rotation. As a consequence, it
+becomes possible to naturally represent them in a Lorentz spinor basis. The
+state vector representing the whole KN solution is then constructed, and its
+evolution is shown to be governed by the Dirac equation. The KN solution can
+thus be consistently interpreted as a model for the electron-positron system,
+in which the concepts of mass, charge and spin become connected with the
+spacetime geometry. Some phenomenological consequences of the model are
+explored.
+</abstract>

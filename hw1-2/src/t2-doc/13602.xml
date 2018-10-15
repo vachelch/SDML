@@ -1,0 +1,12 @@
+<title>
+(D+1)-Dimensional Formulation for D-Dimensional Constrained Systems
+</title>
+
+<abstract>
+  D-dimensional constrained systems are studied with stochastic Lagrangian
+and\break Hamiltonian. It is shown that stochastic consistency conditions are
+second class constraints and Lagrange multiplier fields can be determined in
+(D+1)-dimensional canonical formulation. The Langevin equations for the
+constrained system are obtained as Hamilton's equations of motion where
+conjugate momenta play a part of noise fields.
+</abstract>

@@ -1,0 +1,15 @@
+<title>
+Discrete Torsion and Symmetric Products
+</title>
+
+<abstract>
+  In this note we point out that a symmetric product orbifold CFT can be
+twisted by a unique nontrivial two-cocycle of the permutation group. This
+discrete torsion changes the spins and statistics of corresponding
+second-quantized string theory making it essentially ``supersymmetric.'' The
+long strings of even length become fermionic (or ghosts), those of odd length
+bosonic. The partition function and elliptic genus can be described by a sum
+over stringy spin structures. The usual cubic interaction vertex is odd and
+nilpotent, so this construction gives rise to a DLCQ string theory with a
+leading quartic interaction.
+</abstract>

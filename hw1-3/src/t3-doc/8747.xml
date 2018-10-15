@@ -1,0 +1,27 @@
+<date>
+Tue, 21 Apr 1998 23:15:30 GMT
+</date>
+
+<title>
+Systematic Renormalization in Hamiltonian Light-Front Field Theory
+</title>
+
+<abstract>
+  We develop a systematic method for computing a renormalized light-front field
+theory Hamiltonian that can lead to bound states that rapidly converge in an
+expansion in free-particle Fock-space sectors. To accomplish this without
+dropping any Fock sectors from the theory, and to regulate the Hamiltonian, we
+suppress the matrix elements of the Hamiltonian between free-particle
+Fock-space states that differ in free mass by more than a cutoff. The cutoff
+violates a number of physical principles of the theory, and thus the
+Hamiltonian is not just the canonical Hamiltonian with masses and couplings
+redefined by renormalization. Instead, the Hamiltonian must be allowed to
+contain all operators that are consistent with the unviolated physical
+principles of the theory. We show that if we require the Hamiltonian to produce
+cutoff-independent physical quantities and we require it to respect the
+unviolated physical principles of the theory, then its matrix elements are
+uniquely determined in terms of the fundamental parameters of the theory. This
+method is designed to be applied to QCD, but for simplicity, we illustrate our
+method by computing and analyzing second- and third-order matrix elements of
+the Hamiltonian in massless phi-cubed theory in six dimensions.
+</abstract>

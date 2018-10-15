@@ -1,0 +1,21 @@
+<title>
+Nonpertubative Effects of Extreme Localization in Noncommutative
+  Geometry
+</title>
+
+<abstract>
+  ``Extremely'' localized wavefunctions in noncommutative geometry have
+disturbances that are localized to distances smaller than $\sqrt{\theta}$,
+where $\theta$ is the ``area'' parameter that measures noncommutativity. In
+particular, distributions such as the sign function or the Dirac delta function
+are limiting cases of extremely localized wavefunctions. It is shown that Moyal
+star products of extremely localized wavefunctions cannot be correctly computed
+perturbatively in powers of $\theta$. Nonperturbative effects as a function of
+$\theta$ are explicitly displayed through exact computations in several
+examples. In particular, for distributions, star products end up being
+functions of $\theta ^{-1}$ and have no expansion in positive powers of
+$\theta$. This result provides a warning for computations in noncommutative
+space that often are performed with perturbative methods. Furthermore, the
+result may have interesting applications that could help elucidate the role of
+noncommutative geometry in several areas of physics.
+</abstract>

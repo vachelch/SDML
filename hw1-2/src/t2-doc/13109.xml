@@ -1,0 +1,18 @@
+<title>
+Twisted K-theory in $g>1$ from D-branes
+</title>
+
+<abstract>
+  We study the wrapping of N type IIB Dp-branes on a compact Riemann surface
+$\Sigma$ in genus $g>1$ by means of the Sen-Witten construction, as a
+superposition of N' type IIB Dp'-brane/antibrane pairs, with $p'>p$. A
+background Neveu-Schwarz field B deforms the commutative $C^{\star}$-algebra of
+functions on $\Sigma$ to a noncommutative $C^{\star}$-algebra. Our construction
+provides an explicit example of the $N'\to\infty$ limit advocated by
+Bouwknegt-Mathai and Witten in order to deal with twisted K-theory. We provide
+the necessary elements to formulate M(atrix) theory on this new
+$C^{\star}$-algebra, by explicitly constructing a family of projective
+$C^{\star}$-modules admitting constant-curvature connections. This allows us to
+define the $g>1$ analogue of the BPS spectrum of states in $g=1$, by means of
+Donaldson's formulation of the Narasimhan-Seshadri theorem.
+</abstract>

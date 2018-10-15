@@ -1,0 +1,14 @@
+<title>
+Perturbative diagrams in string field theory
+</title>
+
+<abstract>
+  A general algorithm is presented which gives a closed-form expression for an
+arbitrary perturbative diagram of cubic string field theory at any loop order.
+For any diagram, the resulting expression is given by an integral of a function
+of several infinite matrices, each built from a finite number of blocks
+containing the Neumann coefficients of Witten's 3-string vertex. The
+closed-form expression for any diagram can be approximated by level truncation
+on oscillator level, giving a computation involving finite size matrices. Some
+simple tree and loop diagrams are worked out as examples of this approach.
+</abstract>

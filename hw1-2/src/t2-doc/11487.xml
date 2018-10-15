@@ -1,0 +1,14 @@
+<title>
+The Field Theory of the q->4+ Potts Model
+</title>
+
+<abstract>
+  The q-state Potts model in two dimensions exhibits a first-order transition
+for q>4. As q->4+ the correlation length at this transition diverges. We argue
+that this limit defines a massive integrable quantum field theory whose lowest
+excitations are kinks connecting 4+1 degenerate ground states. We construct the
+S-matrix of this theory and the two-particle form factors, and hence estimate a
+number of universal amplitude ratios. These are in very good agreement with the
+results of extrapolated series in q^(-1/2) as well as Monte Carlo results for
+q=5.
+</abstract>

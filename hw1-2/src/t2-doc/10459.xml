@@ -1,0 +1,15 @@
+<title>
+Forward-Backward Squeezing Propagator
+</title>
+
+<abstract>
+  I show that a usual propagator cannot be defined for the pseudo-diffusion
+equation of the Q-functions. Instead, a forward-backward propagator is defined,
+which motivated a generalization of Cahill-Glauber interpolating operator. Our
+generalized operator ${\bf Q}(p,q;\sigma_p^{-1},\sigma_q)$ depends on two
+squeezing parameters $\sigma_p$ and $\sigma_q$, and is shown to obey a
+generalized pseudo-diffusion equation or a diffusion equation, depending on the
+curve $(\sigma_p(\mu),\sigma_q(\mu))$ along which one moves in the
+$(\sigma_p,\sigma_q)$ plane. An algorithm is also given for squeezing Q
+functions directly, using one-dimensional diffusion propagators.
+</abstract>

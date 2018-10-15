@@ -1,0 +1,13 @@
+<title>
+An extension of the Cayley-Hamilton theorem to the case of supermatrices
+</title>
+
+<abstract>
+  Starting from the expression for the superdeterminant of $ (xI-M)$, where $M$
+is an arbitrary supermatrix , we propose a definition for the corresponding
+characteristic polynomial and we prove that each supermatrix satisfies its
+characteristic equation. Depending upon the factorization properties of the
+basic polynomials whose ratio defines the above mentioned superdeterminant we
+are able to construct polynomials of lower degree which are also shown to be
+annihilated by the supermatrix.
+</abstract>

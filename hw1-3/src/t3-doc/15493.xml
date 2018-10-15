@@ -1,0 +1,28 @@
+<date>
+Mon, 30 Jun 1997 12:20:53 -0400
+</date>
+
+<title>
+Confinement in Covariant Gauges
+</title>
+
+<abstract>
+  We examine the weak coupling limit of Euclidean SU(n) gauge theory in
+covariant gauges. Following an earlier suggestion, an equivariant
+BRST-construction is used to define the continuum theory on a finite torus. The
+equivariant gauge fixing introduces constant ghost fields as moduli of the
+model. We study the parameter- and moduli- space perturbatively. For $n_f \leq
+n$ quark flavors, the moduli flow to a non-trivial fixed point in certain
+critical covariant gauges and the one-loop effective potential indicates that
+the global SU(n) color symmetry of the gauge fixed model is spontaneously
+broken to $U(1)^{n-1}$. Ward identities and renormalization group arguments
+imply that the longitudinal gauge boson propagator at long range is dominated
+by $n(n-1)$ Goldstone bosons in these critical covariant gauges. In the large
+$n$ limit, we derive a nonlinear integral equation for the expectation value of
+large Wilson loops assuming that the exchange of Goldstone bosons dominates the
+interaction at long range in critical covariant gauges. We find numerically
+that the expectation value of large circular Wilson loops decreases
+exponentially with the enclosed area in the absence of dynamical fermions. The
+gauge invariance of this mechanism for confinement in critical covariant gauges
+is discussed.
+</abstract>

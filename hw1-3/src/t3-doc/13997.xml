@@ -1,0 +1,31 @@
+<date>
+Tue, 6 Mar 2001 09:30:38 GMT
+</date>
+
+<title>
+Gravity as the Spin-2 Quantum Gauge Theory
+</title>
+
+<abstract>
+  This work deals with the theory of a quantized spin-2 field in the framework
+of causal perturbation theory. It is divided into two parts. In the first part
+we analyze the gauge structure of a massless self-interacting quantum tensor
+field. We look at this theory from a pure field theoretical point of view
+without assuming any geometrical aspect from general relativity. To first order
+in the perturbation expansion of the $S$-matrix we derive necessary and
+sufficient conditions for such a theory to be gauge invariant, by which we mean
+that the gauge variation of the self-coupling with respect to the gauge charge
+operator $Q$ is a divergence in the sense of vector analysis. The most general
+trilinear self-coupling of the graviton field turns out to be the one derived
+from the Einstein-Hilbert action plus coboundaries and divergences.
+  In the second part of this work (sect.9) we consider a massive scalar field
+coupled to gravity. We are interested in the long range behaviour of this
+theory. Radiative corrections for two particle scattering are investigated in
+the adiabatic limit, where the cutoff of the interaction at infinity is
+removed. We compute the differential cross section for graviton bremsstrahlung
+in which one of the scattered particles emits a graviton of low energy. It is
+shown that such processes are logarithmically divergent in the adiabatic limit.
+Furthermore we show that the differential cross section for two particle
+scattering with a graviton self-energy insertion is finite in the adiabatic
+limit while for matter self-energy it is logarithmically divergent, too.
+</abstract>

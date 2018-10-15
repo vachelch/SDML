@@ -1,0 +1,11 @@
+<title>
+Meander Determinants
+</title>
+
+<abstract>
+  We prove a determinantal formula for quantities related to the problem of
+enumeration of (semi-) meanders, namely the topologically inequivalent planar
+configurations of non-self-intersecting loops crossing a given (half-) line
+through a given number of points. This is done by the explicit Gram-Schmidt
+orthogonalization of certain bases of subspaces of the Temperley-Lieb algebra.
+</abstract>

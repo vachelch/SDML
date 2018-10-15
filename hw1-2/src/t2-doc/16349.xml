@@ -1,0 +1,11 @@
+<title>
+Quantum cohomology of partial flag manifolds
+</title>
+
+<abstract>
+  We compute the quantum cohomology rings of the partial flag manifolds
+F_{n_1\cdots n_k}=U(n)/(U(n_1)\times \cdots \times U(n_k)). The inductive
+computation uses the idea of Givental and Kim. Also we define a notion of the
+vertical quantum cohomology ring of the algebraic bundle. For the flag bundle
+F_{n_1\cdots n_k}(E) associated with the vector bundle E this ring is found.
+</abstract>

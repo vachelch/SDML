@@ -1,0 +1,21 @@
+<title>
+Dynamics of the DBI Spike Soliton
+</title>
+
+<abstract>
+  We compare oscillations of a fundamental string ending on a D3-brane in two
+different settings: (1) a test-string radially threading the horizon of an
+extremal black D3-brane and (2) the spike soliton of the DBI effective action
+for a D3-brane. Previous work has shown that overall transverse modes of the
+test-string appear as l=0 modes of the transverse scalar fields of the DBI
+system. We identify DBI world-volume degrees of freedom that have dynamics
+matching those of the test-string relative transverse modes. We show that there
+is a map, resembling T-duality, between relative and overall transverse modes
+for the test-string that interchanges Neumann and Dirichlet boundary conditions
+and implies equality of the absorption coefficients for both modes. We give
+general solutions to the overall and relative transverse parts of the DBI
+coupled gauge and scalar system and calculate absorption coefficients for the
+higher angular momentum modes in the low frequency limit. We find that there is
+a nonzero amplitude for l>0 modes to travel out to infinity along the spike,
+demonstrating that the spike remains effectively 3+1-dimensional.
+</abstract>

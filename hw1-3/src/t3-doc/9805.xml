@@ -1,0 +1,19 @@
+<date>
+Mon, 18 Sep 1995 16:17:49 +0100
+</date>
+
+<title>
+Holomorphic Quantization on the Torus and Finite Quantum Mechanics
+</title>
+
+<abstract>
+  We construct explicitly the quantization of classical linear maps of $SL(2,
+R)$ on toroidal phase space, of arbitrary modulus, using the holomorphic
+(chiral) version of the metaplectic representation. We show that Finite Quantum
+Mechanics (FQM) on tori of arbitrary integer discretization, is a consistent
+restriction of the holomorphic quantization of $SL(2, Z)$ to the subgroup
+$SL(2, Z)/\Gamma_l$, $\Gamma_l$ being the principal congruent subgroup mod l,
+on a finite dimensional Hilbert space. The generators of the ``rotation group''
+mod l, $O_{l}(2)\subset SL(2,l)$, for arbitrary values of l are determined as
+well as their quantum mechanical eigenvalues and eigenstates.
+</abstract>

@@ -1,0 +1,17 @@
+<date>
+Tue, 31 Oct 95 13:24:40 -0500
+</date>
+
+<title>
+Non-Trivial Directions for Scalar Fields
+</title>
+
+<abstract>
+  We study the eigenvectors of the renormalization-group matrix for scalar
+fields at the Gaussian fixed point, and find that that there exist ``relevant''
+directions in parameter space. They correspond to theories with exponential
+potentials that are nontrivial and asymptotically free. All other potentials,
+including polynomial potentials, are ``irrelevant,'' and lead to trivial
+theories. Away from the Gaussian fixed point, renormalization does not induce
+derivative couplings, but it generates non-local interactions.
+</abstract>

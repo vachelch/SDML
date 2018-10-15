@@ -1,0 +1,18 @@
+<date>
+Thu, 21 Oct 1999 01:10:37 GMT
+</date>
+
+<title>
+Effective Energy Approach to Collectively Quantized Systems
+</title>
+
+<abstract>
+  We generalize effective energy variational techniques to study appropriately
+quantized solitonic field configurations. Our approach rests on collective
+quantization ideas and is specifically designed for the numerical evaluation of
+soliton parameters. We employ this method to obtain the one-loop quantum
+corrections to the soliton mass and form factor. Special attention is given to
+the regularization of the physical observables in the solitonic sector of the
+theory. The numerical implementation of the method is demonstrated for a simple
+one-dimensional scalar field example.
+</abstract>

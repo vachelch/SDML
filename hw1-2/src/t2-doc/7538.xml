@@ -1,0 +1,12 @@
+<title>
+Spectrum of an Elliptic Free Fermionic Corner Transfer Matrix
+  Hamiltonian
+</title>
+
+<abstract>
+  The eigenvalues of the Corner Transfer Matrix Hamiltonian associated to the
+elliptic $R$ matrix of the eight vertex free fermion model are computed in the
+anisotropic case for magnetic field smaller than the critical value. An
+argument based on generating functions is given, and the results are checked
+numerically. The spectrum consists of equally spaced levels.
+</abstract>

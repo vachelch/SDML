@@ -1,0 +1,18 @@
+<title>
+Path integral derivation of the Brown-Henneaux central charge
+</title>
+
+<abstract>
+  We rederive the Brown-Henneaux commutation relation and central charge in the
+framework of the path integral. To obtain the Ward-Takahashi identity, we can
+use either the asymptotic symmetry or its leading part. If we use the
+asymptotic symmetry, the central charge arises from the transformation law of
+the charge itself. Thus, this central charge is clearly different from the
+quantum anomaly which can be understood as the Jacobian factor of the path
+integral measure. Alternatively, if we use the leading transformation, the
+central charge arises from the fact that the boundary condition of the path
+integral is not invariant under the transformation. This is in contrast to the
+usual quantum central charge which arises from the fact that the measure of the
+path integral is not invariant under the relevant transformation. Moreover, we
+discuss the implications of our analysis in relation to the black hole entropy.
+</abstract>

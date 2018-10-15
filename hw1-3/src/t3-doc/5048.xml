@@ -1,0 +1,24 @@
+<date>
+Fri, 14 Feb 92 16:45:11 +0300 (MSK)
+</date>
+
+<title>
+Non-critical NSR string field theory and discrete states interaction in
+  2D supergravity
+</title>
+
+<abstract>
+  String field theory for the non-critical NSR string is described. In
+particular it gives string field theory for the 2D super-gravity coupled to a
+$\hat{c}=1$ matter field. For this purpose double-step pictures changing
+operators for the non-critical NSR string are constructed. Analogues of the
+critical supersymmetry transformations are written for $D<10$, they form a
+closed on-shell algebra, however their action on vertices is defined only for
+discrete value of the Liouville momentum. For D=2 this means that spinor
+massless field has its superpartner in the NS sector only if its momentum is
+fixed.
+  Starting from string field theory we calculate string amplitudes. These
+amplitudes for D=2 have poles which are related with discrete set of primary
+fields, namely 2R$\to$2R amplitude has poles corresponding to the n-level NS
+excitations with discrete momenta $p_1=n,~~p_2=-1\pm (n+1)$.
+</abstract>

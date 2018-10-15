@@ -1,0 +1,27 @@
+<date>
+Wed, 26 Jun 1996 14:09:51 MDT
+</date>
+
+<title>
+Quantum Double Actions on Operator Algebras and Orbifold Quantum Field
+  Theories
+</title>
+
+<abstract>
+  Starting from a local quantum field theory with an unbroken compact symmetry
+group $G$ in 1+1-dimensional spacetime we construct disorder fields
+implementing gauge transformations on the fields (order variables) localized in
+a wedge region. Enlarging the local algebras by these disorder fields we obtain
+a nonlocal field theory, the fixpoint algebras of which under the appropriately
+extended action of the group $G$ are shown to satisfy Haag duality in every
+simple sector. The specifically 1+1 dimensional phenomenon of violation of Haag
+duality of fixpoint nets is thereby clarified. In the case of a finite group
+$G$ the extended theory is acted upon in a completely canonical way by the
+quantum double $D(G)$ and satisfies R-matrix commutation relations as well as a
+Verlinde algebra. Furthermore, our methods are suitable for a concise and
+transparent approach to bosonization. The main technical ingredient is a
+strengthened version of the split property which should hold in all reasonable
+massive theories. In the appendices (part of) the results are extended to
+arbitrary locally compact groups and our methods are adapted to chiral theories
+on the circle.
+</abstract>

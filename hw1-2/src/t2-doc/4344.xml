@@ -1,0 +1,15 @@
+<title>
+Optimized Rayleigh-Schr\"{o}dinger Expansion of the Effective Potential
+</title>
+
+<abstract>
+  An optimized Rayleigh-Schr\"{o}dinger expansion scheme of solving the
+functional Schr\"odinger equation with an external source is proposed to
+calculate the effective potential beyond the Gaussian approximation. For a
+scalar field theory whose potential function has a Fourier representation in a
+sense of tempered distributions, we obtain the effective potential up to the
+second order, and show that the first-order result is just the Gaussian
+effective potential. Its application to the $\lambda\phi^4$ field theory yields
+the same post-Gaussian effective potential as obtained in the functional
+integral formalism.
+</abstract>

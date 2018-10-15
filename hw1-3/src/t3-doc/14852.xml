@@ -1,0 +1,20 @@
+<date>
+Wed, 16 Sep 1998 12:42:07 GMT
+</date>
+
+<title>
+Migration of Unstable Vacuum for Dissipative Systems
+</title>
+
+<abstract>
+  Quantum field theory is constructed upon the assumption of stabilities of the
+vacuum and of the one-particle state. For finite temperature, the one-particle
+state becomes unstable because of thermal fluctuations, whereas the thermal
+vacuum is still stable. In non-equilibrium situation, both the vacuum and the
+one-particle state lose their stability. Proposed is the introduction of the
+{\it reference vacuum} which takes care of thermal and non-adiabatic
+time-evolution of a system, and produces a time-dependent Fock's representation
+space. This may provide us with an extension of the concept of {\it dynamical
+mapping} where a migration among unitary inequivalent representation spaces can
+be handled for non-equilibrium and dissipative systems.
+</abstract>

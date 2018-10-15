@@ -1,0 +1,35 @@
+<date>
+Tue, 4 Feb 1997 00:56:15 +0900 (JST)
+</date>
+
+<title>
+Yangian Gelfand-Zetlin Bases, gl(N)-Jack Polynomials and computation of
+  Dynamical Correlation Functions in the Spin Calogero-Sutherland Model
+</title>
+
+<abstract>
+  We consider the gl(N)-invariant Calogero-Sutherland Models with N=1,2,3,...
+in a unified framework, which is the framework of Symmetric Polynomials. By the
+framework we mean an isomorphism between the space of states of the
+gl(N)-invariant Calogero-Sutherland Model and the space of Symmetric Laurent
+Polynomials. In this framework it becomes apparent that all gl(N)-invariant
+Calogero-Sutherland Models are manifestations of the same entity, which is the
+commuting family of Macdonald Operators. Macdonald Operators depend on two
+parameters $q$ and $t$. The Hamiltonian of gl(N)-invariant Calogero-Sutherland
+Model belongs to a degeneration of this family in the limit when both $q$ and
+$t$ approach the N-th elementary root of unity. This is a generalization of the
+well-known situation in the case of Scalar Calogero-Sutherland Model (N=1). In
+the limit the commuting family of Macdonald Operators is identified with the
+maximal commutative sub-algebra in the Yangian action on the space of states of
+the gl(N)-invariant Calogero-Sutherland Model. The limits of Macdonald
+Polynomials which we call gl(N)-Jack Polynomials are eigenvectors of this
+sub-algebra and form Yangian Gelfand-Zetlin bases in irreducible components of
+the Yangian action. The gl(N)-Jack Polynomials describe the orthogonal
+eigenbasis of gl(N)-invariant Calogero-Sutherland Model in exactly the same way
+as Jack Polynomials describe the orthogonal eigenbasis of the Scalar Model
+(N=1). For each known property of Macdonald Polynomials there is a
+corresponding property of gl(N)-Jack Polynomials. As a simplest application of
+these properties we compute two-point Dynamical Spin-Density and Density
+Correlation Functions in the gl(2)-invariant Calogero-Sutherland Model at
+integer values of the coupling constant.
+</abstract>

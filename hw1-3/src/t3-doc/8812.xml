@@ -1,0 +1,28 @@
+<date>
+Fri, 11 Feb 2000 09:40:48 GMT
+</date>
+
+<title>
+Riemann surfaces and Schrodinger potentials of gauged supergravity
+</title>
+
+<abstract>
+  Supersymmetric domain-wall solutions of maximal gauged supergravity are
+classified in 4, 5 and 7 dimensions in the presence of non-trivial scalar
+fields taking values in the coset SL(N, R)/SO(N) for N=8, 6 and 5 respectively.
+We use an algebro-geometric method based on the Christoffel-Schwarz
+transformation, which allows for the characterization of the solutions in terms
+of Riemann surfaces whose genus depends on the isometry group. The
+uniformization of the curves can be carried out explicitly for models of low
+genus and results into trigonometric and elliptic solutions for the scalar
+fields and the conformal factor of the metric. The Schrodinger potentials for
+the quantum fluctuations of the graviton and scalar fields are derived on these
+backgrounds and enjoy all properties of supersymmetric quantum mechanics.
+Special attention is given to a class of elliptic models whose quantum
+fluctuations are commonly described by the generalized Lame potential
+\mu(\mu+1)P(z) + \nu(\nu+1)P(z+\omega_1)+ \kappa(\kappa+1)P(z+\omega_2) +
+\lambda(\lambda+1)P(z+\omega_1 +\omega_2) for the Weierstrass function P(z) of
+the underlying Riemann surfaces with periods 2\omega_1 and 2\omega_2, for
+different half-integer values of the coupling constants \mu, \nu, \kappa,
+\lambda.
+</abstract>

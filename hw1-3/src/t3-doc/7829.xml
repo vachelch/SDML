@@ -1,0 +1,22 @@
+<date>
+Thu, 18 Oct 2001 02:22:07 GMT
+</date>
+
+<title>
+Supergravity Fluxbranes in Various Dimensions
+</title>
+
+<abstract>
+  We investigate fluxbrane solutions to the Einstein-antisymmetric form-dilaton
+theory in arbitrary space-time dimensions for a transverse space of cylindrical
+topology $S^k\times R^n$, corresponding to smeared and unsmeared solutions. A
+master equation for a single metric function is derived. This is a non-linear
+second-order ordinary differential equation admitting an analytic solution,
+singular at the origin, which serves as an attractor for globally regular
+solutions, whose existence is demonstrated numerically. For all fluxbranes of
+different levels of smearing the metric function diverges at infinity as the
+same power of the radial coordinate except for the maximally smeared case,
+where a global solution is known in closed form and can be obtained
+algebraically using U-duality. The particular cases of F6 and F3 fluxbranes in
+D=11 supergravity and fluxbranes in IIA, IIB supergravities are discussed.
+</abstract>

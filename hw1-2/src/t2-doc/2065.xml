@@ -1,0 +1,14 @@
+<title>
+A demonstration of scheme independence in scalar ERGs
+</title>
+
+<abstract>
+  The standard demand for the quantum partition function to be invariant under
+the renormalization group transformation results in a general class of exact
+renormalization group equations, different in the form of the kernel. Physical
+quantities should not be sensitive to the particular choice of the kernel. Such
+scheme independence is elegantly illustrated in the scalar case by showing
+that, even with a general kernel, the one-loop beta function may be expressed
+only in terms of the effective action vertices, and in this way the universal
+result is recovered.
+</abstract>

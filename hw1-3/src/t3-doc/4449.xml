@@ -1,0 +1,18 @@
+<date>
+Wed, 16 Jul 1997 14:41:34 MDT
+</date>
+
+<title>
+Partition Functions for BPS States of the Non-Critical E_8 String
+</title>
+
+<abstract>
+  We consider the BPS states of the $E_8$ non-critical string wound around one
+of the circles of a toroidal compactification to four dimensions. These states
+are indexed by their momenta and winding numbers. We find explicit expressions,
+$G_n$, for the momentum partition functions for the states with winding number
+$n$. The $G_n$ are given in terms of modular forms. We give a simple algorithm
+for generating the $G_n$, and we show that they satisfy a recurrence relation
+that is reminiscent of the holomorphic anomaly equations of Kodaira-Spencer
+theory.
+</abstract>

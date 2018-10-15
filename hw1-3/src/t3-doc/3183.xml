@@ -1,0 +1,31 @@
+<date>
+Fri, 26 Oct 2001 18:18:43 GMT
+</date>
+
+<title>
+Two-Loop Superstrings I, Main Formulas
+</title>
+
+<abstract>
+  An unambiguous and slice-independent formula for the two-loop superstring
+measure on moduli space for even spin structure is constructed from first
+principles. The construction uses the super-period matrix as moduli invariant
+under worldsheet supersymmetry. This produces new subtle contributions to the
+gauge-fixing process, which eliminate all the ambiguities plaguing earlier
+gauge-fixed formulas.
+  The superstring measure can be computed explicitly and a simple expression in
+terms of modular forms is obtained. For fixed spin structure, the measure
+exhibits the expected behavior under degenerations of the surface. The measure
+allows for a unique modular covariant GSO projection. Under this GSO
+projection, the cosmological constant, the 1-, 2- and 3- point functions of
+massless supergravitons all vanish pointwise on moduli space without the
+appearance of boundary terms. A certain disconnected part of the 4-point
+function is shown to be given by a convergent, finite integral on moduli space.
+A general slice-independent formula is given for the two-loop cosmological
+constant in compactifications with central charge c=15 and N=1 worldsheet
+supersymmetry in terms of the data of the compactification conformal field
+theory.
+  In this paper, a summary of the above results is presented with detailed
+constructions, derivations and proofs to be provided in a series of subsequent
+publications.
+</abstract>

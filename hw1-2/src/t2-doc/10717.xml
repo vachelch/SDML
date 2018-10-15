@@ -1,0 +1,22 @@
+<title>
+Gribov vs BRST
+</title>
+
+<abstract>
+  We investigate the way in which the Gribov problem is manifested in the BRST
+quantization of simple quantum mechanical models by comparing models with and
+without a Gribov problem. We show that the hermiticity and nilpotency of the
+BRST charge together with the Batalin-Vilkovisky theorem yield non-trivial
+supplementary conditions on gauge fixing fermions. If the gauge fixing fermion
+satisfies the supplementary conditions, the BRST physical states form a space
+isomorphic to the Dirac space, and the BRST formal path integral does not
+suffer from the Gribov problem. The conventional gauge fixing fermion, that
+gives rise to the Faddeev-Popov integral, fails to satisfy the supplementary
+conditions due to the Gribov problem. Alternatively, enforcing the conventional
+gauge fixing fermion, these supplementary conditions imply restrictions on the
+BRST physical states for which the Batalin-Vilkovisky theorem holds. We find
+that these BRST physical states are not isomorphic the Dirac states. This can
+be interpreted as a violation of the Batalin-Vilkovisky theorem on the space of
+Dirac states and implies a breakdown of unitarity and a general dependence of
+physical quantities on the gauge condition.
+</abstract>

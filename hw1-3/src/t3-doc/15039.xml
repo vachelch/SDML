@@ -1,0 +1,22 @@
+<date>
+Wed, 15 Mar 2000 22:02:54 GMT
+</date>
+
+<title>
+Refining the anomaly consistency condition
+</title>
+
+<abstract>
+  In the extended antifield formalism, a quantum BRST differential for
+anomalous gauge theories is constructed. Local BRST cohomological classes are
+characterized, besides the form degree and the ghost number, by the length of
+their descents and of their lifts, and this both in the standard and the
+extended antifield formalism. It is shown that during the BRST invariant
+renormalization of a local BRST cohomological class, the anomaly that can
+appear is constrained to be a local BRST cohomological class with a shorter
+descent and a longer lift than the given class. As an application of both
+results, a simple approach to the Adler-Bardeen theorem for the non abelian
+gauge anomaly is proposed. It applies independently of the gauge fixing, of
+power counting restrictions and does not rely on the use of the Callan-Symanzik
+equation.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Finite Chains with Quantum Affine Symmetries
+</title>
+
+<abstract>
+  We consider an extension of the (t-U) Hubbard model taking into account new
+interactions between the numbers of up and down electrons. We confine ourselves
+to a one-dimensional open chain with L sites (4^L states) and derive the
+effective Hamiltonian in the strong repulsion (large U) regime. This
+Hamiltonian acts on 3^L states. We show that the spectrum of the latter
+Hamiltonian (not the degeneracies) coincides with the spectrum of the
+anisotropic Heisenberg chain (XXZ model) in the presence of a Z field (2^L
+states). The wave functions of the 3^L-state system are obtained explicitly
+from those of the 2^L-state system, and the degeneracies can be understood in
+terms of irreducible representations of U_q(\hat{sl(2)}).
+</abstract>

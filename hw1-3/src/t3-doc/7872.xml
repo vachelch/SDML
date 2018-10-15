@@ -1,0 +1,22 @@
+<date>
+Wed, 22 Aug 2001 15:03:16 GMT
+</date>
+
+<title>
+Mesoscopic QCD and the Theta Vacua
+</title>
+
+<abstract>
+  The partition function of QCD is analyzed for an arbitrary number of flavors,
+N_f, and arbitrary quark masses including the contributions from all
+topological sectors in the Leutwyler--Smilga regime. For given N_f and
+arbitrary vacuum angle, \theta, the partition function can be reduced to N_f-2
+angular integrations of single Bessel functions. For two and three flavors, the
+\theta dependence of the QCD vacuum is studied in detail. For N_f= 2 and 3, the
+chiral condensate decreases monotonically as \theta increases from zero to \pi
+and the chiral condensate develops a cusp at \theta=\pi for degenerate quark
+masses in the macroscopic limit. We find a discontinuity at \theta=\pi in the
+first derivative of the energy density with respect to \theta for degenerate
+quark masses. This corresponds to the first--order phase transition in which CP
+is spontaneously broken, known as Dashen's phenomena.
+</abstract>

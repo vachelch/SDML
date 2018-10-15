@@ -1,0 +1,26 @@
+<title>
+Non-Local Matrix Generalizations of W-Algebras
+</title>
+
+<abstract>
+  There is a standard way to define two symplectic (hamiltonian) structures,
+the first and second Gelfand-Dikii brackets, on the space of ordinary linear
+differential operators of order $m$, $L = -d^m + U_1 d^{m-1} + U_2 d^{m-2} +
+\ldots + U_m$. In this paper, I consider in detail the case where the $U_k$ are
+$n\times n$-matrix-valued functions, with particular emphasis on the (more
+interesting) second Gelfand-Dikii bracket. Of particular interest is the
+reduction to the symplectic submanifold $U_1=0$. This reduction gives rise to
+matrix generalizations of (the classical version of) the {\it non-linear}
+$W_m$-algebras, called $V_{m,n}$-algebras. The non-commutativity of the
+matrices leads to {\it non-local} terms in these $V_{m,n}$-algebras. I show
+that these algebras contain a conformal Virasoro subalgebra and that
+combinations $W_k$ of the $U_k$ can be formed that are $n\times n$-matrices of
+conformally primary fields of spin $k$, in analogy with the scalar case $n=1$.
+In general however, the $V_{m,n}$-algebras have a much richer structure than
+the $W_m$-algebras as can be seen on the examples of the {\it non-linear} and
+{\it non-local} Poisson brackets of any two matrix elements of $U_2$ or $W_3$
+which I work out explicitly for all $m$ and $n$. A matrix Miura transformation
+is derived, mapping these complicated second Gelfand-Dikii brackets of the
+$U_k$ to a set of much simpler Poisson brackets, providing the analogue of the
+free-field realization of the $W_m$-algebras.
+</abstract>

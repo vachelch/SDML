@@ -1,0 +1,17 @@
+<title>
+Monte Carlo Studies of the Dimensionally Reduced 4d SU(N) Super
+  Yang-Mills Theory
+</title>
+
+<abstract>
+  We simulate a supersymmetric matrix model obtained from dimensional reduction
+of 4d SU(N) super Yang-Mills theory. The model is well defined for finite N and
+it is found that the large N limit obtained by keeping g^2 N fixed gives rise
+to well defined operators which represent string amplitudes. The space-time
+structure which arises dynamically from the eigenvalues of the bosonic matrices
+is discussed, as well as the effect of supersymmetry on the dynamical
+properties of the model. Eguchi-Kawai equivalence of this model to ordinary
+gauge theory does hold within a finite range of scale. We report on new
+simulations of the bosonic model for N up to 768 that confirm this property,
+which comes as a surprise since no quenching or twist is introduced.
+</abstract>

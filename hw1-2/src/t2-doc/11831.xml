@@ -1,0 +1,13 @@
+<title>
+Mixed Correlation Functions of the Two-Matrix Model
+</title>
+
+<abstract>
+  We compute the correlation functions mixing the powers of two non-commuting
+random matrices within the same trace. The angular part of the integration was
+partially known in the literature: we pursue the calculation and carry out the
+eigenvalue integration reducing the problem to the construction of the
+associated biorthogonal polynomials. The generating function of these
+correlations becomes then a determinant involving the recursion coefficients of
+the biorthogonal polynomials.
+</abstract>

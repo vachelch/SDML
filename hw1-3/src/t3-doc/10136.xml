@@ -1,0 +1,29 @@
+<date>
+Sat, 6 Sep 1997 01:40:43 -0400
+</date>
+
+<title>
+Calogero-Moser Systems in SU(N) Seiberg-Witten Theory
+</title>
+
+<abstract>
+  The Seiberg-Witten curve and differential for ${\cal N}=2$ supersymmetric
+SU(N) gauge theory, with a massive hypermultiplet in the adjoint representation
+of the gauge group, are analyzed in terms of the elliptic Calogero-Moser
+integrable system. A new parametrization for the Calogero-Moser spectral curves
+is found, which exhibits the classical vacuum expectation values of the scalar
+field of the gauge multiplet. The one-loop perturbative correction to the
+effective prepotential is evaluated explicitly, and found to agree with quantum
+field theory predictions. A renormalization group equation for the variation
+with respect to the coupling is derived for the effective prepotential, and may
+be evaluated in a weak coupling series using residue methods only. This gives a
+simple and efficient algorithm for the instanton corrections to the effective
+prepotential to any order. The 1- and 2- instanton corrections are derived
+explicitly. Finally, it is shown that certain decoupling limits yield ${\cal
+N}=2$ supersymmetric theories for simple gauge groups $SU(N_1)$ with
+hypermultiplets in the fundamental representation, while others yield theories
+for product gauge groups $SU(N_1) \times ...\times SU(N_p)$, with
+hypermultiplets in fundamental and bi-fundamental representations. The spectral
+curves obtained this way for these models agree with the ones proposed by
+Witten using D-branes and M-theory.
+</abstract>

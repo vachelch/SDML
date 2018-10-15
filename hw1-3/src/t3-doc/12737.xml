@@ -1,0 +1,28 @@
+<date>
+Fri, 30 Oct 1998 09:47:29 GMT
+</date>
+
+<title>
+Renorm-group, Causality and Non-power Perturbation Expansion in QFT
+</title>
+
+<abstract>
+  The structure of the QFT expansion is studied in the framework of a new
+"Invariant analytic" version of the perturbative QCD. Here, an invariant
+(running) coupling $a(Q^2/\Lambda^2)=\beta_1\alpha_s(Q^2)/4\pi$ is transformed
+into a "$Q^2$--analytized" invariant coupling $a_{\rm an}(Q^2/\Lambda^2) \equiv
+{\cal A}(x)$ which, by constuction, is free of ghost singularities due to
+incorporating some nonperturbative structures.
+  Meanwhile, the "analytized" perturbation expansion for an observable $F$, in
+contrast with the usual case, may contain specific functions ${\cal A}_n(x)=
+[a^n(x)]_{\rm an}$, the "n-th power of $a(x)$ analytized as a whole", instead
+of $({\cal A}(x))^n$. In other words, the pertubation series for $F(x)$, due to
+analyticity imperative, may change its form turning into an {\it asymptotic
+expansion \`a la Erd\'elyi over a nonpower set} $\{{\cal A}_n(x)\}$.
+  We analyse sets of functions $\{{\cal A}_n(x)\}$ and discuss properties of
+non-power expansion arising with their relations to feeble loop and scheme
+dependence of observables.
+  The issue of ambiguity of the invariant analytization procedure and of
+possible inconsistency of some of its versions with the RG structure is also
+discussed.
+</abstract>

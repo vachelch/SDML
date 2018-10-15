@@ -1,0 +1,16 @@
+<title>
+A note on theta dependence
+</title>
+
+<abstract>
+  The dependence on the topological theta angle term in quantum field theory is
+usually discussed in the context of instanton calculus. There the observables
+are 2 pi periodic, analytic functions of theta. However, in strongly coupled
+theories, the semi-classical instanton approximation can break down due to
+infrared divergences. Instances are indeed known where analyticity in theta can
+be lost, while the 2 pi periodicity is preserved. In this short note we exhibit
+a simple two dimensional example where the 2 pi periodicity is lost. The
+observables remain periodic under the transformation theta -> theta + 2 k pi
+for some k >= 2. We also briefly discuss the case of four dimensional N=2
+supersymmetric gauge theories.
+</abstract>

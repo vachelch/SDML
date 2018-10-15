@@ -1,0 +1,20 @@
+<title>
+Aharonov-Bohm and Coulomb Scattering Near the Forward Direction
+</title>
+
+<abstract>
+  The exact wave functions that describe scattering of a charged particle by a
+confined magnetic field (Aharonov-Bohm effect) and by a Coulomb field are
+analyzed. It is well known that the usual procedure of finding asymptotic forms
+of these functions which admit a separation into a superposition of an incident
+plane wave and a circular or spherical scattered wave is problematic near the
+forward direction. It thus appears to be impossible to express the conservation
+of probability by means of an optical theorem of the usual kind. Both the total
+cross section and the forward scattering amplitude appear to be infinite. To
+address these difficulties we find a new representation for the asymptotic form
+of the Aharonov-Bohm wave function that is valid for all angles. Rather than
+try to define a cross section at forward angles, however, we work instead with
+the probability current and find that it is quite well behaved. The same is
+true for Coulomb scattering. We trace the usual difficulties to a nonuniformity
+of limits.
+</abstract>

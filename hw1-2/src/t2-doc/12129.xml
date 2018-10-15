@@ -1,0 +1,21 @@
+<title>
+The volume element of space-time and scale invariance
+</title>
+
+<abstract>
+  Scale invariance is considered in the context of gravitational theories where
+the action, in the first order formalism, is of the form $S = \int L_{1} \Phi
+d^4x$ + $\int L_{2}\sqrt{-g}d^4x$ where the volume element $\Phi d^4x$ is
+independent of the metric. For global scale invariance, a "dilaton" $\phi$ has
+to be introduced, with non-trivial potentials $V(\phi)$ = $f_{1}e^{\alpha\phi}$
+in $L_1$ and $U(\phi)$ = $f_{2}e^{2\alpha\phi}$ in $L_2$. This leads to
+non-trivial mass generation and a potential for $\phi$ which is interesting for
+inflation. Interpolating models for natural transition from inflation to a
+slowly accelerated universe at late times appear naturally. This is also
+achieved for "Quintessential models", which are scale invariant but formulated
+with the use of volume element $\Phi d^4x$ alone. For closed strings and branes
+(including the supersymmetric cases), the modified measure formulation is
+possible and does not require the introduction of a particular scale (the
+string or brane tension) from the begining but rather these appear as
+integration constants.
+</abstract>

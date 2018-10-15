@@ -1,0 +1,24 @@
+<title>
+Euclidean and Canonical Formulations of Statistical Mechanics in the
+  Presence of Killing Horizons
+</title>
+
+<abstract>
+  The relation between the covariant Euclidean free-energy $F^E$ and the
+canonical statistical-mechanical free energy $F^C$ in the presence of the
+Killing horizons is studied. $F^E$ is determined by the covariant Euclidean
+effective action. The definition of $F^C$ is related to the Hamiltonian which
+is the generator of the evolution along the Killing time. At arbitrary
+temperatures $F^E$ acquires additional ultraviolet divergences because of
+conical singularities. The divergences of $F^C$ are different and occur since
+the density ${dn \over d\omega}$ of the energy levels of the system blows up
+near the horizon in an infrared way. We show that there are regularizations
+that make it possible to remove the infrared cutoff in ${dn \over d\omega}$.
+After that the divergences of $F^C$ become identical to the divergences of
+$F^E$. The latter property turns out to be crucial to reconcile the covariant
+Euclidean and the canonical formulations of the theory. The method we use is
+new and is based on a relation between ${dn \over d\omega}$ and heat kernels on
+hyperbolic-like spaces. Our analysis includes spin 0 and spin 1/2 fields on
+arbitrary backgrounds. For these fields the divergences of ${dn \over
+d\omega}$, $F^C$ and $F^E$ are presented in the most complete form.
+</abstract>

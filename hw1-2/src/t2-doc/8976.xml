@@ -1,0 +1,14 @@
+<title>
+Matrix Representation of Octonions and Generalizations
+</title>
+
+<abstract>
+  We define a special matrix multiplication among a special subset of $2N\x 2N$
+matrices, and study the resulting (non-associative) algebras and their
+subalgebras. We derive the conditions under which these algebras become
+alternative non-associative and when they become associative. In particular,
+these algebras yield special matrix representations of octonions and complex
+numbers; they naturally lead to the Cayley-Dickson doubling process. Our matrix
+representation of octonions also yields elegant insights into Dirac's equation
+for a free particle. A few other results and remarks arise as byproducts.
+</abstract>

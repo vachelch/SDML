@@ -1,0 +1,31 @@
+<date>
+Thu, 25 May 2000 15:16:20 GMT
+</date>
+
+<title>
+Quantum Spin Dynamics (QSD) : VII. Symplectic Structures and Continuum
+  Lattice Formulations of Gauge Field Theories
+</title>
+
+<abstract>
+  Interesting non-linear functions on the phase spaces of classical field
+theories can never be quantized immediately because the basic fields of the
+theory become operator valued distributions. Therefore, one is usually forced
+to find a classical substitute for such a function depending on a regulator
+which is expressed in terms of smeared quantities and which can be quantized in
+a well-defined way. Namely, the smeared functions define a new symplectic
+manifold of their own which is easy to quantize. Finally one must remove the
+regulator and establish that the final operator, if it exists, has the correct
+classical limit.
+  In this paper we investigate these steps for diffeomorphism invariant quantum
+field theories of connections. We introduce a generalized projective family of
+symplectic manifolds, coordinatized by the smeared fields, which is labelled by
+a pair consisting of a graph and another graph dual to it. We show that there
+exists a generalized projective sequence of symplectic manifolds whose limit
+agrees with the symplectic manifold that one started from.
+  This family of symplectic manifolds is easy to quantize and we illustrate the
+programme outlined above by applying it to the Gauss constraint. The framework
+developed here is the classical cornerstone on which the semi-classical
+analysis developed in a new series of papers called ``Gauge Theory Coherent
+States'' is based.
+</abstract>

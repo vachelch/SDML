@@ -1,0 +1,21 @@
+<title>
+Energy Levels of Interacting Fields in a Box
+</title>
+
+<abstract>
+  We study the influence of boundary conditions on energy levels of interacting
+fields in a box and discuss some consequences when we change the size of the
+box. In order to do this we calculate the energy levels of bound states of a
+scalar massive field $\chi$ interacting with another scalar field $\phi$
+through the lagrangian ${\cal L}_{int} = 3/2 g\phi^{2}\chi^{2}$ in an
+one-dimensional box, on which we impose Dirichlet boundary conditions. We have
+found that the gap between the bound states changes with the size of the box in
+a non-trivial way. For the case the masses of the two fields are equal and for
+large box the energy levels of Dashen-Hasslacher-Neveu (DHN model) (Dashen et
+al, 1974) are recovered and we have a kind of boson condensate for the ground
+state. Below to a critical box size $L\sim 2.93 2\sqrt{2}/M$ the ground state
+level splits, which we interpret as particle-antiparticle production under
+small perturbations of box size. Below another critical sizes $(L\sim 6/10
+2\sqrt{2}/M)$ and $(L\sim 1.71 2\sqrt{2}/M)$ of the box, the ground state and
+first excited state merge in the continuum part of the spectrum.
+</abstract>

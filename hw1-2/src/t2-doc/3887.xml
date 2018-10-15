@@ -1,0 +1,19 @@
+<title>
+Operator realization of the SU(2) WZNW model
+</title>
+
+<abstract>
+  Decoupling the chiral dynamics in the canonical approach to the WZNW model
+requires an extended phase space that includes left and right monodromy
+variables. Earlier work on the subject, which traced back the quantum qroup
+symmetry of the model to the Lie-Poisson symmetry of the chiral symplectic
+form, left some open questions: - How to reconcile the monodromy invariance of
+the local 2D group valued field (i.e., equality of the left and right
+monodromies) with the fact that the latter obey different exchange relations? -
+What is the status of the quantum group symmetry in the 2D theory in which the
+chiral fields commute? - Is there a consistent operator formalism in the chiral
+and in the extended 2D theory in the continuum limit? We propose a constructive
+affirmative answer to these questions for G=SU(2) by presenting the chiral
+quantum fields as sums of chiral vertex operators and q-Bose creation and
+annihilation operators.
+</abstract>

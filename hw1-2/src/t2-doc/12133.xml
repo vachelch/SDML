@@ -1,0 +1,15 @@
+<title>
+Quantum Mechanics of Charged Black Holes
+</title>
+
+<abstract>
+  We quantize the spherically symmetric sector of generic charged black holes.
+Thermal properties are encorporated by imposing periodicity in Euclidean time,
+with period equal to the inverse Hawking temperature of the black hole. This
+leads to an exact quantization of the area (A) and charge (Q) operators. For
+the Reissner-Nordstr\"om black hole, $A=4\pi G \hbar (2n+p+1)$ and $Q=me$, for
+integers $n,p,m$. Consistency requires the fine structure constant to be
+quantized: $e^2/\hbar=p/m^2$. Remarkably, vacuum fluctuations exclude extremal
+black holes from the spectrum, while near extremal black holes are highly
+quantum objects. We also prove that horizon area is an adiabatic invariant.
+</abstract>

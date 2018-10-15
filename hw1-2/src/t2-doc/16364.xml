@@ -1,0 +1,17 @@
+<title>
+Integral representation for the eigenfunctions of quantum periodic Toda
+  chain
+</title>
+
+<abstract>
+  Integral representation for the eigenfunctions of quantum periodic Toda chain
+is constructed for N-particle case. The multiple integral is calculated using
+the Cauchy residue formula. This gives the representation which reproduces the
+particular results obtained by Gutzwiller for N=2,3 and 4-particle chain. Our
+method to solve the problem combines the ideas of Gutzwiller and R-matrix
+approach of Sklyanin with the classical results in the theory of the Whittaker
+functions. In particular, we calculate Sklyanin's invariant scalar product from
+the Plancherel formula for the Whittaker functions derived by
+Semenov-Tian-Shansky thus obtaining the natural interpretation of the Sklyanin
+measure in terms of the Harish-Chandra function.
+</abstract>

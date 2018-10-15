@@ -1,0 +1,14 @@
+<title>
+Plugging the Gauge Fixing into the Lagrangian
+</title>
+
+<abstract>
+  A complete analysis of the consequences of introducing a set of holonomic
+gauge fixing constraints (to fix the dynamics) into a singular Lagrangian is
+performed. It is shown in general that the dynamical system originated from the
+reduced Lagrangian erases all the information regarding the first class
+constraints of the original theory, but retains its second class. It is proved
+that even though the reduced Lagrangian can be singular, it never possesses any
+gauge freedom. As an application, the example of $n \cdot A = 0$ gauges in
+electromagnetism is treated in full detail.
+</abstract>

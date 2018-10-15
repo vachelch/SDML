@@ -1,0 +1,20 @@
+<date>
+Thu, 31 Jul 1997 14:14:35 -0400
+</date>
+
+<title>
+Lattice Tests of Supersymmetric Yang-Mills Theory?
+</title>
+
+<abstract>
+  Supersymmetric Yang Mills theory is directly accessible to lattice
+simulations using current methodology, and can provide a non-trivial check of
+recent exact results in SQCD. In order to tune the lattice simulation to the
+supersymmetric point it is neccessary to understand the behavior of the theory
+with a small supersymmetry breaking gaugino mass. We introduce a soft breaking
+gaugino mass in a controlled fashion using a spurion analysis. We compute the
+gluino condensate, vacuum energy and bound-state masses as a function of the
+gaugino mass, providing more readily accessible predictions which still test
+the supersymmetric results. Finally we discuss diagnostics for obtaining the
+bare lattice parameters that correspond to the supersymmetric continuum limit.
+</abstract>

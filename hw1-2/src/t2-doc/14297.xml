@@ -1,0 +1,29 @@
+<title>
+Zero-Mode Problem on the Light Front
+</title>
+
+<abstract>
+  A series of lectures are given to discuss the zero-mode problem on the
+light-front (LF) quantization with special emphasis on the peculiar realization
+of the trivial vacuum, the spontaneous symmetry breaking (SSB) and the Lorentz
+invariance. We discuss Discrete Light-Cone Quantization (DLCQ) which was first
+introduced by Maskawa and Yamawaki (MY). Following MY, we present canonical
+formalism of DLCQ and the zero-mode constraint through which the zero mode can
+actually be solved away in terms of other modes,thus establishing the trivial
+vacuum. Due to this trivial vacuum, existence of the massless Nambu-Goldstone
+(NG) boson coupled to the current is guaranteed by the non-conserved charge
+such that Q |0> = 0 and dot{Q} ne 0. The SSB (NG phase) in DLCQ can be realized
+on the trivial vacuum only when an explicit symmetry-breaking mass of the NG
+boson m_{pi} is introduced so that the NG-boson zero mode integrated over the
+LF exhibits singular behavior sim 1/m_{pi}^2 in such a way that dot{Q} ne 0 in
+the symmetric limit m_{pi} -> 0. We also demonstrate this realization more
+explicitly in the linear sigma model where the role of zero-mode constraint is
+clarified. We fur ther point out, in disagreement with Wilson et al., that for
+SSB in the continuum LF theory, the trivial vacuum collapses due to the special
+nature of the zero mode as the accumulating point P^+ -> 0, in sharp contrast
+to DLCQ. Finally, we discuss the no-go theorem of Nakanishi and Yamawaki, which
+forbids exact LF r estriction of the field theory. Thus DLCQ as well as any
+other regularization on the exact LF has no Lorentz-invariant limit as the
+theory itself, although the Lorentz-invariant limit can be realized on the
+c-number quantity like S matrix which has no reference to the fixed LF.
+</abstract>

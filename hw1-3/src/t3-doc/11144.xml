@@ -1,0 +1,21 @@
+<date>
+Thu, 18 Aug 94 17:24:02 +0100
+</date>
+
+<title>
+The Exponential Map for the Conformal Group 0(2,4)
+</title>
+
+<abstract>
+  We present a general method to obtain a closed, finite formula for the
+exponential map from the Lie algebra to the Lie group, for the defining
+representation of the orthogonal groups. Our method is based on the
+Hamilton-Cayley theorem and some special properties of the generators of the
+orthogonal group, and is also independent of the metric. We present an explicit
+formula for the exponential of generators of the $SO_+(p,q)$ groups, with $p+q
+= 6$, in particular we are dealing with the conformal group $SO_+(2,4)$, which
+is homomorphic to the $SU(2,2)$ group. This result is needed in the
+generalization of U(1) gauge transformations to spin gauge transformations,
+where the exponential plays an essential role. We also present some new
+expressions for the coefficients of the secular equation of a matrix.
+</abstract>

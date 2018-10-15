@@ -1,0 +1,12 @@
+<title>
+Perturbative Renormalization in Quantum Mechanics
+</title>
+
+<abstract>
+  Some quantum mechanical potentials, singular at short distances, lead to
+ultraviolet divergences when used in perturbation theory. Exactly as in quantum
+field theories, but much simpler, regularization and renormalization lead to
+finite physical results, which compare correctly to the exact ones. The Dirac
+delta potential, because of its relevance to triviality, and the Aharonov-Bohm
+potential, because ot its relevance to anyons, are used as examples here.
+</abstract>

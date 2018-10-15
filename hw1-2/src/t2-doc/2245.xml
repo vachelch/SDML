@@ -1,0 +1,26 @@
+<title>
+Out of Equilibrium Relativistic Quantum Field Theory --- Perturbation
+  Theory and Progress of Phase Transition
+</title>
+
+<abstract>
+  This paper describes perturbative framework, on the basis of closed-time-path
+formalism, for studying quasiuniform relativistic quantum field systems near
+equilibrium and nonequilibrium quasistationary systems. At the first part,
+starting from first principles, we construct perturbative schemes for
+relativistic complex-scalar-field theory. We clarify what assumption is
+involved in arriving at a standard perturbative framework and to what extent
+the $n (\geq 4)$-point initial correlation functions that are usually discarded
+in the standard framework can in fact be discarded. Two calculational schemes
+are introduced, the one is formulated on the basis of the initial particle
+distribution function and the one is formulated on the basis of the ``
+physical'' particle distribution function. Both schemes are equivalent and lead
+to a generalized relativistic kinetic or Boltzmann equation. At the second
+part, using the perturbative loop-expansion scheme for an $O (N)$ linear
+$\sigma$ model, we analyze how the chiral phase transition proceeds through
+disoriented chiral condensates. The system of coupled equations that governs
+the spacetime evolution of the condensate or order-parameter fields is derived.
+The region where the curvature of the ``potential'' is negative is dealt with
+by introducing the random-force fields. Application to simple situations is
+made.
+</abstract>

@@ -1,0 +1,20 @@
+<title>
+On the Computation of Mass Spectra and Structure Functions in a
+  Relativistic Hamiltonian Formalism: A Lattice Point of View
+</title>
+
+<abstract>
+  Herein we propose a new numerical technique for solving field theories: the
+large momentum frame (LMF). This technique combines several advantages of
+lattice gauge theory with the simplicity of front form quantisation. We apply
+the LMF on QED(1+1) and on the $\phi^4(3+1)$ theory. We demonstrate both
+analytically and in practical examples (1) that the LMF does neither correspond
+to the infinite momentum frame (IMF) nor to the front-form (FF) (2) that the
+LMF is not equivalent to the IMF (3) that the IMF is unphysical since it
+violates the lattice scaling window and (4) that the FF is even more unphysical
+because FF propagators violate micro-causality, causality and the finiteness of
+the speed of light. We argue that distribution functions measured in deep
+inelastic scattering should be interpreted in the LMF (preferably in the Breit
+frame) rather than in the FF formalism. In particular, we argue that deep
+inelastic scattering probes space-like distribution functions.
+</abstract>

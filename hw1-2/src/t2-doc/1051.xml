@@ -1,0 +1,24 @@
+<title>
+General Two-Dimensional Supergravity from Poisson Superalgebras
+</title>
+
+<abstract>
+  We provide the geometric actions for most general N=1 supergravity in two
+spacetime dimensions. Our construction implies an extension to arbitrary N.
+This provides a supersymmetrization of any generalized dilaton gravity theory
+or of any theory with an action being an (essentially) arbitrary function of
+curvature and torsion.
+  Technically we proceed as follows: The bosonic part of any of these theories
+may be characterized by a generically nonlinear Poisson bracket on a
+three-dimensional target space. In analogy to a given ordinary Lie algebra, we
+derive all possible N=1 extensions of any of the given Poisson (or W-)
+algebras. Using the concept of graded Poisson Sigma Models, any extension of
+the algebra yields a possible supergravity extension of the original theory,
+local Lorentz and super-diffeomorphism invariance follow by construction. Our
+procedure automatically restricts the fermionic extension to the minimal one;
+thus local supersymmetry is realized on-shell. By avoiding a superfield
+approach we are also able to circumvent in this way the introduction of
+constraints and their solution. For many well-known dilaton theories different
+supergravity extensions are derived. In generic cases their field equations are
+solved explicitly.
+</abstract>

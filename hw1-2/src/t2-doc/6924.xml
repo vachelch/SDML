@@ -1,0 +1,16 @@
+<title>
+Degenerate Dynamical Systems
+</title>
+
+<abstract>
+  Dynamical systems whose symplectic structure degenerates, becoming
+noninvertible at some points along the orbits are analyzed. It is shown that
+for systems with a finite number of degrees of freedom, like in classical
+mechanics, the degeneracy occurs on domain walls that divide phase space into
+nonoverlapping regions each one describing a nondegenerate system, causally
+disconnected from each other. These surfaces are characterized by the sign of
+the Liouville's flux density on them, behaving as sources or sinks of orbits.
+In this latter case, once the system reaches the domain wall, it acquires a new
+gauge invariance and one degree of freedom is dynamically frozen, while the
+remaining degrees of freedom evolve regularly thereafter.
+</abstract>

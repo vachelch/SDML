@@ -1,0 +1,18 @@
+<title>
+Field theory models for tachyon and gauge field string dynamics
+</title>
+
+<abstract>
+  In hep-th/0008227, the unstable lump solution of \phi^3 theory was shown to
+have a spectrum governed by the solvable Schroedinger equation with the \ell=3
+reflectionless potential and was used as a model for tachyon condensation in
+string theory. In this paper we study in detail an \ell\to \infty scalar field
+theory model whose lump solution mimics remarkably the string theory setup: the
+original field theory tachyon and the lump tachyon have the same mass, the
+spectrum of the lump consists of equally spaced infinite levels, there is no
+continuous spectrum, and nothing survives after tachyon condensation. We also
+find exact solutions for lumps with codimension \ge 2, and show that that their
+tensions satisfy (1/(2\pi)) (T_p/ T_{p+1})=e/(\sqrt{2\pi}) \approx 1.08. We
+incorporate gauge fixed couplings to a U(1) gauge field which preserve
+solvability and result in massless gauge fields on the lump.
+</abstract>

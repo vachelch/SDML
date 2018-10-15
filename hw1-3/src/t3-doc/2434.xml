@@ -1,0 +1,17 @@
+<date>
+Thu, 3 Oct 1996 21:07:16 +0900
+</date>
+
+<title>
+Perturbative Tamm-Dancoff Renormalization
+</title>
+
+<abstract>
+  A new two-step renormalization procedure is proposed. In the first step, the
+effects of high-energy states are considered in the conventional (Feynman)
+perturbation theory. In the second step, the coupling to many-body states is
+eliminated by a similarity transformation. The resultant effective Hamiltonian
+contains only interactions which do not change particle number. It is subject
+to numerical diagonalization. We apply the general procedure to a simple
+example for the purpose of illustration.
+</abstract>

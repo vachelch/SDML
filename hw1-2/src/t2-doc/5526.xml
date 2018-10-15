@@ -1,0 +1,18 @@
+<title>
+Boundary scattering in the SU(N) principal chiral model on the half-line
+  with conjugating boundary conditions
+</title>
+
+<abstract>
+  We investigate the SU(N) Principal Chiral Model on a half-line with a
+particular set of boundary conditions (BCs). In previous work these BCs have
+been shown to correspond to boundary scattering matrices (K-matrices) which are
+representation conjugating and whose matrix structure corresponds to one of the
+symmetric spaces SU(N)/SO(N) or SU(N)/Sp(N). Starting from the bulk particle
+spectrum and the K-matrix for a particle in the vector representation we
+construct K-matrices for particles in higher rank representations scattering
+off the boundary. We then perform an analysis of the physical strip pole
+structure and provide a complete set of boundary Coleman-Thun mechanisms for
+those poles which do not correspond to particles coupling to the boundary. We
+find that the model has no non-trivial boundary states.
+</abstract>

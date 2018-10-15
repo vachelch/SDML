@@ -1,0 +1,23 @@
+<date>
+Fri, 10 May 1996 11:04:24 +0300 (EET DST)
+</date>
+
+<title>
+Systematic $1/N$ corrections for bosonic and fermionic vector models
+  without auxiliary fields
+</title>
+
+<abstract>
+  In this paper, colorless bilocal fields are employed to study the large $N$
+limit of both fermionic and bosonic vector models. The Jacobian associated with
+the change of variables from the original fields to the bilocals is computed
+exactly, thereby providing an exact effective action. This effective action is
+shown to reproduce the familiar perturbative expansion for the two and four
+point functions. In particular, in the case of fermionic vector models, the
+effective action correctly accounts for the Fermi statistics. The theory is
+also studied non-perturbatively. The stationary points of the effective action
+are shown to provide the usual large $N$ gap equations. The homogeneous
+equation associated with the quadratic (in the bilocals) action is simply the
+two particle Bethe Salpeter equation. Finally, the leading correction in
+$1\over N$ is shown to be in agreement with the exact $S$ matrix of the model.
+</abstract>

@@ -1,0 +1,28 @@
+<date>
+Fri, 29 Nov 2002 17:35:06 GMT
+</date>
+
+<title>
+Solvable model of strings in a time-dependent plane-wave background
+</title>
+
+<abstract>
+  We investigate a string model defined by a special plane-wave metric ds^2 =
+2dudv - l(u) x^2 du^2 + dx^2 with l(u) = k/u^2 and k=const > 0. This metric is
+a Penrose limit of some cosmological, Dp-brane and fundamental string
+backgrounds. Remarkably, in Rosen coordinates the metric has a ``null
+cosmology'' interpretation with flat spatial sections and scale factor which is
+a power of the light-cone time u. We show that: (i) This spacetime is a
+Lorentzian homogeneous space. In particular, like Minkowski space, it admits a
+boost isometry in u,v. (ii) It is an exact solution of string theory when
+supplemented by a u-dependent dilaton such that its exponent (i.e. effective
+string coupling) goes to zero at u=infinity and at the singularity u=0,
+reducing back-reaction effects. (iii) The classical string equations in this
+background become linear in the light-cone gauge and can be solved explicitly
+in terms of Bessel's functions; thus the string model can be directly
+quantized. This allows one to address the issue of singularity at the
+string-theory level. We examine the propagation of first-quantized
+point-particle and string modes in this time-dependent background. Using
+certain analytic continuation prescription we argue that string propagation
+through the singularity can be smooth.
+</abstract>

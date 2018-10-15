@@ -1,0 +1,27 @@
+<date>
+Thu, 16 Apr 1998 16:33:20 GMT
+</date>
+
+<title>
+The Three-point Function in Split Dimensional Regularization in the
+  Coulomb Gauge
+</title>
+
+<abstract>
+  We use a gauge-invariant regularization procedure, called ``split dimensional
+regularization'', to evaluate the quark self-energy $\Sigma (p)$ and
+quark-quark-gluon vertex function $\Lambda_\mu (p^\prime,p)$ in the Coulomb
+gauge, $\vec{\bigtriangledown}\cdot\vec{A}^a = 0$. The technique of split
+dimensional regularization was designed to regulate Coulomb-gauge Feynman
+integrals in non-Abelian theories. The technique which is based on two complex
+regulating parameters, $\omega$ and $\sigma$, is shown to generate a
+well-defined set of Coulomb-gauge integrals. A major component of this project
+deals with the evaluation of four-propagator and five-propagator Coulomb
+integrals, some of which are nonlocal. It is further argued that the standard
+one-loop BRST identity relating $\Sigma$ and $\Lambda_\mu$, should by rights be
+replaced by a more general BRST identity which contains two additional
+contributions from ghost vertex diagrams. Despite the appearance of nonlocal
+Coulomb integrals, both $\Sigma$ and $\Lambda_\mu$ are local functions which
+satisfy the appropriate BRST identity. Application of split dimensional
+regularization to two-loop energy integrals is briefly discussed.
+</abstract>

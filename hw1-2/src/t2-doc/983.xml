@@ -1,0 +1,21 @@
+<title>
+Correlation Functions in the Multiple Ising Model Coupled to Gravity
+</title>
+
+<abstract>
+  The model of p Ising spins coupled to 2d gravity, in the form of a sum over
+planar phi-cubed graphs, is studied and in particular the two-point and
+spin-spin correlation functions are considered. We first solve a toy model in
+which only a partial summation over spin configurations is performed and, using
+a modified geodesic distance, various correlation functions are determined. The
+two-point function has a diverging length scale associated with it. The
+critical exponents are calculated and it is shown that all the standard scaling
+relations apply. Next the full model is studied, in which all spin
+configurations are included. Many of the considerations for the toy model apply
+for the full model, which also has a diverging geometric correlation length
+associated with the transition to a branched polymer phase. Using a transfer
+function we show that the two-point and spin-spin correlation functions decay
+exponentially with distance. Finally, by assuming various scaling relations, we
+make a prediction for the critical exponents at the transition between the
+magnetized and branched polymer phases in the full model.
+</abstract>

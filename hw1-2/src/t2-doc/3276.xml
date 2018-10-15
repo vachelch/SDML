@@ -1,0 +1,20 @@
+<title>
+Unification of the General Non-Linear Sigma Model and the Virasoro
+  Master Equation
+</title>
+
+<abstract>
+  The Virasoro master equation describes a large set of conformal field
+theories known as the affine-Virasoro constructions, in the operator algebra
+(affine Lie algebra) of the WZW model, while the Einstein equations of the
+general non-linear sigma model describe another large set of conformal field
+theories. This talk summarizes recent work which unifies these two sets of
+conformal field theories, together with a presumable large class of new
+conformal field theories. The basic idea is to consider spin-two operators of
+the form $L_{ij} \partial x^i \partial x^j$ in the background of a general
+sigma model. The requirement that these operators satisfy the Virasoro algebra
+leads to a set of equations called the unified Einstein-Virasoro master
+equation, in which the spin-two spacetime field $L_{ij}$ couples to the usual
+spacetime fields of the sigma model. The one-loop form of this unified system
+is presented, and some of its algebraic and geometric properties are discussed.
+</abstract>

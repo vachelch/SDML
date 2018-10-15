@@ -1,0 +1,17 @@
+<title>
+Canonical Gauges in the Path Integral for Parametrized Systems
+</title>
+
+<abstract>
+  It is well known that --differing from ordinary gauge systems-- canonical
+gauges are not admissible in the path integral for parametrized systems. This
+is the case for the relativistic particle and gravitation. However, a time
+dependent canonical transformation can turn a parametrized system into an
+ordinary gauge system. It is shown how to build a canonical transformation such
+that the fixation of the new coordinates is equivalent to the fixation of the
+original ones; this aim can be achieved only if the Hamiltonian constraint
+allows for an intrinsic global time. Thus the resulting action, describing an
+ordinary gauge system and allowing for canonical gauges, can be used in the
+path integral for the quantum propagator associated with the original
+variables.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Fri, 17 Sep 1993 13:24:18 -0400 (EDT)
+</date>
+
+<title>
+Quantum Riemann surfaces, 2D gravity and the geometrical origin of
+  minimal models
+</title>
+
+<abstract>
+  Based on a recent paper by Takhtajan, we propose a formulation of 2D quantum
+gravity whose basic object is the Liouville action on the Riemann sphere
+$\Sigma_{0,m+n}$ with both parabolic and elliptic points. The identification of
+the classical limit of the conformal Ward identity with the Fuchsian projective
+connection on $\Sigma_{0,m+n}$ implies a relation between conformal weights and
+ramification indices. This formulation works for arbitrary $d$ and admits a
+standard representation only for $d\le 1$. Furthermore, it turns out that the
+integerness of the ramification number constrains $d=1-24/(n^2-1)$ that for
+$n=2m+1$ coincides with the unitary minimal series of CFT.
+</abstract>

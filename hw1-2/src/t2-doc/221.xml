@@ -1,0 +1,13 @@
+<title>
+Lattice Simulations of the Quantum Microcanonical Ensemble
+</title>
+
+<abstract>
+  We propose a method for the numerical computation of microcanonical
+expectation values--i.e. averages over energy eigenstates with the same
+eigenvalue-without any prior knowledge about the spectrum of the Hamiltonian.
+This is accomplished by first defining a new Gaussian ensemble to approximate
+the microcanonical one. We then develop a ``lattice theory'' for this Gaussian
+ensemble and propose a Monte Carlo integration of the expectation values of the
+lattice theory.
+</abstract>

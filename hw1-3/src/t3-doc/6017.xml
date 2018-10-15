@@ -1,0 +1,24 @@
+<date>
+Thu, 23 Mar 2000 17:20:32 GMT
+</date>
+
+<title>
+Let's Baxterise
+</title>
+
+<abstract>
+  We recall the concept of Baxterisation of an R-matrix, or of a monodromy
+matrix, which corresponds to build, from one point in the $ R$-matrix parameter
+space, the algebraic variety where the spectral parameter(s) live. We show that
+the Baxterisation, which amounts to studying the iteration of a birational
+transformation, is a ``win-win'' strategy: it enables to discard efficiently
+the non-integrable situations, focusing directly on the two interesting cases
+where the algebraic varieties are of the so-called ``general type'' (finite
+order iteration) or are Abelian varieties (infinite order iteration). We
+emphasize the heuristic example of the sixteen vertex model and provide a
+complete description of the finite order iterations situations for the Baxter
+model. We show that the Baxterisation procedure can be introduced in much
+larger frameworks where the existence of some underlying Yang-Baxter structure
+is not used: we Baxterise L-operators, local quantum Lax matrices, and quantum
+Hamiltonians.
+</abstract>

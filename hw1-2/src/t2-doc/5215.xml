@@ -1,0 +1,21 @@
+<title>
+Algebraic Geometry in Discrete Quantum Integrable Model and Baxter's T-Q
+  Relation
+</title>
+
+<abstract>
+  We study the diagonalization problem of certain discrete quantum integrable
+models by the method of Baxter's T-Q relation from the algebraic geometry
+aspect. Among those the Hofstadter type model (with the rational magnetic
+flux), discrete quantum pendulum and discrete sine-Gordon model are our main
+concern in this report. By the quantum inverse scattering method, the Baxter's
+T-Q relation is formulated on the associated spectral curve, a high genus
+Riemann surface in general, arisen from the study of the spectrum problem of
+the system. In the case of degenerated spectral curve where the spectral
+variables lie on rational curves, we obtain the complete and explicit solution
+of the T-Q polynomial equation associated to the model, and the intimate
+relation between the Baxter's T-Q relation and algebraic Bethe Ansatz is
+clearly revealed. The algebraic geometry of a general spectral curve attached
+to the model and certain qualitative properties of solutions of the Baxter's
+T-Q relation are discussed incorporating the physical consideration.
+</abstract>

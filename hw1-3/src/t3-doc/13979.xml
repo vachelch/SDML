@@ -1,0 +1,26 @@
+<date>
+Thu, 11 May 2000 18:50:34 GMT
+</date>
+
+<title>
+Holography and Riemann Surfaces
+</title>
+
+<abstract>
+  We study holography for asymptotically AdS spaces with an arbitrary genus
+compact Riemann surface as the conformal boundary. Such spaces can be
+constructed from the Euclidean AdS_3 by discrete identifications; the discrete
+groups one uses are the so-called classical Schottky groups. As we show, the
+spaces so constructed have an appealing interpretation of ``analytic
+continuations'' of the known Lorentzian signature black hole solutions; it is
+one of the motivations for our generalization of the holography to this case.
+We use the semi-classical approximation to the gravity path integral, and
+calculate the gravitational action for each space, which is given by the
+(appropriately regularized) volume of the space. As we show, the regularized
+volume reproduces exactly the action of Liouville theory, as defined on
+arbitrary Riemann surfaces by Takhtajan and Zograf. Using the results as to the
+properties of this action, we discuss thermodynamics of the spaces and analyze
+the boundary CFT partition function. Some aspects of our construction, such as
+the thermodynamical interpretation of the Teichmuller (Schottky) spaces, may be
+of interest for mathematicians working on Teichmuller theory.
+</abstract>

@@ -1,0 +1,30 @@
+<date>
+Sat, 16 Dec 2000 01:06:19 GMT
+</date>
+
+<title>
+Introduction to M(atrix) theory and noncommutative geometry
+</title>
+
+<abstract>
+  Noncommutative geometry is based on an idea that an associative algebra can
+be regarded as "an algebra of functions on a noncommutative space". The major
+contribution to noncommutative geometry was made by A. Connes, who, in
+particular, analyzed Yang-Mills theories on noncommutative spaces, using
+important notions that were introduced in his papers (connection, Chern
+character, etc). It was found recently that Yang-Mills theories on
+noncommutative spaces appear naturally in string/M-theory; the notions and
+results of noncommutative geometry were applied very successfully to the
+problems of physics.
+  In this paper we give a mostly self-contained review of some aspects of
+M(atrix) theory, of Connes' noncommutative geometry and of applications of
+noncommutative geometry to M(atrix) theory. The topics include introduction to
+BFSS and IKKT matrix models, compactifications on noncommutative tori, a review
+of basic notions of noncommutative geometry with a detailed discussion of
+noncommutative tori, Morita equivalence and $SO(d,d|{\mathbb Z})$-duality, an
+elementary discussion of instantons and noncommutative orbifolds. The review is
+primarily intended for physicists who would like to learn some basic techniques
+of noncommutative geometry and how they can be applied in string theory and to
+mathematicians who would like to learn about some new problems arising in
+theoretical physics.
+</abstract>

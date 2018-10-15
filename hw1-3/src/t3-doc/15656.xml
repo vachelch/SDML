@@ -1,0 +1,30 @@
+<date>
+Tue, 8 Dec 1998 10:59:18 GMT
+</date>
+
+<title>
+Topological discrete kinks
+</title>
+
+<abstract>
+  A spatially discrete version of the general kink-bearing nonlinear
+Klein-Gordon model in (1+1) dimensions is constructed which preserves the
+topological lower bound on kink energy. It is proved that, provided the lattice
+spacing h is sufficiently small, there exist static kink solutions attaining
+this lower bound centred anywhere relative to the spatial lattice. Hence there
+is no Peierls-Nabarro barrier impeding the propagation of kinks in this
+discrete system. An upper bound on h is derived and given a physical
+interpretation in terms of the radiation of the system. The construction, which
+works most naturally when the nonlinear Klein-Gordon model has a squared
+polynomial interaction potential, is applied to a recently proposed continuum
+model of polymer twistons. Numerical simulations are presented which
+demonstrate that kink pinning is eliminated, and radiative kink deceleration
+greatly reduced in comparison with the conventional discrete system. So even on
+a very coarse lattice, kinks behave much as they do in the continuum. It is
+argued, therefore, that the construction provides a natural means of
+numerically simulating kink dynamics in nonlinear Klein-Gordon models of this
+type. The construction is compared with the inverse method of Flach, Zolotaryuk
+and Kladko. Using the latter method, alternative spatial discretizations of the
+twiston and sine-Gordon models are obtained which are also free of the
+Peierls-Nabarro barrier.
+</abstract>

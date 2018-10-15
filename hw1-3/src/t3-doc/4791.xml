@@ -1,0 +1,34 @@
+<date>
+Fri, 11 Aug 2000 14:52:56 GMT
+</date>
+
+<title>
+Light-Cone Quantization: Foundations and Applications
+</title>
+
+<abstract>
+  These lecture notes review the foundations and some applications of
+light-cone quantization. First I explain how to choose a time in special
+relativity. Inclusion of Poincare invariance naturally leads to Dirac's forms
+of relativistic dynamics. Among these, the front form, being the basis for
+light-cone quantization, is my main focus. I explain a few of its peculiar
+features such as boost and Galilei invariance or separation of relative and
+center-of-mass motion. Combining light-cone dynamics and field quantization
+results in light-cone quantum field theory. As the latter represents a
+first-order system, quantization is somewhat nonstandard. I address this issue
+using Schwinger's quantum action principle, the method of Faddeev and Jackiw,
+and the functional Schroedinger picture. A finite-volume formulation,
+discretized light-cone quantization, is analysed in detail. I point out some
+problems with causality, which are absent in infinite volume. Finally, the
+triviality of the light-cone vacuum is established. Coming to applications, I
+introduce the notion of light-cone wave functions as the solutions of the
+light-cone Schroedinger equation. I discuss some examples, among them
+nonrelativistic Coulomb systems and model field theories in two dimensions.
+Vacuum properties (like chiral condensates) are reconstructed from the particle
+spectrum obtained by solving the light-cone Schroedinger equation. In a last
+application, I make contact with phenomenology by calculating the pion wave
+function within the Nambu and Jona-Lasinio model. I am thus able to predict a
+number of observables like the pion charge and core radius, the r.m.s.
+transverse momentum, the pion structure function and the pion distribution
+amplitude. The latter turns out to be the asymptotic one.
+</abstract>

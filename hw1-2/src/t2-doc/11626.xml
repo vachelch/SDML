@@ -1,0 +1,19 @@
+<title>
+Fuzzy Nambu-Goldstone Physics
+</title>
+
+<abstract>
+  In spacetime dimensions larger than 2, whenever a global symmetry G is
+spontaneously broken to a subgroup H, and G and H are Lie groups, there are
+Nambu-Goldstone modes described by fields with values in G/H. In
+two-dimensional spacetimes as well, models where fields take values in G/H are
+of considerable interest even though in that case there is no spontaneous
+breaking of continuous symmetries. We consider such models when the world sheet
+is a two-sphere and describe their fuzzy analogues for G=SU(N+1),
+H=S(U(N-1)xU(1)) ~ U(N) and G/H=CP^N. More generally our methods give fuzzy
+versions of continuum models on S^2 when the target spaces are Grassmannians
+and flag manifolds described by (N+1)x(N+1) projectors of rank =< (N+1)/2.
+These fuzzy models are finite-dimensional matrix models which nevertheless
+retain all the essential continuum topological features like solitonic sectors.
+They seem well-suited for numerical work.
+</abstract>

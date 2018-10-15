@@ -1,0 +1,16 @@
+<title>
+Nonabelian Topological Mass Generation in 4 Dimensions
+</title>
+
+<abstract>
+  We study the topological mass generation in the 4 dimensional nonabelian
+gauge theory, which is the extension of the Allen $et$ $al.$'s work in the
+abelian theory. It is crucial to introduce a one form auxiliary field in
+constructing the gauge invariant nonabelian action which contains both the one
+form vector gauge field $A$ and the two form antisymmetric tensor field $B$. As
+in the abelian case, the topological coupling $m B\wedge F$, where $F$ is the
+field strength of $A$, makes the transmutation among $A$ and $B$ possible, and
+consequently we see that the gauge field becomes massive. We find the
+BRST/anti-BRST transformation rule using the horizontality condition, and
+construct a BRST/anti-BRST invariant quantum action.
+</abstract>

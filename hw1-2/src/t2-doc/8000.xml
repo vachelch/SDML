@@ -1,0 +1,31 @@
+<title>
+A Hamiltonian Light-Front Approach to the Calculation of the Physical
+  Spectrum in Quantum Field Theory
+</title>
+
+<abstract>
+  We develop a new systematic approach to quantum field theory that is designed
+to lead to physical states that rapidly converge in an expansion in
+free-particle Fock-space sectors. To make this possible, we use light-front
+field theory to isolate vacuum effects, and we place a smooth cutoff on the
+Hamiltonian to force its free-state matrix elements to quickly decrease as the
+difference of the free masses of the states increases. The cutoff violates a
+number of physical principles of light-front field theory, including Lorentz
+covariance and gauge covariance. This means that the operators in the
+Hamiltonian are not required to respect these physical principles. However, by
+requiring the Hamiltonian to produce cutoff-independent physical quantities and
+by requiring it to respect the unviolated physical principles of the theory, we
+are able to derive recursion relations that define the Hamiltonian to all
+orders in perturbation theory in terms of the fundamental parameters of the
+field theory. We present two applications of this method. First we work in
+massless phi-cubed theory in six dimensions. We derive the recursion relations
+that determine the Hamiltonian and demonstrate how they are used by computing
+and analyzing some of its second- and third-order matrix elements. Then we
+apply our method to pure-glue quantum chromodynamics. After deriving the
+recursion relations for this theory, we use them to calculate to second order
+the part of the Hamiltonian that is required to compute the spectrum. We
+diagonalize the Hamiltonian using basis-function expansions for the gluons'
+color, spin, and momentum degrees of freedom. We analyze our results for the
+spectrum, compare them to recent lattice results, and discuss the various
+sources of error in our calculation.
+</abstract>

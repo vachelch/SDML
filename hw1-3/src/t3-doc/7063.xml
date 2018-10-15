@@ -1,0 +1,19 @@
+<date>
+Tue, 2 Sep 1997 14:04:05 +0200
+</date>
+
+<title>
+Multiloop $\Phi^3$ Amplitudes from Bosonic String Theory
+</title>
+
+<abstract>
+  We show how the multiloop amplitudes of $\Phi^3$ theory (in the worldline
+formulation of Schmidt and Schubert) are recovered from the N-tachyon
+$(h+1)$-loop amplitude in bosonic string theory in the $\alpha' \to 0$ limit,
+if one keeps the tachyon coupling constant fixed. In this limit the integral
+over string moduli space receives contributions only from those corners where
+the world-sheet resembles a $\Phi^3$ particle diagram. Technical issues
+involved are a proper choice of local world-sheet coordinates, needed to take
+the string amplitudes off-shell, and a formal procedure for introducing a free
+mass parameter $M^2$ instead of the tachyonic value $-4/\alpha'$.
+</abstract>

@@ -1,0 +1,22 @@
+<title>
+Transverse Lattice Approach to Light-Front Hamiltonian QCD
+</title>
+
+<abstract>
+  We describe a non-perturbative procedure for solving from first principles
+the light-front Hamiltonian problem of SU(N) pure gauge theory in D spacetime
+dimensions (D>2), based on enforcing Lorentz covariance of observables. A
+transverse lattice regulator and colour-dielectric link fields are employed,
+together with an associated effective potential. We argue that the light-front
+vacuum is necessarily trivial for large enough lattice spacing, and clarify why
+this leads to an Eguchi-Kawai dimensional reduction of observables to
+1+1-dimensions in the infinite N limit. The procedure is then tested by
+explicit calculations for 2+1-dimensional SU(infinity) gauge theory, within a
+first approximation to the lattice effective potential. We identify a scaling
+trajectory which produces Lorentz covariant behaviour for the lightest
+glueballs. The predicted masses, in units of the measured string tension, are
+in agreement with recent results from conventional Euclidean lattice
+simulations. In addition, we obtain the potential between heavy sources and the
+structure of the glueballs from their light-front wavefunctions. Finally, we
+briefly discuss the extension of these calculations to 3+1-dimensions.
+</abstract>

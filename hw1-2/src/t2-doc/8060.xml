@@ -1,0 +1,15 @@
+<title>
+Variational Solution of the Gross-Neveu Model: finite $N$ and
+  Renormalization
+</title>
+
+<abstract>
+  We show how to perform systematically improvable variational calculations in
+the $O(2N)$ Gross-Neveu model for generic $N$, in such a way that all
+infinities usually plaguing such calculations are accounted for in a way
+compatible with the perturbative renormalization group . The final point is a
+general framework for the calculation of non-perturbative quantities like
+condensates, masses etc$\ldots$, in an asymptotically free field theory. For
+the Gross-Neveu model, the numerical results obtained from a ``2-loop'' down to
+low values of $N$.
+</abstract>

@@ -1,0 +1,19 @@
+<title>
+Perturbations on a moving D3-brane and mirage cosmology
+</title>
+
+<abstract>
+  We study the evolution of perturbations on a moving probe D3-brane coupled to
+a 4-form field in an AdS$_5$-Schwarzschild bulk. The unperturbed dynamics are
+parametrised by a conserved energy $E$ and lead to Friedmann-Robertson-Walker
+`mirage' cosmology on the brane with scale factor $a(\tau)$. The fluctuations
+about the unperturbed worldsheet are then described by a scalar field
+$\phi(\tau,\vec{x})$. We derive an equation of motion for $\phi$, and find that
+in certain regimes of $a$ the effective mass squared is negative. On an
+expanding BPS brane with E=0 superhorizon modes grow as $a^4$ whilst subhorizon
+modes are stable. When the brane contracts, all modes grow. We also briefly
+discuss the case when $E>0$, BPS anti-branes as well as non-BPS branes.
+Finally, the perturbed brane embedding gives rise to scalar perturbations in
+the FRW universe. We show that $\phi$ is proportional to the gauge invariant
+Bardeen potentials on the brane.
+</abstract>

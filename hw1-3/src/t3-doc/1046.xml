@@ -1,0 +1,27 @@
+<date>
+Wed, 31 Oct 2001 10:36:54 GMT
+</date>
+
+<title>
+Towards the solution of noncommutative $YM_2$: Morita equivalence and
+  large N-limit
+</title>
+
+<abstract>
+  In this paper we shall investigate the possibility of solving U(1) theories
+on the non-commutative (NC) plane for arbitrary values of $\theta$ by
+exploiting Morita equivalence. This duality maps the NC U(1) on the two-torus
+with a rational parameter $\theta$ to the standard U(N) theory in the presence
+of a 't Hooft flux, whose solution is completely known. Thus, assuming a smooth
+dependence on $\theta$, we are able to construct a series rational approximants
+of the original theory, which is finally reached by taking the large $N-$limit
+at fixed 't Hooft flux. As we shall see, this procedure hides some subletities
+since the approach of $N$ to infinity is linked to the shrinking of the
+commutative two-torus to zero-size. The volume of NC torus instead diverges and
+it provides a natural cut-off for some intermediate steps of our computation.
+In this limit, we shall compute both the partition function and the correlator
+of two Wilson lines. A remarkable fact is that the configurations, providing a
+finite action in this limit, are in correspondence with the non-commutative
+solitons (fluxons) found independently by Polychronakos and by Gross and
+Nekrasov, through a direct computation on the plane.
+</abstract>

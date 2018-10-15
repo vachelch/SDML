@@ -1,0 +1,16 @@
+<title>
+The Geometry of (Super) Conformal Quantum Mechanics
+</title>
+
+<abstract>
+  N-particle quantum mechanics described by a sigma model with an N-dimensional
+target space with torsion is considered. It is shown that an SL(2,R) conformal
+symmetry exists if and only if the geometry admits a homothetic Killing vector
+$D^a$ whose associated one-form $D_a$ is closed. Further, the SL(2,R) can
+always be extended to Osp(1|2) superconformal symmetry, with a suitable choice
+of torsion, by the addition of N real fermions. Extension to SU(1,1|1) requires
+a complex structure I and a holomorphic U(1) isometry $D^a I_a{^b} \partial_b$.
+Conditions for extension to the superconformal group D(2,1;\alpha), which
+involve a triplet of complex structures and SU(2) x SU(2) isometries, are
+derived. Examples are given.
+</abstract>

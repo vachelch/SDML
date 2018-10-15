@@ -1,0 +1,20 @@
+<title>
+Three Point Functions on the Sphere of Calabi-Yau d-Folds
+</title>
+
+<abstract>
+  Using mirror symmetry in Calabi-Yau manifolds M, three point functions of
+A(M)-model operators on the genus $0$ Riemann surface in cases of one-parameter
+families of $d$-folds realized as Fermat type hypersurfaces embedded in
+weighted projective spaces and a two-parameter family of $d$-fold embedded in a
+weighted projective space ${\amb}$ are studied. These three point functions
+${\corr{\,{{\cal O}^{(1)}_{a}}\, {{\cal O}^{(l-1)}_{b}}\, {{\cal
+O}^{(d-l)}_{c}}\, }}$ are expanded by indeterminates ${q_l}$=${e^{2\pi i
+{t_l}}}$ associated with a set of {\kae} coordinates $\{{t_l}\}$ and their
+expansion coefficients count the number of maps. From these analyses, we can
+read fusion structure of Calabi-Yau A(M)-model operators. In our cases they
+constitute a subring of a total quantum cohomology ring of the A(M)-model
+operators. In fact we switch off all perturbation operators on the topological
+theories except for marginal ones associated with {\kae} forms of M. For that
+reason, the charge conservation of operators turns out to be a classical one.
+</abstract>

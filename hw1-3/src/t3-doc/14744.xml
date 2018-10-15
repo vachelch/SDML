@@ -1,0 +1,25 @@
+<date>
+Fri, 1 Mar 2002 05:17:24 GMT
+</date>
+
+<title>
+Critical exponents from optimised renormalisation group flows
+</title>
+
+<abstract>
+  Within the exact renormalisation group, the scaling solutions for O(N)
+symmetric scalar field theories are studied to leading order in the derivative
+expansion. The Gaussian fixed point is examined for d>2 dimensions and
+arbitrary infrared regularisation. The Wilson-Fisher fixed point in d=3 is
+studied using an optimised flow. We compute critical exponents and subleading
+corrections-to-scaling to high accuracy from the eigenvalues of the stability
+matrix at criticality for all N. We establish that the optimisation is
+responsible for the rapid convergence of the flow and polynomial truncations
+thereof. The scheme dependence of the leading critical exponent is analysed.
+For all N > 0, it is found that the leading exponent is bounded. The upper
+boundary is achieved for a Callan-Symanzik flow and corresponds, for all N, to
+the large-N limit. The lower boundary is achieved by the optimised flow and is
+closest to the physical value. We show the reliability of polynomial
+approximations, even to low orders, if they are accompanied by an appropriate
+choice for the regulator. Possible applications to other theories are outlined.
+</abstract>

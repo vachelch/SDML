@@ -1,0 +1,25 @@
+<date>
+Thu, 28 Mar 2002 00:06:29 GMT
+</date>
+
+<title>
+Comparing Implicit, Differential, Dimensional and BPHZ Renormalisation
+</title>
+
+<abstract>
+  We compare a momentum space implicit regularisation (IR) framework with other
+renormalisation methods which may be applied to dimension specific theories,
+namely Differential Renormalisation (DfR) and the BPHZ formalism. In
+particular, we define what is meant by minimal subtraction in IR in connection
+with DfR and dimensional renormalisation (DR) .We illustrate with the
+calculation of the gluon self energy a procedure by which a constrained version
+of IR automatically ensures gauge invariance at one loop level and handles
+infrared divergences in a straightforward fashion. Moreover, using the
+$\phi^4_4$ theory setting sun diagram as an example and comparing explicitly
+with the BPHZ framework, we show that IR directly displays the finite part of
+the amplitudes. We then construct a parametrization for the ambiguity in
+separating the infinite and finite parts whose parameter serves as
+renormalisation group scale for the Callan-Symanzik equation. Finally we argue
+that constrained IR, constrained DfR and dimensional reduction are equivalent
+within one loop order.
+</abstract>

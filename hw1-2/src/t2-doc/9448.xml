@@ -1,0 +1,28 @@
+<title>
+Brane dynamics for treatment of cosmic strings and vortons
+</title>
+
+<abstract>
+  This course provides a self contained introduction to the general theory of
+relativistic brane models, of the category that includes point particle,
+string, and membrane representations for phenomena that can be considered as
+being confined to a worldsheet of the corresponding dimension (respectively
+one, two, and three) in a thin limit approximation. The first part of the
+course is concerned with purely kinematic aspects: it is shown how, to second
+differential order, the geometry (and in particular the inner and outer
+curvature) of a brane worldsheet of arbitrary dimension is describable in terms
+of the first, second, and third fundamental tensor; the extension to a
+foliation by a congruence of such worldsheets is also briefly discussed. In the
+next part, it is shown how -- to lowest order in the thin limit -- the
+evolution of such a brane worldsheet will always be governed by a simple
+tensorial equation of motion whose left hand side is the contraction of the
+second fundamental tensor with the relevant surface stress tensor, while the
+right hand side will simply vanish in the case of free motion and will
+otherwise be just the orthogonal projection of any external force density that
+may happen to act on the brane. (Allowance for first order deviations from such
+a thin limit treatment would require evolution equations of a more complicated
+kind of which a prototype example is presented.) The last part of the course
+concentrates on the case of a string, and particularly on the stationary
+(centrifugally supported) configurations known as vortons, which, if they are
+sufficiently stable, may be of considerable cosmological significance.
+</abstract>

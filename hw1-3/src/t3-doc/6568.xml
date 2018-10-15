@@ -1,0 +1,25 @@
+<date>
+Mon, 12 Aug 1996 19:29:05 +0200 (CET-DST)
+</date>
+
+<title>
+Local Boundary Conditions in Quantum Supergravity
+</title>
+
+<abstract>
+  When quantum supergravity is studied on manifolds with boundary, one may
+consider local boundary conditions which fix on the initial surface the whole
+primed part of tangential components of gravitino perturbations, and fix on the
+final surface the whole unprimed part of tangential components of gravitino
+perturbations. This paper studies such local boundary conditions in a flat
+Euclidean background bounded by two concentric 3-spheres. It is shown that, as
+far as transverse-traceless perturbations are concerned, the resulting
+contribution to $\zeta(0)$ vanishes when such boundary data are set to zero,
+exactly as in the case when non-local boundary conditions of the spectral type
+are imposed. These properties may be used to show that one-loop finiteness of
+massless supergravity models is only achieved when two boundary 3-surfaces
+occur, and there is no exact cancellation of the contributions of gauge and
+ghost modes in the Faddeev-Popov path integral. In these particular cases,
+which rely on the use of covariant gauge-averaging functionals, pure gravity is
+one-loop finite as well.
+</abstract>

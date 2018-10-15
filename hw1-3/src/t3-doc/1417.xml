@@ -1,0 +1,30 @@
+<date>
+Tue, 5 Dec 2000 15:07:13 GMT
+</date>
+
+<title>
+Fermion-induced effective action in the presence of a static
+  inhomogeneous magnetic field
+</title>
+
+<abstract>
+  We present a numerical study of the fermion-induced effective action in the
+presence of a static inhomogeneous magnetic field for both 3+1 and 2+1
+dimensional QED using a novel approach. This approach is appropriate for
+cylindrically symmetric magnetic fields with finite magnetic flux $\Phi$. We
+consider families of magnetic fields, dependent on two parameters, a typical
+value $B_{m}$ for the field and a typical range d. We investigate the behavior
+of the effective action for three distinct cases: 1) keeping $\Phi$ (or
+$B_{m}d^{2}$) constant and varying d, 2) keeping $B_{m}$ constant and varying d
+and 3) keeping d constant and varying $\Phi$ (or $B_{m}d^{2}$). We note an
+interesting difference as d tends to infinity (case 2) between smooth and
+discontinuous magnetic fields. In the strong field limit (case 3) we also
+derive an explicit asymptotic formula for the 3+1 dimensional action. We study
+the stability of the magnetic field and we show that magnetic fields of the
+type we examine remain unstable, even in the presence of the fermions. In the
+appropriate regions we check our numerical results against the Schwinger
+formula (constant magnetic field), the derivative expansion and the numerical
+work of M. Bordag and K. Kirsten. The role of the Landau levels for the
+effective action, and the appearance of metastable states for large magnetic
+flux, are discussed in an appendix.
+</abstract>

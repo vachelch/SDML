@@ -1,0 +1,15 @@
+<title>
+Gradient Flows from an Approximation to the Exact Renormalization Group
+</title>
+
+<abstract>
+  Through appropriate projections of an exact renormalization group equation,
+we study fixed points, critical exponents and nontrivial renormalization group
+flows in scalar field theories in $2<d<4$. The standard upper critical
+dimensions $d_k={2k\over k-1}$, $k=2,3,4,\ldots$ appear naturally encoded in
+our formalism, and for dimensions smaller but very close to $d_k$ our results
+match the $\ee$-expansion. Within the coupling constant subspace of mass and
+quartic couplings and for any $d$, we find a gradient flow with two fixed
+points determined by a positive-definite metric and a $c$-function which is
+monotonically decreasing along the flow.
+</abstract>

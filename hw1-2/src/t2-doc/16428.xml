@@ -1,0 +1,17 @@
+<title>
+Causal Properties of Free String Field Theory
+</title>
+
+<abstract>
+  This paper examines the causal structure of the commutator of two string
+fields, in free light-cone string field theory. By treating the commutator as a
+distribution on infinite dimensional loop space, it is shown that the
+commutator vanishes when $\int d\ss (\delta X(\ss))^2 <0$. Of more direct
+physical interest is the commutator of finite mass fields, obtained by smearing
+the string fields with appropriate wave functions. This is shown to vanish at
+spacelike separations, reproducing the usual point particle field theory
+result. The implications of this for the information spreading mechanism
+proposed by Susskind to solve the black hole information problem are discussed.
+Finally, it is verified that the above conclusions also hold for the
+superstring.
+</abstract>

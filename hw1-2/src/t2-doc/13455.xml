@@ -1,0 +1,22 @@
+<title>
+Exact four-spinon dynamical correlation function of the Heisenberg model
+</title>
+
+<abstract>
+  In this paper we derive the exact expression of the four-spinon contribution
+to the dynamical correlation function of the spin S= 1/2 anisotropic (XXZ)
+Heisenberg model in the antiferromagnetic regime. We extensively study its
+isotropic (XXX) limit and derive perturbatively the Ising one. Our method
+relies on the quantum affine symmetry of the model, which allows for a
+systematic diagonalization of the Hamiltonian in the thermodynamic limit and
+for an exact calculation of matrix elements of local spin operators. In fact,
+we argue that the familiar criticism of this method related to the complication
+of these matrix elements is not justified. First, we give, in the form of
+contour integrals, an exact expression for the n-spinon contribution. After we
+compile recently found results concerning the two-spinon contribution, we
+specialize the n-spinon formula to the new case n=4. Then we give an explicit
+series representation of this contribution in the isotropic limit. Finally,
+after we show that this representation is free of divergences, we discuss the
+Ising limit in which a simple expression is found up to first order in the
+anisotropy parameter.
+</abstract>

@@ -1,0 +1,12 @@
+<title>
+Embedding Second Class Systems via Symplectic Gauge-invariant Formalism
+</title>
+
+<abstract>
+  In this paper we reformulate Abelian and non-Abelian noninvariant systems as
+gauge invariant theories using a new constraint conversion scheme, developed on
+the symplectic framework. This conversion method is not plagued by the
+ambiguity problem that torments the BFFT and iterative methods and also it
+seems more powerful since it does not require special modifications to handle
+with non-Abelian systems.
+</abstract>

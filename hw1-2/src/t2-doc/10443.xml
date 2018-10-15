@@ -1,0 +1,16 @@
+<title>
+Fermion Determinants and Effective Actions
+</title>
+
+<abstract>
+  Configuration space heat-kernel methods are used to evaluate the determinant
+and hence the effective action for an SU(2) doublet of fermions in interaction
+with a {\it covariantly constant} SU(2) background field. Exact results are
+exhibited which are applicable to {\it any} Abelian background on which the
+only restriction is that $(B^{2}-E^{2})$ and $E\cdot B$ are constant. Such
+fields include the uniform field and the plane wave field. The fermion
+propagator is also given in terms of gauge covariant objects. An extension to
+include finite temperature effects is given and the probability for creation of
+fermions from the vacuum at finite temperature in the presence of an electric
+field is discussed.
+</abstract>

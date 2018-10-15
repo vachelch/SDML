@@ -1,0 +1,19 @@
+<date>
+Tue, 23 Mar 93 17:39:44 GMT-0400
+</date>
+
+<title>
+Loop Equation in Turbulence
+</title>
+
+<abstract>
+  The incompressible fluid dynamics is reformulated as dynamics of closed loops
+$C$ in coordinate space. This formulation allows to derive explicit functional
+equation for the generating functional $\Psi[C]$ in inertial range of spatial
+scales, which allows the scaling solutions. The requirement of finite energy
+dissipation rate leads then to the Kolmogorov index. We find an exact steady
+solution of the loop equation in inertial range of the loop sizes. The
+generating functional decreases as $\EXP{-A^{\tt}}$ where $A=\oint_C r \wedge
+dr$ is the area inside the loop. The pdf for the velocity circulation $\Gamma$
+is Lorentzian, with the width $\bar{\Gamma} \propto A^{\tt} $.
+</abstract>

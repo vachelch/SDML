@@ -1,0 +1,24 @@
+<title>
+Topological Invariants, Instantons and Chiral Anomaly on Spaces with
+  Torsion
+</title>
+
+<abstract>
+  In a spacetime with nonvanishing torsion there can occur topologically
+stable configurations associated with the frame bundle which are independent
+of the curvature. The relevant topological invariants are integrals of local
+scalar densities first discussed by Nieh and Yan (N-Y). In four dimensions,
+the N-Y form $N= (T^a \wedge T_a - R_{ab} \wedge e^a \wedge e^b)$ is the
+only closed 4-form invariant under local Lorentz rotations associated with
+the torsion of the manifold. The integral of $N$ over a compact D-dimensional
+(Euclidean) manifold is shown to be a topological invariant related to the
+Pontryagin classes of SO(D+1) and SO(D). An explicit example of a
+topologically nontrivial configuration carrying nonvanishing instanton number
+proportional to $\int N$ is costructed. The chiral anomaly in a
+four-dimensional spacetime with torsion is also shown to contain a
+contribution proportional to $N$, besides the usual Pontryagin density
+related to the spacetime curvature. The violation of chiral symmetry can thus
+depend on the instanton number of the tangent frame bundle of the manifold.
+Similar invariants can be constructed in D>4 dimensions and the existence of
+the corresponding nontrivial excitations is also discussed.
+</abstract>

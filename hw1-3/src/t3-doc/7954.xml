@@ -1,0 +1,26 @@
+<date>
+Sun, 28 Nov 1999 02:54:35 GMT
+</date>
+
+<title>
+The Operator Product Expansion of N=4 SYM and the 4-point Functions of
+  Supergravity
+</title>
+
+<abstract>
+  We give a detailed Operator Product Expansion interpretation of the results
+for conformal 4-point functions computed from supergravity through the AdS/CFT
+duality. We show that for an arbitrary scalar exchange in AdS(d+1) all the
+power-singular terms in the direct channel limit (and only these terms) exactly
+match the corresponding contributions to the OPE of the operator dual to the
+exchanged bulk field and of its conformal descendents. The leading logarithmic
+singularities in the 4-point functions of protected N=4 super-Yang Mills
+operators (computed from IIB supergravity on AdS(5) X S(5) are interpreted as
+O(1/N^2) renormalization effects of the double-trace products appearing in the
+OPE. Applied to the 4-point functions of the operators Ophi ~ tr F^2 + ... and
+Oc ~ tr FF~ + ..., this analysis leads to the prediction that the double-trace
+composites [Ophi Oc] and [Ophi Ophi - Oc Oc] have anomalous dimension -16/N^2
+in the large N, large g_{YM}^2 N limit. We describe a geometric picture of the
+OPE in the dual gravitational theory, for both the power-singular terms and the
+leading logarithms. We comment on several possible extensions of our results.
+</abstract>

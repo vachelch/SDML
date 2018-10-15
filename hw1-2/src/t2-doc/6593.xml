@@ -1,0 +1,16 @@
+<title>
+Branes at $\C^4/\Ga$ Singularity from Toric Geometry
+</title>
+
+<abstract>
+  We study toric singularities of the form of $\C^4/\Ga$ for finite abelian
+groups $\Ga \subset SU(4)$. In particular, we consider the simplest case
+$\Ga=\Z_2 \times \Z_2 \times \Z_2$ and find explicitly charge matrices for
+partial resolutions of this orbifold by extending the method by Morrison and
+Plesser. We obtain three kinds of algebraic equations, $z_1 z_2 z_3 z_4=z_5^2,
+z_1 z_2 z_3=z_4^2 z_5 $ and $z_1 z_2 z_5 = z_3 z_4$ where $z_i$'s parametrize
+$\C^5$. When we put $N$ D1 branes at this singularity, it is known that the
+field theory on the worldvolume of $N$ D1 branes is T-dual to $2 \times 2
+\times 2 $ brane cub model. We analyze geometric interpretation for field
+theory parameters and moduli space.
+</abstract>

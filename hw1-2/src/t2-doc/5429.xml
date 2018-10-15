@@ -1,0 +1,15 @@
+<title>
+Non-Abelian Fluid Dynamics in Lagrangian Formulation
+</title>
+
+<abstract>
+  Non-Abelian extensions of fluid dynamics, which can have applications to the
+quark-gluon plasma, are given. These theories are presented in a
+symplectic/Lagrangian formulation and involve a fluid generalization of the
+Kirillov-Kostant form well known in Lie group theory. In our simplest model the
+fluid flows with velocity v and in presence of non-Abelian
+chromoelectric/magnetic E^a / B^a fields, the fluid feels a Lorentz force of
+the form Q_a E^a + (v / c) \times Q_a B^a, where Q_a is a space-time local
+non-Abelian charge satisfying a fluid Wong equation [ (D_t + v \cdot D) Q ]_a =
+0 with gauge covariant derivatives.
+</abstract>

@@ -1,0 +1,16 @@
+<title>
+Correlation functions of the One-Dimensional Random Field Ising Model at
+  Zero Temperature
+</title>
+
+<abstract>
+  We consider the one-dimensional random field Ising model, where the spin-spin
+coupling, $J$, is ferromagnetic and the external field is chosen to be $+h$
+with probability $p$ and $-h$ with probability $1-p$. At zero temperature, we
+calculate an exact expression for the correlation length of the quenched
+average of the correlation function $\langle s_0 s_n \rangle - \langle s_0
+\rangle \langle s_n \rangle$ in the case that $2J/h$ is not an integer. The
+result is a discontinuous function of $2J/h$. When $p = {1 \over 2}$, we also
+place a bound on the correlation length of the quenched average of the
+correlation function $\langle s_0 s_n \rangle$.
+</abstract>

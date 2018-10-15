@@ -1,0 +1,19 @@
+<date>
+Mon, 17 Dec 2001 20:35:25 GMT
+</date>
+
+<title>
+Exact One-Loop Thermal Free Energies of Solitons
+</title>
+
+<abstract>
+  I show how to compute the exact one-loop thermal correction to the free
+energy of a soliton. The method uses the effective potential as an auxiliary
+step to ensure that the soliton is quantized around the appropriate vacuum. The
+exact result is then computed using scattering theory techniques, and includes
+all orders in the derivative expansion. It can be efficiently combined with a
+calculation of the exact quantum correction to yield the full free energy to
+one loop. I demonstrate this technique with explicit computations in $\phi^4$
+models, obtaining the free energy for a kink in 1+1 dimensions and a domain
+wall in 2+1 dimensions.
+</abstract>

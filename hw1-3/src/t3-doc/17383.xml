@@ -1,0 +1,19 @@
+<date>
+Thu, 27 Mar 2003 22:03:22 GMT
+</date>
+
+<title>
+A Variational Calculation of Positronium in QED
+</title>
+
+<abstract>
+  We consider a reformulation of QED in which covariant Green functions are
+used to solve for the electromagnetic field in terms of the fermion fields. The
+resulting modified Hamiltonian contains the photon propagator directly. A
+simple Fock-state variational trial function is used to derive relativistic
+fermion-antifermion equations variationally from the expectation value of the
+Hamiltonian of the field theory. The interaction kernel of the equations are
+shown to involve the lowest order invariant M-matrices. The two-body
+eigenenergies are shown to agree with known result for positronium-like systems
+to order O(alpha ^4) in the coupling constant.
+</abstract>

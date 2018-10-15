@@ -1,0 +1,19 @@
+<title>
+A Candidate for Solvable Large N Lattice Gauge Theory in D>2
+</title>
+
+<abstract>
+  I propose a class of D\geq{2} lattice SU(N) gauge theories dual to certain
+vector models endowed with the local [U(N)]^{D} conjugation-invariance and
+Z_{N} gauge symmetry. In the latter models, both the partitition function and
+Wilson loop observables depend nontrivially only on the eigenvalues of the
+link-variables. Therefore, the vector-model facilitates a master-field
+representation of the large N loop-averages in the corresponding induced gauge
+system. As for the partitition function, in the limit N->{infinity} it is
+reduced to the 2Dth power of an effective one-matrix eigenvalue-model which
+makes the associated phase structure accessible. In particular a simple
+scaling-condition, that ensures the proper continuum limit of the induced gauge
+theory, is proposed. We also derive a closed expression for the large N average
+of a generic nonself-intersecting Wilson loop in the D=2 theory defined on an
+arbitrary 2d surface.
+</abstract>

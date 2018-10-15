@@ -1,0 +1,27 @@
+<date>
+Mon, 18 Jun 2001 16:44:06 GMT
+</date>
+
+<title>
+Map of Witten's * to Moyal's *
+</title>
+
+<abstract>
+  It is shown that Witten's star product in string field theory, defined as the
+overlap of half strings, is equivalent to the Moyal star product involving the
+relativistic phase space of even string modes. The string field A(x[\sigma])
+can be rewritten as a phase space field of the even modes $x_{2n},x_{0},
+p_{2n}$ where $x_{2n}$ are the positions of the even string modes, and $p_{2n}$
+are related to the Fourier space of the odd modes $x_{2n+1}$ up to a linear
+transformation. The $p_{2n}$ play the role of conjugate momenta for the even
+modes $x_{2n}$ under the string star product. The split string formalism is
+used in the intermediate steps to establish the map from Witten's star-product
+to Moyal's star-product. An ambiguity related to the midpoint in the split
+string formalism is clarified by considering odd or even modding for the split
+string modes, and its effect in the Moyal star product formalism is discussed.
+The noncommutative geometry defined in this way is technically similar to the
+one that occurs in noncommutative field theory, but it includes the timelike
+components of the string modes, and is Lorentz invariant. This map could be
+useful to extend the computational methods and concepts from noncommutative
+field theory to string field theory and vice-versa.
+</abstract>

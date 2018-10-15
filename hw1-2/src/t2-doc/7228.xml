@@ -1,0 +1,17 @@
+<title>
+Twistors and Actions on Coset Manifolds
+</title>
+
+<abstract>
+  Particle and string actions on coset spaces typically lack a quadratic
+kinetic term, making their quantization difficult. We define a notion of
+twistors on these spaces, which are hypersurfaces in a vector space that
+transform linearly under the isometry group of the coset. By associating the
+points of the coset space with these hypersurfaces, and the internal
+coordinates of these hypersurfaces with momenta, it is possible to construct
+manifestly symmetric actions with leading quadratic terms. We give a general
+algorithm and work out the case of a particle on AdS_p explicitly. In this
+case, the resulting action is a world-line gauge theory with sources, (the
+gauge group depending on p) which is equivalent to a nonlocal world-line
+sigma-model.
+</abstract>

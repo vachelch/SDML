@@ -1,0 +1,17 @@
+<date>
+Sat, 1 May 1993 15:21:33 +0200 (WET-DST)
+</date>
+
+<title>
+A note on quantum structure constants
+</title>
+
+<abstract>
+  The Cartan-Maurer equations for any $q$-group of the $A_{n-1}, B_n, C_n, D_n$
+series are given in a convenient form, which allows their direct computation
+and clarifies their connection with the $q=1$ case. These equations, defining
+the field strengths, are essential in the construction of $q$-deformed gauge
+theories. An explicit expression $\om ^i\we \om^j= -\Z {ij}{kl}\om ^k\we \om^l$
+for the $q$-commutations of left-invariant one-forms is found, with
+$\Z{ij}{kl} \om^k \we \om^l \qonelim \om^j\we\om^i$.
+</abstract>

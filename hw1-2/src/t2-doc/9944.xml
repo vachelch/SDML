@@ -1,0 +1,17 @@
+<title>
+Any compact group is a gauge group
+</title>
+
+<abstract>
+  The assignment of local observables in the vacuum sector, fulfilling the
+standard axioms of local quantum theory, is known to determine uniquely a
+compact group G of gauge transformations of the first kind together with a
+central involutive element k of G, and a complete normal algebra of fields
+carrying the localizable charges, on which k defines the Bose/Fermi grading.
+ We show here that any such pair {G,k}, where G is compact metrizable, does
+actually appear. The corresponding model can be chosen to fulfill also the
+split property.
+ This is not a dynamical phenomenon: a given {G,k} arises as the gauge group of
+a model where the local algebras of observables are a suitable subnet of local
+algebras of a possibly infinite product of free field theories.
+</abstract>

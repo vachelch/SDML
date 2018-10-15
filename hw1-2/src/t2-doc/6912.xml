@@ -1,0 +1,19 @@
+<title>
+Perturbative Quantum Field Theory in the String-Inspired Formalism
+</title>
+
+<abstract>
+  We review the status and present range of applications of the
+``string-inspired'' approach to perturbative quantum field theory. This
+formalism offers the possibility of computing effective actions and S-matrix
+elements in a way which is similar in spirit to string perturbation theory, and
+bypasses much of the apparatus of standard second-quantized field theory. Its
+development was initiated by Bern and Kosower, originally with the aim of
+simplifying the calculation of scattering amplitudes in quantum chromodynamics
+and quantum gravity. We give a short account of the original derivation of the
+Bern-Kosower rules from string theory. Strassler's alternative approach in
+terms of first-quantized particle path integrals is then used to generalize the
+formalism to more general field theories, and, in the abelian case, also to
+higher loop orders. A considerable number of sample calculations are presented
+in detail, with an emphasis on quantum electrodynamics.
+</abstract>

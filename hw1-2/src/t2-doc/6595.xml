@@ -1,0 +1,13 @@
+<title>
+Irreducible Decomposition of Products of 10D Chiral Sigma Matrices
+</title>
+
+<abstract>
+  We review the enveloping algebra of the 10 dimensional chiral sigma matrices.
+To facilitate the computation of the product of several chiral sigma matrices
+we have developed a symbolic program. Using this program one can reduce the
+multiplication of the sigma matrices down to linear combinations of irreducilbe
+elements. We are able to quickly derive several identities that are not
+restricted to traces. A copy of the program written in the Mathematica language
+is provided for the community.
+</abstract>

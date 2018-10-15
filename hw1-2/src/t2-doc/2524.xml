@@ -1,0 +1,20 @@
+<title>
+Super-Poincare Invariant Superstring Field Theory
+</title>
+
+<abstract>
+   Using the topological techniques developed in an earlier paper with Vafa, a
+field theory action is constructed for any open string with critical N=2
+worldsheet superconformal invariance. Instead of the Chern-Simons-like action
+found by Witten, this action resembles that of a Wess-Zumino-Witten model. For
+the N=2 string which describes (2,2) self-dual Yang-Mills, the string field
+generalizes the scalar field of Yang.
+    As was shown in recent papers, an N=2 string can also be used to describe
+the Green-Schwarz superstring in a Calabi-Yau background. In this case, one
+needs three types of string fields which generalize the real superfield of the
+super-Yang-Mills prepotential, and the chiral and anti-chiral superfields of
+the Calabi-Yau scalar multiplet. The resulting field theory action for the open
+superstring in a Calabi-Yau background has the advantages over the standard RNS
+action that it is manifestly SO(3,1) super-Poincar\'e invariant and does not
+require contact terms to remove tree-level divergences.
+</abstract>

@@ -1,0 +1,23 @@
+<date>
+Sun, 2 Mar 1997 05:54:33 MST
+</date>
+
+<title>
+Quasi-Topological Field Theories in Two Dimensions as Soluble Models
+</title>
+
+<abstract>
+  We study a class of lattice field theories in two dimensions that includes
+gauge theories. Given a two dimensional orientable surface of genus $g$, the
+partition function $Z$ is defined for a triangulation consisting of $n$
+triangles of area $\epsilon$. The reason these models are called
+quasi-topological is that $Z$ depends on $g$, $n$ and $\epsilon$ but not on
+the details of the triangulation. They are also soluble in the sense that the
+computation of their partition functions can be reduced to a soluble one
+dimensional problem. We show that the continuum limit is well defined if the
+model approaches a topological field theory in the zero area limit, i.e.,
+$\epsilon \to 0$ with finite $n$. We also show that the universality
+classes of such quasi-topological lattice field theories can be easily
+classified. Yang-Mills and generalized Yang-Mills theories appear as particular
+examples of such continuum limits.
+</abstract>

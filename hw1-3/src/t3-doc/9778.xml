@@ -1,0 +1,32 @@
+<date>
+Sun, 9 Jan 2000 23:50:47 GMT
+</date>
+
+<title>
+Conformal anomaly of (2,0) tensor multiplet in six dimensions and
+  AdS/CFT correspondence
+</title>
+
+<abstract>
+  We compute the conformal anomaly of free d=6 superconformal (2,0) tensor
+multiplet on generic curved background. Up to a trivial covariant
+total-derivative term, it is given by the sum of the type A part proportional
+to the 6-d Euler density, and the type B part containing three independent Weyl
+invariants. Multiplied by factor 4N^3, the type B part of the anomaly
+reproduces exactly the corresponding part of the conformal anomaly of large N
+multiple M5-brane (2,0) theory as predicted (hep-th/9806087) by the AdS/CFT
+correspondence. The coefficients of the type A anomaly differ by the factor 4/7
+x 4 N^3, so that the free tensor multiplet anomaly does not vanish on a
+Ricci-flat background. The coefficient 4N^3 is the same as found
+(hep-th/9703040) in the comparison of the tensor multiplet theory and the d=11
+supergravity results for the absorption cross-sections of gravitons by M5
+branes, and in the comparison (hep-th/9911135) of 2- and 3-point stress tensor
+correlators of the free tensor multiplet with the AdS_7 supergravity
+predictions. The reason for this coincidence is that the three Weyl-invariant
+terms in the anomaly are related to the $h^2$ and $h^3$ terms in the near flat
+space expansion of the corresponding non-local effective action, and thus to
+the 2-point and 3-point stress tensor correlators in flat background. At the
+same time, the type A anomaly is related to the $h^4$ term in the non-local
+part of the effective action, i.e. to a certain structure in the 4-point
+correlation function of stress tensors.
+</abstract>

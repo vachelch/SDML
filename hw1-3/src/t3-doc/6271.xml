@@ -1,0 +1,18 @@
+<date>
+Thu, 15 Jun 1995 19:37:12 +0200 (WET-DST)
+</date>
+
+<title>
+Instantons and recursion relations in N=2 Susy gauge theory
+</title>
+
+<abstract>
+  We find the transformation properties of the prepotential ${\cal F}$ of $N=2$
+SUSY gauge theory with gauge group $SU(2)$. In particular we show that ${\cal
+G}(a)=\pi i\left({\cal F}(a)-{1\over 2}a\partial_a{\cal F}(a)\right)$ is
+modular invariant. This function satisfies the non-linear differential equation
+$\left(1-{\cal G}^2\right){\cal G}''+{1\over 4}a {{\cal G}'}^3=0$, implying
+that the instanton contribution are determined by recursion relations. Finally,
+we find $u=u(a)$ and give the explicit expression of ${\cal F}$ as function of
+$u$. These results can be extended to more general cases.
+</abstract>

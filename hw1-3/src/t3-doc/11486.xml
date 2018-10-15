@@ -1,0 +1,16 @@
+<date>
+Sun, 24 Nov 1996 15:54:38 +0100 (MET)
+</date>
+
+<title>
+Extended affine Weyl groups and Frobenius manifolds
+</title>
+
+<abstract>
+  We define certain extensions of affine Weyl groups (distinct from these
+considered by K. Saito [S1] in the theory of extended affine root systems),
+prove an analogue of Chevalley theorem for their invariants, and construct a
+Frobenius structure on their orbit spaces. This produces solutions $F(t_1, ...,
+t_n)$ of WDVV equations of associativity polynomial in $t_1, ..., t_{n-1}, \exp
+t_n$.
+</abstract>

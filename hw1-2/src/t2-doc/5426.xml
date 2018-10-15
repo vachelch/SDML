@@ -1,0 +1,23 @@
+<title>
+Determination of the orbit spaces of non-coregular compact linear groups
+  with one relation among the basic polynomial invariants in the $\hat
+  P$-matrix approach
+</title>
+
+<abstract>
+  Invariant functions under the transformations of a compact linear group $G$
+acting in $\real^n$ can be expressed in terms of functions defined in the orbit
+space of $G$. We develop a method to determine the isotropy classes of the
+orbit spaces of all the real linear groups whose integrity bases (IB) satisfy
+only one independent relation. The method is tested for IB's formed by 3
+(independent) basic invariants. The result is obtained through a metric matrix
+$\hat P(p)$, defined only from the scalar products between the gradients of a
+minimal IB. We determine the matrices $\wP(p)$ from a universal differential
+equation, which satisfy new convenient additional conditions, which fit for the
+non-coregular case. Our results may be relevant in physical contexts where the
+study of covariant or invariant functions is important, like in the
+determination of patterns of spontaneous symmetry breaking in quantum field
+theory, in the analysis of phase spaces and structural phase transitions
+(Landau's theory), in covariant bifurcation theory, in crystal field theory and
+so on.
+</abstract>

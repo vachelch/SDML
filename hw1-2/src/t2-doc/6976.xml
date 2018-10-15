@@ -1,0 +1,14 @@
+<title>
+On the Poisson Structure of the Time-Dependent Mean-Field Equations for
+  Systems of Bosons out of Equilibrium
+</title>
+
+<abstract>
+  We analyze the Poisson structure of the time-dependent mean-field equations
+for bosons and construct the Lie-Poisson bracket associated to these equations.
+The latter follow from the time-dependent variational principle of Balian and
+Veneroni when a gaussian Ansatz is chosen for the density operator. We perform
+a stability analysis of both the full and the linearized equations. We also
+search for the canonically conjugate variables. In certain cases, the evolution
+equations can indeed be cast in a Hamiltonian form.
+</abstract>

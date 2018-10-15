@@ -1,0 +1,12 @@
+<title>
+An Improved Gaussian Approximation for Quantum Field Theory
+</title>
+
+<abstract>
+  We present a new approximation technique for quantum field theory. The
+standard one-loop result is used as a seed for a recursive formula that gives a
+sequence of improved Gaussian approximations for the generating functional. In
+a different setting, the basic idea of this recursive scheme is used in the
+second part of the paper to substantialy speed up the standard Monte Carlo
+algorithm.
+</abstract>

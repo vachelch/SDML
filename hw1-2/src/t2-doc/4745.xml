@@ -1,0 +1,15 @@
+<title>
+A way to get a well-defined derivative expansion of real-time thermal
+  effective actions
+</title>
+
+<abstract>
+  We compute the quadratic part of the thermal effective action for real scalar
+fields which are initially in thermal equilibrium and vary slowly in time using
+a generalised real-time formalism proposed by Le Bellac and Mabilat
+\cite{belmab}. We derive both Real Time and Imaginary Time Formalisms and find
+that the result is analytic at the limits of zero external four-momenta when
+using our full time contour. We expand the fields in time up to the second
+derivative and discuss the initial time dependence of our result before and
+after the expansion in terms of equilibrium.
+</abstract>

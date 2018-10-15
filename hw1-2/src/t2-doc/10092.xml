@@ -1,0 +1,27 @@
+<title>
+Modified Weak Energy Condition for the Energy Momentum Tensor in Quantum
+  Field Theory
+</title>
+
+<abstract>
+  The weak energy condition is known to fail in general when applied to
+expectation values of the the energy momentum tensor in flat space quantum
+field theory. It is shown how the usual counter arguments against its validity
+are no longer applicable if the states $|\psi \r$ for which the expectation
+value is considered are restricted to a suitably defined subspace. A possible
+natural restriction on $|\psi \r$ is suggested and illustrated by two quantum
+mechanical examples based on a simple perturbed harmonic oscillator
+Hamiltonian. The proposed alternative quantum weak energy condition is applied
+to states formed by the action of scalar, vector and the energy momentum tensor
+operators on the vacuum. We assume conformal invariance in order to determine
+almost uniquely three-point functions involving the energy momentum tensor in
+terms of a few parameters. The positivity conditions lead to non trivial
+inequalities for these parameters. They are satisfied in free field theories,
+except in one case for dimensions close to two. Further restrictions on $|\psi
+\r$ are suggested which remove this problem. The inequalities which follow from
+considering the state formed by applying the energy momentum tensor to the
+vacuum are shown to imply that the coefficient of the topological term in the
+expectation value of the trace of the energy momentum tensor in an arbitrary
+curved space background is positive, in accord with calculations in free field
+theories.
+</abstract>

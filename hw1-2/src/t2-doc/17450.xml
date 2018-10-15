@@ -1,0 +1,26 @@
+<title>
+Descent equations of Yang--Mills anomalies in noncommutative geometry
+</title>
+
+<abstract>
+  Consistent Yang--Mills anomalies $\int\om_{2n-k}^{k-1}$ ($n\in\N$, $ k=1,2,
+\ldots ,2n$) as described collectively by Zumino's descent equations
+$\delta\om_{2n-k}^{k-1}+\dd\om_{2n-k-1}^{k}=0$ starting with the Chern
+character $Ch_{2n}=\dd\om_{2n-1}^{0}$ of a principal $\SU(N)$ bundle over a
+$2n$ dimensional manifold are considered (i.e.\ $\int\om_{2n-k}^{k-1}$ are the
+Chern--Simons terms ($k=1$), axial anomalies ($k=2$), Schwinger terms ($k=3$)
+etc.\ in $(2n-k)$ dimensions). A generalization in the spirit of Connes'
+noncommutative geometry using a minimum of data is found. For an arbitrary
+graded differential algebra $\CC=\bigoplus_{k=0}^\infty \CC^{(k)}$ with
+exterior differentiation $\dd$, form valued functions $Ch_{2n}: \CC^{(1)}\to
+\CC^{(2n)}$ and $\om_{2n-k}^{k-1}: \underbrace{\CC^{(0)}\times\cdots \times
+\CC^{(0)}}_{\mbox{{\small $(k-1)$ times}}} \times \CC^{(1)}\to \CC^{(2n-k)}$
+are constructed which are connected by generalized descent equations
+$\delta\om_{2n-k}^{k-1}+\dd\om_{2n-k-1}^{k}=(\cdots)$. Here $Ch_{2n}= (F_A)^n$
+where $F_A=\dd(A)+A^2$ for $A\in\CC^{(1)}$, and $(\cdots)$ is not zero but a
+sum of graded commutators which vanish under integrations (traces). The problem
+of constructing Yang--Mills anomalies on a given graded differential algebra is
+thereby reduced to finding an interesting integration $\int$ on it. Examples
+for graded differential algebras with such integrations are given and thereby
+noncommutative generalizations of Yang--Mills anomalies are found.
+</abstract>

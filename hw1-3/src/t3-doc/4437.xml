@@ -1,0 +1,33 @@
+<date>
+Tue, 24 Aug 1999 16:43:03 GMT
+</date>
+
+<title>
+Rigid and gauge Noether symmetries for constrained systems
+</title>
+
+<abstract>
+  We develop the general theory of Noether symmetries for constrained systems.
+In our derivation, the Dirac bracket structure with respect to the primary
+constraints appears naturally and plays an important role in the
+characterization of the conserved quantities associated to these Noether
+symmetries. The issue of projectability of these symmetries from tangent space
+to phase space is fully analyzed, and we give a geometrical interpretation of
+the projectability conditions in terms of a relation between the Noether
+conserved quantity in tangent space and the presymplectic form defined on it.
+We also examine the enlarged formalism that results from taking the Lagrange
+multipliers as new dynamical variables; we find the equation that characterizes
+the Noether symmetries in this formalism. The algebra of generators for Noether
+symmetries is discussed in both the Hamiltonian and Lagrangian formalisms. We
+find that a frequent source for the appearance of open algebras is the fact
+that the transformations of momenta in phase space and tangent space only
+coincide on shell. Our results apply with no distinction to rigid and gauge
+symmetries; for the latter case we give a general proof of existence of Noether
+gauge symmetries for theories with first and second class constraints that do
+not exhibit tertiary constraints in the stabilization algorithm. Among some
+examples that illustrate our results, we study the Noether gauge symmetries of
+the Abelian Chern-Simons theory in $2n+1$ dimensions. An interesting feature of
+this example is that its primary constraints can only be identified after the
+determination of the secondary constraint. The example is worked out retaining
+all the original set of variables.
+</abstract>

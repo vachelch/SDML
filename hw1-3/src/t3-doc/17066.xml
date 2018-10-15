@@ -1,0 +1,23 @@
+<date>
+Mon, 25 Jan 1999 21:53:16 GMT
+</date>
+
+<title>
+Higher Derivative Chern--Simons Extensions
+</title>
+
+<abstract>
+  We study the higher-derivative extensions of the D=3 Abelian Chern--Simons
+topological invariant that would appear in a perturbative effective action's
+momentum expansion. The leading, third-derivative, extension I_ECS turns out to
+be unique. It remains parity-odd but depends only on the field strength, hence
+no longer carries large gauge information, nor is it topological because metric
+dependence accompanies the additional covariant derivatives, whose positions
+are seen to be fixed by gauge invariance. Viewed as an independent action,
+I_ECS requires the field strength to obey the wave equation. The more
+interesting model, adjoining I_ECS to the Maxwell action, describes a pair of
+excitations. One is massless, the other a massive ghost, as we exhibit both via
+the propagator and by performing the Hamiltonian decomposition. We also present
+this model's total stress tensor and energy. Other actions involving I_ECS are
+also noted.
+</abstract>

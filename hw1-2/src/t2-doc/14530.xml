@@ -1,0 +1,18 @@
+<title>
+Generalized BRST Quantization and Massive Vector Fields
+</title>
+
+<abstract>
+  A previously proposed generalized BRST quantization on inner product spaces
+for second class constraints is further developed through applications. This
+BRST method involves a conserved generalized BRST charge Q which is not
+nilpotent but which satisfies Q=\delta+\delta^{\dagger}, \delta^2=0, and by
+means of which physical states are obtained from the projection
+\delta|ph>=\delta^{\dagger}|ph>=0. A simple model is analyzed in detail from
+which some basic properties and necessary ingredients are extracted. The method
+is then applied to a massive vector field. An effective theory is derived which
+is close to the one of the Stueckelberg model. However, since the scalar field
+here is introduced in order to have inner product solutions, a massive
+Yang-Mills theory with polynomial interaction terms might be possible to
+construct.
+</abstract>

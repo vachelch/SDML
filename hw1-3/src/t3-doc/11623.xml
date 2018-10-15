@@ -1,0 +1,25 @@
+<date>
+Wed, 31 Jul 2002 00:54:02 GMT
+</date>
+
+<title>
+A model with bulk and brane gauge kinetic terms and SUSY breaking
+  without hidden sector
+</title>
+
+<abstract>
+  We derive various solutions for the gauge field and the gaugino when there
+are both 5D bulk kinetic terms and 4D brane kinetic terms. Below the
+compactification scale $1/y_c$, gauge interaction by the massless mode is
+universal, independent of the locations of sources, but above $1/y_c$, the
+interaction distinguishes their locations. We consider the $S^1/(Z_2\times
+Z_2')$ orbifold compactification, in which N=2 SUSY and SU(2) gauge symmetry
+break down to N=1 and U(1), respectively. While the odd parity gauge fields
+under $Z_2$, $A^1_\mu$ and $A^2_\mu$, interact with the bulk gauge coupling
+$g^2$, $A^3_\mu$ at low energy interacts with $e^2g^2/(e^2+g^2)$ due to the
+brane kinetic term with the coupling $e^2$. Even if $g^2$, which is
+asymptotically free, blew up at the scale $1/y_c<\mu < \Lambda_{\rm cutoff}$,
+$e^2g^2/(e^2+g^2)$ could remain small at low energy by brane matter fields'
+contribution. The condensations of the gauginos $\Psi^1$ and $\Psi^2$ generate
+soft mass term of $\Psi^3$ by gravity mediation.
+</abstract>

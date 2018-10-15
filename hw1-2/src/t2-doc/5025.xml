@@ -1,0 +1,16 @@
+<title>
+Spinon Bases, Yangian Symmetry and Fermionic Representations of Virasoro
+  Characters in Conformal Field Theory
+</title>
+
+<abstract>
+  We study the description of the $SU(2)$, level $k=1$, Wess-Zumino-Witten
+conformal field theory in terms of the modes of the spin-1/2 affine primary
+field $\phi^\alpha$. These are shown to satisfy generalized `canonical
+commutation relations', which we use to construct a basis of Hilbert space in
+terms of representations of the Yangian $Y(sl_2)$. Using this description, we
+explicitly derive so-called `fermionic representations' of the Virasoro
+characters, which were first conjectured by Kedem et al.~\cite{kedem}. We point
+out that similar results are expected for a wide class of rational conformal
+field theories.
+</abstract>

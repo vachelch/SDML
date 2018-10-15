@@ -1,0 +1,21 @@
+<title>
+Bulk vs. Boundary Dynamics in Anti-de Sitter Spacetime
+</title>
+
+<abstract>
+  We investigate the details of the bulk-boundary correspondence in Lorentzian
+signature anti-de Sitter space. Operators in the boundary theory couple to
+sources identified with the boundary values of non-normalizable bulk modes.
+Such modes do not fluctuate and provide classical backgrounds on which bulk
+excitations propagate. Normalizable modes in the bulk arise as a set of
+saddlepoints of the action for a fixed boundary condition. They fluctuate and
+describe the Hilbert space of physical states. We provide an explicit, complete
+set of both types of modes for free scalar fields in global and Poincar\'e
+coordinates. For $\ads{3}$, the normalizable and non-normalizable modes
+originate in the possible representations of the isometry group
+$\SL_L\times\SL_R$ for a field of given mass. We discuss the group properties
+of mode solutions in both global and Poincar\'e coordinates and their relation
+to different expansions of operators on the cylinder and on the plane. Finally,
+we discuss the extent to which the boundary theory is a useful description of
+the bulk spacetime.
+</abstract>

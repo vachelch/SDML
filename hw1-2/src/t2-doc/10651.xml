@@ -1,0 +1,15 @@
+<title>
+Non-Commutative Quantum Mechanics
+</title>
+
+<abstract>
+  A general non-commutative quantum mechanical system in a central potential
+$V=V(r)$ in two dimensions is considered. The spectrum is bounded from below
+and for large values of the anticommutative parameter $\theta $, we find an
+explicit expression for the eigenvalues. In fact, any quantum mechanical system
+with these characteristics is equivalent to a commutative one in such a way
+that the interaction $V(r)$ is replaced by $V = V ({\hat H}_{HO}, {\hat L}_z)$,
+where ${\hat H}_{HO}$ is the hamiltonian of the two-dimensional harmonic
+oscillator and ${\hat L}_z$ is z- component of the angular momentum. For other
+finite values of $\theta$ the model can be solved by using perturbation theory.
+</abstract>

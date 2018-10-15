@@ -1,0 +1,18 @@
+<title>
+Quantum Group Approach to a soluble vertex model with generalized
+  ice-rule
+</title>
+
+<abstract>
+  Using the representation of the quantum group $SL_q$(2) by the Weyl
+ope\-ra\-tors of the canonical commutation relations in quantum mechanics, we
+construct and solve a new vertex model on a square lattice. Random variables on
+horizontal bonds are Ising variables, and those on the vertical bonds take half
+positive integer values. The vertices is subjected to a genera\-li\-zed form of
+the so-called ``ice-rule'', its property are studied in details and its free
+energy calculated with the method of quantum inverse scattering. Remarkably in
+analogy with the usual six-vertex model, there exists a ``Free-Fermion'' limit
+with a novel rich operator structure. The existing algebraic structure suggests
+a possible connection with a lattice neutral plasma of charges, via the
+Fermion-Boson correspondence.
+</abstract>

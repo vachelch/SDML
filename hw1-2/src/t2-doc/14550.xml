@@ -1,0 +1,14 @@
+<title>
+Braided Momentum Structure of the q-Poincare Group
+</title>
+
+<abstract>
+  The $q$-Poincar\'e group of \cite{SWW:inh} is shown to have the structure of
+a semidirect product and coproduct $B\cocross \widetilde{SO_q(1,3)}$ where $B$
+is a braided-quantum group structure on the $q$-Minkowski space of 4-momentum
+with braided-coproduct $\und\Delta \vecp=\vecp\tens 1+1\tens \vecp$. Here the
+necessary $B$ is not a usual kind of quantum group, but one with braid
+statistics. Similar braided-vectors and covectors $V(R')$, $V^*(R')$ exist for
+a general R-matrix. The abstract structure of the $q$-Lorentz group is also
+studied.
+</abstract>

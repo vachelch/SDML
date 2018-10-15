@@ -1,0 +1,12 @@
+<title>
+Non local parity transformations and anomalies
+</title>
+
+<abstract>
+  We present an alternative derivation of the parity anomaly for a massless
+Dirac field in 2+1 dimensions coupled to a gauge field. The anomaly functional,
+a Chern-Simons action for the gauge field, is obtained from the non-trivial
+Jacobian corresponding to a non local symmetry of the Pauli-Villars regularized
+action. That Jacobian is well-defined, finite, and yields the standard
+Chern-Simons term when the cutoff tends to infinity.
+</abstract>

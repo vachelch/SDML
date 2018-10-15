@@ -1,0 +1,26 @@
+<date>
+Fri, 13 Jul 2001 15:11:16 GMT
+</date>
+
+<title>
+The Existence and Stability of Noncommutative Scalar Solitons
+</title>
+
+<abstract>
+  We establish existence and stabilty results for solitons in noncommutative
+scalar field theories in even space dimension $2d$. In particular, for any
+finite rank spectral projection $P$ of the number operator ${\mathcal N}$ of
+the $d$-dimensional harmonic oscillator and sufficiently large noncommutativity
+parameter $\theta$ we prove the existence of a rotationally invariant soliton
+which depends smoothly on $\theta$ and converges to a multiple of $P$ as
+$\theta\to\infty$.
+  In the two-dimensional case we prove that these solitons are stable at large
+$\theta$, if $P=P_N$, where $P_N$ projects onto the space spanned by the $N+1$
+lowest eigenstates of ${\mathcal N}$, and otherwise they are unstable. We also
+discuss the generalisation of the stability results to higher dimensions. In
+particular, we prove stability of the soliton corresponding to $P=P_0$ for all
+$\theta$ in its domain of existence.
+  Finally, for arbitrary $d$ and small values of $\theta$, we prove without
+assuming rotational invariance that there do not exist any solitons depending
+smoothly on $\theta$.
+</abstract>

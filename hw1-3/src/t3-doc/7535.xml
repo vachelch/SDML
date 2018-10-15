@@ -1,0 +1,24 @@
+<date>
+Tue, 21 Jul 1998 22:28:37 GMT
+</date>
+
+<title>
+Einstein manifolds and conformal field theories
+</title>
+
+<abstract>
+  In light of the AdS/CFT correspondence, it is natural to try to define a
+conformal field theory in a large N, strong coupling limit via a supergravity
+compactification on the product of an Einstein manifold and anti-de Sitter
+space. We consider the five-dimensional manifolds T^{pq} which are coset spaces
+(SU(2) x SU(2))/U(1). The central charge and a part of the chiral spectrum are
+calculated, respectively, from the volume of T^{pq} and the spectrum of the
+scalar laplacian. Of the manifolds considered, only T^{11} admits any
+supersymmetry: it is this manifold which characterizes the supergravity
+solution corresponding to a large number of D3-branes at a conifold
+singularity, discussed recently in hep-th/9807080. Through a field theory
+analysis of anomalous three point functions we are able to reproduce the
+central charge predicted for the T^{11} theory by supergravity: it is 27/32 of
+the central charge of the N=2 Z_2 orbifold theory from which it descends via an
+RG flow.
+</abstract>

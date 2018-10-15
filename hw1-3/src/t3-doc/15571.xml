@@ -1,0 +1,19 @@
+<date>
+Sat, 28 Aug 1999 05:31:39 GMT
+</date>
+
+<title>
+New Duality Transformations in Orbifold Theory
+</title>
+
+<abstract>
+  We find new duality transformations which allow us to construct the stress
+tensors of all the twisted sectors of any orbifold A(H)/H, where A(H) is the
+set of all current-algebraic conformal field theories with a finite symmetry
+group H \subset Aut(g). The permutation orbifolds with H = Z_\lambda and H =
+S_3 are worked out in full as illustrations but the general formalism includes
+both simple and semisimple g. The motivation for this development is the
+recently-discovered orbifold Virasoro master equation, whose solutions are
+identified by the duality transformations as sectors of the permutation
+orbifolds A(D_\lambda)/Z_\lambda.
+</abstract>

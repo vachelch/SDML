@@ -1,0 +1,15 @@
+<date>
+11 Dec 1992 15:33:49 +0100
+</date>
+
+<title>
+The 3d Ising Model represented as Random Surfaces
+</title>
+
+<abstract>
+  We consider a random surface representation of the three-dimensional Ising
+model.The model exhibit scaling behaviour and a new critical index $\k$ which
+relates $\g_{string}$ for the bosonic string to the exponent $\a$ of the
+specific heat of the 3d Ising model is introduced. We try to determine $\k$ by
+numerical simulations.
+</abstract>

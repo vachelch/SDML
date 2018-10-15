@@ -1,0 +1,18 @@
+<title>
+Radiative Correction to the Casimir Force on a Sphere
+</title>
+
+<abstract>
+  The first radiative correction to the Casimir energy of a perfectly
+conducting spherical shell is calculated. The calculation is performed in the
+framework of covariant perturbation theory with the boundary conditions
+implemented as constraints. The formalism is briefly reviewed and its use is
+explained by deriving the known results for two parallel planes.
+  The ultraviolet divergencies are shown to have the same structure as those
+for a massive field in zeroth order of $\alpha$. In the zeta-functional
+regularization employed by us no divergencies appear.
+  If the radius of the sphere is large compared to the Compton wavelength of
+the electron the radiative correction is of order $\alpha/(R^2m_e)$ and
+contains a logarithmic dependence on $m_eR$. It has the opposite sign but the
+same order of magnitude as in the case of two parallel planes.
+</abstract>

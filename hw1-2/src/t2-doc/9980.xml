@@ -1,0 +1,18 @@
+<title>
+String theory derivation of RR couplings to D-branes
+</title>
+
+<abstract>
+  We derive the couplings of D-branes to the RR fields from the first
+principles, i.e. from the nonlinear sigma-model. We suggest a procedure to
+extract poles from string amplitudes, before the eventual formula for the
+couplings is obtained. Using the fact that the parts of amplitudes with poles
+are irrelevant for the effective action this procedure ultimately simplify the
+derivation since it allows us to omit these poles already from the very
+beginning. We also use the vertex for the RR fields in the (-3/2,-1/2) ghost
+picture as the useful tool for the calculation of such string amplitudes. We
+carry out the calculations in all orders of brane massless excitations and
+obtain the Myers-Chern-Simons action. Our goal is to present the calculations
+in full technical details and specify the approximation in which one obtains
+the action in question.
+</abstract>

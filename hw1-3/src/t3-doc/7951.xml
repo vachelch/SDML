@@ -1,0 +1,25 @@
+<date>
+Tue, 21 Nov 1995 16:31:11 +0100 (MET)
+</date>
+
+<title>
+Uniqueness of the Freedman-Townsend Interaction Vertex For Two-Form
+  Gauge Fields
+</title>
+
+<abstract>
+  Let $B_{\mu \nu }^a$ ($a=1,...,N$) be a system of $N$ free two-form gauge
+fields, with field strengths $H_{\mu \nu \rho }^a = 3 \partial _{[\mu }B_{\nu
+\rho ]}^a$ and free action $S_0$ equal to $(-1/12)\int d^nx\ g_{ab}H_{\mu \nu
+\rho }^aH^{b\mu \nu \rho }$ ($n\geq 4$). It is shown that in $n>4$ dimensions,
+the only consistent local interactions that can be added to the free action are
+given by functions of the field strength components and their derivatives (and
+the Chern-Simons forms in $5$ mod $3$ dimensions). These interactions do not
+modify the gauge invariance $B_{\mu \nu }^a\rightarrow B_{\mu \nu }^a+\partial
+_{[\mu }\Lambda _{\nu ]}$ of the free theory. By contrast, there exist in $n=4$
+dimensions consistent interactions that deform the gauge symmetry of the free
+theory in a non trivial way. These consistent interactions are uniquely given
+by the well-known Freedman-Townsend vertex. The method of proof uses the
+cohomological techniques developed recently in the Yang-Mills context to
+establish theorems on the structure of renormalized gauge-invariant operators.
+</abstract>

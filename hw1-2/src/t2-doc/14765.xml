@@ -1,0 +1,23 @@
+<title>
+On the Relationship between Yang-Mills Theory and Gravity and its
+  Implication for Ultraviolet Divergences
+</title>
+
+<abstract>
+  String theory implies that field theories containing gravity are in a certain
+sense `products' of gauge theories. We make this product structure explicit up
+to two loops for the relatively simple case of N=8 supergravity four-point
+amplitudes, demonstrating that they are `squares' of N=4 super-Yang-Mills
+amplitudes. This is accomplished by obtaining an explicit expression for the
+$D$-dimensional two-loop contribution to the four-particle S-matrix for N=8
+supergravity, which we compare to the corresponding N=4 Yang-Mills result. From
+these expressions we also obtain the two-loop ultraviolet divergences in
+dimensions D=7 through D=11. The analysis relies on the unitarity cuts of the
+two theories, many of which can be recycled from a one-loop computation. The
+two-particle cuts, which may be iterated to all loop orders, suggest that
+squaring relations between the two theories exist at any loop order. The
+loop-momentum power-counting implied by our two-particle cut analysis indicates
+that in four dimensions the first four-point divergence in N=8 supergravity
+should appear at five loops, contrary to the earlier expectation, based on
+superspace arguments, of a three-loop counterterm.
+</abstract>

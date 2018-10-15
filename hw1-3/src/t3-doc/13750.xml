@@ -1,0 +1,21 @@
+<date>
+Tue, 13 Jul 1999 01:45:39 GMT
+</date>
+
+<title>
+Mass generation without phase coherence in the Chiral Gross-Neveu Model
+  at finite temperature and small N in 2+1 dimensions
+</title>
+
+<abstract>
+  The chiral Gross-Neveu model is one of the most popular toy models for QCD.
+In the past, it has been studied in detail in the large-N limit. In this paper
+we study its small-N behavior at finite temperature in 2+1 dimensions. We show
+that at small N the phase diagram of this model is {\it principally} different
+from its behavior at $N\to \infty$. We show that for a small number $N$ of
+fermions the model possesses two characteristic temperatures $T_{KT}$ and
+$T^*$. That is, at small N, along with a quasiordered phase $0<T<T_{KT}$ the
+system possesses a very large region of precursor fluctuations $T_{KT}<T<T^*$
+which disappear only at a temperature $T^*$, substantially higher than the
+temperature $T_{KT}$ of Kosterlitz-Thouless transition.
+</abstract>

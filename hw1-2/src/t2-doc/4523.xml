@@ -1,0 +1,22 @@
+<title>
+Generalized Pauli-Villars Regularization and the Covariant Form of
+  Anomalies
+</title>
+
+<abstract>
+  In the generalized Pauli-Villars regularization of chiral gauge theory
+proposed by Frolov and Slavnov , it is important to specify how to sum the
+contributions from an infinite number of regulator fields. It is shown that an
+explicit sum of contributions from an infinite number of fields in anomaly-free
+gauge theory essentially results in a specific choice of regulator in the past
+formulation of covariant anomalies. We show this correspondence by
+reformulating the generalized Pauli- Villars regularization as a regularization
+of composite current operators. We thus naturally understand why the covariant
+fermion number anomaly in the Weinberg-Salam theory is reproduced in the
+generalized Pauli-Villars regularization. A salient feature of the covariant
+regularization,which is not implemented in the lagrangian level in general but
+works for any chiral theory and gives rise to covariant anomalies , is that it
+spoils the Bose symmetry in anomalous theory. The covariant regularization
+however preserves the Bose symmetry as well as gauge invariance in anomaly-free
+gauge theory.
+</abstract>

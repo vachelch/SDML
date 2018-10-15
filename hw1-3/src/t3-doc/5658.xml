@@ -1,0 +1,19 @@
+<date>
+Sat, 1 Aug 1998 09:34:44 GMT
+</date>
+
+<title>
+Greybody Factors in the $AdS_3$/CFT Correspondence
+</title>
+
+<abstract>
+  We propose a new method to calculate the greybody factor in the $AdS_3$. This
+is based on both the non-normalizable modes of a test field($\Phi_i$) and
+$AdS_3$/CFT correspondence. Such non-normalizable modes serve as classical,
+non-fluctuating background and encode the choice of operator insertion(${\cal
+O}^i$) in the boundary. Actually specifying the boundary condition at infinity
+of $AdS_3$ corresponds to turning on these non-normalizable modes. Hence we can
+calculate the greybody factor of test fields without the Dirichlet(or Neumann)
+boundary condition. The result is consistent with those of the boundary CFT and
+effective string calculations.
+</abstract>

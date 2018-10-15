@@ -1,0 +1,25 @@
+<date>
+Mon, 9 Nov 1998 19:54:48 GMT
+</date>
+
+<title>
+Super Yang-Mills at Weak, Intermediate and Strong Coupling
+</title>
+
+<abstract>
+  We consider three dimensional SU(N) N=1 super-Yang-Mills compactified on the
+space-time R X S^1 X S^1. In particular, we compactify the light-cone
+coordinate x^- on a light-like circle via DLCQ, and wrap the remaining
+transverse coordinate on a spatial circle. By retaining only the first few
+excited modes in the transverse direction, we are able to solve for bound state
+wave functions and masses numerically by diagonalizing the discretized
+light-cone supercharge. This regularization of the theory is shown to preserve
+supersymmetry. We plot bound state masses as a function of the coupling,
+showing the transition in particle masses as we move from a weakly to a
+strongly-coupled theory. We analyze both numerically and analytically massless
+states which exist only in the limit of strong or weak gauge coupling. In
+addition, we find massless states that persist for all values of the gauge
+coupling. An analytical treatment of these massless states is provided.
+Interestingly, in the strong coupling limit, these massless states become
+string-like.
+</abstract>

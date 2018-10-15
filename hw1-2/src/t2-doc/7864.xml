@@ -1,0 +1,15 @@
+<title>
+The interplay between mass, volume, \theta, and <\psibar\psi> in
+  N-flavor QED_2
+</title>
+
+<abstract>
+  The Schwinger model (QED_2) with N flavors of massive fermions on a circle of
+circumference L, or equivalently at finite temperature T, is reduced to a
+quantum mechanical system of N-1 degrees of freedom. With degenerate fermion
+masses (m) the chiral condensate develops a cusp singularity at $\theta=\pm
+\pi$ in the limit L -> $\infty$ or T -> 0, which is removed by a large
+asymmetry in the fermion masses. Physical quantities sensitively depend on the
+parameter mL or m/T, and the m -> 0 and L -> $\infty$ (or T -> 0) limits do not
+commute. A detailed analysis is given for N=3.
+</abstract>

@@ -1,0 +1,28 @@
+<date>
+Mon, 3 Mar 2003 10:48:53 GMT
+</date>
+
+<title>
+Holomorphic matrix models
+</title>
+
+<abstract>
+  This is a study of holomorphic matrix models, the matrix models which
+underlie the conjecture of Dijkgraaf and Vafa. I first give a systematic
+description of the holomorphic one-matrix model. After discussing its
+convergence sectors, I show that certain puzzles related to its perturbative
+expansion admit a simple resolution in the holomorphic set-up. Constructing a
+`complex' microcanonical ensemble, I check that the basic requirements of the
+conjecture (in particular, the special geometry relations involving chemical
+potentials) hold in the absence of the hermicity constraint. I also show that
+planar solutions of the holomorphic model probe the entire moduli space of the
+associated algebraic curve. Finally, I give a brief discussion of holomorphic
+$ADE$ models, focusing on the example of the $A_2$ quiver, for which I extract
+explicitly the relevant Riemann surface. In this case, use of the holomorphic
+model is crucial, since the Hermitian approach and its attending regularization
+would lead to a singular algebraic curve, thus contradicting the requirements
+of the conjecture. In particular, I show how an appropriate regularization of
+the holomorphic $A_2$ model produces the desired smooth Riemann surface in the
+limit when the regulator is removed, and that this limit can be described as a
+statistical ensemble of `reduced' holomorphic models.
+</abstract>

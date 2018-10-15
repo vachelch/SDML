@@ -1,0 +1,16 @@
+<title>
+A superspace formulation of the BV action
+</title>
+
+<abstract>
+  We show that the BV (Batalin Vilkovisky) action, formulated with an extended
+BRST symmetry (including the shift symmetry), is also invariant under an
+extended anti-BRST transformation (where the antifields are the parameters of
+the transformation), when the gauge fixing Lagrangian is both BRST and
+anti-BRST invariant. We show that for a general gauge fixing Lagrangian, the BV
+action can be written in a manifestly extended BRST invariant manner in a
+superspace with one Grassmann coordinate whereas it can be expressed in a
+manifestly extended BRST and anti-BRST invariant manner in a superspace with
+two Grassmann coordinates when the gauge fixing Lagrangian is invariant under
+both BRST and anti-BRST transformations.
+</abstract>

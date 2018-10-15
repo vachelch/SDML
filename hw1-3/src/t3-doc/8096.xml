@@ -1,0 +1,19 @@
+<date>
+Mon, 8 Jul 1996 14:55:24 +0200
+</date>
+
+<title>
+The SU(n)_1 WZW Models: Spinon Decomposition and Yangian Structure
+</title>
+
+<abstract>
+  We present a `spinon formulation' of the $SU(n)_1$ Wess-Zumino-Witten models.
+Central to this approach are a set of massless quasi-particles, called
+`spinons', which transform in the representation ${\bf \bar{n}}$ of $su(n)$ and
+carry fractional statistics of angle $\theta = \pi/n$. Multi-spinon states are
+grouped into irreducible representations of the yangian $Y(sl_n)$. We give
+explicit results for the $su(n)$ content of these yangian representations and
+present $N$-spinon cuts of the WZW character formulas. As a by-product, we
+obtain closed expressions for characters of the $su(n)$ Haldane-Shastry spin
+chains.
+</abstract>

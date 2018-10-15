@@ -1,0 +1,32 @@
+<date>
+Fri, 19 Apr 1996 01:23:22 -0400
+</date>
+
+<title>
+Realizing Higher-Level Gauge Symmetries in String Theory: New Embeddings
+  for String GUTs
+</title>
+
+<abstract>
+  We consider the methods by which higher-level and non-simply laced gauge
+symmetries can be realized in free-field heterotic string theory. We show that
+all such realizations have a common underlying feature, namely a dimensional
+truncation of the charge lattice, and we identify such dimensional truncations
+with certain irregular embeddings of higher-level and non-simply laced gauge
+groups within level-one simply-laced gauge groups. This identification allows
+us to formulate a direct mapping between a given subgroup embedding, and the
+sorts of GSO constraints that are necessary in order to realize the embedding
+in string theory. This also allows us to determine a number of useful
+constraints that generally affect string GUT model-building. For example, most
+string GUT realizations of higher-level gauge symmetries G_k employ the
+so-called diagonal embeddings G_k\subset G\times G \times...\times G. We find
+that there exist interesting alternative embeddings by which such groups can be
+realized at higher levels, and we derive a complete list of all possibilities
+for the GUT groups SU(5), SU(6), SO(10), and E_6 at levels k=2,3,4 (and in some
+cases up to k=7). We find that these new embeddings are always more efficient
+and require less central charge than the diagonal embeddings which have
+traditionally been employed. As a byproduct, we also prove that it is
+impossible to realize SO(10) at levels k>4. This implies, in particular, that
+free-field heterotic string models can never give a massless 126 representation
+of SO(10).
+</abstract>

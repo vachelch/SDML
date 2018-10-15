@@ -1,0 +1,32 @@
+<date>
+Fri, 22 Nov 2002 19:13:12 GMT
+</date>
+
+<title>
+Noncommutative Chiral Anomaly and the Dirac-Ginsparg-Wilson Operator
+</title>
+
+<abstract>
+  It is shown that local axial anomaly in $2-$dimensions emerges naturally in
+the {\it gauge-invariant quantized} Ginsparg-Wilson relation if one postulates
+an underlying noncommutative structure of spacetime . Indeed if one first
+regularizes the $2-$d plane with a fuzzy sphere, i.e with a $(2l+1)
+{\times}(2l+1)$ matrix model, then one immediately finds that the
+gauge-invariant Dirac operator $D_{GF}$ is different from the chiral-invariant
+Dirac operator $D_{CF}$ . The fact that gauge states are different from chiral
+states stems from the free noncommutative Dirac operator $D_F$ which is found
+to be inconsistent with chiral symmetry at high frequencies . Furthermore it
+splits such that $\frac{1}{D_F}={\theta}{\Gamma}^R+\frac{1} {D_{\Lambda}}$
+where $\theta=\frac{1}{2l+1}$ is the noncommutativity parameter, ${\Gamma}^R$
+is the noncommutative chirality and $D_{\Lambda}$ is identified as the correct
+Dirac operator on this matrix model . $D_{\Lambda}$ has essentially the same IR
+spectrum as $D_{F}$, both operators share the same continuum limit yet
+$D_{\Lambda}$ is consistent with chiral symmetry on the UV modes . The second
+step of this fuzzy regularization consists simply of approximating the exact
+Dirac operator $D_{F}$ with $D_{\Lambda}$ . This regularization is shown to be
+gauge-invariant and yields to an anomaly which in terms of Dirac operators
+depends only on the difference $\frac{1}{D_F}-\frac{1}{D_{\Lambda}}$ . Although
+the difference ${\theta}{\Gamma}^R$ drops from the spectrum in the limit, its
+contribution to the variation of the measure is shown to be not zero, it gives
+exactly the canonical anomaly .
+</abstract>

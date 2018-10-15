@@ -1,0 +1,20 @@
+<title>
+BF models, Duality and Bosonization on higher genus surfaces
+</title>
+
+<abstract>
+  The generating functional of two dimensional $BF$ field theories coupled to
+fermionic fields and conserved currents is computed in the general case when
+the base manifold is a genus g compact Riemann surface. The lagrangian density
+$L=dB{\wedge}A$ is written in terms of a globally defined 1-form $A$ and a
+multi-valued scalar field $B$. Consistency conditions on the periods of $dB$
+have to be imposed. It is shown that there exist a non-trivial dependence of
+the generating functional on the topological restrictions imposed to $B$. In
+particular if the periods of the $B$ field are constrained to take values $4\pi
+n$, with $n$ any integer, then the partition function is independent of the
+chosen spin structure and may be written as a sum over all the spin structures
+associated to the fermions even when one started with a fixed spin structure.
+These results are then applied to the functional bosonization of fermionic
+fields on higher genus surfaces. A bosonized form of the partition function
+which takes care of the chosen spin structure is obtained
+</abstract>

@@ -1,0 +1,21 @@
+<date>
+Wed, 28 Jun 1995 0:32:39 +0200 (WET-DST)
+</date>
+
+<title>
+Koebe 1/4-Theorem and Inequalities in N=2 Super-QCD
+</title>
+
+<abstract>
+  The critical curve ${\cal C}$ on which ${\rm Im}\,\hat\tau =0$,
+$\hat\tau=a_D/a$, determines hyperbolic domains whose Poincar\'e metric is
+constructed in terms of $a_D$ and $a$. We describe ${\cal C}$ in a parametric
+form related to a Schwarzian equation and prove new relations for $N=2$ Super
+$SU(2)$ Yang-Mills. In particular, using the Koebe 1/4-theorem and Schwarz's
+lemma, we obtain inequalities involving $u$, $a_D$ and $a$, which seem related
+to the Renormalization Group. Furthermore, we obtain a closed form for the
+prepotential as function of $a$. Finally, we show that $\partial_{\hat\tau}
+\langle {\rm tr}\,\phi^2\rangle_{\hat \tau}={1\over 8\pi i b_1}\langle
+\phi\rangle_{\hat\tau}^2$, where $b_1$ is the one-loop coefficient of the beta
+function.
+</abstract>

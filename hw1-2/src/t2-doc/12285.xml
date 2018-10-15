@@ -1,0 +1,17 @@
+<title>
+The topological susceptibility of QCD: from Minkowskian to Euclidean
+  theory
+</title>
+
+<abstract>
+  We show how the topological susceptibility in the Minkowskian theory of QCD
+is related to the corresponding quantity in the Euclidean theory, which is
+measured on the lattice. We discuss both the zero-temperature case (T = 0) and
+the finite-temperature case (T > 0). It is shown that the two quantities are
+equal when T = 0, while the relation between them is much less trivial when T >
+0. The possible existence of ``Kogut-Susskind poles'' in the matrix elements of
+the topological charge density between states with equal four-momenta turns out
+to invalidate the equality of these two quantities in a strict sense. However,
+an equality relation is recovered after one re-defines the Minkowskian
+topological susceptibility by using a proper infrared regularization.
+</abstract>

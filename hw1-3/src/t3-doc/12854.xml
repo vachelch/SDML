@@ -1,0 +1,34 @@
+<date>
+Sun, 23 Feb 1997 03:53:32 +0100 (MET)
+</date>
+
+<title>
+Exact renormalization group analysis in Hamiltonian theory: I. QED
+  Hamiltonian on the light front
+</title>
+
+<abstract>
+  The infinitesimal unitary transformation, introduced recently by F.Wegner, to
+bring the Hamiltonian to diagonal (or band diagonal) form, is applied to the
+Hamiltonian theory as an exact renormalization scheme. We consider QED on the
+light front to illustrate the method. The low-energy generated interaction,
+induced in the renormalized Hamiltonian to the order \alpha, is shown to be
+negative to insure together with instantaneous term and perturbative photon
+exchange the bound states for positronium. It is possible to perform the
+complete complete elimination of the ee\gamma-vertex in the instant form frame;
+this gives rise to the cutoff independent e\bar{e}-interaction governed by
+generated and instantaneous terms. The well known result for the
+singlet-triplet splitting $7/6 \alpha^2 Ryd$ is recovered in the
+nonrelativistic limit as long as $\la << m$.
+  We examine the mass and wave function renormalization. The ultraviolet
+divergencies, associated with a large transverse momentum, are regularized by
+the regulator arising from the unitary transformation. The severe infrared
+divergencies are removed if all diagrams to the second order, arising from flow
+equations method and normal-ordering Hamiltonian, are taken into account. The
+electron (photon) mass in the renormalized Hamiltonian vary with UV cutoff in
+accordance with 1-loop renormalization group equations.This indicates to an
+intimete connection between Wilson's renormalization and the flow equation
+method.
+  The advantages of the method in comparison with the naive renormalisation
+group approach are discussed.
+</abstract>

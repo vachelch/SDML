@@ -1,0 +1,27 @@
+<date>
+Tue, 3 Apr 2001 08:20:33 GMT
+</date>
+
+<title>
+Loop Equation and Wilson line Correlators in Non-commutative Gauge
+  Theories
+</title>
+
+<abstract>
+  We investigate Schwinger-Dyson equations for correlators of Wilson line
+operators in non-commutative gauge theories. We point out that, unlike what
+happens for closed Wilson loops, the joining term survives in the planar
+equations. This fact may be used to relate the correlator of an arbitrary
+number of Wilson lines eventually to a set of {\it closed} Wilson loops,
+obtained by joining the individual Wilson lines together by a series of
+well-defined cutting and joining manipulations. For closed loops, we find that
+the non-planar contributions do not have a smooth limit in the limit of
+vanishing non-commutativity and hence the equations do not reduce to their
+commutative counterparts. We use the Schwinger-Dyson equations to derive loop
+equations for the correlators of Wilson observables. In the planar limit, this
+gives us a {\it new} loop equation which relates the correlators of Wilson
+lines to the expectation values of closed Wilson loops. We discuss perturbative
+verification of the loop equation for the 2-point function in some detail. We
+also suggest a possible connection between Wilson line based on an arbitrary
+contour and the string field of closed string.
+</abstract>

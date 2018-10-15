@@ -1,0 +1,13 @@
+<title>
+On the algebraic approach to cubic lattice Potts models
+</title>
+
+<abstract>
+  We consider Diagram algebras, $\Dg(G)$ (generalized Temperley-Lieb algebras)
+defined for a large class of graphs $G$, including those of relevance for cubic
+lattice Potts models, and study their structure for generic $Q$. We find that
+these algebras are too large to play the precisely analogous role in three
+dimensions to that played by the Temperley-Lieb algebras for generic $Q$ in the
+planar case. We outline measures to extract the quotient algebra that would
+illuminate the physics of three dimensional Potts models.
+</abstract>

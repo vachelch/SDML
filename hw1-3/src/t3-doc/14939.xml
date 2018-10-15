@@ -1,0 +1,28 @@
+<date>
+Fri, 17 Oct 1997 21:37:21 GMT
+</date>
+
+<title>
+Lagrangian and Covariant Field Equations for Supersymmetric Yang-Mills
+  Theory in 12D
+</title>
+
+<abstract>
+  We present a lagrangian formulation for recently-proposed supersymmetric
+Yang-Mills theory in twelve dimensions. The field content of our multiplet has
+an additional auxiliary vector field in the adjoint representation. The usual
+Yang-Mills field strength is modified by a Chern-Simons form containing this
+auxiliary vector field. This formulation needs no constraint imposed on the
+component field from outside, and a constraint on the Yang-Mills field is
+generated as the field equation of the auxiliary vector field. The invariance
+check of the action is also performed without any reference to constraints by
+hand. Even though the total lagrangian takes a simple form, it has several
+highly non-trivial extra symmetries. We couple this twelve-dimensional
+supersymmetric Yang-Mills background to Green-Schwarz superstring, and confirm
+fermionic kappa-invariance. As another improvement of this theory, we present a
+set of fully Lorentz-covariant and supercovariant field equations with no use
+of null-vectors. This system has an additional scalar field, whose gradient
+plays a role of the null-vector. This system exhibits spontaneous breaking of
+the original Lorentz symmetry SO(10,2) for twelve-dimensions down to SO(9,1)
+for ten-dimensions.
+</abstract>

@@ -1,0 +1,20 @@
+<date>
+Fri, 7 Jun 96 11:35:19 +0100
+</date>
+
+<title>
+QED in inhomogeneous magnetic fields
+</title>
+
+<abstract>
+  A lower bound is placed on the fermionic determinant of Euclidean quantum
+electrodynamics in three dimensions in the presence of a smooth, finite--flux,
+static, unidirectional magnetic field
+$\mathbf{B}(\mathbf{r})=(0,0,B(\mathbf{r}))$, where $B(\mathbf{r})\geq 0$ or
+$B(\mathbf{r})\leq 0$ and $\mathbf r$ is a point in the $xy\mbox{-plane}$.
+Bounds are also obtained for the induced spin for $2+1$ dimensional QED in the
+presence of $\mathbf{B}(\mathbf{r})$. An upper bound is placed on the fermionic
+determinant of Euclidean QED in four dimensions in the presence of a strong,
+static, directionally-varying, square-integrable magnetic field
+$\mathbf{B}(\mathbf{r})$ on $\R^3 $.
+</abstract>

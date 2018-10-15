@@ -1,0 +1,24 @@
+<date>
+Thu, 20 Mar 2003 14:15:34 GMT
+</date>
+
+<title>
+Gauge Invariant Regularization of Quantum Field Theory on the
+  Light-Front
+</title>
+
+<abstract>
+  Gauge invariant regularization of quantum field theory in the framework of
+Light-Front (LF) Hamiltonian formalism via introducing a lattice in transverse
+coordinates and imposing boundary conditions in LF coordinate $x^-$ for gauge
+fields on the interval $|x^-|\le L$ is considered. The remaining ultraviolet
+divergences in the longitudinal momentum $p_-$ are removed by gauge invariant
+finite mode regularization. We find that LF canonical formalism for the
+introduced regularization does not contain usual most complicated second class
+constraints connecting zero and nonzero modes of gauge fields. The described
+scheme can be used either for the regularization of conventional gauge theory
+or for gauge invariant formulation of effective low-energy models on the LF.
+The lack of explicit Lorentz invariance in our approach leads to difficulty
+with defining the vacuum state. We discuss this difficulty, particulary, in the
+connection with the problem of taking the limit of continuous space.
+</abstract>

@@ -1,0 +1,22 @@
+<date>
+Thu, 25 May 2000 18:37:42 GMT
+</date>
+
+<title>
+Optimisation of the exact renormalisation group
+</title>
+
+<abstract>
+  A simple criterion to optimise coarse-grainings for exact renormalisation
+group equations is given. It is aimed at improving the convergence of
+approximate solutions of flow equations. The optimisation criterion is generic,
+as it refers only to the coarse-grained propagator at vanishing field. In
+physical terms, it is understood as an optimisation condition for amplitude
+expansions. Alternatively, it can be interpreted as the requirement to move
+poles of threshold functions away from the physical region. The link to
+expansions in field amplitudes is discussed as well. Optimal parameters are
+given explicitly for a variety of different coarse-grainings. As a by-product
+it is found that the sharp cut-off regulator does not belong to the class of
+such optimal coarse-grainings, which explains the poor convergence of amplitude
+expansions based on it.
+</abstract>

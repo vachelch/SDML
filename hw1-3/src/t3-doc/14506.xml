@@ -1,0 +1,29 @@
+<date>
+Wed, 13 Feb 2002 16:59:39 GMT
+</date>
+
+<title>
+Critical properties of $\Phi^4_{1+1}$-theory in Light-Cone Quantization
+</title>
+
+<abstract>
+  The dynamics of the phase transition of the continuum $\Phi
+^{4}_{1+1}$-theory in Light Cone Quantization is reexamined taking into account
+fluctuations of the order parameter $< \Phi >$ in the form of dynamical zero
+mode operators (DZMO) which appear in a natural way via the Haag expansion of
+the field $\Phi (x)$ of the interacting theory. The inclusion of the DZM-sector
+changes significantly the value of the critical coupling, bringing it in
+agreement within 2% with the most recent Monte-Carlo and high
+temperature/strong coupling estimates. The critical slowing down of the DZMO
+governs the low momentum behavior of the dispersion relation through invariance
+of this DZMO under conformal transformations preserving the local light cone
+structure. The critical exponent $\eta$ characterising the scaling behaviour at
+$k^2 \to 0$ comes out in agreement with the known value 0.25 of the Ising
+universality class. $\eta$ is made of two contributions: one, analytic $(75 %$)
+and another (25%) which can be evaluated only numerically with an estimated
+error of 3%. The $\beta$-function is then found from the non-perturbative
+expression of the physical mass. It is non-analytic in the coupling constant
+with a critical exponent $\omega=2$. However, at D=2, $\omega$ is not
+parametrisation independent with respect to the space of coupling constants due
+to this strong non-analytic behaviour.
+</abstract>

@@ -1,0 +1,28 @@
+<date>
+Wed, 22 Nov 1995 14:06:56 CST
+</date>
+
+<title>
+Supermembranes with fewer supersymmetries
+</title>
+
+<abstract>
+  The usual supermembrane solution of $D=11$ supergravity interpolates between
+$R^{11}$ and $AdS_4 \times round~S^7$, has symmetry $P_3 \times SO(8)$ and
+preserves $1/2$ of the spacetime supersymmetries for either orientation of the
+round $S^7$. Here we show that more general supermembrane solutions may be
+obtained by replacing the round $S^7$ by any seven-dimensional Einstein space
+$M^7$. These have symmetry $P_3 \times G$, where $G$ is the isometry group of
+$M^7$. For example, $G=SO(5) \times SO(3)$ for the squashed $S^7$. For one
+orientation of $M^7$, they preserve $N/16$ spacetime supersymmetries where
+$1\leq N \leq 8$ is the number of Killing spinors on $M^7$; for the opposite
+orientation they preserve no supersymmetries since then $M^7$ has no Killing
+spinors. For example $N=1$ for the left-squashed $S^7$ owing to its $G_2$ Weyl
+holonomy, whereas $N=0$ for the right-squashed $S^7$. All these solutions
+saturate the same Bogomol'nyi bound between the mass and charge. Similar
+replacements of $S^{D-p-2}$ by Einstein spaces $M^{D-p-2}$ yield new super
+$p$-brane solutions in other spacetime dimensions $D\leq 11$. In particular,
+simultaneous dimensional reduction of the above $D=11$ supermembranes on $S^1$
+leads to a new class of $D=10$ elementary string solutions which also have
+fewer supersymmetries.
+</abstract>

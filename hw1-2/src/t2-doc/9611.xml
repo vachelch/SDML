@@ -1,0 +1,20 @@
+<title>
+Infrared divergence in QED$_3$ at finite temperature
+</title>
+
+<abstract>
+  We consider various ways of treating the infrared divergence which appears in
+the dynamically generated fermion mass, when the transverse part of the photon
+propagator in N flavour $QED_{3}$ at finite temperature is included in the
+Matsubara formalism. This divergence is likely to be an artefact of taking into
+account only the leading order term in the $1 \over N$ expansion when we
+calculate the photon propagator and is handled here phenomenologically by means
+of an infrared cutoff. Inserting both the longitudinal and the transverse part
+of the photon propagator in the Schwinger-Dyson equation we find the dependence
+of the dynamically generated fermion mass on the temperature and the cutoff
+parameters. It turns out that consistency with certain statistical physics
+arguments imposes conditions on the cutoff parameters. For parameters in the
+allowed range of values we find that the ratio $r=2*Mass(T=0)/critical
+temperature$ is approximately 6, consistently with previous calculations which
+neglected the transverse photon contribution.
+</abstract>

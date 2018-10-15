@@ -1,0 +1,22 @@
+<date>
+Thu, 30 Apr 1998 16:30:09 GMT
+</date>
+
+<title>
+Bosonized Massive N-flavor Schwinger Model
+</title>
+
+<abstract>
+  The massive N-flavor Schwinger model is analyzed by the bosonization method.
+The problem is reduced to the quantum mechanics of N degrees of freedom in
+which the potential needs to be self-consistently determined by its
+ground-state wave function and spectrum with given values of the $\theta$
+parameter, fermion masses, and temperature. Boson masses and fermion chiral
+condensates are evaluated. In the N=1 model the anomalous behavior is found at
+$\theta \sim \pi$ and $m/\mu \sim 0.4$. In the N=3 model an asymmetry in
+fermion masses $(m_1 < m_2 \ll m_3)$ removes the singularity at $\theta=\pi$
+and T=0. The chiral condensates at $\theta=0$ are insensitive to the asymmetry
+in fermion masses, but are significantly sensitive at $\theta=\pi$. The
+resultant picture is similar to that obtained in QCD by the chiral Lagrangian
+method.
+</abstract>

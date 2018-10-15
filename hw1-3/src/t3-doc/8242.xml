@@ -1,0 +1,28 @@
+<date>
+Wed, 5 Jun 1996 17:49:58 -0400 (EDT)
+</date>
+
+<title>
+Unified Einstein-Virasoro Master Equation in the General Non-Linear
+  Sigma Model
+</title>
+
+<abstract>
+  The Virasoro master equation (VME) describes the general affine-Virasoro
+construction $T=L^{ab}J_aJ_b+iD^a \dif J_a$ in the operator algebra of the WZW
+model, where $L^{ab}$ is the inverse inertia tensor and $D^a $ is the
+improvement vector. In this paper, we generalize this construction to find the
+general (one-loop) Virasoro construction in the operator algebra of the general
+non-linear sigma model. The result is a unified Einstein-Virasoro master
+equation which couples the spacetime spin-two field $L^{ab}$ to the background
+fields of the sigma model. For a particular solution $L_G^{ab}$, the unified
+system reduces to the canonical stress tensors and conventional Einstein
+equations of the sigma model, and the system reduces to the general
+affine-Virasoro construction and the VME when the sigma model is taken to be
+the WZW action. More generally, the unified system describes a space of
+conformal field theories which is presumably much larger than the sum of the
+general affine-Virasoro construction and the sigma model with its canonical
+stress tensors. We also discuss a number of algebraic and geometrical
+properties of the system, including its relation to an unsolved problem in the
+theory of $G$-structures on manifolds with torsion.
+</abstract>

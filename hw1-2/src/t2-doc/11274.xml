@@ -1,0 +1,19 @@
+<title>
+Bulk and Boundary S Matrices for the SU(N) Chain
+</title>
+
+<abstract>
+  We consider both closed and open integrable antiferromagnetic chains
+constructed with the SU(N)-invariant R matrix. For the closed chain, we extend
+the analyses of Sutherland and Kulish-Reshetikhin by considering also complex
+``string'' solutions of the Bethe Ansatz equations. Such solutions are
+essential to describe general multiparticle excited states. We also explicitly
+determine the SU(N) quantum numbers of the states. In particular, the model has
+particle-like excitations in the fundamental representations [k] of SU(N), with
+k = 1, ..., N-1. We directly compute the complete two-particle S matrices for
+the cases [1] X [1] and [1] X [N-1]. For the open chain with diagonal boundary
+fields, we show that the transfer matrix has the symmetry SU(l) X SU(N-l) X
+U(1), as well as a new ``duality'' symmetry which interchanges l and N - l.
+With the help of these symmetries, we compute by means of the Bethe Ansatz for
+particles of types [1] and [N-1] the corresponding boundary S matrices.
+</abstract>

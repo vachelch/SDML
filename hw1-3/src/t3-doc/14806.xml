@@ -1,0 +1,17 @@
+<date>
+Fri, 9 Apr 93 19:39:55 +0900
+</date>
+
+<title>
+c=1 String as a Topological Model
+</title>
+
+<abstract>
+  The discrete states in the $c=1$ string are shown to be the physical states
+of a certain topological sigma model. We define a set of new fields directly
+from $c=1$ variables, in terms of which the BRST charge and energy-momentum
+tensor are rewritten as those of the topological sigma model. Remarkably,
+ground ring generator $x$ turns out to be a coordinate of the sigma model. All
+of the discrete states realize a graded ring which contains ground ring as a
+subset.
+</abstract>

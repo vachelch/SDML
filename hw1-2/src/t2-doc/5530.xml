@@ -1,0 +1,22 @@
+<title>
+Inequalities for trace anomalies, length of the RG flow, distance
+  between the fixed points and irreversibility
+</title>
+
+<abstract>
+  I argue that in quantum field theory: i) the scheme-invariant area Delta(a')
+of the graph of the effective beta function between the fixed points defines
+the length of the RG flow; ii) the minimum of Delta(a') in the space of flows
+connecting the same UV and IR fixed points defines the (oriented) distance
+between the fixed points; iii) in even dimensions, the distance between the
+fixed points is equal to Delta(a)=a_UV-a_IR. These statements imply, in even
+dimensions, the inequalities 0 =< Delta(a) =< Delta(a'), the irreversibility of
+the RG flow and the inequality a =< c for free scalars and fermions (but not
+vectors). I elaborate the axiomatic set-up of irreversibility, based on the
+notion of oriented distance and the "oriented-triangle inequalities". I show
+that these axioms imply the irreversibility of the RG flow without a global "a"
+function. I argue that the RG flow is irreversible in odd dimensions (without a
+global "a" function) and, in support of this, I check the axioms of
+irreversibility in a class of d=3 theories where the RG flow is integrable at
+each order of the large N expansion.
+</abstract>

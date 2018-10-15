@@ -1,0 +1,26 @@
+<date>
+Sat, 4 Aug 2001 10:42:25 GMT
+</date>
+
+<title>
+Solvability of the $F_4$ Integrable System
+</title>
+
+<abstract>
+  It is shown that the $F_4$ rational and trigonometric integrable systems are
+exactly-solvable for {\it arbitrary} values of the coupling constants. Their
+spectra are found explicitly while eigenfunctions by pure algebraic means. For
+both systems new variables are introduced in which the Hamiltonian has an
+algebraic form being also (block)-triangular. These variables are invariant
+with respect to the Weyl group of $F_4$ root system and can be obtained by
+averaging over an orbit of the Weyl group. Alternative way of finding these
+variables exploiting a property of duality of the $F_4$ model is presented. It
+is demonstrated that in these variables the Hamiltonian of each model can be
+expressed as a quadratic polynomial in the generators of some
+infinite-dimensional Lie algebra of differential operators in a
+finite-dimensional representation. Both Hamiltonians preserve the same flag of
+polynomials and each subspace of the flag coincides with the finite-dimensional
+representation space of this algebra. Quasi-exactly-solvable generalization of
+the rational $F_4$ model depending on two continuous and one discrete
+parameters is found.
+</abstract>

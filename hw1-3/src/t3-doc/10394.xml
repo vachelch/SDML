@@ -1,0 +1,21 @@
+<date>
+Fri, 10 Sep 1999 13:31:58 GMT
+</date>
+
+<title>
+Short distance behaviour of correlators in the 2D Ising model in a
+  magnetic field
+</title>
+
+<abstract>
+  We study the spin-spin, spin-energy and energy-energy correlators in the 2d
+Ising model perturbed by a magnetic field. We compare the results of a set of
+high precision Montecarlo simulations with the predictions of two different
+approximations: the Form Factor approach, based on the exact S-matrix
+description of the model, and a short distance perturbative expansion around
+the conformal point. Both methods give very good results, the first one
+performs better for distances larger than the correlation length, while the
+second one is more precise for distances smaller than the correlation length.
+In order to improve this agreement we extend the perturbative analysis to the
+second order in the derivatives of the OPE constants.
+</abstract>

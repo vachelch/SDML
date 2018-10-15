@@ -1,0 +1,14 @@
+<title>
+Modal expansions and non-perturbative quantum field theory in Minkowski
+  space
+</title>
+
+<abstract>
+  We introduce a spectral approach to non-perturbative field theory within the
+periodic field formalism. As an example we calculate the real and imaginary
+parts of the propagator in 1+1 dimensional phi^4 theory, identifying both
+one-particle and multi-particle contributions. We discuss the computational
+limits of existing diagonalization algorithms and suggest new quasi-sparse
+eigenvector methods to handle very large Fock spaces and higher dimensional
+field theories.
+</abstract>

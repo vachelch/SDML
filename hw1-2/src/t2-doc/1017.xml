@@ -1,0 +1,19 @@
+<title>
+On the Three-Anyon Harmonics
+</title>
+
+<abstract>
+  The 3-anyon problem is studied using a set of variables recently proposed in
+an anyon gauge analysis by Mashkevich, Myrheim, Olaussen, and Rietman (MMOR).
+Boundary conditions to be satisfied by the wave functions in order to render
+the Hamiltonian self-adjoint are derived, and it is found that the boundary
+conditions adopted by MMOR are one of the ways to satisfy these general
+self-adjointness requirements. The possibility of scale-dependent boundary
+conditions is also investigated, in analogy with the corresponding analyses of
+the 2-anyon case. The structure of the known solutions of the 3-anyon in
+harmonic potential problem is discussed in terms of the MMOR variables. Within
+a series expansion in a boson gauge framework the problem of finding any anyon
+wavefunction is reduced to a (possibly infinite) set of algebraic equations,
+whose numerical analysis is proposed as an efficient way to study anyon
+physics.
+</abstract>

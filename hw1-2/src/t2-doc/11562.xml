@@ -1,0 +1,15 @@
+<title>
+Implicit Regularisation Technique: Calculation of the Two-loop
+  $\phi^4_4$-theory $\beta$-function
+</title>
+
+<abstract>
+  We propose an implicit regularisation scheme. The main advantage is that
+since no explicit use of a regulator is made, one can in principle avoid
+undesirable symmetry violations related to its choice. The divergent amplitudes
+are split into basic divergent integrals which depend only on the loop momenta
+and finite integrals. The former can be absorbed by a renormalisation procedure
+whereas the latter can be evaluated without restrictions. We illustrate with
+the calculation of the $QED$ and $\phi^4_4$-theory $\beta$-function to one and
+two-loop order, respectively.
+</abstract>

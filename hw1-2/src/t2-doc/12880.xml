@@ -1,0 +1,16 @@
+<title>
+Boundary dynamics and multiple reflection expansion for Robin boundary
+  conditions
+</title>
+
+<abstract>
+  In the presence of a boundary interaction, Neumann boundary conditions should
+be modified to contain a function S of the boundary fields: (\nabla_N +S)\phi
+=0. Information on quantum boundary dynamics is then encoded in the
+$S$-dependent part of the effective action. In the present paper we extend the
+multiple reflection expansion method to the Robin boundary conditions mentioned
+above, and calculate the heat kernel and the effective action (i) for constant
+S, (ii) to the order S^2 with an arbitrary number of tangential derivatives.
+Some applications to symmetry breaking effects, tachyon condensation and brane
+world are briefly discussed.
+</abstract>

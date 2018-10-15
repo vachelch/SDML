@@ -1,0 +1,19 @@
+<title>
+Givental formula in terms of Virasoro operators
+</title>
+
+<abstract>
+  We present a conjecture that the universal enveloping algebra of differential
+operators $\frac{\p}{\p t_k}$ over $\mathbb{C}$ coincides in the origin with
+the universal enveloping algebra of the (Borel subalgebra of) Virasoro
+generators from the Kontsevich model. Thus, we can decompose any
+(pseudo)differential operator to a combination of the Virasoro operators. Using
+this decomposition we present the r.h.s. of the Givental formula
+math.AG/0008067 as a constant part of the differential operator we introduce.
+In the case of $\mathbb{CP}^1$ studied in hep-th/0103254, the l.h.s. of the
+Givental formula is a unit, which imposes certain constraints on this
+differential operator. We explicitly check that these constraints are correct
+up to $O(q^4)$. We also propose a conjecture of factorization modulo Hirota
+equation of the differential operator introduced and check this conjecture with
+the same accuracy.
+</abstract>

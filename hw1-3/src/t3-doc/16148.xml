@@ -1,0 +1,25 @@
+<date>
+Tue, 5 Jun 2001 19:09:19 GMT
+</date>
+
+<title>
+On the Local Equilibrium Principle
+</title>
+
+<abstract>
+  A physical system should be in a local equilibrium if it cannot be
+distinguished from a global equilibrium by ``infinitesimally localized
+measurements''. This seems to be a natural characterization of local
+equilibrium, however the problem is to give a precise meaning to the
+qualitative phrase ``infinitesimally localized measurements''.
+  A solution is suggested in form of a {\em Local Equilibrium Condition} (LEC)
+which can be applied to non-interacting quanta.
+  The Unruh temperature of massless quanta is derived by applying LEC to an
+arbitrary point inside the Rindler Wedge.
+  Massless quanta outside a hot sphere are analyzed. A stationary spherically
+symmetric local equilibrium does only exist according to LEC if the temperature
+is globally constant.
+  Using LEC a non-trivial stationary local equilibrium is found for rotating
+massless quanta between two concentric cylinders of different temperatures.
+This shows that quanta may behave like a fluid with a B\'enard instability.
+</abstract>

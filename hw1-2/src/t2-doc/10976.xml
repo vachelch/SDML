@@ -1,0 +1,16 @@
+<title>
+NDIM achievements: Massive, Arbitrary tensor rank and N-loop insertions
+  in Feynman integrals
+</title>
+
+<abstract>
+  One of the main difficulties in studying Quantum Field Theory, in the
+perturbative regime, is the calculation of D-dimensional Feynman integrals. In
+general, one introduces the so-called Feynman parameters and associated with
+them the cumbersome parametric integrals. Solving these integrals beyond the
+one-loop level can be a difficult task. Negative dimensional integration method
+(\ndim{}) is a technique whereby such problem is dramatically reduced. In this
+work we present the calculation of two-loop integrals in three diferent cases:
+scalar ones with three diferent masses, massless with arbitrary tensor rank,
+with N-insertions of a 2-loop diagram.
+</abstract>

@@ -1,0 +1,28 @@
+<date>
+Tue, 27 Nov 2001 08:26:53 GMT
+</date>
+
+<title>
+The Heisenberg Matrix Formulation of Quantum Field Theory
+</title>
+
+<abstract>
+  Heisenberg's matrix formulation of quantum mechanics can be generalized to
+relativistic systems by evolving in light-front time tau = t+z/c. The spectrum
+and wavefunctions of bound states, such as hadrons in quantum chromodynamics,
+can be obtained from matrix diagonalization of the light-front Hamiltonian on a
+finite dimensional light-front Fock basis defined using periodic boundary
+conditions in the light-front space coordinates. This method, discretized
+light-cone quantization (DLCQ), preserves the frame-independence of the front
+form even at finite resolution and particle number. Light-front quantization
+can also be used in the Hamiltonian form to construct an event generator for
+high energy physics reactions at the amplitude level. The light-front partition
+function, summed over exponentially-weighted light-front energies, has simple
+boost properties which may be useful for studies in heavy ion collisions. I
+also review recent work which shows that the structure functions measured in
+deep inelastic lepton scattering are affected by final-state rescattering, thus
+modifying their connection to light-front probability distributions. In
+particular, the shadowing of nuclear structure functions is due to destructive
+interference effects from leading-twist diffraction of the virtual photon,
+physics not included in the nuclear light-front wavefunctions.
+</abstract>

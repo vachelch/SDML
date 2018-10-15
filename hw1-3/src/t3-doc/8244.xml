@@ -1,0 +1,26 @@
+<date>
+Sat, 6 Oct 2001 00:30:44 GMT
+</date>
+
+<title>
+On the Spectrum of QCD(1+1) with SU(N_c) Currents
+</title>
+
+<abstract>
+  Extending previous work, we calculate in this note the fermionic spectrum of
+two-dimensional QCD (QCD_2) in the formulation with SU(N_c) currents. Together
+with the results in the bosonic sector this allows to address the as yet
+unresolved task of finding the single-particle states of this theory as a
+function of the ratio of the numbers of flavors and colors, \lambda=N_f/N_c,
+anew. We construct the Hamiltonian matrix in DLCQ formulation as an algebraic
+function of the harmonic resolution K and the continuous parameter \lambda.
+Amongst the more surprising findings in the fermionic sector chiefly considered
+here is that the fermion momentum is a function of \lambda. This dependence is
+necessary in order to reproduce the well-known 't Hooft and large N_f spectra.
+Remarkably, those spectra have the same single-particle content as the ones in
+the bosonic sectors. The twist here is the dramatically different sizes of the
+Fock bases in the two sectors, which makes it possible to interpret in
+principle all states of the discrete approach. The hope is that some of this
+insight carries over into the continuum. We also present some new findings
+concerning the single-particle spectrum of the adjoint theory.
+</abstract>

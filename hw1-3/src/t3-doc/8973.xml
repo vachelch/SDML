@@ -1,0 +1,24 @@
+<date>
+Mon, 8 Apr 96 01:04:10 +0100
+</date>
+
+<title>
+Self-Dual Strings and N=2 Supersymmetric Field Theory
+</title>
+
+<abstract>
+  We show how the Riemann surface $\Sigma$ of $N=2$ Yang-Mills field theory
+arises in type II string compactifications on Calabi-Yau threefolds. The
+relevant local geometry is given by fibrations of ALE spaces. The $3$-branes
+that give rise to BPS multiplets in the string descend to self-dual strings on
+the Riemann surface, with tension determined by a canonically fixed
+Seiberg-Witten differential $\lambda$. This gives, effectively, a dual
+formulation of Yang-Mills theory in which gauge bosons and monopoles are
+treated on equal footing, and represents the rigid analog of type II-heterotic
+string duality. The existence of BPS states is essentially reduced to a
+geodesic problem on the Riemann surface with metric $|\lambda|^2$. This allows
+us, in particular, to easily determine the spectrum of {\it stable} BPS states
+in field theory. Moreover, we identify the six-dimensional space $\IR^4\times
+\Sigma$ as the world-volume of a five-brane and show that BPS states correspond
+to two-branes ending on this five-brane.
+</abstract>

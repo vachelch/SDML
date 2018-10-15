@@ -1,0 +1,16 @@
+<title>
+Hyperbolic Numbers and the Dirac Spinor
+</title>
+
+<abstract>
+  A representation of the Lorentz group is given in terms of 4 X 4 matrices
+defined over the hyperbolic number system. The transformation properties of the
+corresponding four component spinor are studied, and shown to be equivalent to
+the transformation properties of the complex Dirac spinor. As an application,
+we show that there exists an algebra of automorphisms of the complex Dirac
+spinor that leaves the transformation properties of its eight real components
+invariant under any given Lorentz transformation. Interestingly, the
+representation of the Lorentz algebra presented here is naturally embedded in
+the Lie algebra of a group isomorphic to SO(3,3;R) instead of the conformal
+group SO(2,4;R).
+</abstract>

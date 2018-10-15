@@ -1,0 +1,23 @@
+<date>
+Thu, 28 Nov 2002 16:55:48 GMT
+</date>
+
+<title>
+On the unfolding of the fundamental region in integrals of modular
+  invariant amplitudes
+</title>
+
+<abstract>
+  We study generic one-loop (string) amplitudes where an integration over the
+fundamental region F of the modular group is needed. We show how the known
+lattice-reduction technique used to unfold F to a more suitable region S can be
+modified to rearrange generic modular invariant amplitudes. The main aim is to
+unfold F to the strip and, at the same time, to simplify the form of the
+integrand when it is a sum over a finite number of terms, like in one-loop
+amplitudes for closed strings compactified on orbifolds. We give a general
+formula and a recipe to compute modular invariant amplitudes. As an application
+of the technique we compute the one-loop vacuum energy \rho_n for a generic
+\Z_n freely acting orbifold, generalizing the result that this energy is less
+than zero and drives the system to a tachyonic divergence, and that
+\rho_n<\rho_m if n>m.
+</abstract>

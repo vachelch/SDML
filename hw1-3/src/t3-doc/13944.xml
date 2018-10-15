@@ -1,0 +1,14 @@
+<date>
+Fri, 29 Sep 2000 14:48:17 GMT
+</date>
+
+<title>
+BFFT quantization and dynamical solutions of a fluid field theory
+</title>
+
+<abstract>
+  We study a field theory formulation of a fluid mechanical model. We implement
+the Hamiltonian formalism by using the BFFT conjecture in order to build a
+gauge invariant fluid field theory. We also generalize previous known classical
+dynamical field solutions for the fluid model.
+</abstract>

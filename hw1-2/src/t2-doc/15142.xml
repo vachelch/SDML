@@ -1,0 +1,23 @@
+<title>
+Quarter BPS Operators in N=4 SYM
+</title>
+
+<abstract>
+  Chiral primary operators annihilated by a quarter of the supercharges are
+constructed in the four dimensional N=4 Super-Yang-Mills theory with gauge
+group SU(N). These quarter-BPS operators share many non-renormalization
+properties with the previously studied half-BPS operators. However, they are
+much more involved, which renders their construction nontrivial in the fully
+interacting theory. In this paper we calculate order g^2 two-point functions of
+local, polynomial, scalar composite operators within a given representation of
+the SU(4) R-symmetry group. By studying these two-point functions, we identify
+the eigenstates of the dilatation operator, which turn out to be complicated
+mixtures of single and multiple trace operators.
+  Given the elaborate combinatorics of this problem, we concentrate on two
+special cases. First, we present explicit computations for quarter-BPS
+operators with scaling dimension Delta < 8. In this case, the discussion
+applies to arbitrary N of the gauge group. Second, we carry out a leading plus
+subleading large N analysis for the particular class of operators built out of
+double and single trace operators only. The large N construction addresses
+quarter-BPS operators of general dimension.
+</abstract>

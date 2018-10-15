@@ -1,0 +1,21 @@
+<date>
+Wed, 20 Jan 1999 19:38:42 GMT
+</date>
+
+<title>
+Matrix String Theory and its Moduli Space
+</title>
+
+<abstract>
+  The correspondence between Matrix String Theory in the strong coupling limit
+and IIA superstring theory can be shown by means of the instanton solutions of
+the former. We construct the general instanton solutions of Matrix String
+Theory which interpolate between given initial and final string configurations.
+Each instanton is characterized by a Riemann surface of genus h with n
+punctures, which is realized as a plane curve. We study the moduli space of
+such plane curves and find out that, at finite N, it is a discretized version
+of the moduli space of Riemann surfaces: instead of 3h-3+n its complex
+dimensions are 2h-3+n, the remaining h dimensions being discrete. It turns out
+that as $N$ tends to infinity, these discrete dimensions become continuous, and
+one recovers the full moduli space of string interaction theory.
+</abstract>

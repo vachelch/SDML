@@ -1,0 +1,17 @@
+<title>
+The Internal Geometry of an Evaporating Black Hole
+</title>
+
+<abstract>
+  We present a semi-classical model for the formation and evaporation of a four
+dimensional black hole. We solve the equations numerically and obtain solutions
+describing the entire the space-time geometry from the collapse to the end of
+the evaporation. The solutions satisfy the evaporation law: $\dot M \propto
+-M^{-2}$ which confirms dynamically that black holes do evaporate thermally. We
+find that the evaporation process is in fact the shrinking of a throat that
+connects a macroscopic interior ``universe" to the asymptotically flat
+exterior. It ends either by pinching off the throat leaving a closed universe
+and a Minkowskian exterior or by freezing up when the throat's radius
+approaches a Planck size. In either case the macroscopic inner universe is the
+region where the information lost during the evaporation process is hidden.
+</abstract>

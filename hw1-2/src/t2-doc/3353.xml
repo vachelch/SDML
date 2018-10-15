@@ -1,0 +1,25 @@
+<title>
+Gauge Field Theory Coherent States (GCS) : I. General Properties
+</title>
+
+<abstract>
+  In this article we outline a rather general construction of diffeomorphism
+covariant coherent states for quantum gauge theories.
+  By this we mean states $\psi_{(A,E)}$, labelled by a point (A,E) in the
+classical phase space, consisting of canonically conjugate pairs of connections
+A and electric fields E respectively, such that (a) they are eigenstates of a
+corresponding annihilation operator which is a generalization of A-iE smeared
+in a suitable way, (b) normal ordered polynomials of generalized annihilation
+and creation operators have the correct expectation value, (c) they saturate
+the Heisenberg uncertainty bound for the fluctuations of $\hat{A},\hat{E}$ and
+(d) they do not use any background structure for their definition, that is,
+they are diffeomorphism covariant.
+  This is the first paper in a series of articles entitled ``Gauge Field Theory
+Coherent States (GCS)'' which aim at connecting non-perturbative quantum
+general relativity with the low energy physics of the standard model. In
+particular, coherent states enable us for the first time to take into account
+quantum metrics which are excited {\it everywhere} in an asymptotically flat
+spacetime manifold. The formalism introduced in this paper is immediately
+applicable also to lattice gauge theory in the presence of a (Minkowski)
+background structure on a possibly {\it infinite lattice}.
+</abstract>

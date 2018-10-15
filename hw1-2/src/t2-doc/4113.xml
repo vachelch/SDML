@@ -1,0 +1,18 @@
+<title>
+Saddle point solutions in Yang-Mills-dilaton theory
+</title>
+
+<abstract>
+  The coupling of a dilaton to the $SU(2)$-Yang-Mills field leads to
+interesting non-perturbative static spherically symmetric solutions which are
+studied by mixed analitical and numerical methods. In the abelian sector of the
+theory there are finite-energy magnetic and electric monopole solutions which
+saturate the Bogomol'nyi bound. In the nonabelian sector there exist a
+countable family of globally regular solutions which are purely magnetic but
+have zero Yang-Mills magnetic charge. Their discrete spectrum of energies is
+bounded from above by the energy of the abelian magnetic monopole with unit
+magnetic charge. The stability analysis demonstrates that the solutions are
+saddle points of the energy functional with increasing number of unstable
+modes. The existence and instability of these solutions are "explained" by the
+Morse-theory argument recently proposed by Sudarsky and Wald.
+</abstract>

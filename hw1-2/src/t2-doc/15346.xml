@@ -1,0 +1,22 @@
+<title>
+Dirac Operators on Coset Spaces
+</title>
+
+<abstract>
+  The Dirac operator for a manifold $Q$, and its chirality operator when $Q$ is
+even dimensional, have a central role in noncommutative geometry. We
+systematically develop the theory of this operator when $Q=G/H$, where $G$ and
+$H$ are compact connected Lie groups and $G$ is simple. An elementary
+discussion of the differential geometric and bundle theoretic aspects of $G/H$,
+including its projective modules and complex, K\"ahler and Riemannian
+structures, is presented for this purpose. An attractive feature of our
+approach is that it transparently shows obstructions to spin- and
+spin$_c$-structures. When a manifold is spin$_c$ and not spin, U(1) gauge
+fields have to be introduced in a particular way to define spinors. Likewise,
+for manifolds like $SU(3)/SO(3)$, which are not even spin$_c$, we show that
+SU(2) and higher rank gauge fields have to be introduced to define spinors.
+This result has potential consequences for string theories if such manifolds
+occur as $D$-branes. The spectra and eigenstates of the Dirac operator on
+spheres $S^n=SO(n+1)/SO(n)$, invariant under $SO(n+1)$, are explicitly found.
+Aspects of our work overlap with the earlier research of Cahen et al..
+</abstract>

@@ -1,0 +1,17 @@
+<title>
+Considerations on Super Poincare Algebras and their Extensions to Simple
+  Superalgebras
+</title>
+
+<abstract>
+  We consider simple superalgebras which are a supersymmetric extension of
+$\fspin(s,t)$ in the cases where the number of odd generators does not exceed
+64. All of them contain a super Poincar\'e algebra as a contraction and another
+as a subalgebra. Because of the contraction property, some of these algebras
+can be interpreted as de Sitter or anti de Sitter superalgebras. However, the
+number of odd generators present in the contraction is not always minimal due
+to the different splitting properties of the spinor representations under a
+subalgebra. We consider the general case, with arbitrary dimension and
+signature, and examine in detail particular examples with physical implications
+in dimensions $d=10$ and $d=4$.
+</abstract>

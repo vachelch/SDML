@@ -1,0 +1,15 @@
+<date>
+Fri, 26 Jan 96 19:33:57 +0100
+</date>
+
+<title>
+Non-canonical Quantization of a Quadratic Constrained System
+</title>
+
+<abstract>
+  We propose an alternative to Dirac quantization for a quadratic constrained
+system. We show that this solves the Jacobi identity violation problem occuring
+in the Dirac quantization case and yields a well defined Fock space. By
+requiring the uniqueness of the ground state, we show that for non-constrained
+systems this approach gives the same results as Dirac quantization.
+</abstract>

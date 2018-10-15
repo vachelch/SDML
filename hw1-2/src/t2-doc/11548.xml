@@ -1,0 +1,13 @@
+<title>
+On three-dimensional topological field theories constructed from
+  $D^\omega(G)$ for finite group
+</title>
+
+<abstract>
+  We investigate the 3d lattice topological field theories defined by Chung,
+Fukuma and Shapere. We concentrate on the model defined by taking a deformation
+$\D{G}$ of the quantum double of a finite commutative group $G$ as the
+underlying Hopf algebra. It is suggested that Chung-Fukuma-Shapere partition
+function is related to that of Dijkgraaf-Witten by $\zcfs = |\zdw|^2$ when
+$G=\Z_{2N+1}$. For $G=\Z_{2N}$, such a relation does not hold.
+</abstract>

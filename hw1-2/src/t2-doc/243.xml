@@ -1,0 +1,21 @@
+<title>
+Mesons in Light-Front QCD$_{2+1}$: Investigation of a Bloch Effective
+  Hamiltonian
+</title>
+
+<abstract>
+  We study the meson sector of 2+1 dimensional light-front QCD using a Bloch
+effective Hamiltonian in the first non-trivial order. The resulting two
+dimensional integral equation is converted into a matrix equation and solved
+numerically. We investigate the efficiency of Gaussian quadrature in achieving
+the cancellation of linear and logarithmic light-front infrared divergences.
+The vanishing energy denominator problem which leads to severe infrared
+divergences in 2+1 dimensions is investigated in detail. Our study indicates
+that in the context of Fock space based effective Hamiltonian methods to tackle
+gauge theories in 2+1 dimensions, approaches like similarity renormalization
+method may be mandatory due to uncanceled infrared divergences caused by the
+vanishing energy denominator problem. We define and study numerically a reduced
+model which is relativistic, free from infrared divergences, and exhibits
+logarithmic confinement. The manifestation and violation of rotational symmetry
+as a function of the coupling are studied quantitatively.
+</abstract>

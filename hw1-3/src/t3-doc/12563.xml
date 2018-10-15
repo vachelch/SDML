@@ -1,0 +1,32 @@
+<date>
+Tue, 14 Dec 1999 18:52:17 GMT
+</date>
+
+<title>
+Irreversibility and higher-spin conformal field theory
+</title>
+
+<abstract>
+  I discuss the properties of the central charges c and a for higher-derivative
+and higher-spin theories (spin 2 included). Ordinary gravity does not admit a
+straightforward identification of c and a in the trace anomaly, because it is
+not conformal. On the other hand, higher-derivative theories can be conformal,
+but have negative c and a. A third possibility is to consider higher-spin
+conformal field theories. They are not unitary, but have a variety of
+interesting properties. Bosonic conformal tensors have a positive-definite
+action, equal to the square of a field strength, and a higher-derivative gauge
+invariance. There exists a conserved spin-2 current (not the canonical stress
+tensor) defining positive central charges c and a. I calculate the values of c
+and a and study the operator-product structure. Higher-spin conformal spinors
+have no gauge invariance, admit a standard definition of c and a and can be
+coupled to Abelian and non-Abelian gauge fields in a renormalizable way. At the
+quantum level, they contribute to the one-loop beta function with the same sign
+as ordinary matter, admit a conformal window and non-trivial interacting fixed
+points. There are composite operators of high spin and low dimension, which
+violate the Ferrara-Gatto-Grillo theorem. Finally, other theories, such as
+conformal antisymmetric tensors, exhibit more severe internal problems. This
+research is motivated by the idea that fundamental quantum field theories
+should be renormalization-group (RG) interpolations between ultraviolet and
+infrared conformal fixed points, and quantum irreversibility should be a
+general principle of nature.
+</abstract>

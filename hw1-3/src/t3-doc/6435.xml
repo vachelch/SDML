@@ -1,0 +1,23 @@
+<date>
+Thu, 12 Mar 1998 13:50:31 GMT
+</date>
+
+<title>
+Non-Renormalization Theorems in Non-Renormalizable Theories
+</title>
+
+<abstract>
+  A perturbative non-renormalization theorem is presented that applies to
+general supersymmetric theories, including non-renormalizable theories in which
+the $\int d^2\theta$ integrand is an arbitrary gauge-invariant function
+$F(\Phi,W)$ of the chiral superfields $\Phi$ and gauge field-strength
+superfields $W$, and the $\int d^4\theta$-integrand is restricted only by gauge
+invariance. In the Wilsonian Lagrangian, $F(\Phi,W)$ is unrenormalized except
+for the one-loop renormalization of the gauge coupling parameter, and
+Fayet-Iliopoulos terms can be renormalized only by one-loop graphs, which
+cancel if the sum of the U(1) charges of the chiral superfields vanishes. One
+consequence of this theorem is that in non-renormalizable as well as
+renormalizable theories, in the absence of Fayet-Iliopoulos terms supersymmetry
+will be unbroken to all orders if the bare superpotential has a stationary
+point.
+</abstract>

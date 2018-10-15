@@ -1,0 +1,18 @@
+<title>
+Quantization of maximally-charged slowly-moving black holes
+</title>
+
+<abstract>
+  We discuss the quantization of a system of slowly-moving extreme
+Reissner-Nordstrom black holes. In the near-horizon limit, this system has been
+shown to possess an SL(2,R) conformal symmetry. However, the Hamiltonian
+appears to have no well-defined ground state. This problem can be circumvented
+by a redefinition of the Hamiltonian due to de Alfaro, Fubini and Furlan (DFF).
+We apply the Faddeev-Popov quantization procedure to show that the Hamiltonian
+with no ground state corresponds to a gauge in which there is an obstruction at
+the singularities of moduli space requiring a modification of the quantization
+rules. The redefinition of the Hamiltonian a la DFF corresponds to a different
+choice of gauge. The latter is a good gauge leading to standard quantization
+rules. Thus, the DFF trick is a consequence of a standard gauge-fixing
+procedure in the case of black hole scattering.
+</abstract>

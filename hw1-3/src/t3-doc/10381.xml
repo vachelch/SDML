@@ -1,0 +1,22 @@
+<date>
+Fri, 15 Sep 95 10:13:10 PDT
+</date>
+
+<title>
+Entropy and topology for manifolds with boundaries
+</title>
+
+<abstract>
+  In this work a deep relation between topology and thermodynamical features of
+manifolds with boundaries is shown. The expression for the Euler
+characteristic, through the Gauss- Bonnet integral, and the one for the entropy
+of gravitational instantons are proposed in a form which makes the relation
+between them self-evident. A generalization of Bekenstein-Hawking formula, in
+which entropy and Euler characteristic are related in the form $S=\chi A/8$, is
+obtained. This formula reproduces the correct result for extreme black hole,
+where the Bekenstein-Hawking one fails ($S=0$ but $A \neq 0$). In such a way it
+recovers a unified picture for the black hole entropy law. Moreover, it is
+proved that such a relation can be generalized to a wide class of manifolds
+with boundaries which are described by spherically symmetric metrics (e.g.
+Schwarzschild, Reissner-Nordstr\"{o}m, static de Sitter).
+</abstract>

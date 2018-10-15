@@ -1,0 +1,21 @@
+<date>
+Thu, 1 Oct 1998 14:34:14 GMT
+</date>
+
+<title>
+A proposal for a generalized canonical osp(1,2) quantization of
+  dynamical systems with constraints
+</title>
+
+<abstract>
+  The aim of this paper is to consider a possibility of constructing for
+arbitrary dynamical systems with first-class constraints a generalized
+canonical quantization method based on the osp(1,2) supersymmetry principle.
+This proposal can be considered as a counterpart to the osp(1,2)-covariant
+Lagrangian quantization method introduced recently by Geyer, Lavrov and
+M\"ulsch. The gauge dependence of Green's functions is studied. It is shown
+that if the parameter m^2 of the osp(1,2) superalgebra is not equal to zero
+then the vacuum functional and S-matrix depend on the gauge. In the limit $m\to
+0$ the gauge independence of vacuum functional and S - matrix are restored. The
+Ward identities related to the osp(1,2) symmetry are derived.
+</abstract>

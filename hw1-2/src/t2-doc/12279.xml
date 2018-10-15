@@ -1,0 +1,18 @@
+<title>
+D-branes, orbifolds, and Ext groups
+</title>
+
+<abstract>
+  In this note we extend previous work on massless Ramond spectra of open
+strings connecting D-branes wrapped on complex manifolds, to consider D-branes
+wrapped on smooth complex orbifolds. Using standard methods, we calculate the
+massless boundary Ramond sector spectra directly in BCFT, and find that the
+states in the spectrum are counted by Ext groups on quotient stacks (which
+provide a notion of homological algebra relevant for orbifolds). Subtleties
+that cropped up in our previous work also appear here. We also compare Ext
+groups on quotient stacks to Ext groups associated with quivers, and we use the
+McKay correspondence to relate Ext groups on quotient stacks to Ext groups on
+(large radius) resolutions of the quotients. As stacks are not commonly used in
+the physics community, we include pedagogical discussions of some basic
+relevant properties of stacks.
+</abstract>

@@ -1,0 +1,14 @@
+<title>
+Feynman rules for string field theories with discrete target space
+</title>
+
+<abstract>
+  We derive a minimal set of Feynman rules for the loop amplitudes in unitary
+models of closed strings, whose target space is a simply laced (extended)
+Dynkin diagram. The string field Feynman graphs are composed of propagators,
+vertices (including tadpoles) of all topologies, and leg factors for the
+macroscopic loops. A vertex of given topology factorizes into a fusion
+coefficient for the matter fields and an intersection number associated with
+the corresponding punctured surface. As illustration we obtain explicit
+expressions for the genus-one tadpole and the genus-zero four-loop amplitude.
+</abstract>

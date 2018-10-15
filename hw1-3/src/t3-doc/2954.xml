@@ -1,0 +1,20 @@
+<date>
+Tue, 8 Aug 2000 10:54:13 GMT
+</date>
+
+<title>
+On the phase structure of two--dimensional generalized Yang--Mills
+  theories
+</title>
+
+<abstract>
+  The phase structure of the generalized Yang--Mills theories is studied, and
+it is shown that {\it almost} always, it is of the third order. As a specific
+example, it is shown that all of the models with the interaction $\sum_j
+(n_j-j+N)^{2k}$ exhibit third order phase transition. ($n_j$ is the length of
+the $j$-th row of the Yang tableau corresponding to U($N$).) The special cases
+where the transition is not of the third order are also considered and, as a
+specific example, it is shown that the model $\sum_j (n_j-j+N)^2+g\sum_j
+(n_j-j+N)^{4}$ exhibits a third order phase transition, except for
+$g=27\pi^2/256$, where the order of the transition is 5/2.
+</abstract>

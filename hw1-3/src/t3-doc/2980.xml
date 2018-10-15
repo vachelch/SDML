@@ -1,0 +1,25 @@
+<date>
+Thu, 7 Sep 95 16:58:21 METDST
+</date>
+
+<title>
+Scattering matrix in external field problems
+</title>
+
+<abstract>
+  We discuss several aspects of second quantized scattering operators $\hat S$
+for fermions in external time dependent fields. We derive our results on a
+general, abstract level having in mind as a main application potentials of the
+Yang--Mills type and in various dimensions. We present a new and powerful
+method for proving existence of $\hat S$ which is also applicable to other
+situations like external gravitational fields. We also give two complementary
+derivations of the change of phase of the scattering matrix under generalized
+gauge transformations which can be used whenever our method of proving
+existence of $\hat S$ applies. The first is based on a causality argument i.e.\
+$\hat S$ (including phase) is determined from a time evolution, and the second
+exploits the geometry of certain infinite-dimensional group extensions
+associated with the second quantization of 1-particle operators. As a special
+case we obtain a Hamiltonian derivation of the the axial Fermion-Yang-Mills
+anomaly and the Schwinger terms related to it via the descent equations, which
+is on the same footing and traces them back to a common root.
+</abstract>

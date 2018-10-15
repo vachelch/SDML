@@ -1,0 +1,25 @@
+<date>
+Wed, 31 Jan 1996 17:12:13 -0500
+</date>
+
+<title>
+Effective Action of Spontaneously Broken Gauge Theories
+</title>
+
+<abstract>
+  The effective action of a Higgs theory should be gauge-invariant. However,
+the quantum and/or thermal contributions to the effective potential seem to be
+gauge-dependent, posing a problem for its physical interpretation. In this
+paper, we identify the source of the problem and argue that in a Higgs theory,
+perturbative contributions should be evaluated with the Higgs fields in the
+polar basis, not in the Cartesian basis. Formally, this observation can be made
+from the derivation of the Higgs theorem, which we provide. We show explicitly
+that, properly defined, the effective action for the Abelian Higgs theory is
+gauge invariant to all orders in perturbation expansion when evaluated in the
+covariant gauge in the polar basis. In particular, the effective potential is
+gauge invariant. We also show the equivalence between the calculations in the
+covariant gauge in the polar basis and the unitary gauge. These points are
+illustrated explicitly with the one-loop calculations of the effective action.
+With a field redefinition, we obtain the physical effective potential. The
+SU(2) non-Abelian case is also discussed.
+</abstract>

@@ -1,0 +1,24 @@
+<date>
+Fri, 19 Apr 1996 00:05:40 -0500
+</date>
+
+<title>
+New Exactly and Conditionally Exactly Solvable N-Body Problems in One
+  Dimension
+</title>
+
+<abstract>
+  We study a class of Calogero-Sutherland type one dimensional N-body quantum
+mechanical systems, with potentials given by $$ V( x_1, x_2, \cdots x_N) =
+\sum_{i <j} {g \over {(x_i - x_j)^2}} - \frac{g^{\prime}}{\sum_{i<j}(x_i -
+x_j)^2} + U(\sqrt{\sum_{i<j}(x_i - x_j)^2}),$$ where $U(\sqrt{\sum_{i<j}(x_i -
+x_j)^2})$'s are of specific form. It is shown that, only for a few choices of
+$U$, the eigenvalue problems can be solved {\it exactly}, for arbitrary
+$g^{\prime}$. The eigen spectra of these Hamiltonians, when $g^{\prime} \ne 0$,
+are non-degenerate and the scattering phase shifts are found to be energy
+dependent. It is further pointed out that, the eigenvalue problems are amenable
+to solution for wider choices of $U$, if $g^{\prime}$ is conveniently fixed.
+These conditionally exactly solvable problems also do not exhibit energy
+degeneracy and the scattering phase shifts can be computed {\it only} for a
+specific partial wave.
+</abstract>

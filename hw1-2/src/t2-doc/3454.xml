@@ -1,0 +1,18 @@
+<title>
+Strings on Plane Waves, Super-Yang Mills in Four Dimensions, Quantum
+  Groups at Roots of One
+</title>
+
+<abstract>
+  We show that the BMN operators in D=4 N=4 super Yang Mills theory proposed as
+duals of stringy oscillators in a plane wave background have a natural quantum
+group construction in terms of the quantum deformation of the SO(6) $R$
+symmetry. We describe in detail how a q-deformed U(2) subalgebra generates BMN
+operators, with $ q \sim e^{2 i \pi \over J}$. The standard quantum co-product
+as well as generalized traces which use $q$-cyclic operators acting on tensor
+products of Higgs fields are the ingredients in this construction. They
+generate the oscillators with the correct (undeformed) permutation symmetries
+of Fock space oscillators. The quantum group can be viewed as a spectrum
+generating algebra, and suggests that correlators of BMN operators should have
+a geometrical meaning in terms of spaces with quantum group symmetry.
+</abstract>
