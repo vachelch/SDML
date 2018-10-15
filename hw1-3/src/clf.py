@@ -112,7 +112,7 @@ def get_negtive(train_adj, val_adj, length):
 
 # 	return train_x
 
-def idx2vec(train_x_idx, texts_tfidf, graph, doc_embs, times = None):
+def idx2vec(train_x_idx, texts_tfidf, graph, times = None):
 	train_x = []
 
 	for s, t in train_x_idx:
@@ -141,9 +141,10 @@ def idx2vec(train_x_idx, texts_tfidf, graph, doc_embs, times = None):
 		# get feature vector
 		if times is not None:
 			# train_x.append(np.concatenate(([tfidf_socre, times[s-1], times[t-1] , times[s-1] - times[t-1], times[s-1] + times[t-1], s_degree, t_degree, s_degree + t_degree, emb_socre], s_emb, t_emb, emb)))
-			train_x.append([tfidf_socre, times[s-1], times[t-1] , times[s-1] - times[t-1], times[s-1] + times[t-1], s_degree, t_degree, s_degree + t_degree])
+			train_x.append(np.concatenate(([tfidf_socre, times[s-1], times[t-1] , times[s-1] - times[t-1], times[s-1] + times[t-1], s_degree, t_degree, s_degree + t_degree], time_diff_one_hot)))
+			# train_x.append([tfidf_socre, times[s-1], times[t-1] , times[s-1] - times[t-1], times[s-1] + times[t-1], s_degree, t_degree, s_degree + t_degree])
 		else:
-			train_x.append([vec])
+			train_x.append([tfidf_socre])
 
 	return train_x
 
@@ -234,6 +235,7 @@ for itr in range(7):
 
 	print('test Pos/neg ratio', sum(preds) / len(preds))
 	np.save('rf_' + str(itr) + '.npy', preds)
+
 
 
 
