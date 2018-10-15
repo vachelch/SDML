@@ -1,2 +1,6 @@
 Requirement:  
-sklearn, numpy   
+sklearn, numpy, tensorflow, keras   
+  
+  
+output:  
+./src/pred.txt.csv

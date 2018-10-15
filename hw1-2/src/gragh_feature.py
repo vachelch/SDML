@@ -36,9 +36,9 @@ data = read_data(train_path, set_train)
 
 # 10 persent as val node, get train graph, val graph
 nodes = list(set_train)
-val_nodes = nodes[: int(0.04*len(nodes))]
+val_nodes = nodes[: int(0.01*len(nodes))]
 val_nodes = set(val_nodes)
-train_nodes = nodes[int(0.04*len(nodes)): ]
+train_nodes = nodes[int(0.01*len(nodes)): ]
 train_nodes = set(train_nodes)
 
 train_edges = []
