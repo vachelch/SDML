@@ -1,9 +1,0 @@
-<title>
-Second Variations of String Actions
-</title>
-
-<abstract>
-  A short article describing the derivation of the string deviation equation:
-$\dot{\Pi}^\nu_\tau+\Pi'^\mu_\sigma=R^\nu_{.\alpha\beta\gamma}r^\gamma
-(P^\beta_\tau\dot{x}^\alpha+P^\beta_\sigma x'^\alpha)$.
-</abstract>
