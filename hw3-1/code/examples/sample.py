@@ -53,7 +53,7 @@ LOG_FORMAT = '%(asctime)s %(name)-12s %(levelname)-8s %(message)s'
 logging.basicConfig(format=LOG_FORMAT, level=getattr(logging, opt.log_level.upper()))
 logging.info(opt)
 
-if !os.path.isabs(opt.dev_path):
+if not os.path.isabs(opt.dev_path):
     opt.dev_path = os.join('..', opt.dev_path)
 
 if opt.load_checkpoint is not None:
