@@ -3,7 +3,7 @@ Special Topics in Machine Learning (SDML) at NTU 2018 Fall.
 This repo includes codes of projects in the SDML course, NTU. Only some of them are shown here:
    1. Graph Embedding
    2. Recommendation System
-   3. Controlled Text Generation (not included in this repo)
+   3. Controlled Text Generation 
    4. Clustering (not included in this repo)
    5. Real Time Bidding (not included in this repo)
    
